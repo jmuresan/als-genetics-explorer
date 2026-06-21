@@ -171,7 +171,16 @@ def build_graph(db_path: str) -> nx.MultiDiGraph:
 
 def export_graph(G: nx.MultiDiGraph, output_path: str):
     os.makedirs(os.path.dirname(output_path), exist_ok=True)
-    nx.write_graphml(G, output_path)
+    # NetworkX writes the multigraph edge key as the GraphML edge id, and the key resets to 0
+    # for every node pair, so most edges share id="0". Gephi (and the GraphML spec) treats the
+    # id as unique and collapses the duplicates. Re-key every edge with a globally unique id so
+    # all edges survive the round trip.
+    H = nx.MultiDiGraph()
+    H.graph.update(G.graph)
+    H.add_nodes_from(G.nodes(data=True))
+    for i, (u, v, d) in enumerate(G.edges(data=True)):
+        H.add_edge(u, v, key="e%d" % i, **d)
+    nx.write_graphml(H, output_path)
 
 if __name__ == "__main__":
     import argparse
