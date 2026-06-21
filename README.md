@@ -26,7 +26,7 @@ biology and not medical advice.
 
 The panel has 46 genes from two sources:
 
-1. The 41 human proteins that carry UniProt keyword
+1. The 46 human proteins that carry UniProt keyword
    [KW-0036](https://www.uniprot.org/keywords/KW-0036) (Amyotrophic lateral sclerosis),
    downloaded from the UniProt REST API into `data/raw/uniprot_als_kw0036.fasta`:
 
