@@ -26,7 +26,7 @@ biology and not medical advice.
 
 The panel has 46 genes from two sources:
 
-1. The 46 human proteins that carry UniProt keyword
+1. The 41 human proteins that carry UniProt keyword
    [KW-0036](https://www.uniprot.org/keywords/KW-0036) (Amyotrophic lateral sclerosis),
    downloaded from the UniProt REST API into `data/raw/uniprot_als_kw0036.fasta`:
 
@@ -34,7 +34,7 @@ The panel has 46 genes from two sources:
    https://rest.uniprot.org/uniprotkb/stream?format=fasta&includeIsoform=true&query=((keyword:KW-0036))
    ```
 
-2. Five more ALS genes from the OMIM ALS phenotypic series PS105400 that UniProt does not
+2. And 5 more ALS genes from the OMIM ALS phenotypic series PS105400 that UniProt does not
    keyword-tag: **CFAP410, MOBP, SCFD1, TAF15, UNC13A**. OMIM blocks automated access, so this
    set was sourced from the GeneReviews ALS Overview ([NBK1450](https://www.ncbi.nlm.nih.gov/books/NBK1450/)).
    The five were verified as reviewed human proteins in UniProt before they were added.
