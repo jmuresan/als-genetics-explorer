@@ -1,6 +1,6 @@
 # ALS Genetic Mechanism Explorer
 
-![ALS knowledge graph: the 46 panel genes and their STRING partners](outputs/graph_overview.png)
+![ALS knowledge graph: the 46 panel genes and their STRING partners](outputs/screenshot_083629.png)
 
 A data pipeline that builds a reproducible evidence graph for amyotrophic lateral
 sclerosis (ALS). It takes a 46-gene ALS panel, pulls the public evidence around the genes
