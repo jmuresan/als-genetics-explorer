@@ -1,0 +1,25 @@
+{
+  "header": {
+    "type": "esearch",
+    "version": "0.3"
+  },
+  "esearchresult": {
+    "count": "22",
+    "retmax": "10",
+    "retstart": "0",
+    "idlist": [
+      "39116956",
+      "37979250",
+      "37905864",
+      "20301623",
+      "37639066",
+      "37163440",
+      "37148340",
+      "36982902",
+      "36944290",
+      "36759259"
+    ],
+    "translationset": [],
+    "querytranslation": "(\"SCFD1\"[Title/Abstract] OR \"SCFD1\"[All Fields]) AND (\"amyotrophic lateral sclerosis\"[Title/Abstract] OR \"ALS\"[Title/Abstract])"
+  }
+}

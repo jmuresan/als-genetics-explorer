@@ -1,0 +1,1849 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "1199112",
+      "1215916",
+      "1303193",
+      "2629078",
+      "2629197",
+      "2634576",
+      "2635990",
+      "3031380",
+      "3036243",
+      "3051662",
+      "4820021",
+      "4820022",
+      "717960"
+    ],
+    "1199112": {
+      "uid": "1199112",
+      "obj_type": "Duplication",
+      "accession": "VCV001199112",
+      "accession_version": "VCV001199112.6",
+      "title": "NM_139215.3(TAF15):c.1392_1415dup (p.454GYGGDRGG[5])",
+      "variation_set": [
+        {
+          "measure_id": "1188524",
+          "variation_xrefs": [
+            {
+              "db_source": "ClinGen",
+              "db_id": "CA290041370"
+            },
+            {
+              "db_source": "dbSNP",
+              "db_id": "762946549"
+            }
+          ],
+          "variation_name": "NM_139215.3(TAF15):c.1392_1415dup (p.454GYGGDRGG[5])",
+          "cdna_change": "c.1392_1415dup",
+          "aliases": [
+            "p.Gly478_Gly485dup"
+          ],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "17",
+              "band": "17q12",
+              "start": "35844679",
+              "stop": "35844680",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "35844679",
+              "display_stop": "35844680",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "17",
+              "band": "17q12",
+              "start": "34171683",
+              "stop": "34171684",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "34171683",
+              "display_stop": "34171684",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "Duplication",
+          "canonical_spdi": "NC_000017.11:35844679:GGCGGCTATGGTGGGGACAGAGGAGGCGGCTATGG:GGCGGCTATGGTGGGGACAGAGGAGGCGGCTATGGTGGGGACAGAGGAGGCGGCTATGG",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV001786447",
+          "SCV004770855",
+          "SCV007313396",
+          "SCV007540475"
+        ],
+        "rcv": [
+          "RCV001563494",
+          "RCV003956251",
+          "RCV006648674"
+        ]
+      },
+      "germline_classification": {
+        "description": "Conflicting classifications of pathogenicity",
+        "last_evaluated": "2026/04/10 00:00",
+        "review_status": "criteria provided, conflicting classifications",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "803"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C0002736"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0004976"
+              },
+              {
+                "db_source": "Human Phenotype Ontology",
+                "db_id": "HP:0007354"
+              }
+            ],
+            "trait_name": "Amyotrophic lateral sclerosis"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "MedGen",
+                "db_id": "C3661900"
+              }
+            ],
+            "trait_name": "not provided"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "TAF15",
+      "chr_sort": "17",
+      "location_sort": "00000000000035844679",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "TAF15",
+          "geneid": "8148",
+          "strand": "+",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "inframe_insertion"
+      ],
+      "protein_change": "",
+      "fda_recognized_database": ""
+    },
+    "1215916": {
+      "uid": "1215916",
+      "obj_type": "Deletion",
+      "accession": "VCV001215916",
+      "accession_version": "VCV001215916.6",
+      "title": "NM_139215.3(TAF15):c.1287_1370del (p.Ser432_Arg459del)",
+      "variation_set": [
+        {
+          "measure_id": "1205897",
+          "variation_xrefs": [
+            {
+              "db_source": "ClinGen",
+              "db_id": "CA728397002"
+            },
+            {
+              "db_source": "dbSNP",
+              "db_id": "1568282429"
+            }
+          ],
+          "variation_name": "NM_139215.3(TAF15):c.1287_1370del (p.Ser432_Arg459del)",
+          "cdna_change": "c.1287_1370del",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "17",
+              "band": "17q12",
+              "start": "35844545",
+              "stop": "35844628",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "35844545",
+              "display_stop": "35844628",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "17",
+              "band": "17q12",
+              "start": "34171549",
+              "stop": "34171632",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "34171549",
+              "display_stop": "34171632",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "Deletion",
+          "canonical_spdi": "",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV001816646",
+          "SCV007540472"
+        ],
+        "rcv": [
+          "RCV001593579",
+          "RCV006648680"
+        ]
+      },
+      "germline_classification": {
+        "description": "Uncertain significance",
+        "last_evaluated": "2026/04/10 00:00",
+        "review_status": "criteria provided, multiple submitters, no conflicts",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "803"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C0002736"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0004976"
+              },
+              {
+                "db_source": "Human Phenotype Ontology",
+                "db_id": "HP:0007354"
+              }
+            ],
+            "trait_name": "Amyotrophic lateral sclerosis"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "MedGen",
+                "db_id": "C3661900"
+              }
+            ],
+            "trait_name": "not provided"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "TAF15",
+      "chr_sort": "17",
+      "location_sort": "00000000000035844545",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "TAF15",
+          "geneid": "8148",
+          "strand": "+",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "inframe_deletion"
+      ],
+      "protein_change": "",
+      "fda_recognized_database": ""
+    },
+    "1303193": {
+      "uid": "1303193",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV001303193",
+      "accession_version": "VCV001303193.3",
+      "title": "NM_139215.3(TAF15):c.1418G>A (p.Gly473Glu)",
+      "variation_set": [
+        {
+          "measure_id": "1293471",
+          "variation_xrefs": [
+            {
+              "db_source": "ClinGen",
+              "db_id": "CA290041449"
+            },
+            {
+              "db_source": "dbSNP",
+              "db_id": "777993379"
+            }
+          ],
+          "variation_name": "NM_139215.3(TAF15):c.1418G>A (p.Gly473Glu)",
+          "cdna_change": "c.1418G>A",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "17",
+              "band": "17q12",
+              "start": "35844717",
+              "stop": "35844717",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "35844717",
+              "display_stop": "35844717",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "17",
+              "band": "17q12",
+              "start": "34171721",
+              "stop": "34171721",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "34171721",
+              "display_stop": "34171721",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [
+            {
+              "source": "Exome Aggregation Consortium (ExAC)",
+              "value": "0.00004",
+              "minor_allele": ""
+            },
+            {
+              "source": "The Genome Aggregation Database (gnomAD)",
+              "value": "0.00004",
+              "minor_allele": ""
+            },
+            {
+              "source": "The Genome Aggregation Database (gnomAD), exomes",
+              "value": "0.00004",
+              "minor_allele": ""
+            },
+            {
+              "source": "Trans-Omics for Precision Medicine (TOPMed)",
+              "value": "0.00006",
+              "minor_allele": ""
+            },
+            {
+              "source": "The Genome Aggregation Database (gnomAD), exomes",
+              "value": "0.00009",
+              "minor_allele": ""
+            }
+          ],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000017.11:35844716:G:A",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV001986325",
+          "SCV004105837"
+        ],
+        "rcv": [
+          "RCV001756692",
+          "RCV003401674"
+        ]
+      },
+      "germline_classification": {
+        "description": "Uncertain significance",
+        "last_evaluated": "2023/02/16 00:00",
+        "review_status": "criteria provided, multiple submitters, no conflicts",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "MedGen",
+                "db_id": "C3661900"
+              }
+            ],
+            "trait_name": "not provided"
+          },
+          {
+            "trait_xrefs": [],
+            "trait_name": "TAF15-related disorder"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "TAF15",
+      "chr_sort": "17",
+      "location_sort": "00000000000035844717",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "TAF15",
+          "geneid": "8148",
+          "strand": "+",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "missense variant"
+      ],
+      "protein_change": "G470E, G473E",
+      "fda_recognized_database": ""
+    },
+    "2629078": {
+      "uid": "2629078",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV002629078",
+      "accession_version": "VCV002629078.3",
+      "title": "NM_139215.3(TAF15):c.1184G>A (p.Arg395Gln)",
+      "variation_set": [
+        {
+          "measure_id": "2796146",
+          "variation_xrefs": [
+            {
+              "db_source": "ClinGen",
+              "db_id": "CA290041088"
+            },
+            {
+              "db_source": "dbSNP",
+              "db_id": "71381481"
+            }
+          ],
+          "variation_name": "NM_139215.3(TAF15):c.1184G>A (p.Arg395Gln)",
+          "cdna_change": "c.1184G>A",
+          "aliases": [
+            "NC_000017.10:g.34171487G>A"
+          ],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "17",
+              "band": "17q12",
+              "start": "35844483",
+              "stop": "35844483",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "35844483",
+              "display_stop": "35844483",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "17",
+              "band": "17q12",
+              "start": "34171487",
+              "stop": "34171487",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "34171487",
+              "display_stop": "34171487",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [
+            {
+              "source": "Trans-Omics for Precision Medicine (TOPMed)",
+              "value": "0.00009",
+              "minor_allele": ""
+            },
+            {
+              "source": "Exome Aggregation Consortium (ExAC)",
+              "value": "0.00010",
+              "minor_allele": ""
+            },
+            {
+              "source": "The Genome Aggregation Database (gnomAD)",
+              "value": "0.00011",
+              "minor_allele": ""
+            },
+            {
+              "source": "NHLBI Exome Sequencing Project (ESP) Exome Variant Server",
+              "value": "0.00015",
+              "minor_allele": ""
+            },
+            {
+              "source": "1000 Genomes Project",
+              "value": "0.00040",
+              "minor_allele": "A"
+            }
+          ],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000017.11:35844482:G:A",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV004107841",
+          "SCV005420221",
+          "SCV006878202"
+        ],
+        "rcv": [
+          "RCV003412046",
+          "RCV004798042",
+          "RCV005932759"
+        ]
+      },
+      "germline_classification": {
+        "description": "Uncertain significance",
+        "last_evaluated": "2024/05/31 00:00",
+        "review_status": "criteria provided, multiple submitters, no conflicts",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [],
+            "trait_name": "TAF15-related disorder"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "MedGen",
+                "db_id": "C3661900"
+              }
+            ],
+            "trait_name": "not provided"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "TAF15",
+      "chr_sort": "17",
+      "location_sort": "00000000000035844483",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "TAF15",
+          "geneid": "8148",
+          "strand": "+",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "missense variant"
+      ],
+      "protein_change": "R392Q, R395Q",
+      "fda_recognized_database": ""
+    },
+    "2629197": {
+      "uid": "2629197",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV002629197",
+      "accession_version": "VCV002629197.1",
+      "title": "NM_139215.3(TAF15):c.1222C>T (p.Arg408Cys)",
+      "variation_set": [
+        {
+          "measure_id": "2796265",
+          "variation_xrefs": [
+            {
+              "db_source": "ClinGen",
+              "db_id": "CA290041127"
+            },
+            {
+              "db_source": "dbSNP",
+              "db_id": "200175347"
+            }
+          ],
+          "variation_name": "NM_139215.3(TAF15):c.1222C>T (p.Arg408Cys)",
+          "cdna_change": "c.1222C>T",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "17",
+              "band": "17q12",
+              "start": "35844521",
+              "stop": "35844521",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "35844521",
+              "display_stop": "35844521",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "17",
+              "band": "17q12",
+              "start": "34171525",
+              "stop": "34171525",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "34171525",
+              "display_stop": "34171525",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [
+            {
+              "source": "Exome Aggregation Consortium (ExAC)",
+              "value": "0.00006",
+              "minor_allele": ""
+            },
+            {
+              "source": "Trans-Omics for Precision Medicine (TOPMed)",
+              "value": "0.00008",
+              "minor_allele": ""
+            },
+            {
+              "source": "The Genome Aggregation Database (gnomAD)",
+              "value": "0.00012",
+              "minor_allele": ""
+            },
+            {
+              "source": "The Genome Aggregation Database (gnomAD), exomes",
+              "value": "0.00012",
+              "minor_allele": ""
+            },
+            {
+              "source": "NHLBI Exome Sequencing Project (ESP) Exome Variant Server",
+              "value": "0.00015",
+              "minor_allele": ""
+            }
+          ],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000017.11:35844520:C:T",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV004108605"
+        ],
+        "rcv": [
+          "RCV003412084"
+        ]
+      },
+      "germline_classification": {
+        "description": "Uncertain significance",
+        "last_evaluated": "2023/08/07 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [],
+            "trait_name": "TAF15-related disorder"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "TAF15",
+      "chr_sort": "17",
+      "location_sort": "00000000000035844521",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "TAF15",
+          "geneid": "8148",
+          "strand": "+",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "missense variant"
+      ],
+      "protein_change": "R405C, R408C",
+      "fda_recognized_database": ""
+    },
+    "2634576": {
+      "uid": "2634576",
+      "obj_type": "Deletion",
+      "accession": "VCV002634576",
+      "accession_version": "VCV002634576.1",
+      "title": "NM_139215.3(TAF15):c.1407_1430del (p.454GYGGDRGG[3])",
+      "variation_set": [
+        {
+          "measure_id": "2804100",
+          "variation_xrefs": [
+            {
+              "db_source": "ClinGen",
+              "db_id": "CA290041414"
+            },
+            {
+              "db_source": "dbSNP",
+              "db_id": "767068676"
+            }
+          ],
+          "variation_name": "NM_139215.3(TAF15):c.1407_1430del (p.454GYGGDRGG[3])",
+          "cdna_change": "c.1407_1430del",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "17",
+              "band": "17q12",
+              "start": "35844699",
+              "stop": "35844722",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "35844699",
+              "display_stop": "35844722",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "17",
+              "band": "17q12",
+              "start": "34171703",
+              "stop": "34171726",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "34171703",
+              "display_stop": "34171726",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "Deletion",
+          "canonical_spdi": "NC_000017.11:35844698:GAGGAGGCGGCTATGGAGGAGACCGAGGAGG:GAGGAGG",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV004118969"
+        ],
+        "rcv": [
+          "RCV003402665"
+        ]
+      },
+      "germline_classification": {
+        "description": "Uncertain significance",
+        "last_evaluated": "2022/12/15 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [],
+            "trait_name": "TAF15-related disorder"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "TAF15",
+      "chr_sort": "17",
+      "location_sort": "00000000000035844699",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "TAF15",
+          "geneid": "8148",
+          "strand": "+",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "inframe_deletion"
+      ],
+      "protein_change": "",
+      "fda_recognized_database": ""
+    },
+    "2635990": {
+      "uid": "2635990",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV002635990",
+      "accession_version": "VCV002635990.1",
+      "title": "NM_139215.3(TAF15):c.1535G>A (p.Arg512Gln)",
+      "variation_set": [
+        {
+          "measure_id": "2797811",
+          "variation_xrefs": [
+            {
+              "db_source": "ClinGen",
+              "db_id": "CA290041598"
+            },
+            {
+              "db_source": "dbSNP",
+              "db_id": "370345089"
+            }
+          ],
+          "variation_name": "NM_139215.3(TAF15):c.1535G>A (p.Arg512Gln)",
+          "cdna_change": "c.1535G>A",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "17",
+              "band": "17q12",
+              "start": "35844834",
+              "stop": "35844834",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "35844834",
+              "display_stop": "35844834",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "17",
+              "band": "17q12",
+              "start": "34171838",
+              "stop": "34171838",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "34171838",
+              "display_stop": "34171838",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [
+            {
+              "source": "The Genome Aggregation Database (gnomAD)",
+              "value": "0.00003",
+              "minor_allele": ""
+            },
+            {
+              "source": "Trans-Omics for Precision Medicine (TOPMed)",
+              "value": "0.00006",
+              "minor_allele": ""
+            },
+            {
+              "source": "The Genome Aggregation Database (gnomAD), exomes",
+              "value": "0.00007",
+              "minor_allele": ""
+            },
+            {
+              "source": "NHLBI Exome Sequencing Project (ESP) Exome Variant Server",
+              "value": "0.00008",
+              "minor_allele": ""
+            },
+            {
+              "source": "Exome Aggregation Consortium (ExAC)",
+              "value": "0.00009",
+              "minor_allele": ""
+            }
+          ],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000017.11:35844833:G:A",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV004113153"
+        ],
+        "rcv": [
+          "RCV003419245"
+        ]
+      },
+      "germline_classification": {
+        "description": "Uncertain significance",
+        "last_evaluated": "2023/06/16 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [],
+            "trait_name": "TAF15-related disorder"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "TAF15",
+      "chr_sort": "17",
+      "location_sort": "00000000000035844834",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "TAF15",
+          "geneid": "8148",
+          "strand": "+",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "missense variant"
+      ],
+      "protein_change": "R509Q, R512Q",
+      "fda_recognized_database": ""
+    },
+    "3031380": {
+      "uid": "3031380",
+      "obj_type": "Deletion",
+      "accession": "VCV003031380",
+      "accession_version": "VCV003031380.2",
+      "title": "NM_139215.3(TAF15):c.1674_1697del (p.557GYGGDRGG[1])",
+      "variation_set": [
+        {
+          "measure_id": "3189932",
+          "variation_xrefs": [
+            {
+              "db_source": "ClinGen",
+              "db_id": "CA290041747"
+            },
+            {
+              "db_source": "dbSNP",
+              "db_id": "759467337"
+            }
+          ],
+          "variation_name": "NM_139215.3(TAF15):c.1674_1697del (p.557GYGGDRGG[1])",
+          "cdna_change": "c.1674_1697del",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "17",
+              "band": "17q12",
+              "start": "35844968",
+              "stop": "35844991",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "35844968",
+              "display_stop": "35844991",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "17",
+              "band": "17q12",
+              "start": "34171972",
+              "stop": "34171995",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "34171972",
+              "display_stop": "34171995",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "Deletion",
+          "canonical_spdi": "NC_000017.11:35844967:GGCTATGGAGGAGACCGAGGTGGGGGCTA:GGCTA",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV004711542"
+        ],
+        "rcv": [
+          "RCV003896977"
+        ]
+      },
+      "germline_classification": {
+        "description": "Uncertain significance",
+        "last_evaluated": "2024/01/19 00:00",
+        "review_status": "no assertion criteria provided",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [],
+            "trait_name": "TAF15-related disorder"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "TAF15",
+      "chr_sort": "17",
+      "location_sort": "00000000000035844968",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "TAF15",
+          "geneid": "8148",
+          "strand": "+",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [],
+      "protein_change": "",
+      "fda_recognized_database": ""
+    },
+    "3036243": {
+      "uid": "3036243",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV003036243",
+      "accession_version": "VCV003036243.2",
+      "title": "NM_139215.3(TAF15):c.329A>G (p.Tyr110Cys)",
+      "variation_set": [
+        {
+          "measure_id": "3196084",
+          "variation_xrefs": [
+            {
+              "db_source": "ClinGen",
+              "db_id": "CA290023470"
+            },
+            {
+              "db_source": "dbSNP",
+              "db_id": "200841311"
+            }
+          ],
+          "variation_name": "NM_139215.3(TAF15):c.329A>G (p.Tyr110Cys)",
+          "cdna_change": "c.329A>G",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "17",
+              "band": "17q12",
+              "start": "35822678",
+              "stop": "35822678",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "35822678",
+              "display_stop": "35822678",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "17",
+              "band": "17q12",
+              "start": "34149682",
+              "stop": "34149682",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "34149682",
+              "display_stop": "34149682",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [
+            {
+              "source": "The Genome Aggregation Database (gnomAD)",
+              "value": "0.00001",
+              "minor_allele": ""
+            },
+            {
+              "source": "The Genome Aggregation Database (gnomAD), exomes",
+              "value": "0.00003",
+              "minor_allele": ""
+            },
+            {
+              "source": "Trans-Omics for Precision Medicine (TOPMed)",
+              "value": "0.00004",
+              "minor_allele": ""
+            },
+            {
+              "source": "Exome Aggregation Consortium (ExAC)",
+              "value": "0.00006",
+              "minor_allele": ""
+            }
+          ],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000017.11:35822677:A:G",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV004726062"
+        ],
+        "rcv": [
+          "RCV003904603"
+        ]
+      },
+      "germline_classification": {
+        "description": "Uncertain significance",
+        "last_evaluated": "2024/07/12 00:00",
+        "review_status": "no assertion criteria provided",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [],
+            "trait_name": "TAF15-related disorder"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "TAF15",
+      "chr_sort": "17",
+      "location_sort": "00000000000035822678",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "TAF15",
+          "geneid": "8148",
+          "strand": "+",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "missense variant"
+      ],
+      "protein_change": "Y107C, Y110C",
+      "fda_recognized_database": ""
+    },
+    "3051662": {
+      "uid": "3051662",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV003051662",
+      "accession_version": "VCV003051662.3",
+      "title": "NM_139215.3(TAF15):c.1384G>A (p.Gly462Ser)",
+      "variation_set": [
+        {
+          "measure_id": "3205430",
+          "variation_xrefs": [
+            {
+              "db_source": "ClinGen",
+              "db_id": "CA290041384"
+            },
+            {
+              "db_source": "dbSNP",
+              "db_id": "372970936"
+            }
+          ],
+          "variation_name": "NM_139215.3(TAF15):c.1384G>A (p.Gly462Ser)",
+          "cdna_change": "c.1384G>A",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "17",
+              "band": "17q12",
+              "start": "35844683",
+              "stop": "35844683",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "35844683",
+              "display_stop": "35844683",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "17",
+              "band": "17q12",
+              "start": "34171687",
+              "stop": "34171687",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "34171687",
+              "display_stop": "34171687",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [
+            {
+              "source": "Exome Aggregation Consortium (ExAC)",
+              "value": "0.00002",
+              "minor_allele": ""
+            },
+            {
+              "source": "The Genome Aggregation Database (gnomAD)",
+              "value": "0.00003",
+              "minor_allele": ""
+            },
+            {
+              "source": "The Genome Aggregation Database (gnomAD), exomes",
+              "value": "0.00003",
+              "minor_allele": ""
+            },
+            {
+              "source": "Trans-Omics for Precision Medicine (TOPMed)",
+              "value": "0.00005",
+              "minor_allele": ""
+            },
+            {
+              "source": "NHLBI Exome Sequencing Project (ESP) Exome Variant Server",
+              "value": "0.00015",
+              "minor_allele": ""
+            }
+          ],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000017.11:35844682:G:A",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV004770954",
+          "SCV006088298"
+        ],
+        "rcv": [
+          "RCV003947353",
+          "RCV005422455"
+        ]
+      },
+      "germline_classification": {
+        "description": "Uncertain significance",
+        "last_evaluated": "2024/12/12 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "MedGen",
+                "db_id": "C3661900"
+              }
+            ],
+            "trait_name": "not provided"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "TAF15",
+      "chr_sort": "17",
+      "location_sort": "00000000000035844683",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "TAF15",
+          "geneid": "8148",
+          "strand": "+",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "missense variant"
+      ],
+      "protein_change": "G459S, G462S",
+      "fda_recognized_database": ""
+    },
+    "4820021": {
+      "uid": "4820021",
+      "obj_type": "Insertion",
+      "accession": "VCV004820021",
+      "accession_version": "VCV004820021.1",
+      "title": "NM_139215.3(TAF15):c.1377_1378insAGT (p.Arg459_Gly460insSer)",
+      "variation_set": [
+        {
+          "measure_id": "4931125",
+          "variation_xrefs": [],
+          "variation_name": "NM_139215.3(TAF15):c.1377_1378insAGT (p.Arg459_Gly460insSer)",
+          "cdna_change": "c.1377_1378insAGT",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "17",
+              "band": "17q12",
+              "start": "35844676",
+              "stop": "35844677",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "35844676",
+              "display_stop": "35844677",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "17",
+              "band": "17q12",
+              "start": "34171680",
+              "stop": "34171681",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "34171680",
+              "display_stop": "34171681",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "Insertion",
+          "canonical_spdi": "NC_000017.11:35844676::AGT",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV007540473"
+        ],
+        "rcv": [
+          "RCV006649680"
+        ]
+      },
+      "germline_classification": {
+        "description": "Uncertain significance",
+        "last_evaluated": "2026/04/10 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "803"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C0002736"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0004976"
+              },
+              {
+                "db_source": "Human Phenotype Ontology",
+                "db_id": "HP:0007354"
+              }
+            ],
+            "trait_name": "Amyotrophic lateral sclerosis"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "TAF15",
+      "chr_sort": "17",
+      "location_sort": "00000000000035844676",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "TAF15",
+          "geneid": "8148",
+          "strand": "+",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [],
+      "protein_change": "",
+      "fda_recognized_database": ""
+    },
+    "4820022": {
+      "uid": "4820022",
+      "obj_type": "Insertion",
+      "accession": "VCV004820022",
+      "accession_version": "VCV004820022.1",
+      "title": "NM_139215.3:c.1401_1402ins1351_1377",
+      "variation_set": [
+        {
+          "measure_id": "4931126",
+          "variation_xrefs": [],
+          "variation_name": "NM_139215.3:c.1401_1402ins1351_1377",
+          "cdna_change": "NM_139215.3:c.1401_1402ins1351_1377",
+          "aliases": [],
+          "variation_loc": [],
+          "allele_freq_set": [],
+          "variant_type": "Insertion",
+          "canonical_spdi": "",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV007540474"
+        ],
+        "rcv": [
+          "RCV006649681"
+        ]
+      },
+      "germline_classification": {
+        "description": "Uncertain significance",
+        "last_evaluated": "2026/04/10 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "803"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C0002736"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0004976"
+              },
+              {
+                "db_source": "Human Phenotype Ontology",
+                "db_id": "HP:0007354"
+              }
+            ],
+            "trait_name": "Amyotrophic lateral sclerosis"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "TAF15",
+      "chr_sort": "ZZZ",
+      "location_sort": "99999999999999999999",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "TAF15",
+          "geneid": "8148",
+          "strand": "+",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [],
+      "protein_change": "",
+      "fda_recognized_database": ""
+    },
+    "717960": {
+      "uid": "717960",
+      "obj_type": "Deletion",
+      "accession": "VCV000717960",
+      "accession_version": "VCV000717960.9",
+      "title": "NM_139215.3(TAF15):c.1422_1445del (p.454_461GYGGDRGG[3])",
+      "variation_set": [
+        {
+          "measure_id": "727117",
+          "variation_xrefs": [
+            {
+              "db_source": "ClinGen",
+              "db_id": "CA290041434"
+            },
+            {
+              "db_source": "dbSNP",
+              "db_id": "779199064"
+            }
+          ],
+          "variation_name": "NM_139215.3(TAF15):c.1422_1445del (p.454_461GYGGDRGG[3])",
+          "cdna_change": "c.1422_1445del",
+          "aliases": [
+            "p.Gly478_Gly485del"
+          ],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "17",
+              "band": "17q12",
+              "start": "35844707",
+              "stop": "35844730",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "35844707",
+              "display_stop": "35844730",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "17",
+              "band": "17q12",
+              "start": "34171711",
+              "stop": "34171734",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "34171711",
+              "display_stop": "34171734",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "Deletion",
+          "canonical_spdi": "NC_000017.11:35844706:GGCTATGGAGGAGACCGAGGAGGTGGCTATGGAGGAGA:GGCTATGGAGGAGA",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV001034606",
+          "SCV001852386",
+          "SCV004742102",
+          "SCV007313397",
+          "SCV007540484"
+        ],
+        "rcv": [
+          "RCV000890833",
+          "RCV003930789",
+          "RCV006444531",
+          "RCV006647249"
+        ]
+      },
+      "germline_classification": {
+        "description": "Conflicting classifications of pathogenicity",
+        "last_evaluated": "2026/04/10 00:00",
+        "review_status": "criteria provided, conflicting classifications",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "MedGen",
+                "db_id": "C3661900"
+              }
+            ],
+            "trait_name": "not provided"
+          },
+          {
+            "trait_xrefs": [],
+            "trait_name": "TAF15-related disorder"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "MedGen",
+                "db_id": "CN169374"
+              }
+            ],
+            "trait_name": "not specified"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "803"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C0002736"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0004976"
+              },
+              {
+                "db_source": "Human Phenotype Ontology",
+                "db_id": "HP:0007354"
+              }
+            ],
+            "trait_name": "Amyotrophic lateral sclerosis"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "TAF15",
+      "chr_sort": "17",
+      "location_sort": "00000000000035844707",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "TAF15",
+          "geneid": "8148",
+          "strand": "+",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "inframe_deletion"
+      ],
+      "protein_change": "",
+      "fda_recognized_database": ""
+    }
+  }
+}

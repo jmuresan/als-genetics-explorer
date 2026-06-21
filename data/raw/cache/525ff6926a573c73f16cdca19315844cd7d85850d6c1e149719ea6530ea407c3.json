@@ -1,0 +1,637 @@
+{
+  "data": {
+    "target": {
+      "id": "ENSG00000092108",
+      "approvedSymbol": "SCFD1",
+      "approvedName": "sec1 family domain containing 1",
+      "associatedDiseases": {
+        "count": 89,
+        "rows": [
+          {
+            "disease": {
+              "id": "EFO_0005772",
+              "name": "neurodegenerative disease"
+            },
+            "score": 0.5267847523176696
+          },
+          {
+            "disease": {
+              "id": "EFO_1002018",
+              "name": "bronchial disease"
+            },
+            "score": 0.29609838175802555
+          },
+          {
+            "disease": {
+              "id": "MONDO_0004976",
+              "name": "amyotrophic lateral sclerosis"
+            },
+            "score": 0.2846124861273137
+          },
+          {
+            "disease": {
+              "id": "EFO_0009578",
+              "name": "placental retention"
+            },
+            "score": 0.2616172918024227
+          },
+          {
+            "disease": {
+              "id": "EFO_0009888",
+              "name": "trauma complication"
+            },
+            "score": 0.2347105638157331
+          },
+          {
+            "disease": {
+              "id": "MONDO_0017276",
+              "name": "frontotemporal dementia"
+            },
+            "score": 0.2000661091992508
+          },
+          {
+            "disease": {
+              "id": "EFO_0004875",
+              "name": "mathematical ability"
+            },
+            "score": 0.10943068389739607
+          },
+          {
+            "disease": {
+              "id": "EFO_0003765",
+              "name": "sign or symptom"
+            },
+            "score": 0.0635985332535635
+          },
+          {
+            "disease": {
+              "id": "GO_0009410",
+              "name": "response to xenobiotic stimulus"
+            },
+            "score": 0.058277342050051
+          },
+          {
+            "disease": {
+              "id": "EFO_0009541",
+              "name": "disease of peritoneum"
+            },
+            "score": 0.05432527573767791
+          },
+          {
+            "disease": {
+              "id": "MONDO_0016672",
+              "name": "hereditary persistence of fetal hemoglobin-sickle cell disease syndrome"
+            },
+            "score": 0.053921700798497986
+          },
+          {
+            "disease": {
+              "id": "MONDO_0019537",
+              "name": "hemoglobin D disease"
+            },
+            "score": 0.05232511582626009
+          },
+          {
+            "disease": {
+              "id": "HP_0011024",
+              "name": "Abnormality of the gastrointestinal tract"
+            },
+            "score": 0.04938334605251102
+          },
+          {
+            "disease": {
+              "id": "MONDO_0016489",
+              "name": "delta-beta-thalassemia"
+            },
+            "score": 0.04742448695314093
+          },
+          {
+            "disease": {
+              "id": "Orphanet_46532",
+              "name": "Hereditary persistence of fetal hemoglobin - beta-thalassemia"
+            },
+            "score": 0.04609399947627601
+          },
+          {
+            "disease": {
+              "id": "MONDO_0011381",
+              "name": "dominant beta-thalassemia"
+            },
+            "score": 0.04525135740759489
+          },
+          {
+            "disease": {
+              "id": "EFO_0007442",
+              "name": "placenta praevia"
+            },
+            "score": 0.044594245813948295
+          },
+          {
+            "disease": {
+              "id": "Orphanet_231249",
+              "name": "Hemoglobin E - beta-thalassemia"
+            },
+            "score": 0.04435697415925791
+          },
+          {
+            "disease": {
+              "id": "MONDO_0016491",
+              "name": "hemoglobin E-beta-thalassemia syndrome"
+            },
+            "score": 0.04435697415925791
+          },
+          {
+            "disease": {
+              "id": "Orphanet_231401",
+              "name": "Alpha-thalassemia - myelodysplastic syndrome"
+            },
+            "score": 0.044320016173789445
+          },
+          {
+            "disease": {
+              "id": "Orphanet_231242",
+              "name": "Hemoglobin C - beta-thalassemia"
+            },
+            "score": 0.044320016173789445
+          },
+          {
+            "disease": {
+              "id": "MONDO_0010328",
+              "name": "alpha-thalassemia-myelodysplastic syndrome"
+            },
+            "score": 0.044320016173789445
+          },
+          {
+            "disease": {
+              "id": "MONDO_0016490",
+              "name": "hemoglobin C-beta-thalassemia syndrome"
+            },
+            "score": 0.044320016173789445
+          },
+          {
+            "disease": {
+              "id": "Orphanet_330041",
+              "name": "Autosomal dominant methemoglobinemia"
+            },
+            "score": 0.042751149690652884
+          },
+          {
+            "disease": {
+              "id": "MONDO_0016243",
+              "name": "hemoglobin E disease"
+            },
+            "score": 0.04162947483168481
+          },
+          {
+            "disease": {
+              "id": "EFO_1000839",
+              "name": "bladder calculus"
+            },
+            "score": 0.04132297091317994
+          },
+          {
+            "disease": {
+              "id": "EFO_0003966",
+              "name": "eye disease"
+            },
+            "score": 0.041218546728401556
+          },
+          {
+            "disease": {
+              "id": "MONDO_0013517",
+              "name": "beta-thalassemia HBB/LCRB"
+            },
+            "score": 0.040838573942659544
+          },
+          {
+            "disease": {
+              "id": "Orphanet_846",
+              "name": "Alpha-thalassemia"
+            },
+            "score": 0.040838573942659544
+          },
+          {
+            "disease": {
+              "id": "Orphanet_848",
+              "name": "Beta-thalassemia"
+            },
+            "score": 0.040838573942659544
+          },
+          {
+            "disease": {
+              "id": "MONDO_0019402",
+              "name": "beta thalassemia"
+            },
+            "score": 0.040838573942659544
+          },
+          {
+            "disease": {
+              "id": "MONDO_0011399",
+              "name": "alpha thalassemia spectrum"
+            },
+            "score": 0.040838573942659544
+          },
+          {
+            "disease": {
+              "id": "MONDO_0013512",
+              "name": "hemoglobin H disease"
+            },
+            "score": 0.04076465797172261
+          },
+          {
+            "disease": {
+              "id": "EFO_0004253",
+              "name": "nephrolithiasis"
+            },
+            "score": 0.040660397904985816
+          },
+          {
+            "disease": {
+              "id": "Orphanet_124",
+              "name": "Blackfan-Diamond anemia"
+            },
+            "score": 0.03793367628483779
+          },
+          {
+            "disease": {
+              "id": "GO_0046677",
+              "name": "response to antibiotic"
+            },
+            "score": 0.034890077106960855
+          },
+          {
+            "disease": {
+              "id": "EFO_0008546",
+              "name": "poisoning"
+            },
+            "score": 0.034890077106960855
+          },
+          {
+            "disease": {
+              "id": "MONDO_0010745",
+              "name": "beta-thalassemia-X-linked thrombocytopenia syndrome"
+            },
+            "score": 0.03450397523336376
+          },
+          {
+            "disease": {
+              "id": "Orphanet_231393",
+              "name": "Beta-thalassemia - X-linked thrombocytopenia"
+            },
+            "score": 0.03450397523336376
+          },
+          {
+            "disease": {
+              "id": "MONDO_0018023",
+              "name": "hemoglobin M disease"
+            },
+            "score": 0.03420091975252231
+          },
+          {
+            "disease": {
+              "id": "MONDO_0024647",
+              "name": "urolithiasis"
+            },
+            "score": 0.03352818725908027
+          },
+          {
+            "disease": {
+              "id": "MONDO_0021678",
+              "name": "gram-negative bacterial infections"
+            },
+            "score": 0.027778961671866362
+          },
+          {
+            "disease": {
+              "id": "EFO_0000519",
+              "name": "glioblastoma multiforme"
+            },
+            "score": 0.026609749537298527
+          },
+          {
+            "disease": {
+              "id": "MONDO_0005090",
+              "name": "schizophrenia"
+            },
+            "score": 0.022359581208424455
+          },
+          {
+            "disease": {
+              "id": "EFO_0003767",
+              "name": "inflammatory bowel disease"
+            },
+            "score": 0.017000673315496286
+          },
+          {
+            "disease": {
+              "id": "EFO_0000616",
+              "name": "neoplasm"
+            },
+            "score": 0.01694687891442551
+          },
+          {
+            "disease": {
+              "id": "MONDO_0004975",
+              "name": "Alzheimer disease"
+            },
+            "score": 0.015798512177063545
+          },
+          {
+            "disease": {
+              "id": "EFO_0007347",
+              "name": "listeriosis"
+            },
+            "score": 0.008315546730405791
+          },
+          {
+            "disease": {
+              "id": "EFO_0000407",
+              "name": "dilated cardiomyopathy"
+            },
+            "score": 0.007761176948378739
+          },
+          {
+            "disease": {
+              "id": "MONDO_0018155",
+              "name": "lateral sclerosis"
+            },
+            "score": 0.0073915970936940375
+          },
+          {
+            "disease": {
+              "id": "EFO_0000763",
+              "name": "viral disease"
+            },
+            "score": 0.0073915970936940375
+          },
+          {
+            "disease": {
+              "id": "MONDO_0012382",
+              "name": "hyperinsulinemic hypoglycemia, familial, 4"
+            },
+            "score": 0.0073915970936940375
+          },
+          {
+            "disease": {
+              "id": "EFO_0000544",
+              "name": "infection"
+            },
+            "score": 0.00734026655832116
+          },
+          {
+            "disease": {
+              "id": "MONDO_0004992",
+              "name": "cancer"
+            },
+            "score": 0.007093879988531359
+          },
+          {
+            "disease": {
+              "id": "EFO_0005741",
+              "name": "infectious disease"
+            },
+            "score": 0.0051741179655858255
+          },
+          {
+            "disease": {
+              "id": "MONDO_0005180",
+              "name": "Parkinson disease"
+            },
+            "score": 0.00406537840153172
+          },
+          {
+            "disease": {
+              "id": "EFO_0000224",
+              "name": "acute promyelocytic leukemia"
+            },
+            "score": 0.0036957985468470188
+          },
+          {
+            "disease": {
+              "id": "HP_0003510",
+              "name": "Severe short stature"
+            },
+            "score": 0.0036957985468470188
+          },
+          {
+            "disease": {
+              "id": "EFO_0000537",
+              "name": "hypertension"
+            },
+            "score": 0.0036957985468470188
+          },
+          {
+            "disease": {
+              "id": "EFO_0004286",
+              "name": "venous thromboembolism"
+            },
+            "score": 0.0036957985468470188
+          },
+          {
+            "disease": {
+              "id": "EFO_0003144",
+              "name": "heart failure"
+            },
+            "score": 0.0036957985468470188
+          },
+          {
+            "disease": {
+              "id": "EFO_0001073",
+              "name": "obesity"
+            },
+            "score": 0.0036957985468470188
+          },
+          {
+            "disease": {
+              "id": "MONDO_0008315",
+              "name": "prostate cancer"
+            },
+            "score": 0.0036957985468470188
+          },
+          {
+            "disease": {
+              "id": "EFO_0000618",
+              "name": "nervous system disease"
+            },
+            "score": 0.0036957985468470188
+          },
+          {
+            "disease": {
+              "id": "EFO_0000545",
+              "name": "infertility"
+            },
+            "score": 0.0035110086195046675
+          },
+          {
+            "disease": {
+              "id": "EFO_0005543",
+              "name": "glioma"
+            },
+            "score": 0.003326218692162316
+          },
+          {
+            "disease": {
+              "id": "EFO_1001451",
+              "name": "X-Linked Combined Immunodeficiency Diseases"
+            },
+            "score": 0.0025870589827929123
+          },
+          {
+            "disease": {
+              "id": "EFO_0000756",
+              "name": "melanoma"
+            },
+            "score": 0.0022174791281082107
+          },
+          {
+            "disease": {
+              "id": "EFO_0003777",
+              "name": "heart disease"
+            },
+            "score": 0.0014783194187388072
+          },
+          {
+            "disease": {
+              "id": "EFO_0000182",
+              "name": "hepatocellular carcinoma"
+            },
+            "score": 0
+          },
+          {
+            "disease": {
+              "id": "MONDO_0001056",
+              "name": "gastric cancer"
+            },
+            "score": 0
+          },
+          {
+            "disease": {
+              "id": "MONDO_0007763",
+              "name": "nonpapillary renal cell carcinoma"
+            },
+            "score": 0
+          },
+          {
+            "disease": {
+              "id": "EFO_1000044",
+              "name": "pancreatic adenocarcinoma"
+            },
+            "score": 0
+          },
+          {
+            "disease": {
+              "id": "EFO_0000691",
+              "name": "sarcoma"
+            },
+            "score": 0
+          },
+          {
+            "disease": {
+              "id": "EFO_1000043",
+              "name": "ovarian serous cystadenocarcinoma"
+            },
+            "score": 0
+          },
+          {
+            "disease": {
+              "id": "EFO_1000581",
+              "name": "Thymoma"
+            },
+            "score": 0
+          },
+          {
+            "disease": {
+              "id": "EFO_0000365",
+              "name": "colorectal adenocarcinoma"
+            },
+            "score": 0
+          },
+          {
+            "disease": {
+              "id": "EFO_0005221",
+              "name": "cholangiocarcinoma"
+            },
+            "score": 0
+          },
+          {
+            "disease": {
+              "id": "MONDO_0002974",
+              "name": "cervical cancer"
+            },
+            "score": 0
+          },
+          {
+            "disease": {
+              "id": "EFO_0000222",
+              "name": "acute myeloid leukemia"
+            },
+            "score": 0
+          },
+          {
+            "disease": {
+              "id": "EFO_1000613",
+              "name": "Uterine Carcinosarcoma"
+            },
+            "score": 0
+          },
+          {
+            "disease": {
+              "id": "MONDO_0007576",
+              "name": "esophageal cancer"
+            },
+            "score": 0
+          },
+          {
+            "disease": {
+              "id": "EFO_1001949",
+              "name": "colon adenocarcinoma"
+            },
+            "score": 0
+          },
+          {
+            "disease": {
+              "id": "EFO_0000349",
+              "name": "clear cell renal carcinoma"
+            },
+            "score": 0
+          },
+          {
+            "disease": {
+              "id": "MONDO_0016419",
+              "name": "hereditary breast carcinoma"
+            },
+            "score": 0
+          },
+          {
+            "disease": {
+              "id": "MONDO_0008903",
+              "name": "lung cancer"
+            },
+            "score": 0
+          },
+          {
+            "disease": {
+              "id": "EFO_0000708",
+              "name": "squamous cell lung carcinoma"
+            },
+            "score": 0
+          },
+          {
+            "disease": {
+              "id": "MONDO_0000553",
+              "name": "uterine corpus endometrial carcinoma"
+            },
+            "score": 0
+          },
+          {
+            "disease": {
+              "id": "Orphanet_227535",
+              "name": "Hereditary breast cancer"
+            },
+            "score": 0
+          }
+        ]
+      }
+    }
+  }
+}

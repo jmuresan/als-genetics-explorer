@@ -1,36 +1,45 @@
 # ALS Genetic Mechanism Explorer
 
+![ALS knowledge graph: the 46 panel genes and their STRING partners](outputs/graph_overview.png)
+
 A data pipeline that builds a reproducible evidence graph for amyotrophic lateral
-sclerosis (ALS). It takes the 41 human genes that UniProt tags with the ALS keyword,
-pulls the public evidence around them from six databases, links the records into one
-graph, scores the genes, and writes citation-backed research hypotheses. A row in the
-output traces back to a cached API response, so a clean re-run reproduces the database.
+sclerosis (ALS). It takes a 46-gene ALS panel, pulls the public evidence around the genes
+from six databases, links the records into one graph, scores the genes, and writes
+citation-backed research hypotheses. A row in the output traces back to a cached API
+response, so a clean re-run reproduces the database.
+
+The image above is the gene interaction network: rust nodes are the 46 panel genes, the
+faint nodes are their STRING partners, and the lines are STRING interactions. It is
+rendered by `render_graph.py` from the live-built database.
 
 This is research tooling. The hypotheses are machine-generated leads, not validated
 biology and not medical advice.
 
 ## The gene panel
 
-The panel is the 41 human proteins that carry UniProt keyword
-[KW-0036](https://www.uniprot.org/keywords/KW-0036) (Amyotrophic lateral sclerosis),
-downloaded from the UniProt REST API:
+The panel has 46 genes from two sources:
+
+1. The 41 human proteins that carry UniProt keyword
+   [KW-0036](https://www.uniprot.org/keywords/KW-0036) (Amyotrophic lateral sclerosis),
+   downloaded from the UniProt REST API into `data/raw/uniprot_als_kw0036.fasta`:
+
+   ```
+   https://rest.uniprot.org/uniprotkb/stream?format=fasta&includeIsoform=true&query=((keyword:KW-0036))
+   ```
+
+2. Five more ALS genes from the OMIM ALS phenotypic series PS105400 that UniProt does not
+   keyword-tag: **CFAP410, MOBP, SCFD1, TAF15, UNC13A**. OMIM blocks automated access, so this
+   set was sourced from the GeneReviews ALS Overview ([NBK1450](https://www.ncbi.nlm.nih.gov/books/NBK1450/)).
+   The five were verified as reviewed human proteins in UniProt before they were added.
+
+The 46 symbols:
 
 ```
-https://rest.uniprot.org/uniprotkb/stream?format=fasta&includeIsoform=true&query=((keyword:KW-0036))
+ALS2  ANG  ANXA11  ATXN2  C9orf72  CCNF  CFAP410  CHCHD10  CHMP2B  CYLD  DAO  DCTN1  ELP3
+ERBB4  FGGY  FIG4  FUS  HNRNPA1  KIF5A  LRP12  MATR3  MOBP  NEFH  NEK1  OPTN  PFN1  PRPH
+SCFD1  SETX  SIGMAR1  SOD1  SPG11  SPTLC1  SQSTM1  TAF15  TARDBP  TBK1  TIA1  TMEM106B
+TRPM7  TUBA4A  UBQLN2  UBQLN4  UNC13A  VAPB  VCP
 ```
-
-The downloaded FASTA sits at `data/raw/uniprot_als_kw0036.fasta`. Gene symbols come from
-the `GN` field of the FASTA headers, restricted to human entries (`OX=9606`):
-
-```
-ALS2  ANG  ANXA11  ATXN2  C9orf72  CCNF  CHCHD10  CHMP2B  CYLD  DAO  DCTN1  ELP3
-ERBB4  FGGY  FIG4  FUS  HNRNPA1  KIF5A  LRP12  MATR3  NEFH  NEK1  OPTN  PFN1  PRPH
-SETX  SIGMAR1  SOD1  SPG11  SPTLC1  SQSTM1  TARDBP  TBK1  TIA1  TMEM106B  TRPM7
-TUBA4A  UBQLN2  UBQLN4  VAPB  VCP
-```
-
-This keyword panel supersedes an earlier 20-gene hand-picked set. UNC13A, an ALS modifier
-from that set, is not keyword-tagged by UniProt, so it sits outside this panel.
 
 ## Data sources
 
@@ -113,15 +122,15 @@ models with no human data, or when the records disagree.
 
 | Metric | Count |
 |---|---|
-| Genes (real UniProt accessions) | 41 |
-| STRING interactions (confidence >= 0.7) | 365 |
-| ClinVar variants | 2,401 |
-| Reactome pathways (distinct R-HSA) | 152 |
-| Open Targets ALS associations | 84 |
+| Genes (real UniProt accessions) | 46 |
+| STRING interactions (confidence >= 0.7) | 405 |
+| ClinVar variants | 2,424 |
+| Reactome pathways (distinct R-HSA) | 163 |
+| Open Targets ALS associations | 92 |
 | Drugs (real ChEMBL ids) | 110 |
-| Papers | 324 |
-| Distinct PMIDs cited across hypotheses | 219 |
-| Hypotheses | 548 |
+| Papers | 362 |
+| Distinct PMIDs cited across hypotheses | 244 |
+| Hypotheses | 589 |
 
 ## Outputs
 
@@ -129,6 +138,7 @@ models with no human data, or when the records disagree.
 - `outputs/ranked_pathways.csv` ranked pathways with score.
 - `outputs/hypotheses.md` the hypotheses in long form with citations.
 - `outputs/als_knowledge_graph.graphml` the graph for Cytoscape or Gephi.
+- `outputs/graph_overview.png` the rendered gene interaction network (shown at the top).
 - `outputs/REAL_DATA_PROVENANCE.md` per-source counts and five spot-checked records with source URLs.
 - `outputs/LEAD_HYPOTHESIS_BRIEF.md` an analyst write-up of one lead.
 
@@ -149,7 +159,7 @@ python3 -m src.pipeline.run_all --config config.yaml
 ```
 
 Run live against the public APIs by setting `offline_mode: false`. New responses get cached,
-so the second run is fast.
+so the second run is fast. Re-render the graph image with `python3 render_graph.py`.
 
 ## Verify it
 
@@ -159,7 +169,7 @@ so the second run is fast.
 python3 gate_check.py
 ```
 
-It confirms the floors: 41 genes with UniProt accessions, 100 or more STRING edges above the
+It confirms the floors: 46 genes with UniProt accessions, 100 or more STRING edges above the
 threshold, 50 or more ClinVar variants across 8 or more genes, 15 or more distinct Reactome
 pathways, a real Open Targets ALS association, 3 or more drugs with ChEMBL ids, 100 or more
 papers with 50 or more distinct resolvable PMIDs, and hypotheses that cite 20 or more distinct
@@ -193,9 +203,10 @@ src/graph/       graph build and GraphML export
 src/scoring/     gene and pathway ranking
 src/hypotheses/  rule-based hypothesis generation
 src/pipeline/    end-to-end runner
+render_graph.py  renders outputs/graph_overview.png from the database
 data/raw/        the UniProt FASTA and cached API responses
 data/processed/  the built DuckDB and the deduplicated papers
-outputs/         ranked tables, hypotheses, graph, provenance
+outputs/         ranked tables, hypotheses, graph, graph image, provenance
 tests/           offline test suite
 gate_check.py    verification-gate queries
 ```

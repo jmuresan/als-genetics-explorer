@@ -370,7 +370,7 @@
       },
       {
         "reason": "targeted_search",
-        "gene": "CHMP2B"
+        "gene": "MOBP"
       },
       {
         "reason": "targeted_search",
@@ -378,7 +378,19 @@
       },
       {
         "reason": "targeted_search",
+        "gene": "SCFD1"
+      },
+      {
+        "reason": "targeted_search",
+        "gene": "CHMP2B"
+      },
+      {
+        "reason": "targeted_search",
         "gene": "TUBA4A"
+      },
+      {
+        "reason": "targeted_search",
+        "gene": "CFAP410"
       }
     ]
   },
@@ -626,6 +638,205 @@
     ]
   },
   {
+    "pmid": "27455348",
+    "doi": "10.1038/ng.3622",
+    "title": "Genome-wide association analyses identify new risk variants and the genetic architecture of amyotrophic lateral sclerosis.",
+    "abstract": "To elucidate the genetic architecture of amyotrophic lateral sclerosis (ALS) and find associated loci, we assembled a custom imputation reference panel from whole-genome-sequenced patients with ALS and matched controls (n = 1,861). Through imputation and mixed-model association analysis in 12,577 cases and 23,475 controls, combined with 2,579 cases and 2,767 controls in an independent replication cohort, we fine-mapped a new risk locus on chromosome 21 and identified C21orf2 as a gene associated with ALS risk. In addition, we identified MOBP and SCFD1 as new associated risk loci. We established evidence of ALS being a complex genetic trait with a polygenic architecture. Furthermore, we estimated the SNP-based heritability at 8.5%, with a distinct and important role for low-frequency variants (frequency 1-10%). This study motivates the interrogation of larger samples with full genome coverage to identify rare causal variants that underpin ALS risk.",
+    "authors": [
+      "van Rheenen W",
+      "Shatunov A",
+      "Dekker AM",
+      "McLaughlin RL",
+      "Diekstra FP",
+      "Pulit SL",
+      "van der Spek RA",
+      "Võsa U",
+      "de Jong S",
+      "Robinson MR",
+      "Yang J",
+      "Fogh I",
+      "van Doormaal PT",
+      "Tazelaar GH",
+      "Koppers M",
+      "Blokhuis AM",
+      "Sproviero W",
+      "Jones AR",
+      "Kenna KP",
+      "van Eijk KR",
+      "Harschnitz O",
+      "Schellevis RD",
+      "Brands WJ",
+      "Medic J",
+      "Menelaou A",
+      "Vajda A",
+      "Ticozzi N",
+      "Lin K",
+      "Rogelj B",
+      "Vrabec K",
+      "Ravnik-Glavač M",
+      "Koritnik B",
+      "Zidar J",
+      "Leonardis L",
+      "Grošelj LD",
+      "Millecamps S",
+      "Salachas F",
+      "Meininger V",
+      "de Carvalho M",
+      "Pinto S",
+      "Mora JS",
+      "Rojas-García R",
+      "Polak M",
+      "Chandran S",
+      "Colville S",
+      "Swingler R",
+      "Morrison KE",
+      "Shaw PJ",
+      "Hardy J",
+      "Orrell RW",
+      "Pittman A",
+      "Sidle K",
+      "Fratta P",
+      "Malaspina A",
+      "Topp S",
+      "Petri S",
+      "Abdulla S",
+      "Drepper C",
+      "Sendtner M",
+      "Meyer T",
+      "Ophoff RA",
+      "Staats KA",
+      "Wiedau-Pazos M",
+      "Lomen-Hoerth C",
+      "Van Deerlin VM",
+      "Trojanowski JQ",
+      "Elman L",
+      "McCluskey L",
+      "Basak AN",
+      "Tunca C",
+      "Hamzeiy H",
+      "Parman Y",
+      "Meitinger T",
+      "Lichtner P",
+      "Radivojkov-Blagojevic M",
+      "Andres CR",
+      "Maurel C",
+      "Bensimon G",
+      "Landwehrmeyer B",
+      "Brice A",
+      "Payan CA",
+      "Saker-Delye S",
+      "Dürr A",
+      "Wood NW",
+      "Tittmann L",
+      "Lieb W",
+      "Franke A",
+      "Rietschel M",
+      "Cichon S",
+      "Nöthen MM",
+      "Amouyel P",
+      "Tzourio C",
+      "Dartigues JF",
+      "Uitterlinden AG",
+      "Rivadeneira F",
+      "Estrada K",
+      "Hofman A",
+      "Curtis C",
+      "Blauw HM",
+      "van der Kooi AJ",
+      "de Visser M",
+      "Goris A",
+      "Weber M",
+      "Shaw CE",
+      "Smith BN",
+      "Pansarasa O",
+      "Cereda C",
+      "Del Bo R",
+      "Comi GP",
+      "D'Alfonso S",
+      "Bertolin C",
+      "Sorarù G",
+      "Mazzini L",
+      "Pensato V",
+      "Gellera C",
+      "Tiloca C",
+      "Ratti A",
+      "Calvo A",
+      "Moglia C",
+      "Brunetti M",
+      "Arcuti S",
+      "Capozzo R",
+      "Zecca C",
+      "Lunetta C",
+      "Penco S",
+      "Riva N",
+      "Padovani A",
+      "Filosto M",
+      "Muller B",
+      "Stuit RJ",
+      "PARALS Registry",
+      "SLALOM Group",
+      "SLAP Registry",
+      "FALS Sequencing Consortium",
+      "SLAGEN Consortium",
+      "NNIPPS Study Group",
+      "Blair I",
+      "Zhang K",
+      "McCann EP",
+      "Fifita JA",
+      "Nicholson GA",
+      "Rowe DB",
+      "Pamphlett R",
+      "Kiernan MC",
+      "Grosskreutz J",
+      "Witte OW",
+      "Ringer T",
+      "Prell T",
+      "Stubendorff B",
+      "Kurth I",
+      "Hübner CA",
+      "Leigh PN",
+      "Casale F",
+      "Chio A",
+      "Beghi E",
+      "Pupillo E",
+      "Tortelli R",
+      "Logroscino G",
+      "Powell J",
+      "Ludolph AC",
+      "Weishaupt JH",
+      "Robberecht W",
+      "Van Damme P",
+      "Franke L",
+      "Pers TH",
+      "Brown RH",
+      "Glass JD",
+      "Landers JE",
+      "Hardiman O",
+      "Andersen PM",
+      "Corcia P",
+      "Vourc'h P",
+      "Silani V",
+      "Wray NR",
+      "Visscher PM",
+      "de Bakker PI",
+      "van Es MA",
+      "Pasterkamp RJ",
+      "Lewis CM",
+      "Breen G",
+      "Al-Chalabi A",
+      "van den Berg LH",
+      "Veldink JH"
+    ],
+    "journal": "Nat Genet",
+    "pubdate": "2016 Sep",
+    "ingestion_reasons": [
+      {
+        "reason": "targeted_search",
+        "gene": "MOBP"
+      }
+    ]
+  },
+  {
     "pmid": "28463112",
     "doi": "10.7554/elife.25453",
     "title": "A novel ALS-associated variant in UBQLN4 regulates motor axon morphogenesis.",
@@ -793,6 +1004,28 @@
     ]
   },
   {
+    "pmid": "31183926",
+    "doi": "10.1111/neup.12564",
+    "title": "Immunoreactivity of myelin-associated oligodendrocytic basic protein in Lewy bodies.",
+    "abstract": "Myelin-associated oligodendrocytic basic protein (MOBP) plays a role in structural maintenance of the myelin sheath in the central nervous system. Recent genome analyses have revealed that mutation in MOBP is a risk factor for various neurodegenerative diseases, including Alzheimer's disease (AD), tauopathies and transactivation response DNA-binding protein 43 kDa proteinopathies. Proteomics analysis has shown that MOBP is a component of cortical Lewy bodies (LBs). However, the immunohistochemical localization of MOBP in the human brain is not known. Using immunohistochemistry, we examined the brain, spinal cord and peripheral ganglia from patients with various neurodegenerative diseases and control subjects. In normal controls, MOBP immunoreactivity was evident in the myelin in the central and peripheral nervous systems (PNS), and neuronal cytoplasm in both the central and PNS. In Parkinson's disease and dementia with LBs, MOBP immunoreactivity was found in the core of LBs in the brainstem, cingulate cortex and sympathetic ganglia. No MOBP immunoreactivity was found in a variety of other neuronal or glial inclusions in other disorders, including multiple system atrophy, AD, Pick's disease, progressive supranuclear palsy, corticobasal degeneration, argyrophilic grain disease, amyotrophic lateral sclerosis and frontotemporal lobar degeneration. Considering that up-regulation of MOBP has been reported in neurotoxic conditions, accumulation of MOBP in LBs may imply a cytoprotective mechanism in LB disease.",
+    "authors": [
+      "Kon T",
+      "Tanji K",
+      "Mori F",
+      "Kimura A",
+      "Kakita A",
+      "Wakabayashi K"
+    ],
+    "journal": "Neuropathology",
+    "pubdate": "2019 Aug",
+    "ingestion_reasons": [
+      {
+        "reason": "targeted_search",
+        "gene": "MOBP"
+      }
+    ]
+  },
+  {
     "pmid": "31187092",
     "doi": "",
     "title": "SLC41A1 and TRPM7 in magnesium homeostasis and genetic risk for Parkinson's disease.",
@@ -874,6 +1107,35 @@
       {
         "reason": "targeted_search",
         "gene": "LRP12"
+      }
+    ]
+  },
+  {
+    "pmid": "31624333",
+    "doi": "10.1038/s41397-019-0111-3",
+    "title": "Pharmacogenetic interactions in amyotrophic lateral sclerosis: a step closer to a cure?",
+    "abstract": "Genetic mutations related to amyotrophic lateral sclerosis (ALS) act through distinct pathophysiological pathways, which may lead to varying treatment responses. Here we assess the genetic interaction between C9orf72, UNC13A, and MOBP with creatine and valproic acid treatment in two clinical trials. Genotypic data was available for 309 of the 338 participants (91.4%). The UNC13A genotype affected mortality (p = 0.012), whereas C9orf72 repeat-expansion carriers exhibited a faster rate of decline in overall (p = 0.051) and bulbar functioning (p = 0.005). A dose-response pharmacogenetic interaction was identified between creatine and the A allele of the MOBP genotype (p = 0.027), suggesting a qualitative interaction in a recessive model (HR 3.96, p = 0.015). Not taking genetic information into account may mask evidence of response to treatment or be an unrecognized source of bias. Incorporating genetic data could help investigators to identify critical treatment clues in patients with ALS.",
+    "authors": [
+      "van Eijk RPA",
+      "Eijkemans MJC",
+      "Nikolakopoulos S",
+      "Jansen MD",
+      "Westeneng HJ",
+      "van Eijk KR",
+      "van der Spek RAA",
+      "van Vugt JJFA",
+      "Piepers S",
+      "Groeneveld GJ",
+      "Veldink JH",
+      "van den Berg LH",
+      "van Es MA"
+    ],
+    "journal": "Pharmacogenomics J",
+    "pubdate": "2020 Apr",
+    "ingestion_reasons": [
+      {
+        "reason": "targeted_search",
+        "gene": "MOBP"
       }
     ]
   },
@@ -1209,6 +1471,32 @@
     ]
   },
   {
+    "pmid": "34694630",
+    "doi": "10.1111/ane.13538",
+    "title": "Myelin-associated oligodendrocyte basic protein rs616147 polymorphism as a risk factor for Parkinson's disease.",
+    "abstract": "BACKGROUND: The rs616147 polymorphism of the myelin-associated oligodendrocyte basic protein (MOBP) gene locus has been associated with amyotrophic lateral sclerosis (ALS). ALS and Parkinson's disease (PD) are two common neurodegenerative disorders that share features regarding their etiology, pathophysiology, and genetic backgrounds. While the MOBP rs616147 polymorphism has been associated with ALS, little is known about its role in PD. OBJECTIVE: To assess the role of MOBP rs616147 on PD risk. METHODS: This case-control comparison study consists of 358 PD-affected cases and 358 controls from the Neurology Clinic of the University Hospital of Larissa, University of Thessaly, Faculty of Medicine, in Greece. The diagnosis of PD was made by a specialist neurologist according to the UK Parkinson's Disease Society Brain Bank's clinical criteria. All the participants were genotyped for the MOBP rs616147. Furthermore, in order to validate our results, we genotyped 327 patients with Alzheimer's disease (AD) for MOBP rs616147 and compared them with the control group. RESULTS: According to the univariate analysis, there was a significant association between rs616147 and PD in the dominant (OR [95% C.I.] = 0.70 [0.52-0.94], p = .018), the overdominant (OR [95% C.I.] = 0.68 [0.50-0.92], p = .011), and in the codominant (G/A VS G/G; OR [95% C.I.] = 0.66 [0.48-0.91], p = .035) modes of inheritance. In contrast, there was no association between the MOBP rs616147 polymorphism and AD. CONCLUSIONS: We provide preliminary results associating MOBP rs616147 genetic variant with PD.",
+    "authors": [
+      "Siokas V",
+      "Aloizou AM",
+      "Liampas I",
+      "Bakirtzis C",
+      "Tsouris Z",
+      "Sgantzos M",
+      "Liakos P",
+      "Bogdanos DP",
+      "Hadjigeorgiou GM",
+      "Dardiotis E"
+    ],
+    "journal": "Acta Neurol Scand",
+    "pubdate": "2022 Feb",
+    "ingestion_reasons": [
+      {
+        "reason": "targeted_search",
+        "gene": "MOBP"
+      }
+    ]
+  },
+  {
     "pmid": "34868212",
     "doi": "10.3389/fgene.2021.740052",
     "title": "Rare CYLD Variants in Chinese Patients With Amyotrophic Lateral Sclerosis.",
@@ -1232,6 +1520,34 @@
       {
         "reason": "targeted_search",
         "gene": "CYLD"
+      }
+    ]
+  },
+  {
+    "pmid": "34946282",
+    "doi": "10.3390/medicina57121337",
+    "title": "MOBP rs616147 Polymorphism and Risk of Amyotrophic Lateral Sclerosis in a Greek Population: A Case-Control Study.",
+    "abstract": "",
+    "authors": [
+      "Liampas I",
+      "Siokas V",
+      "Aloizou AM",
+      "Bakirtzis C",
+      "Tsouris Z",
+      "Nousia A",
+      "Nasios G",
+      "Papadimitriou D",
+      "Liakos P",
+      "Bogdanos DP",
+      "Hadjigeorgiou GM",
+      "Dardiotis E"
+    ],
+    "journal": "Medicina (Kaunas)",
+    "pubdate": "2021 Dec 7",
+    "ingestion_reasons": [
+      {
+        "reason": "targeted_search",
+        "gene": "MOBP"
       }
     ]
   },
@@ -1398,6 +1714,34 @@
     ]
   },
   {
+    "pmid": "36131690",
+    "doi": "10.3389/fnmol.2022.954928",
+    "title": "A polymorphic transcriptional regulatory domain in the amyotrophic lateral sclerosis risk gene CFAP410 correlates with differential isoform expression.",
+    "abstract": "We describe the characterisation of a variable number tandem repeat (VNTR) domain within intron 1 of the amyotrophic lateral sclerosis (ALS) risk gene ",
+    "authors": [
+      "Marshall JNG",
+      "Fröhlich A",
+      "Li L",
+      "Pfaff AL",
+      "Middlehurst B",
+      "Spargo TP",
+      "Iacoangeli A",
+      "Lang B",
+      "Al-Chalabi A",
+      "Koks S",
+      "Bubb VJ",
+      "Quinn JP"
+    ],
+    "journal": "Front Mol Neurosci",
+    "pubdate": "2022",
+    "ingestion_reasons": [
+      {
+        "reason": "targeted_search",
+        "gene": "CFAP410"
+      }
+    ]
+  },
+  {
     "pmid": "36445564",
     "doi": "10.1007/s13760-022-02148-z",
     "title": "Novel compound heterozygous variants of SPG11 gene associated with young-adult amyotrophic lateral sclerosis.",
@@ -1467,11 +1811,11 @@
     "ingestion_reasons": [
       {
         "reason": "targeted_search",
-        "gene": "DAO"
+        "gene": "SPG11"
       },
       {
         "reason": "targeted_search",
-        "gene": "SPG11"
+        "gene": "DAO"
       }
     ]
   },
@@ -1496,6 +1840,55 @@
     ]
   },
   {
+    "pmid": "36759259",
+    "doi": "10.1016/j.biopsych.2022.11.002",
+    "title": "Prioritization of Drug Targets for Neurodegenerative Diseases by Integrating Genetic and Proteomic Data From Brain and Blood.",
+    "abstract": "BACKGROUND: Neurodegenerative diseases are among the most prevalent and devastating neurological disorders, with few effective prevention and treatment strategies. We aimed to integrate genetic and proteomic data to prioritize drug targets for neurodegenerative diseases. METHODS: We screened human proteomes through Mendelian randomization to identify causal mediators of Alzheimer's disease, Parkinson's disease, amyotrophic lateral sclerosis, multiple sclerosis, frontotemporal dementia, and Lewy body dementia. For instruments, we used brain and blood protein quantitative trait loci identified from one genome-wide association study with 376 participants and another with 3301 participants, respectively. Causal associations were subsequently validated by sensitivity analyses and colocalization. The safety and druggability of identified targets were also evaluated. RESULTS: Our analyses showed targeting BIN1, GRN, and RET levels in blood as well as ACE, ICA1L, MAP1S, SLC20A2, and TOM1L2 levels in brain might reduce Alzheimer's disease risk, while ICA1L, SLC20A2, and TOM1L2 were not recommended as prioritized drugs due to the identified potential side effects. Brain CD38, DGKQ, GPNMB, and SEC23IP were candidate targets for Parkinson's disease. Among them, GPNMB was the most promising target for Parkinson's disease with their causal relationship evidenced by studies on both brain and blood tissues. Interventions targeting FCRL3, LMAN2, and MAPK3 in blood and DHRS11, FAM120B, SHMT1, and TSFM in brain might affect multiple sclerosis risk. The risk of amyotrophic lateral sclerosis might be reduced by medications targeting DHRS11, PSMB3, SARM1, and SCFD1 in brain. CONCLUSIONS: Our study prioritized 22 proteins as targets for neurodegenerative diseases and provided preliminary evidence for drug development. Further studies are warranted to validate these targets.",
+    "authors": [
+      "Ge YJ",
+      "Ou YN",
+      "Deng YT",
+      "Wu BS",
+      "Yang L",
+      "Zhang YR",
+      "Chen SD",
+      "Huang YY",
+      "Dong Q",
+      "Tan L",
+      "Yu JT",
+      "International FTD-Genomics Consortium"
+    ],
+    "journal": "Biol Psychiatry",
+    "pubdate": "2023 May 1",
+    "ingestion_reasons": [
+      {
+        "reason": "targeted_search",
+        "gene": "SCFD1"
+      }
+    ]
+  },
+  {
+    "pmid": "36944290",
+    "doi": "10.1016/j.neurobiolaging.2023.02.005",
+    "title": "Loss of amyotrophic lateral sclerosis risk factor SCFD1 causes motor dysfunction in Drosophila.",
+    "abstract": "Amyotrophic lateral sclerosis (ALS) is a progressive neuromuscular disease mostly resulting from a complex interplay between genetic, environmental and lifestyle factors. Common genetic variants in the Sec1 Family Domain Containing 1 (SCFD1) gene have been associated with increased ALS risk in the most extensive genome-wide association study (GWAS). SCFD1 was also identified as a top-most significant expression Quantitative Trait Locus (eQTL) for ALS. Whether loss of SCFD1 function directly contributes to motor system dysfunction remains unresolved. Here we show that moderate gene silencing of Slh, the Drosophila orthologue of SCFD1, is sufficient to cause climbing and flight defects in adult flies. A more severe knockdown induced a significant reduction in larval mobility and profound neuromuscular junction (NMJ) deficits prior to death before metamorphosis. RNA-seq revealed downregulation of genes encoding chaperones that mediate protein folding downstream of Slh ablation. Our findings support the notion that loss of SCFD1 function is a meaningful contributor to ALS and disease predisposition may result from erosion of the mechanisms protecting against misfolding and protein aggregation.",
+    "authors": [
+      "Borg R",
+      "Purkiss A",
+      "Cacciottolo R",
+      "Herrera P",
+      "Cauchi RJ"
+    ],
+    "journal": "Neurobiol Aging",
+    "pubdate": "2023 Jun",
+    "ingestion_reasons": [
+      {
+        "reason": "targeted_search",
+        "gene": "SCFD1"
+      }
+    ]
+  },
+  {
     "pmid": "36982902",
     "doi": "10.3390/ijms24065828",
     "title": "In Silico Exploration of Metabolically Active Peptides as Potential Therapeutic Agents against Amyotrophic Lateral Sclerosis.",
@@ -1509,6 +1902,10 @@
     "journal": "Int J Mol Sci",
     "pubdate": "2023 Mar 18",
     "ingestion_reasons": [
+      {
+        "reason": "targeted_search",
+        "gene": "SCFD1"
+      },
       {
         "reason": "targeted_search",
         "gene": "SIGMAR1"
@@ -1535,6 +1932,116 @@
       {
         "reason": "targeted_search",
         "gene": "SPG11"
+      }
+    ]
+  },
+  {
+    "pmid": "37148340",
+    "doi": "10.1007/s00415-023-11757-4",
+    "title": "Identifying novel genes for amyotrophic lateral sclerosis by integrating human brain proteomes with genome-wide association data.",
+    "abstract": "BACKGROUND: Genome-Wide Association Studies (GWAS) have identified numerous risk genes for Amyotrophic Lateral Sclerosis (ALS); however, the mechanisms by which these loci confer ALS risk are uncertain. This study aims to identify novel causal proteins in the brains of patients with ALS using an integrative analytical pipeline. METHODS: Using the datasets of Protein Quantitative Trait Loci (pQTL) (N RESULTS: Using PWAS, we found that the altered protein abundance of 12 genes in the brain was associated with ALS. Three genes (SCFD1, SARM1 and CAMLG) were identified as lead causal genes for ALS with solid evidence (False discovery rate < 0.05, in MR analysis; PPH4 > 80% for Bayesian colocalization). Specifically, an increased abundance of SCFD1 and CAMLG led to an increased risk of ALS, whereas a higher abundance of SARM1 led to a decreased risk of developing ALS. TWAS showed that SCFD1 and CAMLG were related to ALS at the transcriptional level. CONCLUSIONS: SCFD1, CAMLG, and SARM1 exhibited robust associations and causality with ALS. The study findings provide novel clues for identifying potential therapeutic targets in ALS. Further studies are required to explore the mechanisms underlying the identified genes.",
+    "authors": [
+      "Gu XJ",
+      "Su WM",
+      "Dou M",
+      "Jiang Z",
+      "Duan QQ",
+      "Wang H",
+      "Ren YL",
+      "Cao B",
+      "Wang Y",
+      "Chen YP"
+    ],
+    "journal": "J Neurol",
+    "pubdate": "2023 Aug",
+    "ingestion_reasons": [
+      {
+        "reason": "targeted_search",
+        "gene": "SCFD1"
+      }
+    ]
+  },
+  {
+    "pmid": "37159497",
+    "doi": "10.1111/ene.15855",
+    "title": "Advantages of routine next-generation sequencing over standard genetic testing in the amyotrophic lateral sclerosis clinic.",
+    "abstract": "BACKGROUND: Next-generation sequencing has enhanced our understanding of amyotrophic lateral sclerosis (ALS) and its genetic epidemiology. Outside the research setting, testing is often restricted to those who report a family history. The aim of this study was to explore the added benefit of offering routine genetic testing to all patients in a regional ALS centre. METHODS: C9ORF72 expansion testing and exome sequencing was offered to consecutive patients (150 with ALS and 12 with primary lateral sclerosis [PLS]) attending the Oxford Motor Neuron Disease Clinic within a defined time period. RESULTS: A total of 17 (11.3%) highly penetrant pathogenic variants in C9ORF72, SOD1, TARDBP, FUS and TBK1 were detected, of which 10 were also found through standard clinical genetic testing pathways. The systematic approach resulted in five additional diagnoses of a C9ORF72 expansion (number needed to test [NNT] = 28), and two further missense variants in TARDBP and SOD1 (NNT = 69). Additionally, 3 patients were found to carry pathogenic risk variants in NEK1, and 13 patients harboured common missense variants in CFAP410 and KIF5A, also associated with an increased risk of ALS. We report two novel non-coding loss-of-function splice variants in TBK1 and OPTN. No relevant variants were found in the PLS patients. Patients were offered double-blinded participation, but >80% requested disclosure of the results. CONCLUSIONS: This study provides evidence that expanding genetic testing to all patients with a clinical diagnosis of ALS enhances the potential for recruitment to clinical trials, but will have direct resource implications for genetic counselling.",
+    "authors": [
+      "Scaber J",
+      "Thompson AG",
+      "Farrimond L",
+      "Feneberg E",
+      "Proudfoot M",
+      "Ossher L",
+      "Turner MR",
+      "Talbot K"
+    ],
+    "journal": "Eur J Neurol",
+    "pubdate": "2023 Aug",
+    "ingestion_reasons": [
+      {
+        "reason": "targeted_search",
+        "gene": "CFAP410"
+      }
+    ]
+  },
+  {
+    "pmid": "37163440",
+    "doi": "10.14336/ad.2022.12209",
+    "title": "Investigating Causality and Shared Genetic Architecture between Neurodegenerative Disorders and Inflammatory Bowel Disease.",
+    "abstract": "Published observational studies have revealed the connection between neurodegenerative disorders and inflammatory bowel disease (IBD), whereas the causal association remains largely unclear. Our study aims to assess the causality and identify the shared genetic architecture between neurodegenerative disorders and IBD. Two-sample Mendelian randomization analyses were performed to assess the causality between IBD and neurodegenerative disorders (amyotrophic lateral sclerosis [ALS], Alzheimer's disease [AD], Parkinson's disease [PD], and multiple sclerosis [MS]). Shared genetic loci, functional interpretation, and transcriptomic profiles were further investigated in ALS and IBD. We identified that genetic predisposition to IBD was suggestively associated with lower odds of ALS (odds ratio [OR] 0.96, 95% confidence interval [CI] 0.94 to 0.99). In contrast, IBD was not genetically associated with an increased risk of AD, PD, or MS (and vice versa). Two shared genetic loci (rs6571361 and rs7154847) were derived, and SCFD1, G2E3, and HEATR5A were further identified as novel risk genes with enriched functions related to membrane trafficking. G2E3 was differentially expressed and significantly correlated with SCFD1 in patients with ALS or IBD. Our study reveals the suggestively protective role of IBD on ALS, and does not support the causality of AD, PD, or MS on IBD (and vice versa). Our findings indicate possible shared genetic architecture and pathways between ALS and IBD. These results provide insights into the pathogenesis and therapeutics of IBD and neurodegenerative disorders.",
+    "authors": [
+      "Zeng R",
+      "Wang J",
+      "Jiang R",
+      "Yang J",
+      "Zheng C",
+      "Wu H",
+      "Zhuo Z",
+      "Yang Q",
+      "Li J",
+      "Leung FW",
+      "Sha W",
+      "Chen H"
+    ],
+    "journal": "Aging Dis",
+    "pubdate": "2023 Aug 1",
+    "ingestion_reasons": [
+      {
+        "reason": "targeted_search",
+        "gene": "SCFD1"
+      }
+    ]
+  },
+  {
+    "pmid": "37188479",
+    "doi": "10.26508/lsa.202201740",
+    "title": "Functional characterization of C21ORF2 association with the NEK1 kinase mutated in human in diseases.",
+    "abstract": "The NEK1 kinase controls ciliogenesis, mitosis, and DNA repair, and ",
+    "authors": [
+      "Gregorczyk M",
+      "Pastore G",
+      "Muñoz I",
+      "Carroll T",
+      "Streubel J",
+      "Munro M",
+      "Lis P",
+      "Lange S",
+      "Lamoliatte F",
+      "Macartney T",
+      "Toth R",
+      "Brown F",
+      "Hastie J",
+      "Pereira G",
+      "Durocher D",
+      "Rouse J"
+    ],
+    "journal": "Life Sci Alliance",
+    "pubdate": "2023 Jul",
+    "ingestion_reasons": [
+      {
+        "reason": "targeted_search",
+        "gene": "CFAP410"
       }
     ]
   },
@@ -1590,11 +2097,11 @@
     "ingestion_reasons": [
       {
         "reason": "targeted_search",
-        "gene": "CCNF"
+        "gene": "TIA1"
       },
       {
         "reason": "targeted_search",
-        "gene": "TIA1"
+        "gene": "CCNF"
       }
     ]
   },
@@ -1699,6 +2206,24 @@
     ]
   },
   {
+    "pmid": "37494873",
+    "doi": "10.1016/j.jmgm.2023.108572",
+    "title": "Structural dynamics of moonlighting intrinsically disordered proteins - A black box in multiple sclerosis.",
+    "abstract": "Multiple Sclerosis (MS) is a demyelinating disease of the central nervous system that disturbs the flow of brain signals to other parts of the body. The actual cause of the disease is still not apparent. The intrinsically disordered proteins (IDP) play a crucial role in neurodegenerative diseases like Alzheimer's, Lewy bodies, Parkinson's, Amyotrophic Lateral Sclerosis, Multiple Sclerosis, etc. In MS, it was known that the immune system attacks the proteins like Myelin Basic Protein (MBP), Myelin-associated Oligodendrocyte Basic protein (MOBP), Myelin-Associated Protein (MAG), and Myelin Proteolipid Protein (PLP) and this leads to demyelination causing MS. Here the proteins MBP and MOBP are both moonlighting intrinsically disordered proteins and exist between the myelin sheath, unlike MAG which is a transmembrane protein. The main focus of the article was to examine the significant role of proteins intrinsically disordered regions (IDR) in maintaining their function. Molecular dynamics simulation studies were performed to study the conformational dynamics of these protein IDRs both in water and near the myelin sheath. The results suggest that the IDR dominates the structural dynamics of these proteins and IDR in both proteins was responsible for their interaction with the myelin sheath. Interestingly, it was noted that the known epitopes MBP",
+    "authors": [
+      "Ramya L",
+      "Helina Hilda S"
+    ],
+    "journal": "J Mol Graph Model",
+    "pubdate": "2023 Nov",
+    "ingestion_reasons": [
+      {
+        "reason": "targeted_search",
+        "gene": "MOBP"
+      }
+    ]
+  },
+  {
     "pmid": "37497262",
     "doi": "10.1159/000530974",
     "title": "Thirty-Year Follow-Up of Early Onset Amyotrophic Lateral Sclerosis with a Pathogenic Variant in SPTLC1.",
@@ -1790,6 +2315,28 @@
     ]
   },
   {
+    "pmid": "37639066",
+    "doi": "10.1007/s12035-023-03587-2",
+    "title": "Abnormal Brain Protein Abundance and Cross-tissue mRNA Expression in Amyotrophic Lateral Sclerosis.",
+    "abstract": "Due to the limitations of the present risk genes in understanding the etiology of amyotrophic lateral sclerosis (ALS), it is necessary to find additional causative genes utilizing novel approaches. In this study, we conducted a two-stage proteome-wide association study (PWAS) using ALS genome-wide association study (GWAS) data (N = 152,268) and two distinct human brain protein quantitative trait loci (pQTL) datasets (ROSMAP N = 376 and Banner N = 152) to identify ALS risk genes and prioritized candidate genes with Mendelian randomization (MR) and Bayesian colocalization analysis. Next, we verified the aberrant expression of risk genes in multiple tissues, including lower motor neurons, skeletal muscle, and whole blood. Six ALS risk genes (SCFD1, SARM1, TMEM175, BCS1L, WIPI2, and DHRS11) were found during the PWAS discovery phase, and SARM1 and BCS1L were confirmed during the validation phase. The following MR (p = 2.10 × 10",
+    "authors": [
+      "Ma Y",
+      "Jia T",
+      "Qin F",
+      "He Y",
+      "Han F",
+      "Zhang C"
+    ],
+    "journal": "Mol Neurobiol",
+    "pubdate": "2024 Jan",
+    "ingestion_reasons": [
+      {
+        "reason": "targeted_search",
+        "gene": "SCFD1"
+      }
+    ]
+  },
+  {
     "pmid": "37697342",
     "doi": "10.1186/s40035-023-00375-9",
     "title": "Research progress on the role of extracellular vesicles in neurodegenerative diseases.",
@@ -1854,6 +2401,49 @@
       {
         "reason": "targeted_search",
         "gene": "CCNF"
+      }
+    ]
+  },
+  {
+    "pmid": "37905864",
+    "doi": "10.4103/1673-5374.386411",
+    "title": "SCFD1 in amyotrophic lateral sclerosis: reconciling a genetic association with in vivo functional analysis.",
+    "abstract": "",
+    "authors": [
+      "Cauchi RJ"
+    ],
+    "journal": "Neural Regen Res",
+    "pubdate": "2024 Jun 1",
+    "ingestion_reasons": [
+      {
+        "reason": "targeted_search",
+        "gene": "SCFD1"
+      }
+    ]
+  },
+  {
+    "pmid": "37979250",
+    "doi": "10.1016/j.neurobiolaging.2023.09.017",
+    "title": "Identifying risk loci for FTD and shared genetic component with ALS: A large-scale multitrait association analysis.",
+    "abstract": "Current genome-wide association studies of frontotemporal dementia (FTD) are underpowered due to limited samples. Further, common genetic etiologies between FTD and amyotrophic lateral sclerosis (ALS) remain unknown. Using the largest summary statistics of FTD (3526 cases and 9402 controls) and ALS (27,205 cases and 110,881 controls), we found a significant genetic correlation between them (rˆ",
+    "authors": [
+      "Chen K",
+      "Gao T",
+      "Liu Y",
+      "Zhu K",
+      "Wang T",
+      "Zeng P"
+    ],
+    "journal": "Neurobiol Aging",
+    "pubdate": "2024 Feb",
+    "ingestion_reasons": [
+      {
+        "reason": "targeted_search",
+        "gene": "SCFD1"
+      },
+      {
+        "reason": "targeted_search",
+        "gene": "MOBP"
       }
     ]
   },
@@ -2135,19 +2725,19 @@
     "ingestion_reasons": [
       {
         "reason": "targeted_search",
-        "gene": "DCTN1"
-      },
-      {
-        "reason": "targeted_search",
-        "gene": "ELP3"
-      },
-      {
-        "reason": "targeted_search",
         "gene": "TUBA4A"
       },
       {
         "reason": "targeted_search",
+        "gene": "DCTN1"
+      },
+      {
+        "reason": "targeted_search",
         "gene": "TIA1"
+      },
+      {
+        "reason": "targeted_search",
+        "gene": "ELP3"
       }
     ]
   },
@@ -2361,6 +2951,57 @@
     ]
   },
   {
+    "pmid": "38492239",
+    "doi": "10.1021/jacs.3c12034",
+    "title": "Insights into Molecular Diversity within the FUS/EWS/TAF15 Protein Family: Unraveling Phase Separation of the N-Terminal Low-Complexity Domain from RNA-Binding Protein EWS.",
+    "abstract": "The FET protein family, comprising FUS, EWS, and TAF15, plays crucial roles in mRNA maturation, transcriptional regulation, and DNA damage response. Clinically, they are linked to Ewing family tumors and neurodegenerative diseases such as amyotrophic lateral sclerosis. The fusion protein EWS::FLI1, the causative mutation of Ewing sarcoma, arises from a genomic translocation that fuses a portion of the low-complexity domain (LCD) of EWS (EWS",
+    "authors": [
+      "Johnson CN",
+      "Sojitra KA",
+      "Sohn EJ",
+      "Moreno-Romero AK",
+      "Baudin A",
+      "Xu X",
+      "Mittal J",
+      "Libich DS"
+    ],
+    "journal": "J Am Chem Soc",
+    "pubdate": "2024 Mar 27",
+    "ingestion_reasons": [
+      {
+        "reason": "targeted_search",
+        "gene": "TAF15"
+      }
+    ]
+  },
+  {
+    "pmid": "38568213",
+    "doi": "10.1007/s00018-024-05204-4",
+    "title": "Phosphorylation of the compartmentalized PKA substrate TAF15 regulates RNA-protein interactions.",
+    "abstract": "Spatiotemporal-controlled second messengers alter molecular interactions of central signaling nodes for ensuring physiological signal transmission. One prototypical second messenger molecule which modulates kinase signal transmission is the cyclic-adenosine monophosphate (cAMP). The main proteinogenic cellular effectors of cAMP are compartmentalized protein kinase A (PKA) complexes. Their cell-type specific compositions precisely coordinate substrate phosphorylation and proper signal propagation which is indispensable for numerous cell-type specific functions. Here we present evidence that TAF15, which is implicated in the etiology of amyotrophic lateral sclerosis, represents a novel nuclear PKA substrate. In cross-linking and immunoprecipitation experiments (iCLIP) we showed that TAF15 phosphorylation alters the binding to target transcripts related to mRNA maturation, splicing and protein-binding related functions. TAF15 appears to be one of multiple PKA substrates that undergo RNA-binding dynamics upon phosphorylation. We observed that the activation of the cAMP-PKA signaling axis caused a change in the composition of a collection of RNA species that interact with TAF15. This observation appears to be a broader principle in the regulation of molecular interactions, as we identified a significant enrichment of RNA-binding proteins within endogenous PKA complexes. We assume that phosphorylation of RNA-binding domains adds another layer of regulation to binary protein-RNAs interactions with consequences to RNA features including binding specificities, localization, abundance and composition.",
+    "authors": [
+      "Feichtner A",
+      "Enzler F",
+      "Kugler V",
+      "Hoppe K",
+      "Mair S",
+      "Kremser L",
+      "Lindner H",
+      "Huber RG",
+      "Stelzl U",
+      "Stefan E",
+      "Torres-Quesada O"
+    ],
+    "journal": "Cell Mol Life Sci",
+    "pubdate": "2024 Apr 3",
+    "ingestion_reasons": [
+      {
+        "reason": "targeted_search",
+        "gene": "TAF15"
+      }
+    ]
+  },
+  {
     "pmid": "38638178",
     "doi": "10.12688/f1000research.133645.2",
     "title": "A guide to selecting high-performing antibodies for RNA-binding protein TIA1 for use in Western Blot, immunoprecipitation and immunofluorescence.",
@@ -2429,6 +3070,35 @@
       {
         "reason": "targeted_search",
         "gene": "LRP12"
+      }
+    ]
+  },
+  {
+    "pmid": "38862967",
+    "doi": "10.1186/s13024-024-00737-5",
+    "title": "Frontotemporal dementia-like disease progression elicited by seeded aggregation and spread of FUS.",
+    "abstract": "RNA binding proteins have emerged as central players in the mechanisms of many neurodegenerative diseases. In particular, a proteinopathy of fused in sarcoma (FUS) is present in some instances of familial Amyotrophic lateral sclerosis (ALS) and about 10% of sporadic Frontotemporal lobar degeneration (FTLD). Here we establish that focal injection of sonicated human FUS fibrils into brains of mice in which ALS-linked mutant or wild-type human FUS replaces endogenous mouse FUS is sufficient to induce focal cytoplasmic mislocalization and aggregation of mutant and wild-type FUS which with time spreads to distal regions of the brain. Human FUS fibril-induced FUS aggregation in the mouse brain of humanized FUS mice is accelerated by an ALS-causing FUS mutant relative to wild-type human FUS. Injection of sonicated human FUS fibrils does not induce FUS aggregation and subsequent spreading after injection into naïve mouse brains containing only mouse FUS, indicating a species barrier to human FUS aggregation and its prion-like spread. Fibril-induced human FUS aggregates recapitulate pathological features of FTLD including increased detergent insolubility of FUS and TAF15 and amyloid-like, cytoplasmic deposits of FUS that accumulate ubiquitin and p62, but not TDP-43. Finally, injection of sonicated FUS fibrils is shown to exacerbate age-dependent cognitive and behavioral deficits from mutant human FUS expression. Thus, focal seeded aggregation of FUS and further propagation through prion-like spread elicits FUS-proteinopathy and FTLD-like disease progression.",
+    "authors": [
+      "Vazquez-Sanchez S",
+      "Tilkin B",
+      "Gasset-Rosa F",
+      "Zhang S",
+      "Piol D",
+      "McAlonis-Downes M",
+      "Artates J",
+      "Govea-Perez N",
+      "Verresen Y",
+      "Guo L",
+      "Cleveland DW",
+      "Shorter J",
+      "Da Cruz S"
+    ],
+    "journal": "Mol Neurodegener",
+    "pubdate": "2024 Jun 11",
+    "ingestion_reasons": [
+      {
+        "reason": "targeted_search",
+        "gene": "TAF15"
       }
     ]
   },
@@ -2525,6 +3195,35 @@
     ]
   },
   {
+    "pmid": "38895337",
+    "doi": "10.1101/2024.06.03.593639",
+    "title": "Frontotemporal dementia-like disease progression elicited by seeded aggregation and spread of FUS.",
+    "abstract": "RNA binding proteins have emerged as central players in the mechanisms of many neurodegenerative diseases. In particular, a proteinopathy of fu sed in s arcoma (FUS) is present in some instances of familial Amyotrophic lateral sclerosis (ALS) and about 10% of sporadic FTLD. Here we establish that focal injection of sonicated human FUS fibrils into brains of mice in which ALS-linked mutant or wild-type human FUS replaces endogenous mouse FUS is sufficient to induce focal cytoplasmic mislocalization and aggregation of mutant and wild-type FUS which with time spreads to distal regions of the brain. Human FUS fibril-induced FUS aggregation in the mouse brain of humanized FUS mice is accelerated by an ALS-causing FUS mutant relative to wild-type human FUS. Injection of sonicated human FUS fibrils does not induce FUS aggregation and subsequent spreading after injection into naïve mouse brains containing only mouse FUS, indicating a species barrier to human FUS aggregation and its prion-like spread. Fibril-induced human FUS aggregates recapitulate pathological features of FTLD including increased detergent insolubility of FUS and TAF15 and amyloid-like, cytoplasmic deposits of FUS that accumulate ubiquitin and p62, but not TDP-43. Finally, injection of sonicated FUS fibrils is shown to exacerbate age-dependent cognitive and behavioral deficits from mutant human FUS expression. Thus, focal seeded aggregation of FUS and further propagation through prion-like spread elicits FUS-proteinopathy and FTLD-like disease progression.",
+    "authors": [
+      "Vazquez-Sanchez S",
+      "Tilkin B",
+      "Gasset-Rosa F",
+      "Zhang S",
+      "Piol D",
+      "McAlonis-Downes M",
+      "Artates J",
+      "Govea-Perez N",
+      "Verresen Y",
+      "Guo L",
+      "Cleveland DW",
+      "Shorter J",
+      "Da Cruz S"
+    ],
+    "journal": "bioRxiv",
+    "pubdate": "2024 Jun 3",
+    "ingestion_reasons": [
+      {
+        "reason": "targeted_search",
+        "gene": "TAF15"
+      }
+    ]
+  },
+  {
     "pmid": "39066921",
     "doi": "10.1007/s00018-024-05335-8",
     "title": "Increased copy-number variant load of associated risk genes in sporadic cases of amyotrophic lateral sclerosis.",
@@ -2585,6 +3284,28 @@
       {
         "reason": "targeted_search",
         "gene": "ERBB4"
+      }
+    ]
+  },
+  {
+    "pmid": "39116956",
+    "doi": "10.1016/j.exger.2024.112538",
+    "title": "Identification of potential drug targets for amyotrophic lateral sclerosis by Mendelian randomization analysis based on brain and plasma proteomics.",
+    "abstract": "Amyotrophic lateral sclerosis as a fatal neurodegenerative disease currently lacks effective therapeutic agents. Thus, finding new therapeutic targets to drive disease treatment is necessary. In this study, we utilized brain and plasma proteins as genetic instruments obtained from genome-wide association studies to conduct a Mendelian randomization analysis to identify potential drug targets for amyotrophic lateral sclerosis. Additionally, we validated our results externally using other datasets. We also used Bayesian co-localization analysis and phenotype scanning. Furthermore, we constructed a protein-protein interaction network to elucidate potential correlations between the identified proteins and existing targets. Mendelian randomization analysis indicated that elevated levels of ANO5 (OR = 1.30; 95 % CI, 1.14-1.49; P = 1.52E-04), SCFD1 (OR = 3.82; 95 % CI, 2.39-6.10; P = 2.19E-08), and SIGLEC9 (OR = 1.05; 95% CI, 1.03-1.07; P = 4.71E-05) are associated with an increased risk of amyotrophic lateral sclerosis, with external validation supporting these findings. Co-localization analysis confirmed that ANO5, SCFD1, and SIGLEC9 (coloc.abf-PPH4 = 0.848, 0.984, and 0.945, respectively) shared the same variant with amyotrophic lateral sclerosis, further substantiating potential role of these proteins as a therapeutic target. There are interactive relationships between the potential proteins and existing targets of amyotrophic lateral sclerosis. Our findings suggested that elevated levels of ANO5, SCFD1, and SIGLEC9 are connected with an increased risk of amyotrophic lateral sclerosis and might be promising therapeutic targets. However, further exploration is necessary to fully understand the underlying mechanisms involved.",
+    "authors": [
+      "Yang N",
+      "Shi L",
+      "Xu P",
+      "Ren F",
+      "Li C",
+      "Qi X"
+    ],
+    "journal": "Exp Gerontol",
+    "pubdate": "2024 Oct 1",
+    "ingestion_reasons": [
+      {
+        "reason": "targeted_search",
+        "gene": "SCFD1"
       }
     ]
   },
@@ -2686,6 +3407,38 @@
       {
         "reason": "targeted_search",
         "gene": "TUBA4A"
+      },
+      {
+        "reason": "targeted_search",
+        "gene": "CFAP410"
+      }
+    ]
+  },
+  {
+    "pmid": "39232248",
+    "doi": "10.1080/13816810.2024.2369271",
+    "title": "Expanding the genotypic and phenotypic spectra with a novel variant in the ciliopathy gene, CFAP410, associated with selective cone degeneration.",
+    "abstract": "BACKGROUND:  METHODS: A retrospective analysis of ophthalmic history, examination, retinal imaging, electrophysiology and microperimetry was performed as well as genetic testing with  RESULTS: A systemically well 28-year-old female of Pakistani ethnicity with parental consanguinity and no relevant family history, presented with childhood-onset poor central vision and photophobia. Best-corrected visual acuity and colour vision were reduced (0.5 LogMAR, 6/17 Ishihara plates (right) and 0.6 LogMAR, 3/17 Ishihara plates (left). Fundus examination showed no pigmentary retinopathy, no macular staphyloma and autofluorescence was unremarkable. Optical coherence tomography showed subtle signs of intermittent disruption of the ellipsoid zone. Microperimetry demonstrated a reduction in central retinal sensitivity. Electrodiagnostic testing confirmed a reduction in cone-driven responses. Whole-genome sequencing identified an in-frame homozygous deletion of 12 base pairs at c.335_346del in  CONCLUSIONS: The non-syndromic cone dystrophy phenotype reported herein expands the genotypic and phenotypic spectra of ",
+    "authors": [
+      "Borchert GA",
+      "Shanks ME",
+      "Whitfield J",
+      "Clouston P",
+      "Raji S",
+      "Sperring S",
+      "Thompson JA",
+      "Xue K",
+      "De Silva SR",
+      "Downes SM",
+      "MacLaren RE",
+      "Cehajic-Kapetanovic J"
+    ],
+    "journal": "Ophthalmic Genet",
+    "pubdate": "2024 Dec",
+    "ingestion_reasons": [
+      {
+        "reason": "targeted_search",
+        "gene": "CFAP410"
       }
     ]
   },
@@ -3020,6 +3773,38 @@
     ]
   },
   {
+    "pmid": "39703094",
+    "doi": "10.1093/brain/awae331",
+    "title": "C21ORF2 mutations point towards primary cilia dysfunction in amyotrophic lateral sclerosis.",
+    "abstract": "Progressive loss of motor neurons is the hallmark of the neurodegenerative disease amyotrophic lateral sclerosis (ALS), but the underlying disease mechanisms remain incompletely understood. In this study, we investigate the effects of C21ORF2 mutations, a gene recently linked to ALS, and find that primary cilia are dysfunctional. Human patient-derived mutant C21ORF2 motor neurons have a reduced ciliary frequency and length. We report that C21ORF2 is located at the basal body of the primary cilium, and mutations associated with ALS alter this localization. Furthermore, we show that a reduction of C21ORF2 levels in cell lines and motor neurons is sufficient to cause fewer primary cilia and reduced cilial length. This ciliary dysfunction leads to defective downstream sonic hedgehog signalling and reduces the expression of cellular retinoic acid binding protein 1 (CRABP1), a protein involved in motor neuron maintenance and survival. In a compartmentalized co-culture system of motor neurons and muscle cells, these ciliary defects were associated with a reduced ability of neuromuscular junction formation. Interestingly, these cilia defects are seemingly not restricted to C21ORF2 ALS, as we also observed perturbed primary cilia in cultured motor neurons and post-mortem motor cortex from patients with the most common genetic subtype of ALS caused by repeat expansions in the C9ORF72 gene. Finally, overexpression of C21ORF2 in mutant C21ORF2 motor neurons rescued the ciliary frequency and length, CRAPBP1 expression and neuromuscular junction formation, confirming the importance of primary cilia for motor neuron function. These results point towards primary cilia dysfunction contributing to motor neuron degeneration in ALS and open new avenues for further research and interventions for this as yet untreatable disease.",
+    "authors": [
+      "De Decker M",
+      "Zelina P",
+      "Moens TG",
+      "Beckers J",
+      "Contardo M",
+      "Dittlau KS",
+      "Van Schoor E",
+      "Ronisz A",
+      "Eggermont K",
+      "Moisse M",
+      "Chandran S",
+      "Veldink JH",
+      "Thal DR",
+      "Van Den Bosch L",
+      "Pasterkamp RJ",
+      "Van Damme P"
+    ],
+    "journal": "Brain",
+    "pubdate": "2025 Mar 6",
+    "ingestion_reasons": [
+      {
+        "reason": "targeted_search",
+        "gene": "CFAP410"
+      }
+    ]
+  },
+  {
     "pmid": "39709457",
     "doi": "10.1186/s40478-024-01916-7",
     "title": "CHMP2B promotes CHMP7 mediated nuclear pore complex injury in sporadic ALS.",
@@ -3060,11 +3845,37 @@
     "ingestion_reasons": [
       {
         "reason": "targeted_search",
-        "gene": "FIG4"
+        "gene": "ALS2"
       },
       {
         "reason": "targeted_search",
-        "gene": "ALS2"
+        "gene": "FIG4"
+      }
+    ]
+  },
+  {
+    "pmid": "39739690",
+    "doi": "10.1371/journal.pone.0308428",
+    "title": "Deciphering the interactome of Ataxin-2 and TDP-43 in iPSC-derived neurons for potential ALS targets.",
+    "abstract": "Ataxin-2 is a protein containing a polyQ extension and intermediate length of polyQ extensions increases the risk of Amyotrophic Lateral Sclerosis (ALS). Down-regulation of Ataxin-2 has been shown to mitigate TDP-43 proteinopathy in ALS models. To identify alternative therapeutic targets that can mitigate TDP-43 toxicity, we examined the interaction between Ataxin-2 and TDP-43. Co-immunoprecipitation demonstrated that Ataxin-2 and TDP-43 interact, that their interaction is mediated through the RNA recognition motif (RRM) of TDP-43, and knocking down Ataxin-2 or mutating the RRM domains rescued TDP-43 toxicity in an iPSC-derived neuronal model with TDP-43 overexpression. To decipher the Ataxin-2 and TDP-43 interactome, we used co-immunoprecipitation followed by mass spectrometry to identify proteins that interacted with Ataxin-2 and TDP-43 under conditions of endogenous or overexpressed TDP-43 in iPSC-derived neurons. Multiple interactome proteins were differentially regulated by TDP-43 overexpression and toxicity, including those involved in RNA regulation, cell survival, cytoskeleton reorganization, protein modification, and diseases. Interestingly, the RNA-binding protein (RBP), TAF15 which has been implicated in ALS was identified as a strong binder of Ataxin-2 in the condition of TDP-43 overexpression. Together, this study provides a comprehensive annotation of the Ataxin-2 and TDP-43 interactome and identifies potential therapeutic pathways and targets that could be modulated to alleviate Ataxin-2 and TDP-43 interaction-induced toxicity in ALS.",
+    "authors": [
+      "Tian Y",
+      "Heinsinger N",
+      "Hu Y",
+      "Lim UM",
+      "Wang Y",
+      "Fernandis AZ",
+      "Parmentier-Batteur S",
+      "Klein B",
+      "Uslaner JM",
+      "Smith SM"
+    ],
+    "journal": "PLoS One",
+    "pubdate": "2024",
+    "ingestion_reasons": [
+      {
+        "reason": "targeted_search",
+        "gene": "TAF15"
       }
     ]
   },
@@ -3119,6 +3930,43 @@
       {
         "reason": "targeted_search",
         "gene": "CCNF"
+      }
+    ]
+  },
+  {
+    "pmid": "39852553",
+    "doi": "10.1093/brain/awaf025",
+    "title": "Deep learning analyses of splicing variants identify the link of PCP4 with amyotrophic lateral sclerosis.",
+    "abstract": "Amyotrophic lateral sclerosis (ALS) is a severe motor neuron disease, with most sporadic cases lacking clear genetic causes. Abnormal pre-mRNA splicing is a fundamental mechanism in neurodegenerative diseases. For example, TAR DNA-binding protein 43 (TDP-43) loss of function causes widespread RNA mis-splicing events in ALS. Additionally, splicing mutations are major contributors to neurological disorders. However, the role of intronic variants driving RNA mis-splicing in ALS remains poorly understood. To address this, we developed Spliformer to predict RNA splicing. Spliformer is a transformer-based deep learning model trained and tested on splicing events from the GENCODE database, in addition to RNA-sequencing data from blood and CNS tissues. We benchmarked Spliformer against SpliceAI and Pangolin using testing datasets and paired whole-genome sequencing with RNA-sequencing data. We also developed the Spliformer-motif model to identify splicing regulatory motifs. We analysed the Clinvar dataset to identify the link of splicing variants with disease pathogenicity. Additionally, we analysed whole-genome sequencing data of ALS patients and controls to identify common intronic splicing variants linked to ALS risk or disease phenotypes. We also profiled rare intronic splicing variants in ALS patients to identify known or novel ALS-associated genes. Minigene assays were used to validate candidate splicing variants. Finally, we measured spine density in neurons with a specific gene knockdown or those expressing a TDP-43 disease-causing mutant. Spliformer accurately predicts the possibilities of a nucleotide within a pre-mRNA sequence being a splice donor, acceptor or neither. Spliformer outperformed SpliceAI and Pangolin in both speed and accuracy in tested splicing events and/or paired whole-genome sequencing/RNA-sequencing data. Spliformer-motif successfully identified canonical and novel splicing regulatory motifs. In the Clinvar dataset, splicing variants are highly related to disease pathogenicity. Genome-wide analyses of common intronic splicing variants nominated one variant linked to ALS progression. Deep learning analyses of whole-genome sequencing data from 1370 ALS patients revealed rare splicing variants in reported ALS genes (such as PTPRN2 and CFAP410, validated through minigene assays and RNA sequencing) and TDP-43 loss-of-function-related RNA mis-splicing genes (such as PTPRD). Further genetic analysis and minigene assays nominated PCP4 and TMEM63A as ALS-associated genes. Functional assays demonstrated that PCP4 is crucial for maintaining spine density and can rescue spine loss in neurons expressing a disease-causing TDP-43 mutant. In summary, we developed Spliformer and Spliformer-motif, which accurately predict and interpret pre-mRNA splicing. Our findings highlight an intronic genetic mechanism driving RNA mis-splicing in ALS and nominate PCP4 as an ALS-associated gene.",
+    "authors": [
+      "Tang X",
+      "Chen Y",
+      "Ren Y",
+      "Yang W",
+      "Yu W",
+      "Zhou Y",
+      "Guo J",
+      "Hu J",
+      "Chen X",
+      "Gu Y",
+      "Wang C",
+      "Dong Y",
+      "Yang H",
+      "Sato C",
+      "He J",
+      "Fan D",
+      "You L",
+      "Zinman L",
+      "Rogaeva E",
+      "Chen Y",
+      "Zhang M"
+    ],
+    "journal": "Brain",
+    "pubdate": "2025 Jul 7",
+    "ingestion_reasons": [
+      {
+        "reason": "targeted_search",
+        "gene": "CFAP410"
       }
     ]
   },
@@ -3451,6 +4299,26 @@
     ]
   },
   {
+    "pmid": "40285687",
+    "doi": "10.1002/cpz1.70136",
+    "title": "Purification of Low-Complexity Domain Proteins FUS, EWSR1, and Their Fusions.",
+    "abstract": "FET proteins are large multifunctional proteins that have several key roles in biology. The FET family of proteins, including FUS, EWSR1, and TAF15, play critical roles in transcription regulation, RNA processing, and DNA damage repair. These multifunctional RNA- and DNA-binding proteins are ubiquitously expressed and conserved across vertebrate species. They contain low-complexity (LC) domains that allow them to assemble and phase separate but also makes the proteins prone to aggregation. Aberrations in FET proteins, such as point mutations, aggregation, or translocations leading to fusion proteins, have been implicated in several pathologies, including frontotemporal lobar degeneration (FTLD), amyotrophic lateral sclerosis (ALS), and Ewing sarcoma. In vitro study of FET proteins is hampered by their propensity to aggregate, their disordered structure, and their susceptibility to proteolysis, making high-yield production difficult. Here, we present optimized methods for the purification of full-length FUS, EWSR1, and their fusion proteins. These protocols enable researchers to overcome issues related to aggregation and solubility, facilitating biochemical and biophysical studies of these critical yet complex proteins. © 2025 The Author(s). Current Protocols published by Wiley Periodicals LLC. Basic Protocol: Purification of EWSR1 and FUS proteins Alternate Protocol: Purification for fusion proteins.",
+    "authors": [
+      "Altemus JJ",
+      "Lay MA",
+      "Thompson VF",
+      "Schwartz JC"
+    ],
+    "journal": "Curr Protoc",
+    "pubdate": "2025 Apr",
+    "ingestion_reasons": [
+      {
+        "reason": "targeted_search",
+        "gene": "TAF15"
+      }
+    ]
+  },
+  {
     "pmid": "40293530",
     "doi": "10.1007/s00401-025-02876-5",
     "title": "LATE-NC Stage 3: a diagnostic rubric to differentiate severe LATE-NC from FTLD-TDP.",
@@ -3561,11 +4429,11 @@
     "ingestion_reasons": [
       {
         "reason": "targeted_search",
-        "gene": "CHMP2B"
+        "gene": "TMEM106B"
       },
       {
         "reason": "targeted_search",
-        "gene": "TMEM106B"
+        "gene": "CHMP2B"
       }
     ]
   },
@@ -4605,6 +5473,58 @@
     ]
   },
   {
+    "pmid": "40933646",
+    "doi": "10.1016/j.isci.2025.113338",
+    "title": "Functional variants of CFAP410 affect the DNA damage response leading to motor neuron degeneration - Implications for ALS.",
+    "abstract": "Mutations in CFAP410, a basal body protein known to be required for the formation of primary cilia, have been identified as risk modifiers in amyotrophic lateral sclerosis (ALS), a devastating late onset neurodegenerative disorder with poor prognosis. CFAP410 is also implicated in the DNA damage response and interacts with Nek1, which has been shown to be mutated in ALS. Herein, we investigated the effect of knocking in an HA epitope tag and functional mutations into the endogenous Cfap410 gene by gene editing in mouse embryonic stem cells (mESCs). We show that primary cilia in these edited mESCs, as well as in the neural progenitors and neurons differentiated from them do not exhibit any significant difference in frequency. However, ESCs, neural progenitors, and neurons with knock-in Cfap410 variants are more susceptible to DNA damage and exhibit impaired interaction with Nek1. Our findings point to DNA damage as a convergent pathway leading to ALS.",
+    "authors": [
+      "Ferguson R",
+      "Subramanian V"
+    ],
+    "journal": "iScience",
+    "pubdate": "2025 Sep 19",
+    "ingestion_reasons": [
+      {
+        "reason": "targeted_search",
+        "gene": "CFAP410"
+      }
+    ]
+  },
+  {
+    "pmid": "40949955",
+    "doi": "10.1101/2025.08.28.672801",
+    "title": "Cryptic splicing in synaptic and membrane excitability genes links TDP-43 loss to neuronal dysfunction.",
+    "abstract": "TDP-43 pathology is a defining pathological hallmark of multiple neurodegenerative diseases, including amyotrophic lateral sclerosis (ALS) and frontotemporal dementia (FTD). A major feature of TDP-43 pathology is its nuclear depletion, leading to the aberrant inclusion of cryptic exons during RNA splicing. ",
+    "authors": [
+      "Guo C",
+      "Chen K",
+      "Vatsavayai SC",
+      "Akiyama T",
+      "Zeng Y",
+      "Liu C",
+      "Sianto O",
+      "Yang E",
+      "Bombosch J",
+      "Powell R",
+      "Zhen S",
+      "Mekhoubad S",
+      "Morrie RD",
+      "Miller G",
+      "Green EM",
+      "Petrucelli L",
+      "Seeley WW",
+      "Gitler AD"
+    ],
+    "journal": "bioRxiv",
+    "pubdate": "2025 Sep 2",
+    "ingestion_reasons": [
+      {
+        "reason": "targeted_search",
+        "gene": "UNC13A"
+      }
+    ]
+  },
+  {
     "pmid": "40959204",
     "doi": "10.1002/mco2.70330",
     "title": "A Novel Genetic TDP-43 Pig Model Mimics Multiple Key ALS-Like Features.",
@@ -4897,6 +5817,24 @@
     ]
   },
   {
+    "pmid": "41085196",
+    "doi": "10.1096/fj.202502096r",
+    "title": "Phase Separation of TAF15 C-Terminal LC Domain Enables RNA-Binding Protein-Mediated Transcriptional Regulation.",
+    "abstract": "TAF15 is an RNA/ssDNA-binding protein and transcriptional activator implicated in diseases such as cancer and ALS. Its C-terminal low-complexity (LC) domain harbors most ALS-associated mutations, suggesting a crucial role in disease mechanisms. Here, we demonstrate that this LC domain mediates dynamic interactions with the RNA-binding protein hnRNPA0, which enhances the transcriptional activity of TAF15. Domain-swapping experiments with the related protein FUS show that the C-terminal LC domain of TAF15 is both necessary and sufficient for hnRNPA0 responsiveness. Phosphomimic mutations in the C-terminal LC domain disrupt this interaction and diminish hnRNPA0-mediated transcriptional activation. hnRNPA0 contains the RNA recognition motif and LC domain, both of which are required for hnRNPA0 to promote transcription. Furthermore, ALS-linked mutations in TAF15 impair its ability to undergo phase separation, reduce binding to hnRNPA0, and eliminate transcriptional enhancement. These findings suggest that TAF15's C-terminal LC domain connects hnRNPA0 to transcriptional regulation, and that this mechanism is disrupted in ALS-associated mutations.",
+    "authors": [
+      "Lee J",
+      "Kwon I"
+    ],
+    "journal": "FASEB J",
+    "pubdate": "2025 Oct 31",
+    "ingestion_reasons": [
+      {
+        "reason": "targeted_search",
+        "gene": "TAF15"
+      }
+    ]
+  },
+  {
     "pmid": "41117127",
     "doi": "10.1111/ene.70376",
     "title": "Monoclonal Gammopathy in Amyotrophic Lateral Sclerosis: No Impact on Clinical Progression and Immunotherapy Outcomes.",
@@ -5007,11 +5945,11 @@
     "ingestion_reasons": [
       {
         "reason": "targeted_search",
-        "gene": "NEK1"
+        "gene": "SETX"
       },
       {
         "reason": "targeted_search",
-        "gene": "SETX"
+        "gene": "ALS2"
       },
       {
         "reason": "targeted_search",
@@ -5019,7 +5957,7 @@
       },
       {
         "reason": "targeted_search",
-        "gene": "ALS2"
+        "gene": "NEK1"
       }
     ]
   },
@@ -5121,19 +6059,19 @@
     "ingestion_reasons": [
       {
         "reason": "targeted_search",
-        "gene": "NEK1"
-      },
-      {
-        "reason": "targeted_search",
         "gene": "SETX"
       },
       {
         "reason": "targeted_search",
-        "gene": "FIG4"
+        "gene": "NEK1"
       },
       {
         "reason": "targeted_search",
         "gene": "SQSTM1"
+      },
+      {
+        "reason": "targeted_search",
+        "gene": "FIG4"
       }
     ]
   },
@@ -5615,11 +6553,7 @@
     "ingestion_reasons": [
       {
         "reason": "targeted_search",
-        "gene": "ATXN2"
-      },
-      {
-        "reason": "targeted_search",
-        "gene": "FIG4"
+        "gene": "ANG"
       },
       {
         "reason": "targeted_search",
@@ -5627,7 +6561,11 @@
       },
       {
         "reason": "targeted_search",
-        "gene": "ANG"
+        "gene": "ATXN2"
+      },
+      {
+        "reason": "targeted_search",
+        "gene": "FIG4"
       }
     ]
   },
@@ -5646,11 +6584,48 @@
     "ingestion_reasons": [
       {
         "reason": "targeted_search",
-        "gene": "NEFH"
+        "gene": "SQSTM1"
       },
       {
         "reason": "targeted_search",
-        "gene": "SQSTM1"
+        "gene": "NEFH"
+      }
+    ]
+  },
+  {
+    "pmid": "41394711",
+    "doi": "10.1101/2025.11.26.690143",
+    "title": "U7 small nuclear RNA splice-switching therapeutics for STMN2 and UNC13A in Amyotrophic Lateral Sclerosis.",
+    "abstract": "TDP-43 nuclear depletion in amyotrophic lateral sclerosis (ALS) causes de-repression of cryptic exons (CEs) in multiple transcripts, including ",
+    "authors": [
+      "Mehta PR",
+      "Solomon T",
+      "Pickles S",
+      "Harley P",
+      "Barioglio M",
+      "Schweingruber C",
+      "Marrero-Gagliardi A",
+      "Gao Y",
+      "Mattedi F",
+      "Barattucci S",
+      "Lin LT",
+      "Ryadnov E",
+      "Zanovello M",
+      "Cammack AJ",
+      "Isaacs AM",
+      "Burrone J",
+      "Shaw CE",
+      "Keuss MJ",
+      "Petrucelli L",
+      "Fratta P",
+      "Ruepp MD"
+    ],
+    "journal": "bioRxiv",
+    "pubdate": "2025 Nov 30",
+    "ingestion_reasons": [
+      {
+        "reason": "targeted_search",
+        "gene": "UNC13A"
       }
     ]
   },
@@ -5889,6 +6864,31 @@
       {
         "reason": "targeted_search",
         "gene": "KIF5A"
+      }
+    ]
+  },
+  {
+    "pmid": "41481541",
+    "doi": "10.1080/21678421.2025.2608238",
+    "title": "Homozygosity for the C allele at UNC13A rs12608932 seems to compromise cognition in ALS independently of the cognitive domains.",
+    "abstract": "The common single nucleotide polymorphism (SNP) rs12608932 located at a cryptic splice in the ",
+    "authors": [
+      "Lehto A",
+      "Zapf A",
+      "Hermann A",
+      "Machts J",
+      "Vielhaber S",
+      "Koppenbrink J",
+      "Edbauer D",
+      "Kasper E",
+      "Prudlo J"
+    ],
+    "journal": "Amyotroph Lateral Scler Frontotemporal Degener",
+    "pubdate": "2026 May",
+    "ingestion_reasons": [
+      {
+        "reason": "targeted_search",
+        "gene": "UNC13A"
       }
     ]
   },
@@ -6148,6 +7148,37 @@
     ]
   },
   {
+    "pmid": "41573891",
+    "doi": "10.64898/2025.12.01.691001",
+    "title": "Dual-targeting snRNA gene therapy rescues STMN2 and UNC13A splicing in TDP-43 proteinopathies.",
+    "abstract": "Amyotrophic lateral sclerosis (ALS) is a neurodegenerative disorder caused by the selective deterioration of motor neurons in the central nervous system (CNS). A key driver of this pathogenesis is nuclear loss of ALS-associated protein TDP-43, leading to mis-splicing of TDP-43 targets including important neuronal genes ",
+    "authors": [
+      "Gomberg TA",
+      "Elmsaouri S",
+      "Kopalle HM",
+      "Baughn MW",
+      "Beccari MS",
+      "McAlonis-Downes M",
+      "Artates JW",
+      "Pant D",
+      "Mak H",
+      "Smargon AA",
+      "Sander TC",
+      "Garcia E",
+      "Lee DP",
+      "Cleveland DW",
+      "Yeo GW"
+    ],
+    "journal": "bioRxiv",
+    "pubdate": "2025 Dec 3",
+    "ingestion_reasons": [
+      {
+        "reason": "targeted_search",
+        "gene": "UNC13A"
+      }
+    ]
+  },
+  {
     "pmid": "41582437",
     "doi": "10.1021/acschembio.5c00911",
     "title": "TRIM9 and TRIM26 Interact with UBQLN2(P497H) to Modulate Its Proteasomal Degradation.",
@@ -6209,19 +7240,19 @@
     "ingestion_reasons": [
       {
         "reason": "targeted_search",
-        "gene": "SIGMAR1"
-      },
-      {
-        "reason": "targeted_search",
         "gene": "SPG11"
       },
       {
         "reason": "targeted_search",
-        "gene": "OPTN"
+        "gene": "ALS2"
       },
       {
         "reason": "targeted_search",
-        "gene": "ALS2"
+        "gene": "SIGMAR1"
+      },
+      {
+        "reason": "targeted_search",
+        "gene": "OPTN"
       }
     ]
   },
@@ -6282,23 +7313,7 @@
     "ingestion_reasons": [
       {
         "reason": "targeted_search",
-        "gene": "SETX"
-      },
-      {
-        "reason": "targeted_search",
-        "gene": "NEFH"
-      },
-      {
-        "reason": "targeted_search",
-        "gene": "DCTN1"
-      },
-      {
-        "reason": "targeted_search",
-        "gene": "SPG11"
-      },
-      {
-        "reason": "targeted_search",
-        "gene": "VCP"
+        "gene": "CHCHD10"
       },
       {
         "reason": "targeted_search",
@@ -6310,7 +7325,23 @@
       },
       {
         "reason": "targeted_search",
-        "gene": "CHCHD10"
+        "gene": "SPG11"
+      },
+      {
+        "reason": "targeted_search",
+        "gene": "NEFH"
+      },
+      {
+        "reason": "targeted_search",
+        "gene": "DCTN1"
+      },
+      {
+        "reason": "targeted_search",
+        "gene": "VCP"
+      },
+      {
+        "reason": "targeted_search",
+        "gene": "SETX"
       }
     ]
   },
@@ -6399,11 +7430,11 @@
     "ingestion_reasons": [
       {
         "reason": "targeted_search",
-        "gene": "VAPB"
+        "gene": "VCP"
       },
       {
         "reason": "targeted_search",
-        "gene": "VCP"
+        "gene": "VAPB"
       }
     ]
   },
@@ -6784,11 +7815,7 @@
     "ingestion_reasons": [
       {
         "reason": "targeted_search",
-        "gene": "OPTN"
-      },
-      {
-        "reason": "targeted_search",
-        "gene": "SQSTM1"
+        "gene": "ANXA11"
       },
       {
         "reason": "targeted_search",
@@ -6796,7 +7823,11 @@
       },
       {
         "reason": "targeted_search",
-        "gene": "ANXA11"
+        "gene": "SQSTM1"
+      },
+      {
+        "reason": "targeted_search",
+        "gene": "OPTN"
       },
       {
         "reason": "targeted_search",
@@ -7326,11 +8357,11 @@
     "ingestion_reasons": [
       {
         "reason": "targeted_search",
-        "gene": "PRPH"
+        "gene": "CHCHD10"
       },
       {
         "reason": "targeted_search",
-        "gene": "CHCHD10"
+        "gene": "PRPH"
       }
     ]
   },
@@ -7401,6 +8432,111 @@
     ]
   },
   {
+    "pmid": "41917433",
+    "doi": "10.1038/s41588-026-02535-9",
+    "title": "Large-scale exome analyses reveal new rare variant contributions in amyotrophic lateral sclerosis.",
+    "abstract": "Amyotrophic lateral sclerosis (ALS) is a heritable disorder where rare variants with low-to-moderate penetrance are thought to dominate genetic risk. To identify such rare variants, we harmonized and analyzed exome data from 22 cohorts, totaling 17,919 individuals with ALS and 200,703 controls across discovery and replication phases. Rare variant analyses identified several new risk genes, with replication confirming association of YKT6 and supporting HTR3C, GBGT1 and KNTC1. We also provide strong, independent validation for genes with limited previous evidence: ARPP21, DNAJC7 and CFAP410. Notably, in ARPP21, we identified a new high-effect variant (p.P747L) and confirmed that p.P563L is an ALS-associated variant leading to an aggressive disease course. Beyond new discoveries, our analyses largely recapitulated the known genetic architecture of ALS, identifying risk variants in over 20% of cases and supporting a cumulative oligogenic risk model. These findings highlight new translational targets and show that rare variant analyses capture substantially more genetic risk than common variant genome-wide association studies.",
+    "authors": [
+      "Hop PJ",
+      "Kooyman M",
+      "Kenna BJ",
+      "Zwamborn RAJ",
+      "van Eijk KR",
+      "Wang Y",
+      "van Dijk CH",
+      "Bekema E",
+      "van Rheenen W",
+      "Beele P",
+      "van Vugt JJFA",
+      "Project MinE ALS sequencing Consortium",
+      "NYGC ALS Consortium",
+      "FALS sequencing Consortium",
+      "GTAC Consortium",
+      "Khleifat AA",
+      "Iacoangeli A",
+      "Cooper-Knock J",
+      "Smith BN",
+      "Topp S",
+      "van der Kooi AJ",
+      "Fominykh V",
+      "Drory V",
+      "Lerner Y",
+      "Shovman Y",
+      "Rowe DB",
+      "Williams KL",
+      "McLaughlin RL",
+      "Hurt J",
+      "Huang Y",
+      "Chen CY",
+      "Tsai E",
+      "Runz H",
+      "Aronica E",
+      "Groen EJN",
+      "van Es MA",
+      "Pasterkamp RJ",
+      "Farhan SMK",
+      "Garton FC",
+      "McRae AF",
+      "McCombe PA",
+      "Henderson RD",
+      "Fan D",
+      "Šlachtová L",
+      "Høyer H",
+      "Nishimura AL",
+      "Cauchi RJ",
+      "Brylev L",
+      "Rogelj B",
+      "Koritnik B",
+      "Zidar J",
+      "Salas T",
+      "Mora Pardina JS",
+      "Gotkine M",
+      "Povedano M",
+      "Corcia P",
+      "Vourc'h P",
+      "Couratier P",
+      "Weber M",
+      "Kiernan MC",
+      "Pamphlett R",
+      "Blair IP",
+      "de Carvalho M",
+      "Başak NA",
+      "Ingre C",
+      "Andersen PM",
+      "Zinman L",
+      "Rogaeva E",
+      "MacKenzie IR",
+      "Dupre N",
+      "Rouleau GA",
+      "Traynor BJ",
+      "Ticozzi N",
+      "Chiò A",
+      "Silani V",
+      "Hardiman O",
+      "Phatnani H",
+      "Harms MB",
+      "Dalgard CL",
+      "Glass JD",
+      "Landers JE",
+      "Van Damme P",
+      "Morrison KE",
+      "Shaw PJ",
+      "Shaw CE",
+      "Al-Chalabi A",
+      "van den Berg LH",
+      "Kenna KP",
+      "Veldink JH"
+    ],
+    "journal": "Nat Genet",
+    "pubdate": "2026 Apr",
+    "ingestion_reasons": [
+      {
+        "reason": "targeted_search",
+        "gene": "CFAP410"
+      }
+    ]
+  },
+  {
     "pmid": "41917768",
     "doi": "10.1002/brb3.71366",
     "title": "Integrative Multi-Omics Mendelian Randomization Highlights Causal Autophagy-Related Genes for Amyotrophic Lateral Sclerosis.",
@@ -7422,11 +8558,55 @@
     "ingestion_reasons": [
       {
         "reason": "targeted_search",
-        "gene": "SQSTM1"
+        "gene": "PFN1"
       },
       {
         "reason": "targeted_search",
-        "gene": "PFN1"
+        "gene": "SQSTM1"
+      }
+    ]
+  },
+  {
+    "pmid": "41929081",
+    "doi": "10.64898/2026.03.25.714147",
+    "title": "Cross-disease genetic and epigenetic architecture of the MOBP locus shows convergence in ALS-PSP.",
+    "abstract": "Myelin oligodendrocyte basic protein (",
+    "authors": [
+      "Fodder K",
+      "Murthy M",
+      "de Silva R",
+      "Raj T",
+      "Farrell K",
+      "Humphrey J",
+      "Bettencourt C"
+    ],
+    "journal": "bioRxiv",
+    "pubdate": "2026 Mar 27",
+    "ingestion_reasons": [
+      {
+        "reason": "targeted_search",
+        "gene": "MOBP"
+      }
+    ]
+  },
+  {
+    "pmid": "41931746",
+    "doi": "10.1212/wnl.0000000000214858",
+    "title": "Long-Term Exposure to Ambient Air Pollution and Incident Amyotrophic Lateral Sclerosis: A Prospective Cohort Analysis of the UK Biobank.",
+    "abstract": "BACKGROUND AND OBJECTIVES: Amyotrophic lateral sclerosis (ALS) is a neurodegenerative disease with a complex etiology. Although a range of genetic and lifestyle factors have been implicated, the potential role of environmental airborne pollution exposure is uncertain. This study examined the association between long-term ambient exposure to air pollutants and the incidence of ALS in UK Biobank participants. METHODS: This prospective cohort study was based on the UK Biobank participants aged 40-69 years. The analytical sample comprised participants free of ALS at baseline and had complete data on air pollution exposure. Long-term exposure (2006-2021) to nitrogen dioxide (NO RESULTS: Among the 501,308 participants with a mean age of 56.5 (SD 8.1) years at baseline, 272,764 (54.4%) were female. Over a median follow-up of 8.4 years, 687 individuals developed ALS. We did not observe any associations for any of the examined pollutants and ALS risk. Specifically, the hazard ratios per SD increment for PM DISCUSSION: In this large population-based study with high statistical power, ambient air pollution was not a risk factor for the development of ALS.",
+    "authors": [
+      "Chalitsios CV",
+      "Rudolf O",
+      "Gao J",
+      "Turner MR",
+      "Thompson AG"
+    ],
+    "journal": "Neurology",
+    "pubdate": "2026 Apr 28",
+    "ingestion_reasons": [
+      {
+        "reason": "targeted_search",
+        "gene": "UNC13A"
       }
     ]
   },
@@ -7446,6 +8626,29 @@
       {
         "reason": "targeted_search",
         "gene": "ANG"
+      }
+    ]
+  },
+  {
+    "pmid": "41996987",
+    "doi": "10.1016/j.bbrc.2026.153723",
+    "title": "Decoding RNA splicing pathology: Alternative splicing in amyotrophic lateral sclerosis and its therapeutic potential.",
+    "abstract": "Amyotrophic lateral sclerosis (ALS) is a fatal neurodegenerative disorder marked by progressive motor neuron loss, leading to muscle weakness, paralysis, and respiratory failure. Dysregulation of RNA metabolism and splicing has emerged as a central mechanism in ALS pathogenesis. TARDBP (TAR DNA-binding protein), FET family proteins (FUS, EWSR1, TAF15), SOD1 (Superoxide Dismutase 1), and C9orf72 (Chromosome 9 Open Reading Frame 72) are key genes associated with ALS that regulate RNA processing, alternative splicing, and nuclear-cytoplasmic transport. Mutations or mislocalization of these proteins result in nuclear loss-of-function and cytoplasmic gain-of-function toxicity, promoting protein aggregation, sequestering spliceosomal components, and impairing spliceosome assembly. This leads to the aberrant inclusion of cryptic exons in essential neuronal genes, such as STMN2 (Stathmin 2) and UNC13A (Unc-13 Homolog A), resulting in the production of truncated proteins, defective axonal maintenance, and impaired synaptic function. TDP-43 pathology, a hallmark of ALS, disrupts splicing and RNA transport, while C9orf72 repeat expansions and FET protein mutations exacerbate cytoplasmic aggregation and stress granule dynamics. Mutant SOD1 contributes via mitochondrial dysfunction, endoplasmic reticulum stress, and disrupted axonal transport. Therapeutic strategies targeting these mechanisms are advancing rapidly. Gene replacement therapy, which restores STMN2 expression, and antisense oligonucleotides (ASOs) targeting mutant transcripts show promise in preclinical and early clinical studies. Complementary approaches, including the inhibition of stress kinases and the activation of autophagy, reduce cytoplasmic protein aggregation and support neuronal homeostasis. This review provides a comprehensive overview of RNA splicing regulation, spliceosomal dysfunction, and cryptic exon incorporation in ALS. Understanding the interplay among splicing defects, RNA-binding protein pathology, and neuronal degeneration is critical for developing next-generation multimodal therapies to restore RNA processing, reduce toxic protein accumulation, and promote motor neuron survival.",
+    "authors": [
+      "Priya R",
+      "Tanti GK",
+      "Jain BP"
+    ],
+    "journal": "Biochem Biophys Res Commun",
+    "pubdate": "2026 Jun 18",
+    "ingestion_reasons": [
+      {
+        "reason": "targeted_search",
+        "gene": "TAF15"
+      },
+      {
+        "reason": "targeted_search",
+        "gene": "UNC13A"
       }
     ]
   },
@@ -7501,15 +8704,34 @@
     "ingestion_reasons": [
       {
         "reason": "targeted_search",
-        "gene": "ATXN2"
-      },
-      {
-        "reason": "targeted_search",
         "gene": "KIF5A"
       },
       {
         "reason": "targeted_search",
+        "gene": "ATXN2"
+      },
+      {
+        "reason": "targeted_search",
         "gene": "NEFH"
+      }
+    ]
+  },
+  {
+    "pmid": "42049092",
+    "doi": "10.1016/j.jare.2026.04.066",
+    "title": "Physiological and pathological functions of TAF15 in neurodegenerative diseases and cancers.",
+    "abstract": "BACKGROUND: TATA-box binding protein associated factor 15 (TAF15) is a multifunctional DNA/RNA-binding protein that plays pivotal roles in transcription regulation, precursor mRNA splicing, and cellular stress responses. Accumulating evidence demonstrates that TAF15 is strongly implicated in two distinct pathological classes: neurodegenerative diseases and cancers. In neurodegenerative diseases including frontotemporal lobar degeneration (FTLD) and amyotrophic lateral sclerosis (ALS), TAF15 undergoes abnormal cytoplasmic aggregation and mislocalization in neurons and glia, and TAF15 has been established as a candidate disease gene for ALS. In a wide range of cancers, TAF15 drives oncogenic transcriptional dysregulation either via wild-type protein dysfunction or the formation of oncogenic fusion proteins derived from chromosomal translocations. AIM OF REVIEW: A central unresolved question is how TAF15 contributes to two mechanistically distinct disease entities. This review aims to provide a mechanistically integrated analysis of the physiological and pathological functions of TAF15. We use TAF15's intrinsic molecular properties as a unifying framework to connect its roles in neurodegeneration and cancer. We also summarize key pathogenic mechanisms and emerging therapeutic strategies targeting TAF15, with the goal of proposing a novel conceptual perspective to guide future research. Key scientific concepts of review. TAF15 may act as a biologically relevant molecular link between neurodegeneration and cancer through its intrinsic molecular characteristics, such as nucleic acid binding, phase separation, and nucleocytoplasmic shuttling. The \"localization determines outcome\" hypothesis offers a unifying framework to explain the connection between the two diseases. TAF15 holds promise as a target for novel biomarkers and precision therapeutics across both disease areas. Deepening mechanistic studies of TAF15 will not only advance understanding of its dual pathological roles but also illuminate the largely unexplored molecular link between neurodegenerative diseases and cancers.",
+    "authors": [
+      "Liu C",
+      "Meng L",
+      "Zhang Z"
+    ],
+    "journal": "J Adv Res",
+    "pubdate": "2026 Apr 26",
+    "ingestion_reasons": [
+      {
+        "reason": "targeted_search",
+        "gene": "TAF15"
       }
     ]
   },
@@ -7920,6 +9142,37 @@
     ]
   },
   {
+    "pmid": "42178983",
+    "doi": "10.1002/advs.202516846",
+    "title": "Protein Disulfide Isomerase Disassembles TDP-43/G3BP1 Condensates and Antagonizes TDP-43 Pathological Aggregates.",
+    "abstract": "Cytoplasmic mislocalization and aggregation of transactive response DNA-binding protein-43 (TDP-43) is a common pathological feature of amyotrophic lateral sclerosis (ALS), frontotemporal lobar degeneration, and Alzheimer's disease with TDP-43 pathology (AD-TDP); the exact role of protein disulfide isomerase (PDI), an enzyme with chaperone activity, in modulating the pathological behavior of TDP-43 is unknown. In this study, we report that wild-type PDI, through its specific interaction with TDP-43, markedly attenuates phase separation of TDP-43, competitively displaces G3BP1 to disassemble TDP-43/G3BP1 condensates, and further counteracts the pathological mislocalization, abnormal phosphorylation, and pathological aggregation of TDP-43 through the b' domain of the enzyme. Ultimately, this alleviates mitochondrial damage and neuronal toxicity caused by TDP-43 aggregation and suppresses UNC13A cryptic splicing in stressed cells. In the presence of abnormal forms of PDI, however, PDI loses its activity, and stress granules containing TDP-43 are assembled into amyloid fibrils, resulting in mitochondrial impairment and neuronal cell death in ALS and AD-TDP patients. These findings not only provide new insights into the pathogenic mechanisms of TDP-43 in neurodegenerative diseases such as ALS and AD-TDP, but also propose PDI as a potential therapeutic target.",
+    "authors": [
+      "Liu JQ",
+      "Liu H",
+      "Sun YX",
+      "Li Y",
+      "Liu X",
+      "Wang LQ",
+      "Yang Z",
+      "Fu Q",
+      "Xu X",
+      "Chen J",
+      "Zhang Y",
+      "Zhou J",
+      "Le W",
+      "Cui M",
+      "Liang Y"
+    ],
+    "journal": "Adv Sci (Weinh)",
+    "pubdate": "2026 May 25",
+    "ingestion_reasons": [
+      {
+        "reason": "targeted_search",
+        "gene": "UNC13A"
+      }
+    ]
+  },
+  {
     "pmid": "42183628",
     "doi": "10.1080/15548627.2026.2678427",
     "title": "CHCHD2 and CHCHD10 promoted autophagic clearance of protein aggregates via GABARAPs.",
@@ -7948,6 +9201,30 @@
       {
         "reason": "targeted_search",
         "gene": "CHCHD10"
+      }
+    ]
+  },
+  {
+    "pmid": "42187823",
+    "doi": "10.3390/jof12050341",
+    "title": "RNA-Binding Protein TAF15 Suppresses Toxicity in a Yeast Model of FUS Proteinopathy.",
+    "abstract": "Mutations in an RNA-binding protein FUS are known to cause familial amyotrophic lateral sclerosis (ALS). Since this discovery, mutations in several other RNA-binding proteins (RBPs) have also been linked to ALS. Some of these ALS-associated RBPs have been shown to colocalize with ribonucleoprotein (RNP) granules such as stress granules and processing bodies (p-bodies). Increasing evidence has emerged supporting a hypothesis that the impaired clearance, inappropriate assembly, and dysregulation of RNP granules play a role in ALS. Through the genome-scale overexpression screening of a yeast model of FUS toxicity, we found that TAF15, a human RBP with a similar protein domain structure and belonging to the same FET protein family as FUS, suppresses FUS toxicity in yeast. The suppression by TAF15 is specific to FUS and not found in other yeast models of neurodegenerative disease-associated proteins. We showed that the RNA recognition motif (RRM) of TAF15 is required for its suppression of FUS toxicity. Furthermore, FUS and TAF15 physically interact, and the C-terminus of TAF15 is required for both the physical protein-protein interaction and its protection against FUS toxicity. Finally, while FUS induces and colocalizes with both stress granules and p-bodies, TAF15 only induces and colocalizes with p-bodies. Importantly, the co-expression of FUS and TAF15 induces more p-bodies than individually expressing each gene alone, and FUS toxicity is exacerbated in yeast that is deficient in p-body formation. Overall, our findings suggest a role of increased p-body formation in the suppression of FUS toxicity by TAF15.",
+    "authors": [
+      "Hayden E",
+      "Kebe A",
+      "Chen S",
+      "Chumley A",
+      "Xia C",
+      "El-Zein W",
+      "Zhong Q",
+      "Ju S"
+    ],
+    "journal": "J Fungi (Basel)",
+    "pubdate": "2026 May 6",
+    "ingestion_reasons": [
+      {
+        "reason": "targeted_search",
+        "gene": "TAF15"
       }
     ]
   },
@@ -8065,6 +9342,38 @@
     ]
   },
   {
+    "pmid": "42223334",
+    "doi": "10.1111/ene.70653",
+    "title": "Distinct UNC13A Haplotype Blocks Define Disease Severity and Survival in Chinese Amyotrophic Lateral Sclerosis.",
+    "abstract": "BACKGROUND: UNC13A is a genetic modifier of amyotrophic lateral sclerosis (ALS) in European populations, but its role in Chinese patients remains incompletely characterized. We investigated the spectrum of UNC13A variation and its impact on disease risk and progression in a Chinese ALS cohort. METHODS: We performed an integrated genetic analysis of 1,533 Chinese ALS patients and 1,405 controls, including rare variant burden testing, genome-wide survival analysis, haplotype mapping, and conditional analyses. An integrated clinical-genetic prognostic score was developed and validated. RESULTS: Rare deleterious UNC13A variants were not associated with ALS risk. We identified two independent haplotype blocks with distinct clinical impacts. Block 1 (tagged by rs75421007) was associated with reduced baseline muscle strength (p = 0.030), while Block 2 (tagged by rs78549703), a brain-specific splicing QTL, was the primary driver of survival heterogeneity. The European variant rs12608932 showed a survival association in single-marker analysis (p = 0.024), but conditional analyses revealed its effect was not independent of Block 2. An integrated prognostic score combining clinical factors and Block 2 haplotype stratified patients into low-, intermediate-, and high-risk groups (median survival: 52.6, 37.1, and 32.0 months; p < 0.001), with decision curve analysis confirming clinical utility. CONCLUSIONS: This study delineates UNC13A genetic architecture in Chinese ALS, identifying two independent haplotype blocks that differentially influence disease severity and survival. The Block 2 haplotype, which includes a brain sQTL, is a major determinant of survival heterogeneity and may inform patient stratification in future studies.",
+    "authors": [
+      "He C",
+      "Liu Z",
+      "Yuan Y",
+      "Tang L",
+      "Wang M",
+      "Li Y",
+      "Zhao Q",
+      "Weng L",
+      "Du J",
+      "Wu H",
+      "Hu F",
+      "Xu R",
+      "Guo J",
+      "Shen L",
+      "Tang B",
+      "Wang J"
+    ],
+    "journal": "Eur J Neurol",
+    "pubdate": "2026 Jun",
+    "ingestion_reasons": [
+      {
+        "reason": "targeted_search",
+        "gene": "UNC13A"
+      }
+    ]
+  },
+  {
     "pmid": "42227825",
     "doi": "10.1021/jacs.6c07727",
     "title": "Site-Specific Raman Probes Reveal Droplet Aging and Residue-Level Fibril Polymorphism in TDP-43(CTD).",
@@ -8134,6 +9443,10 @@
     "journal": "Sci Transl Med",
     "pubdate": "2026 Jun 3",
     "ingestion_reasons": [
+      {
+        "reason": "targeted_search",
+        "gene": "UNC13A"
+      },
       {
         "reason": "targeted_search",
         "gene": "TARDBP"
@@ -8393,6 +9706,10 @@
     "ingestion_reasons": [
       {
         "reason": "targeted_search",
+        "gene": "UNC13A"
+      },
+      {
+        "reason": "targeted_search",
         "gene": "TARDBP"
       }
     ]
@@ -8433,11 +9750,11 @@
     "ingestion_reasons": [
       {
         "reason": "targeted_search",
-        "gene": "SQSTM1"
+        "gene": "PFN1"
       },
       {
         "reason": "targeted_search",
-        "gene": "PFN1"
+        "gene": "SQSTM1"
       }
     ]
   },
@@ -8553,11 +9870,15 @@
     "ingestion_reasons": [
       {
         "reason": "targeted_search",
+        "gene": "NEK1"
+      },
+      {
+        "reason": "targeted_search",
         "gene": "TARDBP"
       },
       {
         "reason": "targeted_search",
-        "gene": "SOD1"
+        "gene": "FUS"
       },
       {
         "reason": "targeted_search",
@@ -8565,15 +9886,11 @@
       },
       {
         "reason": "targeted_search",
+        "gene": "SOD1"
+      },
+      {
+        "reason": "targeted_search",
         "gene": "ATXN2"
-      },
-      {
-        "reason": "targeted_search",
-        "gene": "NEK1"
-      },
-      {
-        "reason": "targeted_search",
-        "gene": "FUS"
       }
     ]
   },
@@ -8752,15 +10069,15 @@
     "ingestion_reasons": [
       {
         "reason": "targeted_search",
-        "gene": "SOD1"
-      },
-      {
-        "reason": "targeted_search",
         "gene": "FUS"
       },
       {
         "reason": "targeted_search",
         "gene": "C9orf72"
+      },
+      {
+        "reason": "targeted_search",
+        "gene": "SOD1"
       }
     ]
   },
@@ -8782,7 +10099,11 @@
     "ingestion_reasons": [
       {
         "reason": "targeted_search",
-        "gene": "SOD1"
+        "gene": "NEK1"
+      },
+      {
+        "reason": "targeted_search",
+        "gene": "FUS"
       },
       {
         "reason": "targeted_search",
@@ -8790,15 +10111,11 @@
       },
       {
         "reason": "targeted_search",
-        "gene": "NEK1"
-      },
-      {
-        "reason": "targeted_search",
         "gene": "VCP"
       },
       {
         "reason": "targeted_search",
-        "gene": "FUS"
+        "gene": "SOD1"
       }
     ]
   },

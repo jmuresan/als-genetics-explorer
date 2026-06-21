@@ -1,10 +1,11 @@
 # config.yaml - ALS Genetic Mechanism Explorer Configuration
 
 # Seed genes for analysis
-# 41 human genes carrying the UniProt "Amyotrophic lateral sclerosis" keyword (KW-0036),
-# pulled from rest.uniprot.org (see data/raw/uniprot_als_kw0036.fasta). This is the full
-# keyword-defined panel and supersedes the earlier 20-gene hand-picked set. UNC13A, an ALS
-# modifier from the prior panel, is not keyword-tagged by UniProt and is therefore not here.
+# 46-gene ALS panel: the 41 human genes carrying the UniProt "Amyotrophic lateral sclerosis"
+# keyword (KW-0036, see data/raw/uniprot_als_kw0036.fasta), plus 5 ALS genes from the OMIM ALS
+# phenotypic series PS105400 / GeneReviews ALS Overview that UniProt does not keyword-tag:
+# CFAP410, MOBP, SCFD1, TAF15, UNC13A. Each is a reviewed human protein verified in UniProt.
+# (OMIM blocks automated access, so the PS105400 set was sourced via GeneReviews NBK1450.)
 seed_genes:
   - ALS2
   - ANG
@@ -12,6 +13,7 @@ seed_genes:
   - ATXN2
   - C9orf72
   - CCNF
+  - CFAP410
   - CHCHD10
   - CHMP2B
   - CYLD
@@ -26,17 +28,20 @@ seed_genes:
   - KIF5A
   - LRP12
   - MATR3
+  - MOBP
   - NEFH
   - NEK1
   - OPTN
   - PFN1
   - PRPH
+  - SCFD1
   - SETX
   - SIGMAR1
   - SOD1
   - SPG11
   - SPTLC1
   - SQSTM1
+  - TAF15
   - TARDBP
   - TBK1
   - TIA1
@@ -45,6 +50,7 @@ seed_genes:
   - TUBA4A
   - UBQLN2
   - UBQLN4
+  - UNC13A
   - VAPB
   - VCP
 

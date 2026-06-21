@@ -1,0 +1,156 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "981023"
+    ],
+    "981023": {
+      "uid": "981023",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV000981023",
+      "accession_version": "VCV000981023.3",
+      "title": "NM_001393704.1(MOBP):c.514C>A (p.Arg172Ser)",
+      "variation_set": [
+        {
+          "measure_id": "969096",
+          "variation_xrefs": [
+            {
+              "db_source": "ClinGen",
+              "db_id": "CA352323409"
+            },
+            {
+              "db_source": "dbSNP",
+              "db_id": "1188260744"
+            }
+          ],
+          "variation_name": "NM_001393704.1(MOBP):c.514C>A (p.Arg172Ser)",
+          "cdna_change": "c.514C>A",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "3",
+              "band": "3p22.1",
+              "start": "39502842",
+              "stop": "39502842",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "39502842",
+              "display_stop": "39502842",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "3",
+              "band": "3p22.1",
+              "start": "39544333",
+              "stop": "39544333",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "39544333",
+              "display_stop": "39544333",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [
+            {
+              "source": "Trans-Omics for Precision Medicine (TOPMed)",
+              "value": "0.00000",
+              "minor_allele": ""
+            }
+          ],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000003.12:39502841:C:A",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV001437174"
+        ],
+        "rcv": [
+          "RCV001260205"
+        ]
+      },
+      "germline_classification": {
+        "description": "Uncertain significance",
+        "last_evaluated": "2020/09/09 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "803"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C0002736"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0004976"
+              },
+              {
+                "db_source": "Human Phenotype Ontology",
+                "db_id": "HP:0007354"
+              }
+            ],
+            "trait_name": "Amyotrophic lateral sclerosis"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "MOBP",
+      "chr_sort": "03",
+      "location_sort": "00000000000039502842",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "MOBP",
+          "geneid": "4336",
+          "strand": "+",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "missense variant",
+        "non-coding transcript variant",
+        "intron variant"
+      ],
+      "protein_change": "R172S, R196S",
+      "fda_recognized_database": ""
+    }
+  }
+}

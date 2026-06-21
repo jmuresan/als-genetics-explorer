@@ -1,0 +1,62 @@
+[
+  {
+    "stringId_A": "9606.ENSP00000381047",
+    "stringId_B": "9606.ENSP00000424757",
+    "preferredName_A": "CFAP410",
+    "preferredName_B": "NEK1",
+    "ncbiTaxonId": 9606,
+    "score": 0.982,
+    "nscore": 0,
+    "fscore": 0,
+    "pscore": 0,
+    "ascore": 0,
+    "escore": 0.609,
+    "dscore": 0,
+    "tscore": 0.956
+  },
+  {
+    "stringId_A": "9606.ENSP00000381047",
+    "stringId_B": "9606.ENSP00000264276",
+    "preferredName_A": "CFAP410",
+    "preferredName_B": "ALS2",
+    "ncbiTaxonId": 9606,
+    "score": 0.875,
+    "nscore": 0,
+    "fscore": 0,
+    "pscore": 0,
+    "ascore": 0.06,
+    "escore": 0.78,
+    "dscore": 0,
+    "tscore": 0.446
+  },
+  {
+    "stringId_A": "9606.ENSP00000381047",
+    "stringId_B": "9606.ENSP00000269848",
+    "preferredName_A": "CFAP410",
+    "preferredName_B": "PFKL",
+    "ncbiTaxonId": 9606,
+    "score": 0.784,
+    "nscore": 0,
+    "fscore": 0.027,
+    "pscore": 0,
+    "ascore": 0.056,
+    "escore": 0,
+    "dscore": 0,
+    "tscore": 0.781
+  },
+  {
+    "stringId_A": "9606.ENSP00000381047",
+    "stringId_B": "9606.ENSP00000381601",
+    "preferredName_A": "CFAP410",
+    "preferredName_B": "MX1",
+    "ncbiTaxonId": 9606,
+    "score": 0.773,
+    "nscore": 0,
+    "fscore": 0,
+    "pscore": 0,
+    "ascore": 0,
+    "escore": 0,
+    "dscore": 0,
+    "tscore": 0.773
+  }
+]

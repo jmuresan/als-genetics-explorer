@@ -1,0 +1,58 @@
+{
+  "header": {
+    "type": "esearch",
+    "version": "0.3"
+  },
+  "esearchresult": {
+    "count": "13",
+    "retmax": "13",
+    "retstart": "0",
+    "idlist": [
+      "4820022",
+      "4820021",
+      "3051662",
+      "3036243",
+      "3031380",
+      "2635990",
+      "2634576",
+      "2629197",
+      "2629078",
+      "1303193",
+      "1215916",
+      "1199112",
+      "717960"
+    ],
+    "translationset": [],
+    "translationstack": [
+      {
+        "term": "TAF15[gene]",
+        "field": "gene",
+        "count": "239",
+        "explode": "N"
+      },
+      {
+        "term": "amyotrophic[All Fields]",
+        "field": "All Fields",
+        "count": "10881",
+        "explode": "N"
+      },
+      {
+        "term": "lateral[All Fields]",
+        "field": "All Fields",
+        "count": "23718",
+        "explode": "N"
+      },
+      "AND",
+      {
+        "term": "sclerosis[All Fields]",
+        "field": "All Fields",
+        "count": "32827",
+        "explode": "N"
+      },
+      "AND",
+      "GROUP",
+      "AND"
+    ],
+    "querytranslation": "TAF15[gene] AND (amyotrophic[All Fields] AND lateral[All Fields] AND sclerosis[All Fields])"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "header": {
+    "type": "esearch",
+    "version": "0.3"
+  },
+  "esearchresult": {
+    "count": "9",
+    "retmax": "9",
+    "retstart": "0",
+    "idlist": [
+      "41929081",
+      "37979250",
+      "20301623",
+      "37494873",
+      "34946282",
+      "34694630",
+      "31624333",
+      "31183926",
+      "27455348"
+    ],
+    "translationset": [],
+    "querytranslation": "(\"MOBP\"[Title/Abstract] OR \"MOBP\"[All Fields]) AND (\"amyotrophic lateral sclerosis\"[Title/Abstract] OR \"ALS\"[Title/Abstract])"
+  }
+}

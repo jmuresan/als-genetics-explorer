@@ -126,6 +126,9 @@
     <node id="BCL2">
       <data key="d0">gene</data>
     </node>
+    <node id="BET1">
+      <data key="d0">gene</data>
+    </node>
     <node id="BICD2">
       <data key="d0">gene</data>
     </node>
@@ -146,6 +149,27 @@
       <data key="d1">ENSG_C9orf72</data>
       <data key="d2">Q96LT7</data>
       <data key="d3">Guanine nucleotide exchange factor C9orf72</data>
+    </node>
+    <node id="CALM1">
+      <data key="d0">gene</data>
+    </node>
+    <node id="CALM2">
+      <data key="d0">gene</data>
+    </node>
+    <node id="CALM3">
+      <data key="d0">gene</data>
+    </node>
+    <node id="CALML3">
+      <data key="d0">gene</data>
+    </node>
+    <node id="CALML4">
+      <data key="d0">gene</data>
+    </node>
+    <node id="CALML5">
+      <data key="d0">gene</data>
+    </node>
+    <node id="CALML6">
+      <data key="d0">gene</data>
     </node>
     <node id="CCNF">
       <data key="d0">gene</data>
@@ -170,6 +194,9 @@
     </node>
     <node id="CFAP410">
       <data key="d0">gene</data>
+      <data key="d1">ENSG_CFAP410</data>
+      <data key="d2">O43822</data>
+      <data key="d3">Cilia- and flagella-associated protein 410</data>
     </node>
     <node id="CFL1">
       <data key="d0">gene</data>
@@ -223,6 +250,9 @@
       <data key="d0">gene</data>
     </node>
     <node id="CLIP1">
+      <data key="d0">gene</data>
+    </node>
+    <node id="CNP">
       <data key="d0">gene</data>
     </node>
     <node id="CTNS">
@@ -354,6 +384,9 @@
     <node id="ERG28">
       <data key="d0">gene</data>
     </node>
+    <node id="ERMN">
+      <data key="d0">gene</data>
+    </node>
     <node id="FAF1">
       <data key="d0">gene</data>
     </node>
@@ -397,6 +430,12 @@
       <data key="d0">gene</data>
     </node>
     <node id="GLDC">
+      <data key="d0">gene</data>
+    </node>
+    <node id="GOSR1">
+      <data key="d0">gene</data>
+    </node>
+    <node id="GOSR2">
       <data key="d0">gene</data>
     </node>
     <node id="GPD2">
@@ -531,6 +570,9 @@
     <node id="LSM12">
       <data key="d0">gene</data>
     </node>
+    <node id="MAG">
+      <data key="d0">gene</data>
+    </node>
     <node id="MAP1LC3A">
       <data key="d0">gene</data>
     </node>
@@ -555,6 +597,12 @@
     <node id="MAVS">
       <data key="d0">gene</data>
     </node>
+    <node id="MBP">
+      <data key="d0">gene</data>
+    </node>
+    <node id="MECP2">
+      <data key="d0">gene</data>
+    </node>
     <node id="MICOS10">
       <data key="d0">gene</data>
     </node>
@@ -562,6 +610,15 @@
       <data key="d0">gene</data>
     </node>
     <node id="MLKL">
+      <data key="d0">gene</data>
+    </node>
+    <node id="MOBP">
+      <data key="d0">gene</data>
+      <data key="d1">ENSG_MOBP</data>
+      <data key="d2">Q13875</data>
+      <data key="d3">Myelin-associated oligodendrocyte basic protein</data>
+    </node>
+    <node id="MOG">
       <data key="d0">gene</data>
     </node>
     <node id="MSMO1">
@@ -583,6 +640,12 @@
       <data key="d0">gene</data>
     </node>
     <node id="MTMR7">
+      <data key="d0">gene</data>
+    </node>
+    <node id="MX1">
+      <data key="d0">gene</data>
+    </node>
+    <node id="NAPA">
       <data key="d0">gene</data>
     </node>
     <node id="NBR1">
@@ -615,6 +678,9 @@
     <node id="NPLOC4">
       <data key="d0">gene</data>
     </node>
+    <node id="NR4A3">
+      <data key="d0">gene</data>
+    </node>
     <node id="NRDC">
       <data key="d0">gene</data>
     </node>
@@ -625,6 +691,12 @@
       <data key="d0">gene</data>
     </node>
     <node id="NRG3">
+      <data key="d0">gene</data>
+    </node>
+    <node id="NSF">
+      <data key="d0">gene</data>
+    </node>
+    <node id="OPALIN">
       <data key="d0">gene</data>
     </node>
     <node id="OPTN">
@@ -663,6 +735,9 @@
     <node id="PDCD6">
       <data key="d0">gene</data>
     </node>
+    <node id="PFKL">
+      <data key="d0">gene</data>
+    </node>
     <node id="PFN1">
       <data key="d0">gene</data>
       <data key="d1">ENSG_PFN1</data>
@@ -685,6 +760,9 @@
       <data key="d0">gene</data>
     </node>
     <node id="PLK1">
+      <data key="d0">gene</data>
+    </node>
+    <node id="PLP1">
       <data key="d0">gene</data>
     </node>
     <node id="PLXNB2">
@@ -765,6 +843,12 @@
     <node id="RBX1">
       <data key="d0">gene</data>
     </node>
+    <node id="RIMS1">
+      <data key="d0">gene</data>
+    </node>
+    <node id="RIMS2">
+      <data key="d0">gene</data>
+    </node>
     <node id="RIPK1">
       <data key="d0">gene</data>
     </node>
@@ -811,6 +895,15 @@
       <data key="d0">gene</data>
     </node>
     <node id="SCAF8">
+      <data key="d0">gene</data>
+    </node>
+    <node id="SCFD1">
+      <data key="d0">gene</data>
+      <data key="d1">ENSG_SCFD1</data>
+      <data key="d2">Q8WVM8</data>
+      <data key="d3">Sec1 family domain-containing protein 1</data>
+    </node>
+    <node id="SEC22B">
       <data key="d0">gene</data>
     </node>
     <node id="SELENOS">
@@ -930,6 +1023,33 @@
     <node id="STING1">
       <data key="d0">gene</data>
     </node>
+    <node id="STX18">
+      <data key="d0">gene</data>
+    </node>
+    <node id="STX5">
+      <data key="d0">gene</data>
+    </node>
+    <node id="TAF11">
+      <data key="d0">gene</data>
+    </node>
+    <node id="TAF13">
+      <data key="d0">gene</data>
+    </node>
+    <node id="TAF15">
+      <data key="d0">gene</data>
+      <data key="d1">ENSG_TAF15</data>
+      <data key="d2">Q92804</data>
+      <data key="d3">TATA-binding protein-associated factor 2N</data>
+    </node>
+    <node id="TAF2">
+      <data key="d0">gene</data>
+    </node>
+    <node id="TAF4">
+      <data key="d0">gene</data>
+    </node>
+    <node id="TAF5">
+      <data key="d0">gene</data>
+    </node>
     <node id="TANK">
       <data key="d0">gene</data>
     </node>
@@ -946,6 +1066,9 @@
       <data key="d3">Serine/threonine-protein kinase TBK1</data>
     </node>
     <node id="TBKBP1">
+      <data key="d0">gene</data>
+    </node>
+    <node id="TBP">
       <data key="d0">gene</data>
     </node>
     <node id="TFG">
@@ -1080,6 +1203,18 @@
     <node id="ULK1">
       <data key="d0">gene</data>
     </node>
+    <node id="UNC13A">
+      <data key="d0">gene</data>
+      <data key="d1">ENSG_UNC13A</data>
+      <data key="d2">Q9UPW8</data>
+      <data key="d3">Protein unc-13 homolog A</data>
+    </node>
+    <node id="UNC13C">
+      <data key="d0">gene</data>
+    </node>
+    <node id="USO1">
+      <data key="d0">gene</data>
+    </node>
     <node id="VAC14">
       <data key="d0">gene</data>
     </node>
@@ -1126,6 +1261,9 @@
       <data key="d0">gene</data>
     </node>
     <node id="XRN2">
+      <data key="d0">gene</data>
+    </node>
+    <node id="YKT6">
       <data key="d0">gene</data>
     </node>
     <node id="ZDHHC9">
@@ -2573,6 +2711,11 @@
       <data key="d0">variant</data>
       <data key="d4">Pathogenic</data>
       <data key="d5">Frontotemporal dementia and/or amyotrophic lateral sclerosis 5</data>
+    </node>
+    <node id="VCV000981017">
+      <data key="d0">variant</data>
+      <data key="d4">Uncertain significance</data>
+      <data key="d5">Amyotrophic lateral sclerosis</data>
     </node>
     <node id="VCV001955643">
       <data key="d0">variant</data>
@@ -6624,6 +6767,11 @@
       <data key="d4">Uncertain significance</data>
       <data key="d5">Amyotrophic lateral sclerosis</data>
     </node>
+    <node id="VCV000981023">
+      <data key="d0">variant</data>
+      <data key="d4">Uncertain significance</data>
+      <data key="d5">Amyotrophic lateral sclerosis</data>
+    </node>
     <node id="VCV001298890">
       <data key="d0">variant</data>
       <data key="d4">Uncertain significance</data>
@@ -7792,6 +7940,16 @@
     <node id="VCV000873306">
       <data key="d0">variant</data>
       <data key="d4">Uncertain significance</data>
+      <data key="d5">Amyotrophic lateral sclerosis</data>
+    </node>
+    <node id="VCV000976653">
+      <data key="d0">variant</data>
+      <data key="d4">Uncertain significance</data>
+      <data key="d5">Amyotrophic lateral sclerosis</data>
+    </node>
+    <node id="VCV000981027">
+      <data key="d0">variant</data>
+      <data key="d4">Conflicting classifications of pathogenicity</data>
       <data key="d5">Amyotrophic lateral sclerosis</data>
     </node>
     <node id="VCV004630639">
@@ -10389,6 +10547,71 @@
       <data key="d4">Likely benign</data>
       <data key="d5">Frontotemporal dementia and/or amyotrophic lateral sclerosis 1</data>
     </node>
+    <node id="VCV001199112">
+      <data key="d0">variant</data>
+      <data key="d4">Conflicting classifications of pathogenicity</data>
+      <data key="d5">Amyotrophic lateral sclerosis</data>
+    </node>
+    <node id="VCV001215916">
+      <data key="d0">variant</data>
+      <data key="d4">Uncertain significance</data>
+      <data key="d5">Amyotrophic lateral sclerosis</data>
+    </node>
+    <node id="VCV001303193">
+      <data key="d0">variant</data>
+      <data key="d4">Uncertain significance</data>
+      <data key="d5">not provided</data>
+    </node>
+    <node id="VCV002629078">
+      <data key="d0">variant</data>
+      <data key="d4">Uncertain significance</data>
+      <data key="d5">TAF15-related disorder</data>
+    </node>
+    <node id="VCV002629197">
+      <data key="d0">variant</data>
+      <data key="d4">Uncertain significance</data>
+      <data key="d5">TAF15-related disorder</data>
+    </node>
+    <node id="VCV002634576">
+      <data key="d0">variant</data>
+      <data key="d4">Uncertain significance</data>
+      <data key="d5">TAF15-related disorder</data>
+    </node>
+    <node id="VCV002635990">
+      <data key="d0">variant</data>
+      <data key="d4">Uncertain significance</data>
+      <data key="d5">TAF15-related disorder</data>
+    </node>
+    <node id="VCV003031380">
+      <data key="d0">variant</data>
+      <data key="d4">Uncertain significance</data>
+      <data key="d5">TAF15-related disorder</data>
+    </node>
+    <node id="VCV003036243">
+      <data key="d0">variant</data>
+      <data key="d4">Uncertain significance</data>
+      <data key="d5">TAF15-related disorder</data>
+    </node>
+    <node id="VCV003051662">
+      <data key="d0">variant</data>
+      <data key="d4">Uncertain significance</data>
+      <data key="d5">not provided</data>
+    </node>
+    <node id="VCV004820021">
+      <data key="d0">variant</data>
+      <data key="d4">Uncertain significance</data>
+      <data key="d5">Amyotrophic lateral sclerosis</data>
+    </node>
+    <node id="VCV004820022">
+      <data key="d0">variant</data>
+      <data key="d4">Uncertain significance</data>
+      <data key="d5">Amyotrophic lateral sclerosis</data>
+    </node>
+    <node id="VCV000717960">
+      <data key="d0">variant</data>
+      <data key="d4">Conflicting classifications of pathogenicity</data>
+      <data key="d5">not provided</data>
+    </node>
     <node id="VCV001612730">
       <data key="d0">variant</data>
       <data key="d4">Likely benign</data>
@@ -12139,6 +12362,36 @@
       <data key="d4">Uncertain significance</data>
       <data key="d5">Amyotrophic lateral sclerosis type 15</data>
     </node>
+    <node id="VCV001709996">
+      <data key="d0">variant</data>
+      <data key="d4">Likely pathogenic</data>
+      <data key="d5">Amyotrophic lateral sclerosis type 1</data>
+    </node>
+    <node id="VCV001804618">
+      <data key="d0">variant</data>
+      <data key="d4">Uncertain significance</data>
+      <data key="d5">not provided</data>
+    </node>
+    <node id="VCV002445231">
+      <data key="d0">variant</data>
+      <data key="d4">Benign/Likely benign</data>
+      <data key="d5">not provided</data>
+    </node>
+    <node id="VCV002634041">
+      <data key="d0">variant</data>
+      <data key="d4">Uncertain significance</data>
+      <data key="d5">not provided</data>
+    </node>
+    <node id="VCV003352091">
+      <data key="d0">variant</data>
+      <data key="d4">Uncertain significance</data>
+      <data key="d5">UNC13A-related disorder</data>
+    </node>
+    <node id="VCV000981032">
+      <data key="d0">variant</data>
+      <data key="d4">Conflicting classifications of pathogenicity</data>
+      <data key="d5">not specified</data>
+    </node>
     <node id="VCV002051565">
       <data key="d0">variant</data>
       <data key="d4">Uncertain significance</data>
@@ -13519,6 +13772,10 @@
       <data key="d0">pathway</data>
       <data key="d6">Retinoid metabolism and transport</data>
     </node>
+    <node id="R-HSA-8986944">
+      <data key="d0">pathway</data>
+      <data key="d6">Transcriptional Regulation by MECP2</data>
+    </node>
     <node id="R-HSA-9861718">
       <data key="d0">pathway</data>
       <data key="d6">Regulation of pyruvate metabolism</data>
@@ -13563,6 +13820,14 @@
       <data key="d0">pathway</data>
       <data key="d6">RHO GTPases Activate Formins</data>
     </node>
+    <node id="R-HSA-204005">
+      <data key="d0">pathway</data>
+      <data key="d6">COPII-mediated vesicle transport</data>
+    </node>
+    <node id="R-HSA-8980692">
+      <data key="d0">pathway</data>
+      <data key="d6">RHOA GTPase cycle</data>
+    </node>
     <node id="R-HSA-9679191">
       <data key="d0">pathway</data>
       <data key="d6">Potential therapeutics for SARS</data>
@@ -13606,6 +13871,42 @@
     <node id="R-HSA-9759194">
       <data key="d0">pathway</data>
       <data key="d6">Nuclear events mediated by NFE2L2</data>
+    </node>
+    <node id="R-HSA-167161">
+      <data key="d0">pathway</data>
+      <data key="d6">HIV Transcription Initiation</data>
+    </node>
+    <node id="R-HSA-167162">
+      <data key="d0">pathway</data>
+      <data key="d6">RNA Polymerase II HIV Promoter Escape</data>
+    </node>
+    <node id="R-HSA-167172">
+      <data key="d0">pathway</data>
+      <data key="d6">Transcription of the HIV genome</data>
+    </node>
+    <node id="R-HSA-674695">
+      <data key="d0">pathway</data>
+      <data key="d6">RNA Polymerase II Pre-transcription Events</data>
+    </node>
+    <node id="R-HSA-6804756">
+      <data key="d0">pathway</data>
+      <data key="d6">Regulation of TP53 Activity through Phosphorylation</data>
+    </node>
+    <node id="R-HSA-73776">
+      <data key="d0">pathway</data>
+      <data key="d6">RNA Polymerase II Promoter Escape</data>
+    </node>
+    <node id="R-HSA-73779">
+      <data key="d0">pathway</data>
+      <data key="d6">RNA Polymerase II Transcription Pre-Initiation And Promoter Opening</data>
+    </node>
+    <node id="R-HSA-75953">
+      <data key="d0">pathway</data>
+      <data key="d6">RNA Polymerase II Transcription Initiation</data>
+    </node>
+    <node id="R-HSA-76042">
+      <data key="d0">pathway</data>
+      <data key="d6">RNA Polymerase II Transcription Initiation And Promoter Clearance</data>
     </node>
     <node id="R-HSA-1606341">
       <data key="d0">pathway</data>
@@ -13742,10 +14043,6 @@
     <node id="R-HSA-8856825">
       <data key="d0">pathway</data>
       <data key="d6">Cargo recognition for clathrin-mediated endocytosis</data>
-    </node>
-    <node id="R-HSA-8980692">
-      <data key="d0">pathway</data>
-      <data key="d6">RHOA GTPase cycle</data>
     </node>
     <node id="R-HSA-9013106">
       <data key="d0">pathway</data>
@@ -13959,6 +14256,12 @@
       <data key="d8">The distinct genetic pattern of ALS in Turkey and novel mutations.</data>
       <data key="d9">2015 Apr</data>
     </node>
+    <node id="27455348">
+      <data key="d0">paper</data>
+      <data key="d7">10.1038/ng.3622</data>
+      <data key="d8">Genome-wide association analyses identify new risk variants and the genetic architecture of amyotrophic lateral sclerosis.</data>
+      <data key="d9">2016 Sep</data>
+    </node>
     <node id="28463112">
       <data key="d0">paper</data>
       <data key="d7">10.7554/elife.25453</data>
@@ -14001,6 +14304,12 @@
       <data key="d8">Ubiquilins regulate autophagic flux through mTOR signalling and lysosomal acidification.</data>
       <data key="d9">2019 Mar</data>
     </node>
+    <node id="31183926">
+      <data key="d0">paper</data>
+      <data key="d7">10.1111/neup.12564</data>
+      <data key="d8">Immunoreactivity of myelin-associated oligodendrocytic basic protein in Lewy bodies.</data>
+      <data key="d9">2019 Aug</data>
+    </node>
     <node id="31187092">
       <data key="d0">paper</data>
       <data key="d8">SLC41A1 and TRPM7 in magnesium homeostasis and genetic risk for Parkinson's disease.</data>
@@ -14011,6 +14320,12 @@
       <data key="d7">10.1038/s41588-019-0458-z</data>
       <data key="d8">Noncoding CGG repeat expansions in neuronal intranuclear inclusion disease, oculopharyngodistal myopathy and an overlapping disease.</data>
       <data key="d9">2019 Aug</data>
+    </node>
+    <node id="31624333">
+      <data key="d0">paper</data>
+      <data key="d7">10.1038/s41397-019-0111-3</data>
+      <data key="d8">Pharmacogenetic interactions in amyotrophic lateral sclerosis: a step closer to a cure?</data>
+      <data key="d9">2020 Apr</data>
     </node>
     <node id="32185393">
       <data key="d0">paper</data>
@@ -14090,11 +14405,23 @@
       <data key="d8">NOTCH2NLC-related disorders: the widening spectrum and genotype-phenotype correlation.</data>
       <data key="d9">2022 Jan</data>
     </node>
+    <node id="34694630">
+      <data key="d0">paper</data>
+      <data key="d7">10.1111/ane.13538</data>
+      <data key="d8">Myelin-associated oligodendrocyte basic protein rs616147 polymorphism as a risk factor for Parkinson's disease.</data>
+      <data key="d9">2022 Feb</data>
+    </node>
     <node id="34868212">
       <data key="d0">paper</data>
       <data key="d7">10.3389/fgene.2021.740052</data>
       <data key="d8">Rare CYLD Variants in Chinese Patients With Amyotrophic Lateral Sclerosis.</data>
       <data key="d9">2021</data>
+    </node>
+    <node id="34946282">
+      <data key="d0">paper</data>
+      <data key="d7">10.3390/medicina57121337</data>
+      <data key="d8">MOBP rs616147 Polymorphism and Risk of Amyotrophic Lateral Sclerosis in a Greek Population: A Case-Control Study.</data>
+      <data key="d9">2021 Dec 7</data>
     </node>
     <node id="35029765">
       <data key="d0">paper</data>
@@ -14138,6 +14465,12 @@
       <data key="d8">CYLD variants identified in Alzheimer's disease and frontotemporal dementia patients.</data>
       <data key="d9">2022 Oct</data>
     </node>
+    <node id="36131690">
+      <data key="d0">paper</data>
+      <data key="d7">10.3389/fnmol.2022.954928</data>
+      <data key="d8">A polymorphic transcriptional regulatory domain in the amyotrophic lateral sclerosis risk gene CFAP410 correlates with differential isoform expression.</data>
+      <data key="d9">2022</data>
+    </node>
     <node id="36445564">
       <data key="d0">paper</data>
       <data key="d7">10.1007/s13760-022-02148-z</data>
@@ -14162,6 +14495,18 @@
       <data key="d8">Zinc Alters the Supramolecular Organization of Nucleic Acid Complexes with Full-Length TIA1.</data>
       <data key="d9">2023 Jan 25</data>
     </node>
+    <node id="36759259">
+      <data key="d0">paper</data>
+      <data key="d7">10.1016/j.biopsych.2022.11.002</data>
+      <data key="d8">Prioritization of Drug Targets for Neurodegenerative Diseases by Integrating Genetic and Proteomic Data From Brain and Blood.</data>
+      <data key="d9">2023 May 1</data>
+    </node>
+    <node id="36944290">
+      <data key="d0">paper</data>
+      <data key="d7">10.1016/j.neurobiolaging.2023.02.005</data>
+      <data key="d8">Loss of amyotrophic lateral sclerosis risk factor SCFD1 causes motor dysfunction in Drosophila.</data>
+      <data key="d9">2023 Jun</data>
+    </node>
     <node id="36982902">
       <data key="d0">paper</data>
       <data key="d7">10.3390/ijms24065828</data>
@@ -14173,6 +14518,30 @@
       <data key="d7">10.1007/s00415-023-11746-7</data>
       <data key="d8">Genetic characterization of primary lateral sclerosis.</data>
       <data key="d9">2023 Aug</data>
+    </node>
+    <node id="37148340">
+      <data key="d0">paper</data>
+      <data key="d7">10.1007/s00415-023-11757-4</data>
+      <data key="d8">Identifying novel genes for amyotrophic lateral sclerosis by integrating human brain proteomes with genome-wide association data.</data>
+      <data key="d9">2023 Aug</data>
+    </node>
+    <node id="37159497">
+      <data key="d0">paper</data>
+      <data key="d7">10.1111/ene.15855</data>
+      <data key="d8">Advantages of routine next-generation sequencing over standard genetic testing in the amyotrophic lateral sclerosis clinic.</data>
+      <data key="d9">2023 Aug</data>
+    </node>
+    <node id="37163440">
+      <data key="d0">paper</data>
+      <data key="d7">10.14336/ad.2022.12209</data>
+      <data key="d8">Investigating Causality and Shared Genetic Architecture between Neurodegenerative Disorders and Inflammatory Bowel Disease.</data>
+      <data key="d9">2023 Aug 1</data>
+    </node>
+    <node id="37188479">
+      <data key="d0">paper</data>
+      <data key="d7">10.26508/lsa.202201740</data>
+      <data key="d8">Functional characterization of C21ORF2 association with the NEK1 kinase mutated in human in diseases.</data>
+      <data key="d9">2023 Jul</data>
     </node>
     <node id="37243816">
       <data key="d0">paper</data>
@@ -14204,6 +14573,12 @@
       <data key="d8">SPTLC1 p.Leu38Arg, a novel mutation associated with childhood ALS.</data>
       <data key="d9">2023 Sep</data>
     </node>
+    <node id="37494873">
+      <data key="d0">paper</data>
+      <data key="d7">10.1016/j.jmgm.2023.108572</data>
+      <data key="d8">Structural dynamics of moonlighting intrinsically disordered proteins - A black box in multiple sclerosis.</data>
+      <data key="d9">2023 Nov</data>
+    </node>
     <node id="37497262">
       <data key="d0">paper</data>
       <data key="d7">10.1159/000530974</data>
@@ -14228,6 +14603,12 @@
       <data key="d8">The identification of high-performing antibodies for Charged multivesicular body protein 2b for use in Western Blot, immunoprecipitation and immunofluorescence.</data>
       <data key="d9">2023</data>
     </node>
+    <node id="37639066">
+      <data key="d0">paper</data>
+      <data key="d7">10.1007/s12035-023-03587-2</data>
+      <data key="d8">Abnormal Brain Protein Abundance and Cross-tissue mRNA Expression in Amyotrophic Lateral Sclerosis.</data>
+      <data key="d9">2024 Jan</data>
+    </node>
     <node id="37697342">
       <data key="d0">paper</data>
       <data key="d7">10.1186/s40035-023-00375-9</data>
@@ -14245,6 +14626,18 @@
       <data key="d7">10.2174/1567205020666230811092906</data>
       <data key="d8">Behavioural Variant Frontotemporal Dementia due to CCNF Gene Mutation: A Case Report.</data>
       <data key="d9">2023</data>
+    </node>
+    <node id="37905864">
+      <data key="d0">paper</data>
+      <data key="d7">10.4103/1673-5374.386411</data>
+      <data key="d8">SCFD1 in amyotrophic lateral sclerosis: reconciling a genetic association with in vivo functional analysis.</data>
+      <data key="d9">2024 Jun 1</data>
+    </node>
+    <node id="37979250">
+      <data key="d0">paper</data>
+      <data key="d7">10.1016/j.neurobiolaging.2023.09.017</data>
+      <data key="d8">Identifying risk loci for FTD and shared genetic component with ALS: A large-scale multitrait association analysis.</data>
+      <data key="d9">2024 Feb</data>
     </node>
     <node id="37993492">
       <data key="d0">paper</data>
@@ -14354,6 +14747,18 @@
       <data key="d8">Zebrafish CCNF and FUS Mediate Stress-Specific Motor Responses.</data>
       <data key="d9">2024 Feb 21</data>
     </node>
+    <node id="38492239">
+      <data key="d0">paper</data>
+      <data key="d7">10.1021/jacs.3c12034</data>
+      <data key="d8">Insights into Molecular Diversity within the FUS/EWS/TAF15 Protein Family: Unraveling Phase Separation of the N-Terminal Low-Complexity Domain from RNA-Binding Protein EWS.</data>
+      <data key="d9">2024 Mar 27</data>
+    </node>
+    <node id="38568213">
+      <data key="d0">paper</data>
+      <data key="d7">10.1007/s00018-024-05204-4</data>
+      <data key="d8">Phosphorylation of the compartmentalized PKA substrate TAF15 regulates RNA-protein interactions.</data>
+      <data key="d9">2024 Apr 3</data>
+    </node>
     <node id="38638178">
       <data key="d0">paper</data>
       <data key="d7">10.12688/f1000research.133645.2</data>
@@ -14371,6 +14776,12 @@
       <data key="d7">10.1080/21678421.2024.2348636</data>
       <data key="d8">Short tandem repeat expansions in LRP12 are absent in cohorts of familial and sporadic amyotrophic lateral sclerosis patients of European ancestry.</data>
       <data key="d9">2024 Aug</data>
+    </node>
+    <node id="38862967">
+      <data key="d0">paper</data>
+      <data key="d7">10.1186/s13024-024-00737-5</data>
+      <data key="d8">Frontotemporal dementia-like disease progression elicited by seeded aggregation and spread of FUS.</data>
+      <data key="d9">2024 Jun 11</data>
     </node>
     <node id="38879591">
       <data key="d0">paper</data>
@@ -14408,6 +14819,12 @@
       <data key="d8">[Amyotrophic lateral sclerosis associated with a new pathogenic variant of the ERBB4 gene].</data>
       <data key="d9">2024</data>
     </node>
+    <node id="39116956">
+      <data key="d0">paper</data>
+      <data key="d7">10.1016/j.exger.2024.112538</data>
+      <data key="d8">Identification of potential drug targets for amyotrophic lateral sclerosis by Mendelian randomization analysis based on brain and plasma proteomics.</data>
+      <data key="d9">2024 Oct 1</data>
+    </node>
     <node id="39163160">
       <data key="d0">paper</data>
       <data key="d7">10.1097/cnd.0000000000000501</data>
@@ -14431,6 +14848,12 @@
       <data key="d7">10.1186/s40478-024-01852-6</data>
       <data key="d8">ALS-associated C21ORF2 variant disrupts DNA damage repair, mitochondrial metabolism, neuronal excitability and NEK1 levels in human motor neurons.</data>
       <data key="d9">2024 Sep 4</data>
+    </node>
+    <node id="39232248">
+      <data key="d0">paper</data>
+      <data key="d7">10.1080/13816810.2024.2369271</data>
+      <data key="d8">Expanding the genotypic and phenotypic spectra with a novel variant in the ciliopathy gene, CFAP410, associated with selective cone degeneration.</data>
+      <data key="d9">2024 Dec</data>
     </node>
     <node id="39271636">
       <data key="d0">paper</data>
@@ -14510,6 +14933,12 @@
       <data key="d8">Inferring gene regulatory networks of ALS from blood transcriptome profiles.</data>
       <data key="d9">2024 Dec 15</data>
     </node>
+    <node id="39703094">
+      <data key="d0">paper</data>
+      <data key="d7">10.1093/brain/awae331</data>
+      <data key="d8">C21ORF2 mutations point towards primary cilia dysfunction in amyotrophic lateral sclerosis.</data>
+      <data key="d9">2025 Mar 6</data>
+    </node>
     <node id="39709457">
       <data key="d0">paper</data>
       <data key="d7">10.1186/s40478-024-01916-7</data>
@@ -14522,6 +14951,12 @@
       <data key="d8">Genetic epidemiology of amyotrophic lateral sclerosis in Cyprus: a population-based study.</data>
       <data key="d9">2024 Dec 28</data>
     </node>
+    <node id="39739690">
+      <data key="d0">paper</data>
+      <data key="d7">10.1371/journal.pone.0308428</data>
+      <data key="d8">Deciphering the interactome of Ataxin-2 and TDP-43 in iPSC-derived neurons for potential ALS targets.</data>
+      <data key="d9">2024</data>
+    </node>
     <node id="39752797">
       <data key="d0">paper</data>
       <data key="d7">10.1016/j.jns.2024.123372</data>
@@ -14533,6 +14968,12 @@
       <data key="d7">10.3390/genes15121566</data>
       <data key="d8">Exploring the Role of CCNF Variants in Italian ALS Patients.</data>
       <data key="d9">2024 Dec 3</data>
+    </node>
+    <node id="39852553">
+      <data key="d0">paper</data>
+      <data key="d7">10.1093/brain/awaf025</data>
+      <data key="d8">Deep learning analyses of splicing variants identify the link of PCP4 with amyotrophic lateral sclerosis.</data>
+      <data key="d9">2025 Jul 7</data>
     </node>
     <node id="39901566">
       <data key="d0">paper</data>
@@ -14605,6 +15046,12 @@
       <data key="d7">10.3390/genes16040407</data>
       <data key="d8">The Molecular Intersection of NEK1, C21ORF2, Cyclin F, and VCP in ALS Pathogenesis.</data>
       <data key="d9">2025 Mar 30</data>
+    </node>
+    <node id="40285687">
+      <data key="d0">paper</data>
+      <data key="d7">10.1002/cpz1.70136</data>
+      <data key="d8">Purification of Low-Complexity Domain Proteins FUS, EWSR1, and Their Fusions.</data>
+      <data key="d9">2025 Apr</data>
     </node>
     <node id="40293530">
       <data key="d0">paper</data>
@@ -14846,6 +15293,18 @@
       <data key="d8">A VAPB (P56S) mutation in a Dutch patient with familial motor neuron disease: a case report.</data>
       <data key="d9">2026 Feb</data>
     </node>
+    <node id="40933646">
+      <data key="d0">paper</data>
+      <data key="d7">10.1016/j.isci.2025.113338</data>
+      <data key="d8">Functional variants of CFAP410 affect the DNA damage response leading to motor neuron degeneration - Implications for ALS.</data>
+      <data key="d9">2025 Sep 19</data>
+    </node>
+    <node id="40949955">
+      <data key="d0">paper</data>
+      <data key="d7">10.1101/2025.08.28.672801</data>
+      <data key="d8">Cryptic splicing in synaptic and membrane excitability genes links TDP-43 loss to neuronal dysfunction.</data>
+      <data key="d9">2025 Sep 2</data>
+    </node>
     <node id="40959204">
       <data key="d0">paper</data>
       <data key="d7">10.1002/mco2.70330</data>
@@ -14905,6 +15364,12 @@
       <data key="d7">10.1080/13554794.2025.2573318</data>
       <data key="d8">Expanding the genetic spectrum of corticobasal syndrome: novel CCNF p.M394L variant from a South Asian cohort.</data>
       <data key="d9">2025 Oct</data>
+    </node>
+    <node id="41085196">
+      <data key="d0">paper</data>
+      <data key="d7">10.1096/fj.202502096r</data>
+      <data key="d8">Phase Separation of TAF15 C-Terminal LC Domain Enables RNA-Binding Protein-Mediated Transcriptional Regulation.</data>
+      <data key="d9">2025 Oct 31</data>
     </node>
     <node id="41117127">
       <data key="d0">paper</data>
@@ -15062,6 +15527,12 @@
       <data key="d8">3'UTR variants of ALS-linked RNAs modify subcellular and cellular phenotypes.</data>
       <data key="d9">2026 Apr</data>
     </node>
+    <node id="41394711">
+      <data key="d0">paper</data>
+      <data key="d7">10.1101/2025.11.26.690143</data>
+      <data key="d8">U7 small nuclear RNA splice-switching therapeutics for STMN2 and UNC13A in Amyotrophic Lateral Sclerosis.</data>
+      <data key="d9">2025 Nov 30</data>
+    </node>
     <node id="41404692">
       <data key="d0">paper</data>
       <data key="d7">10.24425/fmc.2025.156692</data>
@@ -15122,6 +15593,12 @@
       <data key="d8">ALS: a field in motion.</data>
       <data key="d9">2025 Dec 29</data>
     </node>
+    <node id="41481541">
+      <data key="d0">paper</data>
+      <data key="d7">10.1080/21678421.2025.2608238</data>
+      <data key="d8">Homozygosity for the C allele at UNC13A rs12608932 seems to compromise cognition in ALS independently of the cognitive domains.</data>
+      <data key="d9">2026 May</data>
+    </node>
     <node id="41485128">
       <data key="d0">paper</data>
       <data key="d7">10.1080/15548627.2025.2609924</data>
@@ -15181,6 +15658,12 @@
       <data key="d7">10.1016/j.conb.2025.103163</data>
       <data key="d8">ALS-related proteinopathies: From TDP-43 to mitochondrial proteinopathies.</data>
       <data key="d9">2026 Apr</data>
+    </node>
+    <node id="41573891">
+      <data key="d0">paper</data>
+      <data key="d7">10.64898/2025.12.01.691001</data>
+      <data key="d8">Dual-targeting snRNA gene therapy rescues STMN2 and UNC13A splicing in TDP-43 proteinopathies.</data>
+      <data key="d9">2025 Dec 3</data>
     </node>
     <node id="41582437">
       <data key="d0">paper</data>
@@ -15434,17 +15917,41 @@
       <data key="d8">UBQLN2 links proteotoxicity with lipid metabolism in neurodegeneration.</data>
       <data key="d9">2026 Apr</data>
     </node>
+    <node id="41917433">
+      <data key="d0">paper</data>
+      <data key="d7">10.1038/s41588-026-02535-9</data>
+      <data key="d8">Large-scale exome analyses reveal new rare variant contributions in amyotrophic lateral sclerosis.</data>
+      <data key="d9">2026 Apr</data>
+    </node>
     <node id="41917768">
       <data key="d0">paper</data>
       <data key="d7">10.1002/brb3.71366</data>
       <data key="d8">Integrative Multi-Omics Mendelian Randomization Highlights Causal Autophagy-Related Genes for Amyotrophic Lateral Sclerosis.</data>
       <data key="d9">2026 Apr</data>
     </node>
+    <node id="41929081">
+      <data key="d0">paper</data>
+      <data key="d7">10.64898/2026.03.25.714147</data>
+      <data key="d8">Cross-disease genetic and epigenetic architecture of the MOBP locus shows convergence in ALS-PSP.</data>
+      <data key="d9">2026 Mar 27</data>
+    </node>
+    <node id="41931746">
+      <data key="d0">paper</data>
+      <data key="d7">10.1212/wnl.0000000000214858</data>
+      <data key="d8">Long-Term Exposure to Ambient Air Pollution and Incident Amyotrophic Lateral Sclerosis: A Prospective Cohort Analysis of the UK Biobank.</data>
+      <data key="d9">2026 Apr 28</data>
+    </node>
     <node id="41950600">
       <data key="d0">paper</data>
       <data key="d7">10.1016/j.nedt.2026.107094</data>
       <data key="d8">Effects of distinct prebriefing and debriefing on learning outcomes in advanced life support training for ward nurses: A randomized controlled trial.</data>
       <data key="d9">2026 Aug</data>
+    </node>
+    <node id="41996987">
+      <data key="d0">paper</data>
+      <data key="d7">10.1016/j.bbrc.2026.153723</data>
+      <data key="d8">Decoding RNA splicing pathology: Alternative splicing in amyotrophic lateral sclerosis and its therapeutic potential.</data>
+      <data key="d9">2026 Jun 18</data>
     </node>
     <node id="42039423">
       <data key="d0">paper</data>
@@ -15457,6 +15964,12 @@
       <data key="d7">10.3390/cells15080699</data>
       <data key="d8">Astro-Versus Microglia-Enriched Transcriptomes from Aged Atxn2-CAG100-Knockin Mice Suggest Underlying Pathology of RNA Processing at Ribosomes, and Possibly at U-Bodies.</data>
       <data key="d9">2026 Apr 15</data>
+    </node>
+    <node id="42049092">
+      <data key="d0">paper</data>
+      <data key="d7">10.1016/j.jare.2026.04.066</data>
+      <data key="d8">Physiological and pathological functions of TAF15 in neurodegenerative diseases and cancers.</data>
+      <data key="d9">2026 Apr 26</data>
     </node>
     <node id="42069601">
       <data key="d0">paper</data>
@@ -15542,11 +16055,23 @@
       <data key="d8">TDP-43 Acetylation at the Neuroimmune Interface: A Hypothesis-Driven Framework for Peripheral Inflammatory Stratotypes in ALS.</data>
       <data key="d9">2026 May 22</data>
     </node>
+    <node id="42178983">
+      <data key="d0">paper</data>
+      <data key="d7">10.1002/advs.202516846</data>
+      <data key="d8">Protein Disulfide Isomerase Disassembles TDP-43/G3BP1 Condensates and Antagonizes TDP-43 Pathological Aggregates.</data>
+      <data key="d9">2026 May 25</data>
+    </node>
     <node id="42183628">
       <data key="d0">paper</data>
       <data key="d7">10.1080/15548627.2026.2678427</data>
       <data key="d8">CHCHD2 and CHCHD10 promoted autophagic clearance of protein aggregates via GABARAPs.</data>
       <data key="d9">2026 May 25</data>
+    </node>
+    <node id="42187823">
+      <data key="d0">paper</data>
+      <data key="d7">10.3390/jof12050341</data>
+      <data key="d8">RNA-Binding Protein TAF15 Suppresses Toxicity in a Yeast Model of FUS Proteinopathy.</data>
+      <data key="d9">2026 May 6</data>
     </node>
     <node id="42195033">
       <data key="d0">paper</data>
@@ -15572,6 +16097,12 @@
       <data key="d8">Multimodal analysis of cell-free DNA identifies epigenetic biomarkers for amyotrophic lateral sclerosis diagnosis and progression.</data>
       <data key="d9">2026 Jun 1</data>
     </node>
+    <node id="42223334">
+      <data key="d0">paper</data>
+      <data key="d7">10.1111/ene.70653</data>
+      <data key="d8">Distinct UNC13A Haplotype Blocks Define Disease Severity and Survival in Chinese Amyotrophic Lateral Sclerosis.</data>
+      <data key="d9">2026 Jun</data>
+    </node>
     <node id="42227825">
       <data key="d0">paper</data>
       <data key="d7">10.1021/jacs.6c07727</data>
@@ -15583,12 +16114,6 @@
       <data key="d7">10.1007/s13577-026-01399-9</data>
       <data key="d8">FUS modulates R-loops by functionally interacting with RNase H1.</data>
       <data key="d9">2026 Jun 2</data>
-    </node>
-    <node id="42234776">
-      <data key="d0">paper</data>
-      <data key="d7">10.1126/scitranslmed.aeb8517</data>
-      <data key="d8">Cryptic splicing in synaptic and membrane excitability genes links TDP-43 loss to neuronal dysfunction.</data>
-      <data key="d9">2026 Jun 3</data>
     </node>
     <node id="42237814">
       <data key="d0">paper</data>
@@ -16703,6 +17228,10 @@
       <data key="d10">interacts_with</data>
       <data key="d11">0.998</data>
     </edge>
+    <edge source="BET1" target="SCFD1" id="0">
+      <data key="d10">interacts_with</data>
+      <data key="d11">0.999</data>
+    </edge>
     <edge source="BICD2" target="DCTN1" id="0">
       <data key="d10">interacts_with</data>
       <data key="d11">0.998</data>
@@ -16999,6 +17528,34 @@
       <data key="d10">interacts_with</data>
       <data key="d11">0.753</data>
     </edge>
+    <edge source="CALM1" target="UNC13A" id="0">
+      <data key="d10">interacts_with</data>
+      <data key="d11">0.911</data>
+    </edge>
+    <edge source="CALM2" target="UNC13A" id="0">
+      <data key="d10">interacts_with</data>
+      <data key="d11">0.914</data>
+    </edge>
+    <edge source="CALM3" target="UNC13A" id="0">
+      <data key="d10">interacts_with</data>
+      <data key="d11">0.991</data>
+    </edge>
+    <edge source="CALML3" target="UNC13A" id="0">
+      <data key="d10">interacts_with</data>
+      <data key="d11">0.911</data>
+    </edge>
+    <edge source="CALML4" target="UNC13A" id="0">
+      <data key="d10">interacts_with</data>
+      <data key="d11">0.905</data>
+    </edge>
+    <edge source="CALML5" target="UNC13A" id="0">
+      <data key="d10">interacts_with</data>
+      <data key="d11">0.911</data>
+    </edge>
+    <edge source="CALML6" target="UNC13A" id="0">
+      <data key="d10">interacts_with</data>
+      <data key="d11">0.905</data>
+    </edge>
     <edge source="CCNF" target="VCV001343313" id="0">
       <data key="d10">has_variant</data>
     </edge>
@@ -17110,9 +17667,24 @@
       <data key="d10">interacts_with</data>
       <data key="d11">0.93</data>
     </edge>
+    <edge source="CFAP410" target="VCV000981017" id="0">
+      <data key="d10">has_variant</data>
+    </edge>
+    <edge source="CFAP410" target="MONDO_0004976" id="0">
+      <data key="d10">associated_with_disease</data>
+      <data key="d12">0.5682101425267765</data>
+    </edge>
     <edge source="CFAP410" target="NEK1" id="0">
       <data key="d10">interacts_with</data>
       <data key="d11">0.982</data>
+    </edge>
+    <edge source="CFAP410" target="PFKL" id="0">
+      <data key="d10">interacts_with</data>
+      <data key="d11">0.784</data>
+    </edge>
+    <edge source="CFAP410" target="MX1" id="0">
+      <data key="d10">interacts_with</data>
+      <data key="d11">0.773</data>
     </edge>
     <edge source="CFL1" target="PFN1" id="0">
       <data key="d10">interacts_with</data>
@@ -17867,6 +18439,10 @@
     <edge source="CLIP1" target="DCTN1" id="0">
       <data key="d10">interacts_with</data>
       <data key="d11">0.999</data>
+    </edge>
+    <edge source="CNP" target="MOBP" id="0">
+      <data key="d10">interacts_with</data>
+      <data key="d11">0.741</data>
     </edge>
     <edge source="CTNS" target="FGGY" id="0">
       <data key="d10">interacts_with</data>
@@ -19053,6 +19629,10 @@
       <data key="d10">interacts_with</data>
       <data key="d11">0.983</data>
     </edge>
+    <edge source="ERMN" target="MOBP" id="0">
+      <data key="d10">interacts_with</data>
+      <data key="d11">0.785</data>
+    </edge>
     <edge source="FAF1" target="VCP" id="0">
       <data key="d10">interacts_with</data>
       <data key="d11">0.999</data>
@@ -19858,6 +20438,14 @@
       <data key="d10">interacts_with</data>
       <data key="d11">0.999</data>
     </edge>
+    <edge source="GOSR1" target="SCFD1" id="0">
+      <data key="d10">interacts_with</data>
+      <data key="d11">0.999</data>
+    </edge>
+    <edge source="GOSR2" target="SCFD1" id="0">
+      <data key="d10">interacts_with</data>
+      <data key="d11">0.999</data>
+    </edge>
     <edge source="GRN" target="TMEM106B" id="0">
       <data key="d10">interacts_with</data>
       <data key="d11">0.906</data>
@@ -19964,6 +20552,10 @@
     <edge source="HNRNPA1" target="MATR3" id="0">
       <data key="d10">interacts_with</data>
       <data key="d11">0.95</data>
+    </edge>
+    <edge source="HNRNPA1" target="TAF15" id="0">
+      <data key="d10">interacts_with</data>
+      <data key="d11">0.886</data>
     </edge>
     <edge source="HNRNPA2B1" target="TARDBP" id="0">
       <data key="d10">interacts_with</data>
@@ -20283,6 +20875,10 @@
     <edge source="LRP12" target="NOTCH2NLC" id="0">
       <data key="d10">interacts_with</data>
       <data key="d11">0.722</data>
+    </edge>
+    <edge source="MAG" target="MOBP" id="0">
+      <data key="d10">interacts_with</data>
+      <data key="d11">0.763</data>
     </edge>
     <edge source="MAP1LC3A" target="SQSTM1" id="0">
       <data key="d10">interacts_with</data>
@@ -20640,6 +21236,10 @@
       <data key="d10">interacts_with</data>
       <data key="d11">0.923</data>
     </edge>
+    <edge source="MATR3-2" target="TAF15" id="0">
+      <data key="d10">interacts_with</data>
+      <data key="d11">0.872</data>
+    </edge>
     <edge source="MATR3-2" target="TARDBP" id="0">
       <data key="d10">interacts_with</data>
       <data key="d11">0.996</data>
@@ -20648,13 +21248,47 @@
       <data key="d10">interacts_with</data>
       <data key="d11">0.999</data>
     </edge>
+    <edge source="MBP" target="MOBP" id="0">
+      <data key="d10">interacts_with</data>
+      <data key="d11">0.754</data>
+    </edge>
+    <edge source="MECP2" target="MOBP" id="0">
+      <data key="d10">interacts_with</data>
+      <data key="d11">0.785</data>
+    </edge>
     <edge source="MLKL" target="TRPM7" id="0">
       <data key="d10">interacts_with</data>
       <data key="d11">0.932</data>
     </edge>
+    <edge source="MOBP" target="VCV000981023" id="0">
+      <data key="d10">has_variant</data>
+    </edge>
+    <edge source="MOBP" target="MONDO_0004976" id="0">
+      <data key="d10">associated_with_disease</data>
+      <data key="d12">0.4436758378872202</data>
+    </edge>
+    <edge source="MOBP" target="R-HSA-8986944" id="0">
+      <data key="d10">participates_in_pathway</data>
+    </edge>
+    <edge source="MOBP" target="MOG" id="0">
+      <data key="d10">interacts_with</data>
+      <data key="d11">0.897</data>
+    </edge>
+    <edge source="MOBP" target="PLP1" id="0">
+      <data key="d10">interacts_with</data>
+      <data key="d11">0.831</data>
+    </edge>
+    <edge source="MOBP" target="OPALIN" id="0">
+      <data key="d10">interacts_with</data>
+      <data key="d11">0.793</data>
+    </edge>
     <edge source="MSMO1" target="SIGMAR1" id="0">
       <data key="d10">interacts_with</data>
       <data key="d11">0.893</data>
+    </edge>
+    <edge source="NAPA" target="SCFD1" id="0">
+      <data key="d10">interacts_with</data>
+      <data key="d11">0.984</data>
     </edge>
     <edge source="NBR1" target="SQSTM1" id="0">
       <data key="d10">interacts_with</data>
@@ -21036,9 +21670,17 @@
       <data key="d10">interacts_with</data>
       <data key="d11">0.999</data>
     </edge>
+    <edge source="NR4A3" target="TAF15" id="0">
+      <data key="d10">interacts_with</data>
+      <data key="d11">0.865</data>
+    </edge>
     <edge source="NRDC" target="SETX" id="0">
       <data key="d10">interacts_with</data>
       <data key="d11">0.956</data>
+    </edge>
+    <edge source="NSF" target="SCFD1" id="0">
+      <data key="d10">interacts_with</data>
+      <data key="d11">0.968</data>
     </edge>
     <edge source="OPTN" target="VCV002936235" id="0">
       <data key="d10">has_variant</data>
@@ -21659,6 +22301,14 @@
       <data key="d10">interacts_with</data>
       <data key="d11">0.996</data>
     </edge>
+    <edge source="RIMS1" target="UNC13A" id="0">
+      <data key="d10">interacts_with</data>
+      <data key="d11">0.98</data>
+    </edge>
+    <edge source="RIMS2" target="UNC13A" id="0">
+      <data key="d10">interacts_with</data>
+      <data key="d11">0.989</data>
+    </edge>
     <edge source="RIPK1" target="SQSTM1" id="0">
       <data key="d10">interacts_with</data>
       <data key="d11">0.997</data>
@@ -21678,6 +22328,42 @@
     <edge source="SCAF8" target="SETX" id="0">
       <data key="d10">interacts_with</data>
       <data key="d11">0.948</data>
+    </edge>
+    <edge source="SCFD1" target="VCV000976653" id="0">
+      <data key="d10">has_variant</data>
+    </edge>
+    <edge source="SCFD1" target="VCV000981027" id="0">
+      <data key="d10">has_variant</data>
+    </edge>
+    <edge source="SCFD1" target="MONDO_0004976" id="0">
+      <data key="d10">associated_with_disease</data>
+      <data key="d12">0.2846124861273137</data>
+    </edge>
+    <edge source="SCFD1" target="R-HSA-204005" id="0">
+      <data key="d10">participates_in_pathway</data>
+    </edge>
+    <edge source="SCFD1" target="R-HSA-8980692" id="0">
+      <data key="d10">participates_in_pathway</data>
+    </edge>
+    <edge source="SCFD1" target="STX5" id="0">
+      <data key="d10">interacts_with</data>
+      <data key="d11">0.999</data>
+    </edge>
+    <edge source="SCFD1" target="STX18" id="0">
+      <data key="d10">interacts_with</data>
+      <data key="d11">0.998</data>
+    </edge>
+    <edge source="SCFD1" target="SEC22B" id="0">
+      <data key="d10">interacts_with</data>
+      <data key="d11">0.997</data>
+    </edge>
+    <edge source="SCFD1" target="YKT6" id="0">
+      <data key="d10">interacts_with</data>
+      <data key="d11">0.995</data>
+    </edge>
+    <edge source="SCFD1" target="USO1" id="0">
+      <data key="d10">interacts_with</data>
+      <data key="d11">0.97</data>
     </edge>
     <edge source="SELENOS" target="VCP" id="0">
       <data key="d10">interacts_with</data>
@@ -23513,6 +24199,108 @@
       <data key="d10">interacts_with</data>
       <data key="d11">0.999</data>
     </edge>
+    <edge source="TAF11" target="TAF15" id="0">
+      <data key="d10">interacts_with</data>
+      <data key="d11">0.86</data>
+    </edge>
+    <edge source="TAF13" target="TAF15" id="0">
+      <data key="d10">interacts_with</data>
+      <data key="d11">0.923</data>
+    </edge>
+    <edge source="TAF15" target="VCV001199112" id="0">
+      <data key="d10">has_variant</data>
+    </edge>
+    <edge source="TAF15" target="VCV001215916" id="0">
+      <data key="d10">has_variant</data>
+    </edge>
+    <edge source="TAF15" target="VCV001303193" id="0">
+      <data key="d10">has_variant</data>
+    </edge>
+    <edge source="TAF15" target="VCV002629078" id="0">
+      <data key="d10">has_variant</data>
+    </edge>
+    <edge source="TAF15" target="VCV002629197" id="0">
+      <data key="d10">has_variant</data>
+    </edge>
+    <edge source="TAF15" target="VCV002634576" id="0">
+      <data key="d10">has_variant</data>
+    </edge>
+    <edge source="TAF15" target="VCV002635990" id="0">
+      <data key="d10">has_variant</data>
+    </edge>
+    <edge source="TAF15" target="VCV003031380" id="0">
+      <data key="d10">has_variant</data>
+    </edge>
+    <edge source="TAF15" target="VCV003036243" id="0">
+      <data key="d10">has_variant</data>
+    </edge>
+    <edge source="TAF15" target="VCV003051662" id="0">
+      <data key="d10">has_variant</data>
+    </edge>
+    <edge source="TAF15" target="VCV004820021" id="0">
+      <data key="d10">has_variant</data>
+    </edge>
+    <edge source="TAF15" target="VCV004820022" id="0">
+      <data key="d10">has_variant</data>
+    </edge>
+    <edge source="TAF15" target="VCV000717960" id="0">
+      <data key="d10">has_variant</data>
+    </edge>
+    <edge source="TAF15" target="MONDO_0004976" id="0">
+      <data key="d10">associated_with_disease</data>
+      <data key="d12">0.03595137461286567</data>
+    </edge>
+    <edge source="TAF15" target="EFO_0001356" id="0">
+      <data key="d10">associated_with_disease</data>
+      <data key="d12">0.0073915970936940375</data>
+    </edge>
+    <edge source="TAF15" target="R-HSA-167161" id="0">
+      <data key="d10">participates_in_pathway</data>
+    </edge>
+    <edge source="TAF15" target="R-HSA-167162" id="0">
+      <data key="d10">participates_in_pathway</data>
+    </edge>
+    <edge source="TAF15" target="R-HSA-167172" id="0">
+      <data key="d10">participates_in_pathway</data>
+    </edge>
+    <edge source="TAF15" target="R-HSA-674695" id="0">
+      <data key="d10">participates_in_pathway</data>
+    </edge>
+    <edge source="TAF15" target="R-HSA-6804756" id="0">
+      <data key="d10">participates_in_pathway</data>
+    </edge>
+    <edge source="TAF15" target="R-HSA-73776" id="0">
+      <data key="d10">participates_in_pathway</data>
+    </edge>
+    <edge source="TAF15" target="R-HSA-73779" id="0">
+      <data key="d10">participates_in_pathway</data>
+    </edge>
+    <edge source="TAF15" target="R-HSA-75953" id="0">
+      <data key="d10">participates_in_pathway</data>
+    </edge>
+    <edge source="TAF15" target="R-HSA-76042" id="0">
+      <data key="d10">participates_in_pathway</data>
+    </edge>
+    <edge source="TAF15" target="TBP" id="0">
+      <data key="d10">interacts_with</data>
+      <data key="d11">0.938</data>
+    </edge>
+    <edge source="TAF15" target="TARDBP" id="0">
+      <data key="d10">interacts_with</data>
+      <data key="d11">0.884</data>
+    </edge>
+    <edge source="TAF15" target="TAF5" id="0">
+      <data key="d10">interacts_with</data>
+      <data key="d11">0.883</data>
+    </edge>
+    <edge source="TAF15" target="TAF4" id="0">
+      <data key="d10">interacts_with</data>
+      <data key="d11">0.874</data>
+    </edge>
+    <edge source="TAF15" target="TAF2" id="0">
+      <data key="d10">interacts_with</data>
+      <data key="d11">0.858</data>
+    </edge>
     <edge source="TANK" target="TBK1" id="0">
       <data key="d10">interacts_with</data>
       <data key="d11">0.999</data>
@@ -25011,6 +25799,40 @@
       <data key="d10">interacts_with</data>
       <data key="d11">0.999</data>
     </edge>
+    <edge source="UNC13A" target="VCV001709996" id="0">
+      <data key="d10">has_variant</data>
+    </edge>
+    <edge source="UNC13A" target="VCV001804618" id="0">
+      <data key="d10">has_variant</data>
+    </edge>
+    <edge source="UNC13A" target="VCV002445231" id="0">
+      <data key="d10">has_variant</data>
+    </edge>
+    <edge source="UNC13A" target="VCV002634041" id="0">
+      <data key="d10">has_variant</data>
+    </edge>
+    <edge source="UNC13A" target="VCV003352091" id="0">
+      <data key="d10">has_variant</data>
+    </edge>
+    <edge source="UNC13A" target="VCV000981032" id="0">
+      <data key="d10">has_variant</data>
+    </edge>
+    <edge source="UNC13A" target="MONDO_0004976" id="0">
+      <data key="d10">associated_with_disease</data>
+      <data key="d12">0.4694444617833167</data>
+    </edge>
+    <edge source="UNC13A" target="EFO_0001357" id="0">
+      <data key="d10">associated_with_disease</data>
+      <data key="d12">0.2964804247250438</data>
+    </edge>
+    <edge source="UNC13A" target="EFO_0001356" id="0">
+      <data key="d10">associated_with_disease</data>
+      <data key="d12">0.26609749537298527</data>
+    </edge>
+    <edge source="UNC13A" target="UNC13C" id="0">
+      <data key="d10">interacts_with</data>
+      <data key="d11">0.909</data>
+    </edge>
     <edge source="VAPA" target="VAPB" id="0">
       <data key="d10">interacts_with</data>
       <data key="d11">0.964</data>
@@ -25916,9 +26738,9 @@
       <data key="d15">mentioned_in_paper</data>
       <data key="d16">literature</data>
     </edge>
-    <edge source="20301623" target="CHMP2B" id="0">
+    <edge source="20301623" target="MOBP" id="0">
       <data key="d10">supports_claim</data>
-      <data key="d13">claim_paper_20301623_CHMP2B_targeted_search</data>
+      <data key="d13">claim_paper_20301623_MOBP_targeted_search</data>
       <data key="d14">20301623</data>
       <data key="d15">mentioned_in_paper</data>
       <data key="d16">literature</data>
@@ -25930,9 +26752,30 @@
       <data key="d15">mentioned_in_paper</data>
       <data key="d16">literature</data>
     </edge>
+    <edge source="20301623" target="SCFD1" id="0">
+      <data key="d10">supports_claim</data>
+      <data key="d13">claim_paper_20301623_SCFD1_targeted_search</data>
+      <data key="d14">20301623</data>
+      <data key="d15">mentioned_in_paper</data>
+      <data key="d16">literature</data>
+    </edge>
+    <edge source="20301623" target="CHMP2B" id="0">
+      <data key="d10">supports_claim</data>
+      <data key="d13">claim_paper_20301623_CHMP2B_targeted_search</data>
+      <data key="d14">20301623</data>
+      <data key="d15">mentioned_in_paper</data>
+      <data key="d16">literature</data>
+    </edge>
     <edge source="20301623" target="TUBA4A" id="0">
       <data key="d10">supports_claim</data>
       <data key="d13">claim_paper_20301623_TUBA4A_targeted_search</data>
+      <data key="d14">20301623</data>
+      <data key="d15">mentioned_in_paper</data>
+      <data key="d16">literature</data>
+    </edge>
+    <edge source="20301623" target="CFAP410" id="0">
+      <data key="d10">supports_claim</data>
+      <data key="d13">claim_paper_20301623_CFAP410_targeted_search</data>
       <data key="d14">20301623</data>
       <data key="d15">mentioned_in_paper</data>
       <data key="d16">literature</data>
@@ -26042,6 +26885,13 @@
       <data key="d15">mentioned_in_paper</data>
       <data key="d16">literature</data>
     </edge>
+    <edge source="27455348" target="MOBP" id="0">
+      <data key="d10">supports_claim</data>
+      <data key="d13">claim_paper_27455348_MOBP_targeted_search</data>
+      <data key="d14">27455348</data>
+      <data key="d15">mentioned_in_paper</data>
+      <data key="d16">literature</data>
+    </edge>
     <edge source="28463112" target="UBQLN4" id="0">
       <data key="d10">supports_claim</data>
       <data key="d13">claim_paper_28463112_UBQLN4_targeted_search</data>
@@ -26090,6 +26940,27 @@
       <data key="d14">30804504</data>
       <data key="d15">mentioned_in_paper</data>
       <data key="d16">literature</data>
+    </edge>
+    <edge source="31183926" target="MOBP" id="0">
+      <data key="d10">supports_claim</data>
+      <data key="d13">claim_opentargets_MOBP_MONDO_0004976_31183926</data>
+      <data key="d14">31183926</data>
+      <data key="d15">associated_with_disease</data>
+      <data key="d16">0.4436758378872202</data>
+    </edge>
+    <edge source="31183926" target="MOBP" id="1">
+      <data key="d10">supports_claim</data>
+      <data key="d13">claim_paper_31183926_MOBP_targeted_search</data>
+      <data key="d14">31183926</data>
+      <data key="d15">mentioned_in_paper</data>
+      <data key="d16">literature</data>
+    </edge>
+    <edge source="31183926" target="MONDO_0004976" id="0">
+      <data key="d10">supports_claim</data>
+      <data key="d13">claim_opentargets_MOBP_MONDO_0004976_31183926</data>
+      <data key="d14">31183926</data>
+      <data key="d15">associated_with_disease</data>
+      <data key="d16">0.4436758378872202</data>
     </edge>
     <edge source="31187092" target="TRPM7" id="0">
       <data key="d10">supports_claim</data>
@@ -26144,6 +27015,13 @@
       <data key="d10">supports_claim</data>
       <data key="d13">claim_paper_31332380_LRP12_targeted_search</data>
       <data key="d14">31332380</data>
+      <data key="d15">mentioned_in_paper</data>
+      <data key="d16">literature</data>
+    </edge>
+    <edge source="31624333" target="MOBP" id="0">
+      <data key="d10">supports_claim</data>
+      <data key="d13">claim_paper_31624333_MOBP_targeted_search</data>
+      <data key="d14">31624333</data>
       <data key="d15">mentioned_in_paper</data>
       <data key="d16">literature</data>
     </edge>
@@ -26378,6 +27256,27 @@
       <data key="d15">mentioned_in_paper</data>
       <data key="d16">literature</data>
     </edge>
+    <edge source="34694630" target="MOBP" id="0">
+      <data key="d10">supports_claim</data>
+      <data key="d13">claim_opentargets_MOBP_MONDO_0004976_34694630</data>
+      <data key="d14">34694630</data>
+      <data key="d15">associated_with_disease</data>
+      <data key="d16">0.4436758378872202</data>
+    </edge>
+    <edge source="34694630" target="MOBP" id="1">
+      <data key="d10">supports_claim</data>
+      <data key="d13">claim_paper_34694630_MOBP_targeted_search</data>
+      <data key="d14">34694630</data>
+      <data key="d15">mentioned_in_paper</data>
+      <data key="d16">literature</data>
+    </edge>
+    <edge source="34694630" target="MONDO_0004976" id="0">
+      <data key="d10">supports_claim</data>
+      <data key="d13">claim_opentargets_MOBP_MONDO_0004976_34694630</data>
+      <data key="d14">34694630</data>
+      <data key="d15">associated_with_disease</data>
+      <data key="d16">0.4436758378872202</data>
+    </edge>
     <edge source="34868212" target="CYLD" id="0">
       <data key="d10">supports_claim</data>
       <data key="d13">claim_opentargets_CYLD_MONDO_0030923_34868212</data>
@@ -26398,6 +27297,27 @@
       <data key="d14">34868212</data>
       <data key="d15">associated_with_disease</data>
       <data key="d16">0.6818540157543058</data>
+    </edge>
+    <edge source="34946282" target="MOBP" id="0">
+      <data key="d10">supports_claim</data>
+      <data key="d13">claim_opentargets_MOBP_MONDO_0004976_34946282</data>
+      <data key="d14">34946282</data>
+      <data key="d15">associated_with_disease</data>
+      <data key="d16">0.4436758378872202</data>
+    </edge>
+    <edge source="34946282" target="MOBP" id="1">
+      <data key="d10">supports_claim</data>
+      <data key="d13">claim_paper_34946282_MOBP_targeted_search</data>
+      <data key="d14">34946282</data>
+      <data key="d15">mentioned_in_paper</data>
+      <data key="d16">literature</data>
+    </edge>
+    <edge source="34946282" target="MONDO_0004976" id="0">
+      <data key="d10">supports_claim</data>
+      <data key="d13">claim_opentargets_MOBP_MONDO_0004976_34946282</data>
+      <data key="d14">34946282</data>
+      <data key="d15">associated_with_disease</data>
+      <data key="d16">0.4436758378872202</data>
     </edge>
     <edge source="35029765" target="UBQLN4" id="0">
       <data key="d10">supports_claim</data>
@@ -26560,6 +27480,27 @@
       <data key="d15">associated_with_disease</data>
       <data key="d16">0.6818540157543058</data>
     </edge>
+    <edge source="36131690" target="CFAP410" id="0">
+      <data key="d10">supports_claim</data>
+      <data key="d13">claim_opentargets_CFAP410_MONDO_0004976_36131690</data>
+      <data key="d14">36131690</data>
+      <data key="d15">associated_with_disease</data>
+      <data key="d16">0.5682101425267765</data>
+    </edge>
+    <edge source="36131690" target="CFAP410" id="1">
+      <data key="d10">supports_claim</data>
+      <data key="d13">claim_paper_36131690_CFAP410_targeted_search</data>
+      <data key="d14">36131690</data>
+      <data key="d15">mentioned_in_paper</data>
+      <data key="d16">literature</data>
+    </edge>
+    <edge source="36131690" target="MONDO_0004976" id="0">
+      <data key="d10">supports_claim</data>
+      <data key="d13">claim_opentargets_CFAP410_MONDO_0004976_36131690</data>
+      <data key="d14">36131690</data>
+      <data key="d15">associated_with_disease</data>
+      <data key="d16">0.5682101425267765</data>
+    </edge>
     <edge source="36445564" target="SPG11" id="0">
       <data key="d10">supports_claim</data>
       <data key="d13">claim_paper_36445564_SPG11_targeted_search</data>
@@ -26574,16 +27515,16 @@
       <data key="d15">mentioned_in_paper</data>
       <data key="d16">literature</data>
     </edge>
-    <edge source="36549973" target="DAO" id="0">
+    <edge source="36549973" target="SPG11" id="0">
       <data key="d10">supports_claim</data>
-      <data key="d13">claim_paper_36549973_DAO_targeted_search</data>
+      <data key="d13">claim_paper_36549973_SPG11_targeted_search</data>
       <data key="d14">36549973</data>
       <data key="d15">mentioned_in_paper</data>
       <data key="d16">literature</data>
     </edge>
-    <edge source="36549973" target="SPG11" id="0">
+    <edge source="36549973" target="DAO" id="0">
       <data key="d10">supports_claim</data>
-      <data key="d13">claim_paper_36549973_SPG11_targeted_search</data>
+      <data key="d13">claim_paper_36549973_DAO_targeted_search</data>
       <data key="d14">36549973</data>
       <data key="d15">mentioned_in_paper</data>
       <data key="d16">literature</data>
@@ -26592,6 +27533,27 @@
       <data key="d10">supports_claim</data>
       <data key="d13">claim_paper_36747652_TIA1_targeted_search</data>
       <data key="d14">36747652</data>
+      <data key="d15">mentioned_in_paper</data>
+      <data key="d16">literature</data>
+    </edge>
+    <edge source="36759259" target="SCFD1" id="0">
+      <data key="d10">supports_claim</data>
+      <data key="d13">claim_paper_36759259_SCFD1_targeted_search</data>
+      <data key="d14">36759259</data>
+      <data key="d15">mentioned_in_paper</data>
+      <data key="d16">literature</data>
+    </edge>
+    <edge source="36944290" target="SCFD1" id="0">
+      <data key="d10">supports_claim</data>
+      <data key="d13">claim_paper_36944290_SCFD1_targeted_search</data>
+      <data key="d14">36944290</data>
+      <data key="d15">mentioned_in_paper</data>
+      <data key="d16">literature</data>
+    </edge>
+    <edge source="36982902" target="SCFD1" id="0">
+      <data key="d10">supports_claim</data>
+      <data key="d13">claim_paper_36982902_SCFD1_targeted_search</data>
+      <data key="d14">36982902</data>
       <data key="d15">mentioned_in_paper</data>
       <data key="d16">literature</data>
     </edge>
@@ -26608,6 +27570,202 @@
       <data key="d14">37133535</data>
       <data key="d15">mentioned_in_paper</data>
       <data key="d16">literature</data>
+    </edge>
+    <edge source="37148340" target="SCFD1" id="0">
+      <data key="d10">supports_claim</data>
+      <data key="d13">claim_paper_37148340_SCFD1_targeted_search</data>
+      <data key="d14">37148340</data>
+      <data key="d15">mentioned_in_paper</data>
+      <data key="d16">literature</data>
+    </edge>
+    <edge source="37159497" target="ANXA11" id="0">
+      <data key="d10">supports_claim</data>
+      <data key="d13">claim_opentargets_ANXA11_MONDO_0004976_37159497</data>
+      <data key="d14">37159497</data>
+      <data key="d15">associated_with_disease</data>
+      <data key="d16">0.7744339550040161</data>
+    </edge>
+    <edge source="37159497" target="ANXA11" id="1">
+      <data key="d10">supports_claim</data>
+      <data key="d13">claim_opentargets_ANXA11_EFO_0001357_37159497</data>
+      <data key="d14">37159497</data>
+      <data key="d15">associated_with_disease</data>
+      <data key="d16">0.0022174791281082107</data>
+    </edge>
+    <edge source="37159497" target="ANXA11" id="2">
+      <data key="d10">supports_claim</data>
+      <data key="d13">claim_opentargets_ANXA11_EFO_0001356_37159497</data>
+      <data key="d14">37159497</data>
+      <data key="d15">associated_with_disease</data>
+      <data key="d16">0.0022174791281082107</data>
+    </edge>
+    <edge source="37159497" target="MONDO_0004976" id="0">
+      <data key="d10">supports_claim</data>
+      <data key="d13">claim_opentargets_ANXA11_MONDO_0004976_37159497</data>
+      <data key="d14">37159497</data>
+      <data key="d15">associated_with_disease</data>
+      <data key="d16">0.7744339550040161</data>
+    </edge>
+    <edge source="37159497" target="MONDO_0004976" id="1">
+      <data key="d10">supports_claim</data>
+      <data key="d13">claim_opentargets_CFAP410_MONDO_0004976_37159497</data>
+      <data key="d14">37159497</data>
+      <data key="d15">associated_with_disease</data>
+      <data key="d16">0.5682101425267765</data>
+    </edge>
+    <edge source="37159497" target="MONDO_0004976" id="2">
+      <data key="d10">supports_claim</data>
+      <data key="d13">claim_opentargets_KIF5A_MONDO_0004976_37159497</data>
+      <data key="d14">37159497</data>
+      <data key="d15">associated_with_disease</data>
+      <data key="d16">0.7083132413472336</data>
+    </edge>
+    <edge source="37159497" target="MONDO_0004976" id="3">
+      <data key="d10">supports_claim</data>
+      <data key="d13">claim_opentargets_NEK1_MONDO_0004976_37159497</data>
+      <data key="d14">37159497</data>
+      <data key="d15">associated_with_disease</data>
+      <data key="d16">0.5810999553200537</data>
+    </edge>
+    <edge source="37159497" target="EFO_0001357" id="0">
+      <data key="d10">supports_claim</data>
+      <data key="d13">claim_opentargets_ANXA11_EFO_0001357_37159497</data>
+      <data key="d14">37159497</data>
+      <data key="d15">associated_with_disease</data>
+      <data key="d16">0.0022174791281082107</data>
+    </edge>
+    <edge source="37159497" target="EFO_0001357" id="1">
+      <data key="d10">supports_claim</data>
+      <data key="d13">claim_opentargets_KIF5A_EFO_0001357_37159497</data>
+      <data key="d14">37159497</data>
+      <data key="d15">associated_with_disease</data>
+      <data key="d16">0.0073915970936940375</data>
+    </edge>
+    <edge source="37159497" target="EFO_0001356" id="0">
+      <data key="d10">supports_claim</data>
+      <data key="d13">claim_opentargets_ANXA11_EFO_0001356_37159497</data>
+      <data key="d14">37159497</data>
+      <data key="d15">associated_with_disease</data>
+      <data key="d16">0.0022174791281082107</data>
+    </edge>
+    <edge source="37159497" target="EFO_0001356" id="1">
+      <data key="d10">supports_claim</data>
+      <data key="d13">claim_opentargets_KIF5A_EFO_0001356_37159497</data>
+      <data key="d14">37159497</data>
+      <data key="d15">associated_with_disease</data>
+      <data key="d16">0.0029361066233284643</data>
+    </edge>
+    <edge source="37159497" target="CFAP410" id="0">
+      <data key="d10">supports_claim</data>
+      <data key="d13">claim_opentargets_CFAP410_MONDO_0004976_37159497</data>
+      <data key="d14">37159497</data>
+      <data key="d15">associated_with_disease</data>
+      <data key="d16">0.5682101425267765</data>
+    </edge>
+    <edge source="37159497" target="CFAP410" id="1">
+      <data key="d10">supports_claim</data>
+      <data key="d13">claim_paper_37159497_CFAP410_targeted_search</data>
+      <data key="d14">37159497</data>
+      <data key="d15">mentioned_in_paper</data>
+      <data key="d16">literature</data>
+    </edge>
+    <edge source="37159497" target="KIF5A" id="0">
+      <data key="d10">supports_claim</data>
+      <data key="d13">claim_opentargets_KIF5A_MONDO_0004976_37159497</data>
+      <data key="d14">37159497</data>
+      <data key="d15">associated_with_disease</data>
+      <data key="d16">0.7083132413472336</data>
+    </edge>
+    <edge source="37159497" target="KIF5A" id="1">
+      <data key="d10">supports_claim</data>
+      <data key="d13">claim_opentargets_KIF5A_MONDO_0014641_37159497</data>
+      <data key="d14">37159497</data>
+      <data key="d15">associated_with_disease</data>
+      <data key="d16">0.26609749537298527</data>
+    </edge>
+    <edge source="37159497" target="KIF5A" id="2">
+      <data key="d10">supports_claim</data>
+      <data key="d13">claim_opentargets_KIF5A_EFO_0001357_37159497</data>
+      <data key="d14">37159497</data>
+      <data key="d15">associated_with_disease</data>
+      <data key="d16">0.0073915970936940375</data>
+    </edge>
+    <edge source="37159497" target="KIF5A" id="3">
+      <data key="d10">supports_claim</data>
+      <data key="d13">claim_opentargets_KIF5A_MONDO_0010459_37159497</data>
+      <data key="d14">37159497</data>
+      <data key="d15">associated_with_disease</data>
+      <data key="d16">0.0044349582562164215</data>
+    </edge>
+    <edge source="37159497" target="KIF5A" id="4">
+      <data key="d10">supports_claim</data>
+      <data key="d13">claim_opentargets_KIF5A_EFO_0001356_37159497</data>
+      <data key="d14">37159497</data>
+      <data key="d15">associated_with_disease</data>
+      <data key="d16">0.0029361066233284643</data>
+    </edge>
+    <edge source="37159497" target="MONDO_0014641" id="0">
+      <data key="d10">supports_claim</data>
+      <data key="d13">claim_opentargets_KIF5A_MONDO_0014641_37159497</data>
+      <data key="d14">37159497</data>
+      <data key="d15">associated_with_disease</data>
+      <data key="d16">0.26609749537298527</data>
+    </edge>
+    <edge source="37159497" target="MONDO_0010459" id="0">
+      <data key="d10">supports_claim</data>
+      <data key="d13">claim_opentargets_KIF5A_MONDO_0010459_37159497</data>
+      <data key="d14">37159497</data>
+      <data key="d15">associated_with_disease</data>
+      <data key="d16">0.0044349582562164215</data>
+    </edge>
+    <edge source="37159497" target="NEK1" id="0">
+      <data key="d10">supports_claim</data>
+      <data key="d13">claim_opentargets_NEK1_MONDO_0004976_37159497</data>
+      <data key="d14">37159497</data>
+      <data key="d15">associated_with_disease</data>
+      <data key="d16">0.5810999553200537</data>
+    </edge>
+    <edge source="37163440" target="SCFD1" id="0">
+      <data key="d10">supports_claim</data>
+      <data key="d13">claim_paper_37163440_SCFD1_targeted_search</data>
+      <data key="d14">37163440</data>
+      <data key="d15">mentioned_in_paper</data>
+      <data key="d16">literature</data>
+    </edge>
+    <edge source="37188479" target="CFAP410" id="0">
+      <data key="d10">supports_claim</data>
+      <data key="d13">claim_opentargets_CFAP410_MONDO_0004976_37188479</data>
+      <data key="d14">37188479</data>
+      <data key="d15">associated_with_disease</data>
+      <data key="d16">0.5682101425267765</data>
+    </edge>
+    <edge source="37188479" target="CFAP410" id="1">
+      <data key="d10">supports_claim</data>
+      <data key="d13">claim_paper_37188479_CFAP410_targeted_search</data>
+      <data key="d14">37188479</data>
+      <data key="d15">mentioned_in_paper</data>
+      <data key="d16">literature</data>
+    </edge>
+    <edge source="37188479" target="MONDO_0004976" id="0">
+      <data key="d10">supports_claim</data>
+      <data key="d13">claim_opentargets_CFAP410_MONDO_0004976_37188479</data>
+      <data key="d14">37188479</data>
+      <data key="d15">associated_with_disease</data>
+      <data key="d16">0.5682101425267765</data>
+    </edge>
+    <edge source="37188479" target="MONDO_0004976" id="1">
+      <data key="d10">supports_claim</data>
+      <data key="d13">claim_opentargets_NEK1_MONDO_0004976_37188479</data>
+      <data key="d14">37188479</data>
+      <data key="d15">associated_with_disease</data>
+      <data key="d16">0.5810999553200537</data>
+    </edge>
+    <edge source="37188479" target="NEK1" id="0">
+      <data key="d10">supports_claim</data>
+      <data key="d13">claim_opentargets_NEK1_MONDO_0004976_37188479</data>
+      <data key="d14">37188479</data>
+      <data key="d15">associated_with_disease</data>
+      <data key="d16">0.5810999553200537</data>
     </edge>
     <edge source="37243816" target="CCNF" id="0">
       <data key="d10">supports_claim</data>
@@ -26835,73 +27993,87 @@
     </edge>
     <edge source="37250416" target="MONDO_0004976" id="3">
       <data key="d10">supports_claim</data>
+      <data key="d13">claim_opentargets_CFAP410_MONDO_0004976_37250416</data>
+      <data key="d14">37250416</data>
+      <data key="d15">associated_with_disease</data>
+      <data key="d16">0.5682101425267765</data>
+    </edge>
+    <edge source="37250416" target="MONDO_0004976" id="4">
+      <data key="d10">supports_claim</data>
       <data key="d13">claim_opentargets_CHMP2B_MONDO_0004976_37250416</data>
       <data key="d14">37250416</data>
       <data key="d15">associated_with_disease</data>
       <data key="d16">0.7726650520331655</data>
     </edge>
-    <edge source="37250416" target="MONDO_0004976" id="4">
+    <edge source="37250416" target="MONDO_0004976" id="5">
       <data key="d10">supports_claim</data>
       <data key="d13">claim_opentargets_DCTN1_MONDO_0004976_37250416</data>
       <data key="d14">37250416</data>
       <data key="d15">associated_with_disease</data>
       <data key="d16">0.7288264852122261</data>
     </edge>
-    <edge source="37250416" target="MONDO_0004976" id="5">
+    <edge source="37250416" target="MONDO_0004976" id="6">
       <data key="d10">supports_claim</data>
       <data key="d13">claim_opentargets_ELP3_MONDO_0004976_37250416</data>
       <data key="d14">37250416</data>
       <data key="d15">associated_with_disease</data>
       <data key="d16">0.21600600624210814</data>
     </edge>
-    <edge source="37250416" target="MONDO_0004976" id="6">
+    <edge source="37250416" target="MONDO_0004976" id="7">
       <data key="d10">supports_claim</data>
       <data key="d13">claim_opentargets_KIF5A_MONDO_0004976_37250416</data>
       <data key="d14">37250416</data>
       <data key="d15">associated_with_disease</data>
       <data key="d16">0.7083132413472336</data>
     </edge>
-    <edge source="37250416" target="MONDO_0004976" id="7">
+    <edge source="37250416" target="MONDO_0004976" id="8">
       <data key="d10">supports_claim</data>
       <data key="d13">claim_opentargets_NEK1_MONDO_0004976_37250416</data>
       <data key="d14">37250416</data>
       <data key="d15">associated_with_disease</data>
       <data key="d16">0.5810999553200537</data>
     </edge>
-    <edge source="37250416" target="MONDO_0004976" id="8">
+    <edge source="37250416" target="MONDO_0004976" id="9">
       <data key="d10">supports_claim</data>
       <data key="d13">claim_opentargets_SETX_MONDO_0004976_37250416</data>
       <data key="d14">37250416</data>
       <data key="d15">associated_with_disease</data>
       <data key="d16">0.37802769756824256</data>
     </edge>
-    <edge source="37250416" target="MONDO_0004976" id="9">
+    <edge source="37250416" target="MONDO_0004976" id="10">
       <data key="d10">supports_claim</data>
       <data key="d13">claim_opentargets_SPG11_MONDO_0004976_37250416</data>
       <data key="d14">37250416</data>
       <data key="d15">associated_with_disease</data>
       <data key="d16">0.19848756725966998</data>
     </edge>
-    <edge source="37250416" target="MONDO_0004976" id="10">
+    <edge source="37250416" target="MONDO_0004976" id="11">
       <data key="d10">supports_claim</data>
       <data key="d13">claim_opentargets_SPTLC1_MONDO_0004976_37250416</data>
       <data key="d14">37250416</data>
       <data key="d15">associated_with_disease</data>
       <data key="d16">0.31770167360228896</data>
     </edge>
-    <edge source="37250416" target="MONDO_0004976" id="11">
+    <edge source="37250416" target="MONDO_0004976" id="12">
       <data key="d10">supports_claim</data>
       <data key="d13">claim_opentargets_TIA1_MONDO_0004976_37250416</data>
       <data key="d14">37250416</data>
       <data key="d15">associated_with_disease</data>
       <data key="d16">0.07815416456432545</data>
     </edge>
-    <edge source="37250416" target="MONDO_0004976" id="12">
+    <edge source="37250416" target="MONDO_0004976" id="13">
       <data key="d10">supports_claim</data>
       <data key="d13">claim_opentargets_TUBA4A_MONDO_0004976_37250416</data>
       <data key="d14">37250416</data>
       <data key="d15">associated_with_disease</data>
       <data key="d16">0.7770609157406572</data>
+    </edge>
+    <edge source="37250416" target="MONDO_0004976" id="14">
+      <data key="d10">supports_claim</data>
+      <data key="d13">claim_opentargets_UNC13A_MONDO_0004976_37250416</data>
+      <data key="d14">37250416</data>
+      <data key="d15">associated_with_disease</data>
+      <data key="d16">0.4694444617833167</data>
     </edge>
     <edge source="37250416" target="EFO_0001356" id="0">
       <data key="d10">supports_claim</data>
@@ -26965,6 +28137,13 @@
       <data key="d14">37250416</data>
       <data key="d15">associated_with_disease</data>
       <data key="d16">0.11943845623237477</data>
+    </edge>
+    <edge source="37250416" target="EFO_0001356" id="9">
+      <data key="d10">supports_claim</data>
+      <data key="d13">claim_opentargets_UNC13A_EFO_0001356_37250416</data>
+      <data key="d14">37250416</data>
+      <data key="d15">associated_with_disease</data>
+      <data key="d16">0.26609749537298527</data>
     </edge>
     <edge source="37250416" target="MONDO_0017593" id="0">
       <data key="d10">supports_claim</data>
@@ -27056,6 +28235,13 @@
       <data key="d14">37250416</data>
       <data key="d15">associated_with_disease</data>
       <data key="d16">0.04409642036170519</data>
+    </edge>
+    <edge source="37250416" target="EFO_0001357" id="6">
+      <data key="d10">supports_claim</data>
+      <data key="d13">claim_opentargets_UNC13A_EFO_0001357_37250416</data>
+      <data key="d14">37250416</data>
+      <data key="d15">associated_with_disease</data>
+      <data key="d16">0.2964804247250438</data>
     </edge>
     <edge source="37250416" target="MONDO_0012945" id="0">
       <data key="d10">supports_claim</data>
@@ -27231,6 +28417,13 @@
       <data key="d14">37250416</data>
       <data key="d15">mentioned_in_paper</data>
       <data key="d16">literature</data>
+    </edge>
+    <edge source="37250416" target="CFAP410" id="0">
+      <data key="d10">supports_claim</data>
+      <data key="d13">claim_opentargets_CFAP410_MONDO_0004976_37250416</data>
+      <data key="d14">37250416</data>
+      <data key="d15">associated_with_disease</data>
+      <data key="d16">0.5682101425267765</data>
     </edge>
     <edge source="37250416" target="CHMP2B" id="0">
       <data key="d10">supports_claim</data>
@@ -27596,6 +28789,27 @@
       <data key="d15">associated_with_disease</data>
       <data key="d16">0.11943845623237477</data>
     </edge>
+    <edge source="37250416" target="UNC13A" id="0">
+      <data key="d10">supports_claim</data>
+      <data key="d13">claim_opentargets_UNC13A_MONDO_0004976_37250416</data>
+      <data key="d14">37250416</data>
+      <data key="d15">associated_with_disease</data>
+      <data key="d16">0.4694444617833167</data>
+    </edge>
+    <edge source="37250416" target="UNC13A" id="1">
+      <data key="d10">supports_claim</data>
+      <data key="d13">claim_opentargets_UNC13A_EFO_0001357_37250416</data>
+      <data key="d14">37250416</data>
+      <data key="d15">associated_with_disease</data>
+      <data key="d16">0.2964804247250438</data>
+    </edge>
+    <edge source="37250416" target="UNC13A" id="2">
+      <data key="d10">supports_claim</data>
+      <data key="d13">claim_opentargets_UNC13A_EFO_0001356_37250416</data>
+      <data key="d14">37250416</data>
+      <data key="d15">associated_with_disease</data>
+      <data key="d16">0.26609749537298527</data>
+    </edge>
     <edge source="37308477" target="SPTLC1" id="0">
       <data key="d10">supports_claim</data>
       <data key="d13">claim_opentargets_SPTLC1_MONDO_0859529_37308477</data>
@@ -27701,6 +28915,13 @@
       <data key="d15">mentioned_in_paper</data>
       <data key="d16">literature</data>
     </edge>
+    <edge source="37494873" target="MOBP" id="0">
+      <data key="d10">supports_claim</data>
+      <data key="d13">claim_paper_37494873_MOBP_targeted_search</data>
+      <data key="d14">37494873</data>
+      <data key="d15">mentioned_in_paper</data>
+      <data key="d16">literature</data>
+    </edge>
     <edge source="37497262" target="SPTLC1" id="0">
       <data key="d10">supports_claim</data>
       <data key="d13">claim_paper_37497262_SPTLC1_targeted_search</data>
@@ -27754,6 +28975,13 @@
       <data key="d10">supports_claim</data>
       <data key="d13">claim_paper_37635943_CHMP2B_targeted_search</data>
       <data key="d14">37635943</data>
+      <data key="d15">mentioned_in_paper</data>
+      <data key="d16">literature</data>
+    </edge>
+    <edge source="37639066" target="SCFD1" id="0">
+      <data key="d10">supports_claim</data>
+      <data key="d13">claim_paper_37639066_SCFD1_targeted_search</data>
+      <data key="d14">37639066</data>
       <data key="d15">mentioned_in_paper</data>
       <data key="d16">literature</data>
     </edge>
@@ -27831,6 +29059,83 @@
       <data key="d10">supports_claim</data>
       <data key="d13">claim_paper_37872794_CCNF_targeted_search</data>
       <data key="d14">37872794</data>
+      <data key="d15">mentioned_in_paper</data>
+      <data key="d16">literature</data>
+    </edge>
+    <edge source="37905864" target="SCFD1" id="0">
+      <data key="d10">supports_claim</data>
+      <data key="d13">claim_opentargets_SCFD1_MONDO_0004976_37905864</data>
+      <data key="d14">37905864</data>
+      <data key="d15">associated_with_disease</data>
+      <data key="d16">0.2846124861273137</data>
+    </edge>
+    <edge source="37905864" target="SCFD1" id="1">
+      <data key="d10">supports_claim</data>
+      <data key="d13">claim_paper_37905864_SCFD1_targeted_search</data>
+      <data key="d14">37905864</data>
+      <data key="d15">mentioned_in_paper</data>
+      <data key="d16">literature</data>
+    </edge>
+    <edge source="37905864" target="MONDO_0004976" id="0">
+      <data key="d10">supports_claim</data>
+      <data key="d13">claim_opentargets_SCFD1_MONDO_0004976_37905864</data>
+      <data key="d14">37905864</data>
+      <data key="d15">associated_with_disease</data>
+      <data key="d16">0.2846124861273137</data>
+    </edge>
+    <edge source="37905864" target="MONDO_0004976" id="1">
+      <data key="d10">supports_claim</data>
+      <data key="d13">claim_opentargets_UNC13A_MONDO_0004976_37905864</data>
+      <data key="d14">37905864</data>
+      <data key="d15">associated_with_disease</data>
+      <data key="d16">0.4694444617833167</data>
+    </edge>
+    <edge source="37905864" target="UNC13A" id="0">
+      <data key="d10">supports_claim</data>
+      <data key="d13">claim_opentargets_UNC13A_MONDO_0004976_37905864</data>
+      <data key="d14">37905864</data>
+      <data key="d15">associated_with_disease</data>
+      <data key="d16">0.4694444617833167</data>
+    </edge>
+    <edge source="37905864" target="UNC13A" id="1">
+      <data key="d10">supports_claim</data>
+      <data key="d13">claim_opentargets_UNC13A_EFO_0001357_37905864</data>
+      <data key="d14">37905864</data>
+      <data key="d15">associated_with_disease</data>
+      <data key="d16">0.2964804247250438</data>
+    </edge>
+    <edge source="37905864" target="UNC13A" id="2">
+      <data key="d10">supports_claim</data>
+      <data key="d13">claim_opentargets_UNC13A_EFO_0001356_37905864</data>
+      <data key="d14">37905864</data>
+      <data key="d15">associated_with_disease</data>
+      <data key="d16">0.26609749537298527</data>
+    </edge>
+    <edge source="37905864" target="EFO_0001357" id="0">
+      <data key="d10">supports_claim</data>
+      <data key="d13">claim_opentargets_UNC13A_EFO_0001357_37905864</data>
+      <data key="d14">37905864</data>
+      <data key="d15">associated_with_disease</data>
+      <data key="d16">0.2964804247250438</data>
+    </edge>
+    <edge source="37905864" target="EFO_0001356" id="0">
+      <data key="d10">supports_claim</data>
+      <data key="d13">claim_opentargets_UNC13A_EFO_0001356_37905864</data>
+      <data key="d14">37905864</data>
+      <data key="d15">associated_with_disease</data>
+      <data key="d16">0.26609749537298527</data>
+    </edge>
+    <edge source="37979250" target="SCFD1" id="0">
+      <data key="d10">supports_claim</data>
+      <data key="d13">claim_paper_37979250_SCFD1_targeted_search</data>
+      <data key="d14">37979250</data>
+      <data key="d15">mentioned_in_paper</data>
+      <data key="d16">literature</data>
+    </edge>
+    <edge source="37979250" target="MOBP" id="0">
+      <data key="d10">supports_claim</data>
+      <data key="d13">claim_paper_37979250_MOBP_targeted_search</data>
+      <data key="d14">37979250</data>
       <data key="d15">mentioned_in_paper</data>
       <data key="d16">literature</data>
     </edge>
@@ -28170,6 +29475,13 @@
       <data key="d15">associated_with_disease</data>
       <data key="d16">0.07815416456432545</data>
     </edge>
+    <edge source="38239833" target="TUBA4A" id="0">
+      <data key="d10">supports_claim</data>
+      <data key="d13">claim_paper_38239833_TUBA4A_targeted_search</data>
+      <data key="d14">38239833</data>
+      <data key="d15">mentioned_in_paper</data>
+      <data key="d16">literature</data>
+    </edge>
     <edge source="38239833" target="DCTN1" id="0">
       <data key="d10">supports_claim</data>
       <data key="d13">claim_paper_38239833_DCTN1_targeted_search</data>
@@ -28180,13 +29492,6 @@
     <edge source="38239833" target="ELP3" id="0">
       <data key="d10">supports_claim</data>
       <data key="d13">claim_paper_38239833_ELP3_targeted_search</data>
-      <data key="d14">38239833</data>
-      <data key="d15">mentioned_in_paper</data>
-      <data key="d16">literature</data>
-    </edge>
-    <edge source="38239833" target="TUBA4A" id="0">
-      <data key="d10">supports_claim</data>
-      <data key="d13">claim_paper_38239833_TUBA4A_targeted_search</data>
       <data key="d14">38239833</data>
       <data key="d15">mentioned_in_paper</data>
       <data key="d16">literature</data>
@@ -28415,6 +29720,48 @@
       <data key="d15">mentioned_in_paper</data>
       <data key="d16">literature</data>
     </edge>
+    <edge source="38492239" target="TAF15" id="0">
+      <data key="d10">supports_claim</data>
+      <data key="d13">claim_paper_38492239_TAF15_targeted_search</data>
+      <data key="d14">38492239</data>
+      <data key="d15">mentioned_in_paper</data>
+      <data key="d16">literature</data>
+    </edge>
+    <edge source="38568213" target="TAF15" id="0">
+      <data key="d10">supports_claim</data>
+      <data key="d13">claim_opentargets_TAF15_MONDO_0004976_38568213</data>
+      <data key="d14">38568213</data>
+      <data key="d15">associated_with_disease</data>
+      <data key="d16">0.03595137461286567</data>
+    </edge>
+    <edge source="38568213" target="TAF15" id="1">
+      <data key="d10">supports_claim</data>
+      <data key="d13">claim_opentargets_TAF15_EFO_0001356_38568213</data>
+      <data key="d14">38568213</data>
+      <data key="d15">associated_with_disease</data>
+      <data key="d16">0.0073915970936940375</data>
+    </edge>
+    <edge source="38568213" target="TAF15" id="2">
+      <data key="d10">supports_claim</data>
+      <data key="d13">claim_paper_38568213_TAF15_targeted_search</data>
+      <data key="d14">38568213</data>
+      <data key="d15">mentioned_in_paper</data>
+      <data key="d16">literature</data>
+    </edge>
+    <edge source="38568213" target="MONDO_0004976" id="0">
+      <data key="d10">supports_claim</data>
+      <data key="d13">claim_opentargets_TAF15_MONDO_0004976_38568213</data>
+      <data key="d14">38568213</data>
+      <data key="d15">associated_with_disease</data>
+      <data key="d16">0.03595137461286567</data>
+    </edge>
+    <edge source="38568213" target="EFO_0001356" id="0">
+      <data key="d10">supports_claim</data>
+      <data key="d13">claim_opentargets_TAF15_EFO_0001356_38568213</data>
+      <data key="d14">38568213</data>
+      <data key="d15">associated_with_disease</data>
+      <data key="d16">0.0073915970936940375</data>
+    </edge>
     <edge source="38638178" target="TIA1" id="0">
       <data key="d10">supports_claim</data>
       <data key="d13">claim_paper_38638178_TIA1_targeted_search</data>
@@ -28470,6 +29817,41 @@
       <data key="d14">38726482</data>
       <data key="d15">associated_with_disease</data>
       <data key="d16">0.3766121380307857</data>
+    </edge>
+    <edge source="38862967" target="TAF15" id="0">
+      <data key="d10">supports_claim</data>
+      <data key="d13">claim_opentargets_TAF15_MONDO_0004976_38862967</data>
+      <data key="d14">38862967</data>
+      <data key="d15">associated_with_disease</data>
+      <data key="d16">0.03595137461286567</data>
+    </edge>
+    <edge source="38862967" target="TAF15" id="1">
+      <data key="d10">supports_claim</data>
+      <data key="d13">claim_opentargets_TAF15_EFO_0001356_38862967</data>
+      <data key="d14">38862967</data>
+      <data key="d15">associated_with_disease</data>
+      <data key="d16">0.0073915970936940375</data>
+    </edge>
+    <edge source="38862967" target="TAF15" id="2">
+      <data key="d10">supports_claim</data>
+      <data key="d13">claim_paper_38862967_TAF15_targeted_search</data>
+      <data key="d14">38862967</data>
+      <data key="d15">mentioned_in_paper</data>
+      <data key="d16">literature</data>
+    </edge>
+    <edge source="38862967" target="MONDO_0004976" id="0">
+      <data key="d10">supports_claim</data>
+      <data key="d13">claim_opentargets_TAF15_MONDO_0004976_38862967</data>
+      <data key="d14">38862967</data>
+      <data key="d15">associated_with_disease</data>
+      <data key="d16">0.03595137461286567</data>
+    </edge>
+    <edge source="38862967" target="EFO_0001356" id="0">
+      <data key="d10">supports_claim</data>
+      <data key="d13">claim_opentargets_TAF15_EFO_0001356_38862967</data>
+      <data key="d14">38862967</data>
+      <data key="d15">associated_with_disease</data>
+      <data key="d16">0.0073915970936940375</data>
     </edge>
     <edge source="38879591" target="CCNF" id="0">
       <data key="d10">supports_claim</data>
@@ -28625,6 +30007,27 @@
       <data key="d15">associated_with_disease</data>
       <data key="d16">0.5594517866277547</data>
     </edge>
+    <edge source="39116956" target="SCFD1" id="0">
+      <data key="d10">supports_claim</data>
+      <data key="d13">claim_opentargets_SCFD1_MONDO_0004976_39116956</data>
+      <data key="d14">39116956</data>
+      <data key="d15">associated_with_disease</data>
+      <data key="d16">0.2846124861273137</data>
+    </edge>
+    <edge source="39116956" target="SCFD1" id="1">
+      <data key="d10">supports_claim</data>
+      <data key="d13">claim_paper_39116956_SCFD1_targeted_search</data>
+      <data key="d14">39116956</data>
+      <data key="d15">mentioned_in_paper</data>
+      <data key="d16">literature</data>
+    </edge>
+    <edge source="39116956" target="MONDO_0004976" id="0">
+      <data key="d10">supports_claim</data>
+      <data key="d13">claim_opentargets_SCFD1_MONDO_0004976_39116956</data>
+      <data key="d14">39116956</data>
+      <data key="d15">associated_with_disease</data>
+      <data key="d16">0.2846124861273137</data>
+    </edge>
     <edge source="39163160" target="TIA1" id="0">
       <data key="d10">supports_claim</data>
       <data key="d13">claim_opentargets_TIA1_MONDO_0030885_39163160</data>
@@ -28680,6 +30083,34 @@
       <data key="d14">39227882</data>
       <data key="d15">mentioned_in_paper</data>
       <data key="d16">literature</data>
+    </edge>
+    <edge source="39227882" target="CFAP410" id="0">
+      <data key="d10">supports_claim</data>
+      <data key="d13">claim_paper_39227882_CFAP410_targeted_search</data>
+      <data key="d14">39227882</data>
+      <data key="d15">mentioned_in_paper</data>
+      <data key="d16">literature</data>
+    </edge>
+    <edge source="39232248" target="CFAP410" id="0">
+      <data key="d10">supports_claim</data>
+      <data key="d13">claim_opentargets_CFAP410_MONDO_0004976_39232248</data>
+      <data key="d14">39232248</data>
+      <data key="d15">associated_with_disease</data>
+      <data key="d16">0.5682101425267765</data>
+    </edge>
+    <edge source="39232248" target="CFAP410" id="1">
+      <data key="d10">supports_claim</data>
+      <data key="d13">claim_paper_39232248_CFAP410_targeted_search</data>
+      <data key="d14">39232248</data>
+      <data key="d15">mentioned_in_paper</data>
+      <data key="d16">literature</data>
+    </edge>
+    <edge source="39232248" target="MONDO_0004976" id="0">
+      <data key="d10">supports_claim</data>
+      <data key="d13">claim_opentargets_CFAP410_MONDO_0004976_39232248</data>
+      <data key="d14">39232248</data>
+      <data key="d15">associated_with_disease</data>
+      <data key="d16">0.5682101425267765</data>
     </edge>
     <edge source="39271636" target="PFN1" id="0">
       <data key="d10">supports_claim</data>
@@ -29108,10 +30539,38 @@
       <data key="d15">mentioned_in_paper</data>
       <data key="d16">literature</data>
     </edge>
+    <edge source="39703094" target="CFAP410" id="0">
+      <data key="d10">supports_claim</data>
+      <data key="d13">claim_opentargets_CFAP410_MONDO_0004976_39703094</data>
+      <data key="d14">39703094</data>
+      <data key="d15">associated_with_disease</data>
+      <data key="d16">0.5682101425267765</data>
+    </edge>
+    <edge source="39703094" target="CFAP410" id="1">
+      <data key="d10">supports_claim</data>
+      <data key="d13">claim_paper_39703094_CFAP410_targeted_search</data>
+      <data key="d14">39703094</data>
+      <data key="d15">mentioned_in_paper</data>
+      <data key="d16">literature</data>
+    </edge>
+    <edge source="39703094" target="MONDO_0004976" id="0">
+      <data key="d10">supports_claim</data>
+      <data key="d13">claim_opentargets_CFAP410_MONDO_0004976_39703094</data>
+      <data key="d14">39703094</data>
+      <data key="d15">associated_with_disease</data>
+      <data key="d16">0.5682101425267765</data>
+    </edge>
     <edge source="39709457" target="CHMP2B" id="0">
       <data key="d10">supports_claim</data>
       <data key="d13">claim_paper_39709457_CHMP2B_targeted_search</data>
       <data key="d14">39709457</data>
+      <data key="d15">mentioned_in_paper</data>
+      <data key="d16">literature</data>
+    </edge>
+    <edge source="39730482" target="ALS2" id="0">
+      <data key="d10">supports_claim</data>
+      <data key="d13">claim_paper_39730482_ALS2_targeted_search</data>
+      <data key="d14">39730482</data>
       <data key="d15">mentioned_in_paper</data>
       <data key="d16">literature</data>
     </edge>
@@ -29122,12 +30581,54 @@
       <data key="d15">mentioned_in_paper</data>
       <data key="d16">literature</data>
     </edge>
-    <edge source="39730482" target="ALS2" id="0">
+    <edge source="39739690" target="ATXN2" id="0">
       <data key="d10">supports_claim</data>
-      <data key="d13">claim_paper_39730482_ALS2_targeted_search</data>
-      <data key="d14">39730482</data>
+      <data key="d13">claim_opentargets_ATXN2_MONDO_0004976_39739690</data>
+      <data key="d14">39739690</data>
+      <data key="d15">associated_with_disease</data>
+      <data key="d16">0.44444243903689734</data>
+    </edge>
+    <edge source="39739690" target="MONDO_0004976" id="0">
+      <data key="d10">supports_claim</data>
+      <data key="d13">claim_opentargets_ATXN2_MONDO_0004976_39739690</data>
+      <data key="d14">39739690</data>
+      <data key="d15">associated_with_disease</data>
+      <data key="d16">0.44444243903689734</data>
+    </edge>
+    <edge source="39739690" target="MONDO_0004976" id="1">
+      <data key="d10">supports_claim</data>
+      <data key="d13">claim_opentargets_TAF15_MONDO_0004976_39739690</data>
+      <data key="d14">39739690</data>
+      <data key="d15">associated_with_disease</data>
+      <data key="d16">0.03595137461286567</data>
+    </edge>
+    <edge source="39739690" target="TAF15" id="0">
+      <data key="d10">supports_claim</data>
+      <data key="d13">claim_opentargets_TAF15_MONDO_0004976_39739690</data>
+      <data key="d14">39739690</data>
+      <data key="d15">associated_with_disease</data>
+      <data key="d16">0.03595137461286567</data>
+    </edge>
+    <edge source="39739690" target="TAF15" id="1">
+      <data key="d10">supports_claim</data>
+      <data key="d13">claim_opentargets_TAF15_EFO_0001356_39739690</data>
+      <data key="d14">39739690</data>
+      <data key="d15">associated_with_disease</data>
+      <data key="d16">0.0073915970936940375</data>
+    </edge>
+    <edge source="39739690" target="TAF15" id="2">
+      <data key="d10">supports_claim</data>
+      <data key="d13">claim_paper_39739690_TAF15_targeted_search</data>
+      <data key="d14">39739690</data>
       <data key="d15">mentioned_in_paper</data>
       <data key="d16">literature</data>
+    </edge>
+    <edge source="39739690" target="EFO_0001356" id="0">
+      <data key="d10">supports_claim</data>
+      <data key="d13">claim_opentargets_TAF15_EFO_0001356_39739690</data>
+      <data key="d14">39739690</data>
+      <data key="d15">associated_with_disease</data>
+      <data key="d16">0.0073915970936940375</data>
     </edge>
     <edge source="39752797" target="ANG" id="0">
       <data key="d10">supports_claim</data>
@@ -29198,6 +30699,13 @@
       <data key="d14">39766833</data>
       <data key="d15">associated_with_disease</data>
       <data key="d16">0.0050611907877655</data>
+    </edge>
+    <edge source="39852553" target="CFAP410" id="0">
+      <data key="d10">supports_claim</data>
+      <data key="d13">claim_paper_39852553_CFAP410_targeted_search</data>
+      <data key="d14">39852553</data>
+      <data key="d15">mentioned_in_paper</data>
+      <data key="d16">literature</data>
     </edge>
     <edge source="39901566" target="ANG" id="0">
       <data key="d10">supports_claim</data>
@@ -29546,6 +31054,13 @@
       <data key="d10">supports_claim</data>
       <data key="d13">claim_paper_40282367_CCNF_targeted_search</data>
       <data key="d14">40282367</data>
+      <data key="d15">mentioned_in_paper</data>
+      <data key="d16">literature</data>
+    </edge>
+    <edge source="40285687" target="TAF15" id="0">
+      <data key="d10">supports_claim</data>
+      <data key="d13">claim_paper_40285687_TAF15_targeted_search</data>
+      <data key="d14">40285687</data>
       <data key="d15">mentioned_in_paper</data>
       <data key="d16">literature</data>
     </edge>
@@ -31418,6 +32933,55 @@
       <data key="d15">mentioned_in_paper</data>
       <data key="d16">literature</data>
     </edge>
+    <edge source="40933646" target="CFAP410" id="0">
+      <data key="d10">supports_claim</data>
+      <data key="d13">claim_opentargets_CFAP410_MONDO_0004976_40933646</data>
+      <data key="d14">40933646</data>
+      <data key="d15">associated_with_disease</data>
+      <data key="d16">0.5682101425267765</data>
+    </edge>
+    <edge source="40933646" target="CFAP410" id="1">
+      <data key="d10">supports_claim</data>
+      <data key="d13">claim_paper_40933646_CFAP410_targeted_search</data>
+      <data key="d14">40933646</data>
+      <data key="d15">mentioned_in_paper</data>
+      <data key="d16">literature</data>
+    </edge>
+    <edge source="40933646" target="MONDO_0004976" id="0">
+      <data key="d10">supports_claim</data>
+      <data key="d13">claim_opentargets_CFAP410_MONDO_0004976_40933646</data>
+      <data key="d14">40933646</data>
+      <data key="d15">associated_with_disease</data>
+      <data key="d16">0.5682101425267765</data>
+    </edge>
+    <edge source="40933646" target="MONDO_0004976" id="1">
+      <data key="d10">supports_claim</data>
+      <data key="d13">claim_opentargets_NEK1_MONDO_0004976_40933646</data>
+      <data key="d14">40933646</data>
+      <data key="d15">associated_with_disease</data>
+      <data key="d16">0.5810999553200537</data>
+    </edge>
+    <edge source="40933646" target="NEK1" id="0">
+      <data key="d10">supports_claim</data>
+      <data key="d13">claim_opentargets_NEK1_MONDO_0004976_40933646</data>
+      <data key="d14">40933646</data>
+      <data key="d15">associated_with_disease</data>
+      <data key="d16">0.5810999553200537</data>
+    </edge>
+    <edge source="40949955" target="UNC13A" id="0">
+      <data key="d10">supports_claim</data>
+      <data key="d13">claim_paper_40949955_UNC13A_targeted_search</data>
+      <data key="d14">40949955</data>
+      <data key="d15">mentioned_in_paper</data>
+      <data key="d16">literature</data>
+    </edge>
+    <edge source="40949955" target="TARDBP" id="0">
+      <data key="d10">supports_claim</data>
+      <data key="d13">claim_paper_40949955_TARDBP_targeted_search</data>
+      <data key="d14">40949955</data>
+      <data key="d15">mentioned_in_paper</data>
+      <data key="d16">literature</data>
+    </edge>
     <edge source="40959204" target="TMEM106B" id="0">
       <data key="d10">supports_claim</data>
       <data key="d13">claim_paper_40959204_TMEM106B_targeted_search</data>
@@ -31614,6 +33178,13 @@
       <data key="d15">associated_with_disease</data>
       <data key="d16">0.0050611907877655</data>
     </edge>
+    <edge source="41085196" target="TAF15" id="0">
+      <data key="d10">supports_claim</data>
+      <data key="d13">claim_paper_41085196_TAF15_targeted_search</data>
+      <data key="d14">41085196</data>
+      <data key="d15">mentioned_in_paper</data>
+      <data key="d16">literature</data>
+    </edge>
     <edge source="41117127" target="ANG" id="0">
       <data key="d10">supports_claim</data>
       <data key="d13">claim_paper_41117127_ANG_targeted_search</data>
@@ -31705,16 +33276,16 @@
       <data key="d15">mentioned_in_paper</data>
       <data key="d16">literature</data>
     </edge>
-    <edge source="41137727" target="NEK1" id="0">
+    <edge source="41137727" target="SETX" id="0">
       <data key="d10">supports_claim</data>
-      <data key="d13">claim_paper_41137727_NEK1_targeted_search</data>
+      <data key="d13">claim_paper_41137727_SETX_targeted_search</data>
       <data key="d14">41137727</data>
       <data key="d15">mentioned_in_paper</data>
       <data key="d16">literature</data>
     </edge>
-    <edge source="41137727" target="SETX" id="0">
+    <edge source="41137727" target="ALS2" id="0">
       <data key="d10">supports_claim</data>
-      <data key="d13">claim_paper_41137727_SETX_targeted_search</data>
+      <data key="d13">claim_paper_41137727_ALS2_targeted_search</data>
       <data key="d14">41137727</data>
       <data key="d15">mentioned_in_paper</data>
       <data key="d16">literature</data>
@@ -31726,9 +33297,9 @@
       <data key="d15">mentioned_in_paper</data>
       <data key="d16">literature</data>
     </edge>
-    <edge source="41137727" target="ALS2" id="0">
+    <edge source="41137727" target="NEK1" id="0">
       <data key="d10">supports_claim</data>
-      <data key="d13">claim_paper_41137727_ALS2_targeted_search</data>
+      <data key="d13">claim_paper_41137727_NEK1_targeted_search</data>
       <data key="d14">41137727</data>
       <data key="d15">mentioned_in_paper</data>
       <data key="d16">literature</data>
@@ -31768,13 +33339,6 @@
       <data key="d15">mentioned_in_paper</data>
       <data key="d16">literature</data>
     </edge>
-    <edge source="41196070" target="NEK1" id="0">
-      <data key="d10">supports_claim</data>
-      <data key="d13">claim_paper_41196070_NEK1_targeted_search</data>
-      <data key="d14">41196070</data>
-      <data key="d15">mentioned_in_paper</data>
-      <data key="d16">literature</data>
-    </edge>
     <edge source="41196070" target="SETX" id="0">
       <data key="d10">supports_claim</data>
       <data key="d13">claim_paper_41196070_SETX_targeted_search</data>
@@ -31782,9 +33346,9 @@
       <data key="d15">mentioned_in_paper</data>
       <data key="d16">literature</data>
     </edge>
-    <edge source="41196070" target="FIG4" id="0">
+    <edge source="41196070" target="NEK1" id="0">
       <data key="d10">supports_claim</data>
-      <data key="d13">claim_paper_41196070_FIG4_targeted_search</data>
+      <data key="d13">claim_paper_41196070_NEK1_targeted_search</data>
       <data key="d14">41196070</data>
       <data key="d15">mentioned_in_paper</data>
       <data key="d16">literature</data>
@@ -31792,6 +33356,13 @@
     <edge source="41196070" target="SQSTM1" id="0">
       <data key="d10">supports_claim</data>
       <data key="d13">claim_paper_41196070_SQSTM1_targeted_search</data>
+      <data key="d14">41196070</data>
+      <data key="d15">mentioned_in_paper</data>
+      <data key="d16">literature</data>
+    </edge>
+    <edge source="41196070" target="FIG4" id="0">
+      <data key="d10">supports_claim</data>
+      <data key="d13">claim_paper_41196070_FIG4_targeted_search</data>
       <data key="d14">41196070</data>
       <data key="d15">mentioned_in_paper</data>
       <data key="d16">literature</data>
@@ -32335,6 +33906,20 @@
       <data key="d15">mentioned_in_paper</data>
       <data key="d16">literature</data>
     </edge>
+    <edge source="41359433" target="ANG" id="0">
+      <data key="d10">supports_claim</data>
+      <data key="d13">claim_paper_41359433_ANG_targeted_search</data>
+      <data key="d14">41359433</data>
+      <data key="d15">mentioned_in_paper</data>
+      <data key="d16">literature</data>
+    </edge>
+    <edge source="41359433" target="NEK1" id="0">
+      <data key="d10">supports_claim</data>
+      <data key="d13">claim_paper_41359433_NEK1_targeted_search</data>
+      <data key="d14">41359433</data>
+      <data key="d15">mentioned_in_paper</data>
+      <data key="d16">literature</data>
+    </edge>
     <edge source="41359433" target="ATXN2" id="0">
       <data key="d10">supports_claim</data>
       <data key="d13">claim_paper_41359433_ATXN2_targeted_search</data>
@@ -32349,17 +33934,10 @@
       <data key="d15">mentioned_in_paper</data>
       <data key="d16">literature</data>
     </edge>
-    <edge source="41359433" target="NEK1" id="0">
+    <edge source="41387380" target="SQSTM1" id="0">
       <data key="d10">supports_claim</data>
-      <data key="d13">claim_paper_41359433_NEK1_targeted_search</data>
-      <data key="d14">41359433</data>
-      <data key="d15">mentioned_in_paper</data>
-      <data key="d16">literature</data>
-    </edge>
-    <edge source="41359433" target="ANG" id="0">
-      <data key="d10">supports_claim</data>
-      <data key="d13">claim_paper_41359433_ANG_targeted_search</data>
-      <data key="d14">41359433</data>
+      <data key="d13">claim_paper_41387380_SQSTM1_targeted_search</data>
+      <data key="d14">41387380</data>
       <data key="d15">mentioned_in_paper</data>
       <data key="d16">literature</data>
     </edge>
@@ -32370,12 +33948,54 @@
       <data key="d15">mentioned_in_paper</data>
       <data key="d16">literature</data>
     </edge>
-    <edge source="41387380" target="SQSTM1" id="0">
+    <edge source="41394711" target="UNC13A" id="0">
       <data key="d10">supports_claim</data>
-      <data key="d13">claim_paper_41387380_SQSTM1_targeted_search</data>
-      <data key="d14">41387380</data>
+      <data key="d13">claim_opentargets_UNC13A_MONDO_0004976_41394711</data>
+      <data key="d14">41394711</data>
+      <data key="d15">associated_with_disease</data>
+      <data key="d16">0.4694444617833167</data>
+    </edge>
+    <edge source="41394711" target="UNC13A" id="1">
+      <data key="d10">supports_claim</data>
+      <data key="d13">claim_opentargets_UNC13A_EFO_0001357_41394711</data>
+      <data key="d14">41394711</data>
+      <data key="d15">associated_with_disease</data>
+      <data key="d16">0.2964804247250438</data>
+    </edge>
+    <edge source="41394711" target="UNC13A" id="2">
+      <data key="d10">supports_claim</data>
+      <data key="d13">claim_opentargets_UNC13A_EFO_0001356_41394711</data>
+      <data key="d14">41394711</data>
+      <data key="d15">associated_with_disease</data>
+      <data key="d16">0.26609749537298527</data>
+    </edge>
+    <edge source="41394711" target="UNC13A" id="3">
+      <data key="d10">supports_claim</data>
+      <data key="d13">claim_paper_41394711_UNC13A_targeted_search</data>
+      <data key="d14">41394711</data>
       <data key="d15">mentioned_in_paper</data>
       <data key="d16">literature</data>
+    </edge>
+    <edge source="41394711" target="MONDO_0004976" id="0">
+      <data key="d10">supports_claim</data>
+      <data key="d13">claim_opentargets_UNC13A_MONDO_0004976_41394711</data>
+      <data key="d14">41394711</data>
+      <data key="d15">associated_with_disease</data>
+      <data key="d16">0.4694444617833167</data>
+    </edge>
+    <edge source="41394711" target="EFO_0001357" id="0">
+      <data key="d10">supports_claim</data>
+      <data key="d13">claim_opentargets_UNC13A_EFO_0001357_41394711</data>
+      <data key="d14">41394711</data>
+      <data key="d15">associated_with_disease</data>
+      <data key="d16">0.2964804247250438</data>
+    </edge>
+    <edge source="41394711" target="EFO_0001356" id="0">
+      <data key="d10">supports_claim</data>
+      <data key="d13">claim_opentargets_UNC13A_EFO_0001356_41394711</data>
+      <data key="d14">41394711</data>
+      <data key="d15">associated_with_disease</data>
+      <data key="d16">0.26609749537298527</data>
     </edge>
     <edge source="41404692" target="SQSTM1" id="0">
       <data key="d10">supports_claim</data>
@@ -32612,6 +34232,13 @@
       <data key="d10">supports_claim</data>
       <data key="d13">claim_paper_41466038_KIF5A_targeted_search</data>
       <data key="d14">41466038</data>
+      <data key="d15">mentioned_in_paper</data>
+      <data key="d16">literature</data>
+    </edge>
+    <edge source="41481541" target="UNC13A" id="0">
+      <data key="d10">supports_claim</data>
+      <data key="d13">claim_paper_41481541_UNC13A_targeted_search</data>
+      <data key="d14">41481541</data>
       <data key="d15">mentioned_in_paper</data>
       <data key="d16">literature</data>
     </edge>
@@ -32860,6 +34487,13 @@
       <data key="d15">mentioned_in_paper</data>
       <data key="d16">literature</data>
     </edge>
+    <edge source="41573891" target="UNC13A" id="0">
+      <data key="d10">supports_claim</data>
+      <data key="d13">claim_paper_41573891_UNC13A_targeted_search</data>
+      <data key="d14">41573891</data>
+      <data key="d15">mentioned_in_paper</data>
+      <data key="d16">literature</data>
+    </edge>
     <edge source="41582437" target="UBQLN2" id="0">
       <data key="d10">supports_claim</data>
       <data key="d13">claim_paper_41582437_UBQLN2_targeted_search</data>
@@ -32874,23 +34508,9 @@
       <data key="d15">mentioned_in_paper</data>
       <data key="d16">literature</data>
     </edge>
-    <edge source="41592170" target="SIGMAR1" id="0">
-      <data key="d10">supports_claim</data>
-      <data key="d13">claim_paper_41592170_SIGMAR1_targeted_search</data>
-      <data key="d14">41592170</data>
-      <data key="d15">mentioned_in_paper</data>
-      <data key="d16">literature</data>
-    </edge>
     <edge source="41592170" target="SPG11" id="0">
       <data key="d10">supports_claim</data>
       <data key="d13">claim_paper_41592170_SPG11_targeted_search</data>
-      <data key="d14">41592170</data>
-      <data key="d15">mentioned_in_paper</data>
-      <data key="d16">literature</data>
-    </edge>
-    <edge source="41592170" target="OPTN" id="0">
-      <data key="d10">supports_claim</data>
-      <data key="d13">claim_paper_41592170_OPTN_targeted_search</data>
       <data key="d14">41592170</data>
       <data key="d15">mentioned_in_paper</data>
       <data key="d16">literature</data>
@@ -32902,6 +34522,20 @@
       <data key="d15">mentioned_in_paper</data>
       <data key="d16">literature</data>
     </edge>
+    <edge source="41592170" target="SIGMAR1" id="0">
+      <data key="d10">supports_claim</data>
+      <data key="d13">claim_paper_41592170_SIGMAR1_targeted_search</data>
+      <data key="d14">41592170</data>
+      <data key="d15">mentioned_in_paper</data>
+      <data key="d16">literature</data>
+    </edge>
+    <edge source="41592170" target="OPTN" id="0">
+      <data key="d10">supports_claim</data>
+      <data key="d13">claim_paper_41592170_OPTN_targeted_search</data>
+      <data key="d14">41592170</data>
+      <data key="d15">mentioned_in_paper</data>
+      <data key="d16">literature</data>
+    </edge>
     <edge source="41603250" target="TBK1" id="0">
       <data key="d10">supports_claim</data>
       <data key="d13">claim_paper_41603250_TBK1_targeted_search</data>
@@ -32909,37 +34543,9 @@
       <data key="d15">mentioned_in_paper</data>
       <data key="d16">literature</data>
     </edge>
-    <edge source="41621017" target="SETX" id="0">
+    <edge source="41621017" target="CHCHD10" id="0">
       <data key="d10">supports_claim</data>
-      <data key="d13">claim_paper_41621017_SETX_targeted_search</data>
-      <data key="d14">41621017</data>
-      <data key="d15">mentioned_in_paper</data>
-      <data key="d16">literature</data>
-    </edge>
-    <edge source="41621017" target="NEFH" id="0">
-      <data key="d10">supports_claim</data>
-      <data key="d13">claim_paper_41621017_NEFH_targeted_search</data>
-      <data key="d14">41621017</data>
-      <data key="d15">mentioned_in_paper</data>
-      <data key="d16">literature</data>
-    </edge>
-    <edge source="41621017" target="DCTN1" id="0">
-      <data key="d10">supports_claim</data>
-      <data key="d13">claim_paper_41621017_DCTN1_targeted_search</data>
-      <data key="d14">41621017</data>
-      <data key="d15">mentioned_in_paper</data>
-      <data key="d16">literature</data>
-    </edge>
-    <edge source="41621017" target="SPG11" id="0">
-      <data key="d10">supports_claim</data>
-      <data key="d13">claim_paper_41621017_SPG11_targeted_search</data>
-      <data key="d14">41621017</data>
-      <data key="d15">mentioned_in_paper</data>
-      <data key="d16">literature</data>
-    </edge>
-    <edge source="41621017" target="VCP" id="0">
-      <data key="d10">supports_claim</data>
-      <data key="d13">claim_paper_41621017_VCP_targeted_search</data>
+      <data key="d13">claim_paper_41621017_CHCHD10_targeted_search</data>
       <data key="d14">41621017</data>
       <data key="d15">mentioned_in_paper</data>
       <data key="d16">literature</data>
@@ -32958,9 +34564,37 @@
       <data key="d15">mentioned_in_paper</data>
       <data key="d16">literature</data>
     </edge>
-    <edge source="41621017" target="CHCHD10" id="0">
+    <edge source="41621017" target="SPG11" id="0">
       <data key="d10">supports_claim</data>
-      <data key="d13">claim_paper_41621017_CHCHD10_targeted_search</data>
+      <data key="d13">claim_paper_41621017_SPG11_targeted_search</data>
+      <data key="d14">41621017</data>
+      <data key="d15">mentioned_in_paper</data>
+      <data key="d16">literature</data>
+    </edge>
+    <edge source="41621017" target="NEFH" id="0">
+      <data key="d10">supports_claim</data>
+      <data key="d13">claim_paper_41621017_NEFH_targeted_search</data>
+      <data key="d14">41621017</data>
+      <data key="d15">mentioned_in_paper</data>
+      <data key="d16">literature</data>
+    </edge>
+    <edge source="41621017" target="DCTN1" id="0">
+      <data key="d10">supports_claim</data>
+      <data key="d13">claim_paper_41621017_DCTN1_targeted_search</data>
+      <data key="d14">41621017</data>
+      <data key="d15">mentioned_in_paper</data>
+      <data key="d16">literature</data>
+    </edge>
+    <edge source="41621017" target="VCP" id="0">
+      <data key="d10">supports_claim</data>
+      <data key="d13">claim_paper_41621017_VCP_targeted_search</data>
+      <data key="d14">41621017</data>
+      <data key="d15">mentioned_in_paper</data>
+      <data key="d16">literature</data>
+    </edge>
+    <edge source="41621017" target="SETX" id="0">
+      <data key="d10">supports_claim</data>
+      <data key="d13">claim_paper_41621017_SETX_targeted_search</data>
       <data key="d14">41621017</data>
       <data key="d15">mentioned_in_paper</data>
       <data key="d16">literature</data>
@@ -32986,16 +34620,16 @@
       <data key="d15">mentioned_in_paper</data>
       <data key="d16">literature</data>
     </edge>
-    <edge source="41651252" target="VAPB" id="0">
+    <edge source="41651252" target="VCP" id="0">
       <data key="d10">supports_claim</data>
-      <data key="d13">claim_paper_41651252_VAPB_targeted_search</data>
+      <data key="d13">claim_paper_41651252_VCP_targeted_search</data>
       <data key="d14">41651252</data>
       <data key="d15">mentioned_in_paper</data>
       <data key="d16">literature</data>
     </edge>
-    <edge source="41651252" target="VCP" id="0">
+    <edge source="41651252" target="VAPB" id="0">
       <data key="d10">supports_claim</data>
-      <data key="d13">claim_paper_41651252_VCP_targeted_search</data>
+      <data key="d13">claim_paper_41651252_VAPB_targeted_search</data>
       <data key="d14">41651252</data>
       <data key="d15">mentioned_in_paper</data>
       <data key="d16">literature</data>
@@ -33084,16 +34718,9 @@
       <data key="d15">mentioned_in_paper</data>
       <data key="d16">literature</data>
     </edge>
-    <edge source="41737544" target="OPTN" id="0">
+    <edge source="41737544" target="ANXA11" id="0">
       <data key="d10">supports_claim</data>
-      <data key="d13">claim_paper_41737544_OPTN_targeted_search</data>
-      <data key="d14">41737544</data>
-      <data key="d15">mentioned_in_paper</data>
-      <data key="d16">literature</data>
-    </edge>
-    <edge source="41737544" target="SQSTM1" id="0">
-      <data key="d10">supports_claim</data>
-      <data key="d13">claim_paper_41737544_SQSTM1_targeted_search</data>
+      <data key="d13">claim_paper_41737544_ANXA11_targeted_search</data>
       <data key="d14">41737544</data>
       <data key="d15">mentioned_in_paper</data>
       <data key="d16">literature</data>
@@ -33105,9 +34732,16 @@
       <data key="d15">mentioned_in_paper</data>
       <data key="d16">literature</data>
     </edge>
-    <edge source="41737544" target="ANXA11" id="0">
+    <edge source="41737544" target="SQSTM1" id="0">
       <data key="d10">supports_claim</data>
-      <data key="d13">claim_paper_41737544_ANXA11_targeted_search</data>
+      <data key="d13">claim_paper_41737544_SQSTM1_targeted_search</data>
+      <data key="d14">41737544</data>
+      <data key="d15">mentioned_in_paper</data>
+      <data key="d16">literature</data>
+    </edge>
+    <edge source="41737544" target="OPTN" id="0">
+      <data key="d10">supports_claim</data>
+      <data key="d13">claim_paper_41737544_OPTN_targeted_search</data>
       <data key="d14">41737544</data>
       <data key="d15">mentioned_in_paper</data>
       <data key="d16">literature</data>
@@ -33308,16 +34942,16 @@
       <data key="d15">mentioned_in_paper</data>
       <data key="d16">literature</data>
     </edge>
-    <edge source="41911331" target="PRPH" id="0">
+    <edge source="41911331" target="CHCHD10" id="0">
       <data key="d10">supports_claim</data>
-      <data key="d13">claim_paper_41911331_PRPH_targeted_search</data>
+      <data key="d13">claim_paper_41911331_CHCHD10_targeted_search</data>
       <data key="d14">41911331</data>
       <data key="d15">mentioned_in_paper</data>
       <data key="d16">literature</data>
     </edge>
-    <edge source="41911331" target="CHCHD10" id="0">
+    <edge source="41911331" target="PRPH" id="0">
       <data key="d10">supports_claim</data>
-      <data key="d13">claim_paper_41911331_CHCHD10_targeted_search</data>
+      <data key="d13">claim_paper_41911331_PRPH_targeted_search</data>
       <data key="d14">41911331</data>
       <data key="d15">mentioned_in_paper</data>
       <data key="d16">literature</data>
@@ -33336,10 +34970,10 @@
       <data key="d15">mentioned_in_paper</data>
       <data key="d16">literature</data>
     </edge>
-    <edge source="41917768" target="SQSTM1" id="0">
+    <edge source="41917433" target="CFAP410" id="0">
       <data key="d10">supports_claim</data>
-      <data key="d13">claim_paper_41917768_SQSTM1_targeted_search</data>
-      <data key="d14">41917768</data>
+      <data key="d13">claim_paper_41917433_CFAP410_targeted_search</data>
+      <data key="d14">41917433</data>
       <data key="d15">mentioned_in_paper</data>
       <data key="d16">literature</data>
     </edge>
@@ -33350,10 +34984,45 @@
       <data key="d15">mentioned_in_paper</data>
       <data key="d16">literature</data>
     </edge>
+    <edge source="41917768" target="SQSTM1" id="0">
+      <data key="d10">supports_claim</data>
+      <data key="d13">claim_paper_41917768_SQSTM1_targeted_search</data>
+      <data key="d14">41917768</data>
+      <data key="d15">mentioned_in_paper</data>
+      <data key="d16">literature</data>
+    </edge>
+    <edge source="41929081" target="MOBP" id="0">
+      <data key="d10">supports_claim</data>
+      <data key="d13">claim_paper_41929081_MOBP_targeted_search</data>
+      <data key="d14">41929081</data>
+      <data key="d15">mentioned_in_paper</data>
+      <data key="d16">literature</data>
+    </edge>
+    <edge source="41931746" target="UNC13A" id="0">
+      <data key="d10">supports_claim</data>
+      <data key="d13">claim_paper_41931746_UNC13A_targeted_search</data>
+      <data key="d14">41931746</data>
+      <data key="d15">mentioned_in_paper</data>
+      <data key="d16">literature</data>
+    </edge>
     <edge source="41950600" target="ANG" id="0">
       <data key="d10">supports_claim</data>
       <data key="d13">claim_paper_41950600_ANG_targeted_search</data>
       <data key="d14">41950600</data>
+      <data key="d15">mentioned_in_paper</data>
+      <data key="d16">literature</data>
+    </edge>
+    <edge source="41996987" target="TAF15" id="0">
+      <data key="d10">supports_claim</data>
+      <data key="d13">claim_paper_41996987_TAF15_targeted_search</data>
+      <data key="d14">41996987</data>
+      <data key="d15">mentioned_in_paper</data>
+      <data key="d16">literature</data>
+    </edge>
+    <edge source="41996987" target="UNC13A" id="0">
+      <data key="d10">supports_claim</data>
+      <data key="d13">claim_paper_41996987_UNC13A_targeted_search</data>
+      <data key="d14">41996987</data>
       <data key="d15">mentioned_in_paper</data>
       <data key="d16">literature</data>
     </edge>
@@ -33364,16 +35033,16 @@
       <data key="d15">mentioned_in_paper</data>
       <data key="d16">literature</data>
     </edge>
-    <edge source="42041567" target="ATXN2" id="0">
+    <edge source="42041567" target="KIF5A" id="0">
       <data key="d10">supports_claim</data>
-      <data key="d13">claim_paper_42041567_ATXN2_targeted_search</data>
+      <data key="d13">claim_paper_42041567_KIF5A_targeted_search</data>
       <data key="d14">42041567</data>
       <data key="d15">mentioned_in_paper</data>
       <data key="d16">literature</data>
     </edge>
-    <edge source="42041567" target="KIF5A" id="0">
+    <edge source="42041567" target="ATXN2" id="0">
       <data key="d10">supports_claim</data>
-      <data key="d13">claim_paper_42041567_KIF5A_targeted_search</data>
+      <data key="d13">claim_paper_42041567_ATXN2_targeted_search</data>
       <data key="d14">42041567</data>
       <data key="d15">mentioned_in_paper</data>
       <data key="d16">literature</data>
@@ -33382,6 +35051,13 @@
       <data key="d10">supports_claim</data>
       <data key="d13">claim_paper_42041567_NEFH_targeted_search</data>
       <data key="d14">42041567</data>
+      <data key="d15">mentioned_in_paper</data>
+      <data key="d16">literature</data>
+    </edge>
+    <edge source="42049092" target="TAF15" id="0">
+      <data key="d10">supports_claim</data>
+      <data key="d13">claim_paper_42049092_TAF15_targeted_search</data>
+      <data key="d14">42049092</data>
       <data key="d15">mentioned_in_paper</data>
       <data key="d16">literature</data>
     </edge>
@@ -33483,10 +35159,24 @@
       <data key="d15">mentioned_in_paper</data>
       <data key="d16">literature</data>
     </edge>
+    <edge source="42178983" target="UNC13A" id="0">
+      <data key="d10">supports_claim</data>
+      <data key="d13">claim_paper_42178983_UNC13A_targeted_search</data>
+      <data key="d14">42178983</data>
+      <data key="d15">mentioned_in_paper</data>
+      <data key="d16">literature</data>
+    </edge>
     <edge source="42183628" target="CHCHD10" id="0">
       <data key="d10">supports_claim</data>
       <data key="d13">claim_paper_42183628_CHCHD10_targeted_search</data>
       <data key="d14">42183628</data>
+      <data key="d15">mentioned_in_paper</data>
+      <data key="d16">literature</data>
+    </edge>
+    <edge source="42187823" target="TAF15" id="0">
+      <data key="d10">supports_claim</data>
+      <data key="d13">claim_paper_42187823_TAF15_targeted_search</data>
+      <data key="d14">42187823</data>
       <data key="d15">mentioned_in_paper</data>
       <data key="d16">literature</data>
     </edge>
@@ -33518,6 +35208,13 @@
       <data key="d15">mentioned_in_paper</data>
       <data key="d16">literature</data>
     </edge>
+    <edge source="42223334" target="UNC13A" id="0">
+      <data key="d10">supports_claim</data>
+      <data key="d13">claim_paper_42223334_UNC13A_targeted_search</data>
+      <data key="d14">42223334</data>
+      <data key="d15">mentioned_in_paper</data>
+      <data key="d16">literature</data>
+    </edge>
     <edge source="42227825" target="TARDBP" id="0">
       <data key="d10">supports_claim</data>
       <data key="d13">claim_paper_42227825_TARDBP_targeted_search</data>
@@ -33529,13 +35226,6 @@
       <data key="d10">supports_claim</data>
       <data key="d13">claim_paper_42228326_FUS_targeted_search</data>
       <data key="d14">42228326</data>
-      <data key="d15">mentioned_in_paper</data>
-      <data key="d16">literature</data>
-    </edge>
-    <edge source="42234776" target="TARDBP" id="0">
-      <data key="d10">supports_claim</data>
-      <data key="d13">claim_paper_42234776_TARDBP_targeted_search</data>
-      <data key="d14">42234776</data>
       <data key="d15">mentioned_in_paper</data>
       <data key="d16">literature</data>
     </edge>
@@ -33616,6 +35306,13 @@
       <data key="d15">mentioned_in_paper</data>
       <data key="d16">literature</data>
     </edge>
+    <edge source="42254864" target="UNC13A" id="0">
+      <data key="d10">supports_claim</data>
+      <data key="d13">claim_paper_42254864_UNC13A_targeted_search</data>
+      <data key="d14">42254864</data>
+      <data key="d15">mentioned_in_paper</data>
+      <data key="d16">literature</data>
+    </edge>
     <edge source="42254864" target="TARDBP" id="0">
       <data key="d10">supports_claim</data>
       <data key="d13">claim_paper_42254864_TARDBP_targeted_search</data>
@@ -33630,16 +35327,16 @@
       <data key="d15">mentioned_in_paper</data>
       <data key="d16">literature</data>
     </edge>
-    <edge source="42260986" target="SQSTM1" id="0">
+    <edge source="42260986" target="PFN1" id="0">
       <data key="d10">supports_claim</data>
-      <data key="d13">claim_paper_42260986_SQSTM1_targeted_search</data>
+      <data key="d13">claim_paper_42260986_PFN1_targeted_search</data>
       <data key="d14">42260986</data>
       <data key="d15">mentioned_in_paper</data>
       <data key="d16">literature</data>
     </edge>
-    <edge source="42260986" target="PFN1" id="0">
+    <edge source="42260986" target="SQSTM1" id="0">
       <data key="d10">supports_claim</data>
-      <data key="d13">claim_paper_42260986_PFN1_targeted_search</data>
+      <data key="d13">claim_paper_42260986_SQSTM1_targeted_search</data>
       <data key="d14">42260986</data>
       <data key="d15">mentioned_in_paper</data>
       <data key="d16">literature</data>
@@ -33672,6 +35369,13 @@
       <data key="d15">mentioned_in_paper</data>
       <data key="d16">literature</data>
     </edge>
+    <edge source="42268660" target="NEK1" id="0">
+      <data key="d10">supports_claim</data>
+      <data key="d13">claim_paper_42268660_NEK1_targeted_search</data>
+      <data key="d14">42268660</data>
+      <data key="d15">mentioned_in_paper</data>
+      <data key="d16">literature</data>
+    </edge>
     <edge source="42268660" target="TARDBP" id="0">
       <data key="d10">supports_claim</data>
       <data key="d13">claim_paper_42268660_TARDBP_targeted_search</data>
@@ -33679,9 +35383,9 @@
       <data key="d15">mentioned_in_paper</data>
       <data key="d16">literature</data>
     </edge>
-    <edge source="42268660" target="SOD1" id="0">
+    <edge source="42268660" target="FUS" id="0">
       <data key="d10">supports_claim</data>
-      <data key="d13">claim_paper_42268660_SOD1_targeted_search</data>
+      <data key="d13">claim_paper_42268660_FUS_targeted_search</data>
       <data key="d14">42268660</data>
       <data key="d15">mentioned_in_paper</data>
       <data key="d16">literature</data>
@@ -33693,23 +35397,16 @@
       <data key="d15">mentioned_in_paper</data>
       <data key="d16">literature</data>
     </edge>
+    <edge source="42268660" target="SOD1" id="0">
+      <data key="d10">supports_claim</data>
+      <data key="d13">claim_paper_42268660_SOD1_targeted_search</data>
+      <data key="d14">42268660</data>
+      <data key="d15">mentioned_in_paper</data>
+      <data key="d16">literature</data>
+    </edge>
     <edge source="42268660" target="ATXN2" id="0">
       <data key="d10">supports_claim</data>
       <data key="d13">claim_paper_42268660_ATXN2_targeted_search</data>
-      <data key="d14">42268660</data>
-      <data key="d15">mentioned_in_paper</data>
-      <data key="d16">literature</data>
-    </edge>
-    <edge source="42268660" target="NEK1" id="0">
-      <data key="d10">supports_claim</data>
-      <data key="d13">claim_paper_42268660_NEK1_targeted_search</data>
-      <data key="d14">42268660</data>
-      <data key="d15">mentioned_in_paper</data>
-      <data key="d16">literature</data>
-    </edge>
-    <edge source="42268660" target="FUS" id="0">
-      <data key="d10">supports_claim</data>
-      <data key="d13">claim_paper_42268660_FUS_targeted_search</data>
       <data key="d14">42268660</data>
       <data key="d15">mentioned_in_paper</data>
       <data key="d16">literature</data>
@@ -33749,13 +35446,6 @@
       <data key="d15">mentioned_in_paper</data>
       <data key="d16">literature</data>
     </edge>
-    <edge source="42296226" target="SOD1" id="0">
-      <data key="d10">supports_claim</data>
-      <data key="d13">claim_paper_42296226_SOD1_targeted_search</data>
-      <data key="d14">42296226</data>
-      <data key="d15">mentioned_in_paper</data>
-      <data key="d16">literature</data>
-    </edge>
     <edge source="42296226" target="FUS" id="0">
       <data key="d10">supports_claim</data>
       <data key="d13">claim_paper_42296226_FUS_targeted_search</data>
@@ -33770,9 +35460,23 @@
       <data key="d15">mentioned_in_paper</data>
       <data key="d16">literature</data>
     </edge>
-    <edge source="42299014" target="SOD1" id="0">
+    <edge source="42296226" target="SOD1" id="0">
       <data key="d10">supports_claim</data>
-      <data key="d13">claim_paper_42299014_SOD1_targeted_search</data>
+      <data key="d13">claim_paper_42296226_SOD1_targeted_search</data>
+      <data key="d14">42296226</data>
+      <data key="d15">mentioned_in_paper</data>
+      <data key="d16">literature</data>
+    </edge>
+    <edge source="42299014" target="NEK1" id="0">
+      <data key="d10">supports_claim</data>
+      <data key="d13">claim_paper_42299014_NEK1_targeted_search</data>
+      <data key="d14">42299014</data>
+      <data key="d15">mentioned_in_paper</data>
+      <data key="d16">literature</data>
+    </edge>
+    <edge source="42299014" target="FUS" id="0">
+      <data key="d10">supports_claim</data>
+      <data key="d13">claim_paper_42299014_FUS_targeted_search</data>
       <data key="d14">42299014</data>
       <data key="d15">mentioned_in_paper</data>
       <data key="d16">literature</data>
@@ -33784,13 +35488,6 @@
       <data key="d15">mentioned_in_paper</data>
       <data key="d16">literature</data>
     </edge>
-    <edge source="42299014" target="NEK1" id="0">
-      <data key="d10">supports_claim</data>
-      <data key="d13">claim_paper_42299014_NEK1_targeted_search</data>
-      <data key="d14">42299014</data>
-      <data key="d15">mentioned_in_paper</data>
-      <data key="d16">literature</data>
-    </edge>
     <edge source="42299014" target="VCP" id="0">
       <data key="d10">supports_claim</data>
       <data key="d13">claim_paper_42299014_VCP_targeted_search</data>
@@ -33798,9 +35495,9 @@
       <data key="d15">mentioned_in_paper</data>
       <data key="d16">literature</data>
     </edge>
-    <edge source="42299014" target="FUS" id="0">
+    <edge source="42299014" target="SOD1" id="0">
       <data key="d10">supports_claim</data>
-      <data key="d13">claim_paper_42299014_FUS_targeted_search</data>
+      <data key="d13">claim_paper_42299014_SOD1_targeted_search</data>
       <data key="d14">42299014</data>
       <data key="d15">mentioned_in_paper</data>
       <data key="d16">literature</data>

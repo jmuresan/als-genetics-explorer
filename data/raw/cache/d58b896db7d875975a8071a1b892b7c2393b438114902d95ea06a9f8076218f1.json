@@ -1,0 +1,39 @@
+[
+  {
+    "dbId": 204005,
+    "displayName": "COPII-mediated vesicle transport",
+    "stId": "R-HSA-204005",
+    "stIdVersion": "R-HSA-204005.6",
+    "isInDisease": false,
+    "isInferred": false,
+    "maxDepth": 2,
+    "name": [
+      "COPII-mediated vesicle transport"
+    ],
+    "releaseDate": "2010-12-14",
+    "speciesName": "Homo sapiens",
+    "hasDiagram": true,
+    "hasEHLD": false,
+    "lastUpdatedDate": "2019-03-25",
+    "schemaClass": "Pathway",
+    "className": "Pathway"
+  },
+  {
+    "dbId": 8980692,
+    "displayName": "RHOA GTPase cycle",
+    "stId": "R-HSA-8980692",
+    "stIdVersion": "R-HSA-8980692.2",
+    "isInDisease": false,
+    "isInferred": false,
+    "maxDepth": 2,
+    "name": [
+      "RHOA GTPase cycle"
+    ],
+    "releaseDate": "2021-03-23",
+    "speciesName": "Homo sapiens",
+    "hasDiagram": false,
+    "hasEHLD": false,
+    "schemaClass": "Pathway",
+    "className": "Pathway"
+  }
+]

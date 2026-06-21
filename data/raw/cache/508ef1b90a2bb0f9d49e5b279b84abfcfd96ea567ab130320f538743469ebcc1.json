@@ -1,0 +1,21 @@
+[
+  {
+    "dbId": 8986944,
+    "displayName": "Transcriptional Regulation by MECP2",
+    "stId": "R-HSA-8986944",
+    "stIdVersion": "R-HSA-8986944.4",
+    "isInDisease": false,
+    "isInferred": false,
+    "maxDepth": 3,
+    "name": [
+      "Transcriptional Regulation by MECP2"
+    ],
+    "releaseDate": "2018-09-12",
+    "speciesName": "Homo sapiens",
+    "doi": "10.3180/R-HSA-8986944.1",
+    "hasDiagram": true,
+    "hasEHLD": false,
+    "schemaClass": "Pathway",
+    "className": "Pathway"
+  }
+]

@@ -1,0 +1,173 @@
+[
+  {
+    "dbId": 167161,
+    "displayName": "HIV Transcription Initiation",
+    "stId": "R-HSA-167161",
+    "stIdVersion": "R-HSA-167161.4",
+    "isInDisease": true,
+    "isInferred": true,
+    "maxDepth": 2,
+    "name": [
+      "HIV Transcription Initiation"
+    ],
+    "releaseDate": "2005-06-13",
+    "speciesName": "Homo sapiens",
+    "hasDiagram": false,
+    "hasEHLD": false,
+    "lastUpdatedDate": "2021-12-08",
+    "schemaClass": "Pathway",
+    "className": "Pathway"
+  },
+  {
+    "dbId": 167162,
+    "displayName": "RNA Polymerase II HIV Promoter Escape",
+    "stId": "R-HSA-167162",
+    "stIdVersion": "R-HSA-167162.5",
+    "isInDisease": true,
+    "isInferred": true,
+    "maxDepth": 2,
+    "name": [
+      "RNA Polymerase II HIV Promoter Escape"
+    ],
+    "releaseDate": "2006-01-23",
+    "speciesName": "Homo sapiens",
+    "hasDiagram": false,
+    "hasEHLD": false,
+    "lastUpdatedDate": "2021-12-08",
+    "schemaClass": "Pathway",
+    "className": "Pathway"
+  },
+  {
+    "dbId": 167172,
+    "displayName": "Transcription of the HIV genome",
+    "stId": "R-HSA-167172",
+    "stIdVersion": "R-HSA-167172.4",
+    "isInDisease": true,
+    "isInferred": true,
+    "maxDepth": 5,
+    "name": [
+      "Transcription of the HIV genome"
+    ],
+    "releaseDate": "2006-01-23",
+    "speciesName": "Homo sapiens",
+    "hasDiagram": false,
+    "hasEHLD": false,
+    "lastUpdatedDate": "2021-12-08",
+    "schemaClass": "Pathway",
+    "className": "Pathway"
+  },
+  {
+    "dbId": 674695,
+    "displayName": "RNA Polymerase II Pre-transcription Events",
+    "stId": "R-HSA-674695",
+    "stIdVersion": "R-HSA-674695.5",
+    "isInDisease": false,
+    "isInferred": false,
+    "maxDepth": 2,
+    "name": [
+      "RNA Polymerase II Pre-transcription Events"
+    ],
+    "releaseDate": "2010-06-15",
+    "speciesName": "Homo sapiens",
+    "hasDiagram": false,
+    "hasEHLD": false,
+    "lastUpdatedDate": "2021-12-08",
+    "schemaClass": "Pathway",
+    "className": "Pathway"
+  },
+  {
+    "dbId": 6804756,
+    "displayName": "Regulation of TP53 Activity through Phosphorylation",
+    "stId": "R-HSA-6804756",
+    "stIdVersion": "R-HSA-6804756.4",
+    "isInDisease": false,
+    "isInferred": false,
+    "maxDepth": 2,
+    "name": [
+      "Regulation of TP53 Activity through Phosphorylation"
+    ],
+    "releaseDate": "2016-03-23",
+    "speciesName": "Homo sapiens",
+    "hasDiagram": true,
+    "hasEHLD": false,
+    "lastUpdatedDate": "2016-06-27",
+    "schemaClass": "Pathway",
+    "className": "Pathway"
+  },
+  {
+    "dbId": 73776,
+    "displayName": "RNA Polymerase II Promoter Escape",
+    "stId": "R-HSA-73776",
+    "stIdVersion": "R-HSA-73776.5",
+    "isInDisease": false,
+    "isInferred": false,
+    "maxDepth": 2,
+    "name": [
+      "RNA Polymerase II Promoter Escape"
+    ],
+    "releaseDate": "2004-07-06",
+    "speciesName": "Homo sapiens",
+    "hasDiagram": false,
+    "hasEHLD": false,
+    "lastUpdatedDate": "2021-12-08",
+    "schemaClass": "Pathway",
+    "className": "Pathway"
+  },
+  {
+    "dbId": 73779,
+    "displayName": "RNA Polymerase II Transcription Pre-Initiation And Promoter Opening",
+    "stId": "R-HSA-73779",
+    "stIdVersion": "R-HSA-73779.4",
+    "isInDisease": false,
+    "isInferred": false,
+    "maxDepth": 2,
+    "name": [
+      "RNA Polymerase II Transcription Pre-Initiation And Promoter Opening"
+    ],
+    "releaseDate": "2004-07-06",
+    "speciesName": "Homo sapiens",
+    "hasDiagram": false,
+    "hasEHLD": false,
+    "lastUpdatedDate": "2018-09-30",
+    "schemaClass": "Pathway",
+    "className": "Pathway"
+  },
+  {
+    "dbId": 75953,
+    "displayName": "RNA Polymerase II Transcription Initiation",
+    "stId": "R-HSA-75953",
+    "stIdVersion": "R-HSA-75953.4",
+    "isInDisease": false,
+    "isInferred": false,
+    "maxDepth": 2,
+    "name": [
+      "RNA Polymerase II Transcription Initiation"
+    ],
+    "releaseDate": "2004-07-06",
+    "speciesName": "Homo sapiens",
+    "hasDiagram": false,
+    "hasEHLD": false,
+    "lastUpdatedDate": "2021-12-08",
+    "schemaClass": "Pathway",
+    "className": "Pathway"
+  },
+  {
+    "dbId": 76042,
+    "displayName": "RNA Polymerase II Transcription Initiation And Promoter Clearance",
+    "stId": "R-HSA-76042",
+    "stIdVersion": "R-HSA-76042.5",
+    "isInDisease": false,
+    "isInferred": false,
+    "maxDepth": 3,
+    "name": [
+      "RNA Polymerase II Transcription Initiation And Promoter Clearance"
+    ],
+    "releaseDate": "2004-07-06",
+    "speciesName": "Homo sapiens",
+    "hasDiagram": false,
+    "hasEHLD": false,
+    "lastUpdatedDate": "2021-12-08",
+    "schemaClass": "Pathway",
+    "className": "Pathway"
+  }
+]
