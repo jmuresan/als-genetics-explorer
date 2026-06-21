@@ -13,7 +13,7 @@ faint nodes are their STRING partners, and the lines are STRING interactions. It
 rendered by `render_graph.py` from the live-built database, using a ForceAtlas2 layout with
 nodes sized by betweenness centrality, so the bridge genes read largest.
 
-Each gene also carries an ALS sensitivity and specificity note: the published share of
+Genes also carry an ALS sensitivity and specificity note: the published share of
 familial and sporadic ALS and the phenotype specificity, from GeneReviews (NBK1450, Tables
 2a and 2b) where available, with cited PubMed sources for genes outside those tables. The
 data sits in `data/als_gene_evidence.json`. Formal sensitivity and specificity are not
