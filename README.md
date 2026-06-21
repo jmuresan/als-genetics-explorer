@@ -10,7 +10,14 @@ response, so a clean re-run reproduces the database.
 
 The image above is the gene interaction network: rust nodes are the 46 panel genes, the
 faint nodes are their STRING partners, and the lines are STRING interactions. It is
-rendered by `render_graph.py` from the live-built database.
+rendered by `render_graph.py` from the live-built database, using a ForceAtlas2 layout with
+nodes sized by betweenness centrality, so the bridge genes read largest.
+
+Each gene also carries an ALS sensitivity and specificity note: the published share of
+familial and sporadic ALS and the phenotype specificity, from GeneReviews (NBK1450, Tables
+2a and 2b) where available, with cited PubMed sources for genes outside those tables. The
+data sits in `data/als_gene_evidence.json`. Formal sensitivity and specificity are not
+reported per ALS gene; these are the field's closest published measures.
 
 This is research tooling. The hypotheses are machine-generated leads, not validated
 biology and not medical advice.
@@ -206,6 +213,7 @@ src/pipeline/    end-to-end runner
 render_graph.py  renders outputs/graph_overview.png from the database
 data/raw/        the UniProt FASTA and cached API responses
 data/processed/  the built DuckDB and the deduplicated papers
+data/als_gene_evidence.json  per-gene familial/sporadic ALS share and specificity (GeneReviews + cited PubMed)
 outputs/         ranked tables, hypotheses, graph, graph image, provenance
 tests/           offline test suite
 gate_check.py    verification-gate queries
