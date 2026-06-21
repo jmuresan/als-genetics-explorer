@@ -1,0 +1,99 @@
+{
+  "header": {
+    "type": "esearch",
+    "version": "0.3"
+  },
+  "esearchresult": {
+    "count": "54",
+    "retmax": "54",
+    "retstart": "0",
+    "idlist": [
+      "4847405",
+      "3779460",
+      "3721426",
+      "3666845",
+      "3618337",
+      "2862356",
+      "1948642",
+      "1447658",
+      "1366739",
+      "883659",
+      "883658",
+      "882867",
+      "882866",
+      "882865",
+      "882864",
+      "881717",
+      "881316",
+      "881315",
+      "881256",
+      "873274",
+      "807060",
+      "804533",
+      "493139",
+      "312778",
+      "312777",
+      "312776",
+      "312775",
+      "312774",
+      "312773",
+      "312772",
+      "312771",
+      "312770",
+      "312769",
+      "312768",
+      "312767",
+      "312766",
+      "312765",
+      "312764",
+      "312763",
+      "312762",
+      "312761",
+      "312760",
+      "312759",
+      "257559",
+      "18082",
+      "18081",
+      "18080",
+      "18079",
+      "18078",
+      "18077",
+      "18076",
+      "18075",
+      "18074",
+      "18073"
+    ],
+    "translationset": [],
+    "translationstack": [
+      {
+        "term": "ANG[gene]",
+        "field": "gene",
+        "count": "157",
+        "explode": "N"
+      },
+      {
+        "term": "amyotrophic[All Fields]",
+        "field": "All Fields",
+        "count": "10881",
+        "explode": "N"
+      },
+      {
+        "term": "lateral[All Fields]",
+        "field": "All Fields",
+        "count": "23718",
+        "explode": "N"
+      },
+      "AND",
+      {
+        "term": "sclerosis[All Fields]",
+        "field": "All Fields",
+        "count": "32827",
+        "explode": "N"
+      },
+      "AND",
+      "GROUP",
+      "AND"
+    ],
+    "querytranslation": "ANG[gene] AND (amyotrophic[All Fields] AND lateral[All Fields] AND sclerosis[All Fields])"
+  }
+}

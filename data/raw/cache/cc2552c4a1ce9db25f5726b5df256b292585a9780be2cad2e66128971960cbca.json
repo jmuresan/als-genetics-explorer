@@ -1,0 +1,25 @@
+{
+  "header": {
+    "type": "esearch",
+    "version": "0.3"
+  },
+  "esearchresult": {
+    "count": "117",
+    "retmax": "10",
+    "retstart": "0",
+    "idlist": [
+      "42183628",
+      "41911331",
+      "41732281",
+      "41621017",
+      "41570741",
+      "41509469",
+      "41420107",
+      "41303337",
+      "41271630",
+      "41053020"
+    ],
+    "translationset": [],
+    "querytranslation": "(\"CHCHD10\"[Title/Abstract] OR \"CHCHD10\"[All Fields]) AND (\"amyotrophic lateral sclerosis\"[Title/Abstract] OR \"ALS\"[Title/Abstract])"
+  }
+}

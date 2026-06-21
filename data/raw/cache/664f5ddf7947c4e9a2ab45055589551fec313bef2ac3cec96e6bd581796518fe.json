@@ -1,0 +1,372 @@
+[
+  {
+    "dbId": 1606341,
+    "displayName": "IRF3 mediated activation of type 1 IFN",
+    "stId": "R-HSA-1606341",
+    "stIdVersion": "R-HSA-1606341.4",
+    "isInDisease": false,
+    "isInferred": false,
+    "maxDepth": 2,
+    "name": [
+      "IRF3 mediated activation of type 1 IFN"
+    ],
+    "releaseDate": "2012-03-13",
+    "speciesName": "Homo sapiens",
+    "hasDiagram": false,
+    "hasEHLD": false,
+    "lastUpdatedDate": "2020-09-24",
+    "schemaClass": "Pathway",
+    "className": "Pathway"
+  },
+  {
+    "dbId": 168928,
+    "displayName": "DDX58/IFIH1-mediated induction of interferon-alpha/beta",
+    "stId": "R-HSA-168928",
+    "stIdVersion": "R-HSA-168928.12",
+    "isInDisease": false,
+    "isInferred": false,
+    "maxDepth": 3,
+    "name": [
+      "DDX58/IFIH1-mediated induction of interferon-alpha/beta",
+      "RIG-I/MDA5 mediated induction of IFN-alpha/beta pathways"
+    ],
+    "releaseDate": "2010-12-14",
+    "speciesName": "Homo sapiens",
+    "doi": "10.3180/R-HSA-168928.9",
+    "hasDiagram": true,
+    "hasEHLD": false,
+    "lastUpdatedDate": "2023-09-13",
+    "schemaClass": "Pathway",
+    "className": "Pathway"
+  },
+  {
+    "dbId": 3134975,
+    "displayName": "Regulation of innate immune responses to cytosolic DNA",
+    "stId": "R-HSA-3134975",
+    "stIdVersion": "R-HSA-3134975.4",
+    "isInDisease": false,
+    "isInferred": false,
+    "maxDepth": 3,
+    "name": [
+      "Regulation of innate immune responses to cytosolic DNA"
+    ],
+    "releaseDate": "2013-06-11",
+    "speciesName": "Homo sapiens",
+    "hasDiagram": false,
+    "hasEHLD": false,
+    "lastUpdatedDate": "2016-12-21",
+    "schemaClass": "Pathway",
+    "className": "Pathway"
+  },
+  {
+    "dbId": 3249367,
+    "displayName": "STAT6-mediated induction of chemokines",
+    "stId": "R-HSA-3249367",
+    "stIdVersion": "R-HSA-3249367.2",
+    "isInDisease": false,
+    "isInferred": false,
+    "maxDepth": 2,
+    "name": [
+      "STAT6-mediated induction of chemokines"
+    ],
+    "releaseDate": "2013-06-11",
+    "speciesName": "Homo sapiens",
+    "hasDiagram": false,
+    "hasEHLD": false,
+    "schemaClass": "Pathway",
+    "className": "Pathway"
+  },
+  {
+    "dbId": 3270619,
+    "displayName": "IRF3-mediated induction of type I IFN",
+    "stId": "R-HSA-3270619",
+    "stIdVersion": "R-HSA-3270619.3",
+    "isInDisease": false,
+    "isInferred": false,
+    "maxDepth": 2,
+    "name": [
+      "IRF3-mediated induction of type I IFN"
+    ],
+    "releaseDate": "2013-06-11",
+    "speciesName": "Homo sapiens",
+    "hasDiagram": false,
+    "hasEHLD": false,
+    "lastUpdatedDate": "2022-04-07",
+    "schemaClass": "Pathway",
+    "className": "Pathway"
+  },
+  {
+    "dbId": 5205685,
+    "displayName": "PINK1-PRKN Mediated Mitophagy",
+    "stId": "R-HSA-5205685",
+    "stIdVersion": "R-HSA-5205685.9",
+    "isInDisease": false,
+    "isInferred": false,
+    "maxDepth": 2,
+    "name": [
+      "PINK1-PRKN Mediated Mitophagy"
+    ],
+    "releaseDate": "2015-09-22",
+    "speciesName": "Homo sapiens",
+    "hasDiagram": false,
+    "hasEHLD": false,
+    "lastUpdatedDate": "2023-09-13",
+    "schemaClass": "Pathway",
+    "className": "Pathway"
+  },
+  {
+    "dbId": 5357786,
+    "displayName": "TNFR1-induced proapoptotic signaling",
+    "stId": "R-HSA-5357786",
+    "stIdVersion": "R-HSA-5357786.6",
+    "isInDisease": false,
+    "isInferred": false,
+    "maxDepth": 2,
+    "name": [
+      "TNFR1-induced proapoptotic signaling"
+    ],
+    "releaseDate": "2015-03-19",
+    "speciesName": "Homo sapiens",
+    "doi": "10.3180/R-HSA-5357786.4",
+    "hasDiagram": false,
+    "hasEHLD": false,
+    "lastUpdatedDate": "2023-03-29",
+    "schemaClass": "Pathway",
+    "className": "Pathway"
+  },
+  {
+    "dbId": 5357905,
+    "displayName": "Regulation of TNFR1 signaling",
+    "stId": "R-HSA-5357905",
+    "stIdVersion": "R-HSA-5357905.8",
+    "isInDisease": false,
+    "isInferred": false,
+    "maxDepth": 2,
+    "name": [
+      "Regulation of TNFR1 signaling"
+    ],
+    "releaseDate": "2015-09-22",
+    "speciesName": "Homo sapiens",
+    "doi": "10.3180/R-HSA-5357905.6",
+    "hasDiagram": false,
+    "hasEHLD": false,
+    "lastUpdatedDate": "2023-03-29",
+    "schemaClass": "Pathway",
+    "className": "Pathway"
+  },
+  {
+    "dbId": 9008059,
+    "displayName": "Interleukin-37 signaling",
+    "stId": "R-HSA-9008059",
+    "stIdVersion": "R-HSA-9008059.4",
+    "isInDisease": false,
+    "isInferred": false,
+    "maxDepth": 2,
+    "name": [
+      "Interleukin-37 signaling"
+    ],
+    "releaseDate": "2017-12-13",
+    "speciesName": "Homo sapiens",
+    "doi": "10.3180/R-HSA-9008059.2",
+    "hasDiagram": false,
+    "hasEHLD": false,
+    "lastUpdatedDate": "2017-12-18",
+    "schemaClass": "Pathway",
+    "className": "Pathway"
+  },
+  {
+    "dbId": 9013973,
+    "displayName": "TICAM1-dependent activation of IRF3/IRF7",
+    "stId": "R-HSA-9013973",
+    "stIdVersion": "R-HSA-9013973.6",
+    "isInDisease": false,
+    "isInferred": false,
+    "maxDepth": 3,
+    "name": [
+      "TICAM1-dependent activation of IRF3/IRF7",
+      "TLR3-mediated TICAM1-dependent activation of IRF3/IRF7",
+      "TLR3-mediated TRIF-dependent activation of IRF3/IRF7",
+      "Activation of IRF3/IRF7 mediated by TBK1/IKK epsilon"
+    ],
+    "releaseDate": "2010-12-14",
+    "speciesName": "Homo sapiens",
+    "doi": "10.3180/R-HSA-9013973.6",
+    "hasDiagram": false,
+    "hasEHLD": false,
+    "lastUpdatedDate": "2023-09-13",
+    "schemaClass": "Pathway",
+    "className": "Pathway"
+  },
+  {
+    "dbId": 918233,
+    "displayName": "TRAF3-dependent IRF activation pathway",
+    "stId": "R-HSA-918233",
+    "stIdVersion": "R-HSA-918233.4",
+    "isInDisease": false,
+    "isInferred": false,
+    "maxDepth": 2,
+    "name": [
+      "TRAF3-dependent IRF activation pathway"
+    ],
+    "releaseDate": "2010-12-14",
+    "speciesName": "Homo sapiens",
+    "hasDiagram": false,
+    "hasEHLD": false,
+    "lastUpdatedDate": "2023-09-13",
+    "schemaClass": "Pathway",
+    "className": "Pathway"
+  },
+  {
+    "dbId": 933541,
+    "displayName": "TRAF6 mediated IRF7 activation",
+    "stId": "R-HSA-933541",
+    "stIdVersion": "R-HSA-933541.7",
+    "isInDisease": false,
+    "isInferred": false,
+    "maxDepth": 2,
+    "name": [
+      "TRAF6 mediated IRF7 activation"
+    ],
+    "releaseDate": "2010-12-14",
+    "speciesName": "Homo sapiens",
+    "hasDiagram": false,
+    "hasEHLD": false,
+    "lastUpdatedDate": "2021-03-24",
+    "schemaClass": "Pathway",
+    "className": "Pathway"
+  },
+  {
+    "dbId": 936440,
+    "displayName": "Negative regulators of DDX58/IFIH1 signaling",
+    "stId": "R-HSA-936440",
+    "stIdVersion": "R-HSA-936440.6",
+    "isInDisease": false,
+    "isInferred": false,
+    "maxDepth": 2,
+    "name": [
+      "Negative regulators of DDX58/IFIH1 signaling",
+      "Negative regulators of RIG-I/MDA5 signaling"
+    ],
+    "releaseDate": "2010-12-14",
+    "speciesName": "Homo sapiens",
+    "hasDiagram": false,
+    "hasEHLD": false,
+    "lastUpdatedDate": "2022-04-07",
+    "schemaClass": "Pathway",
+    "className": "Pathway"
+  },
+  {
+    "dbId": 936964,
+    "displayName": "Activation of IRF3, IRF7 mediated by TBK1, IKKε (IKBKE)",
+    "stId": "R-HSA-936964",
+    "stIdVersion": "R-HSA-936964.6",
+    "isInDisease": false,
+    "isInferred": false,
+    "maxDepth": 3,
+    "name": [
+      "Activation of IRF3, IRF7 mediated by TBK1, IKKε (IKBKE)"
+    ],
+    "releaseDate": "2010-12-14",
+    "speciesName": "Homo sapiens",
+    "doi": "10.3180/R-HSA-936964.6",
+    "hasDiagram": false,
+    "hasEHLD": false,
+    "lastUpdatedDate": "2023-09-13",
+    "schemaClass": "Pathway",
+    "className": "Pathway"
+  },
+  {
+    "dbId": 9679191,
+    "displayName": "Potential therapeutics for SARS",
+    "stId": "R-HSA-9679191",
+    "stIdVersion": "R-HSA-9679191.5",
+    "isInDisease": true,
+    "isInferred": false,
+    "maxDepth": 2,
+    "name": [
+      "Potential therapeutics for SARS"
+    ],
+    "releaseDate": "2020-06-10",
+    "speciesName": "Homo sapiens",
+    "doi": "10.3180/R-HSA-9679191.1",
+    "hasDiagram": true,
+    "hasEHLD": false,
+    "lastUpdatedDate": "2023-03-29",
+    "schemaClass": "Pathway",
+    "className": "Pathway"
+  },
+  {
+    "dbId": 9692916,
+    "displayName": "SARS-CoV-1 activates/modulates innate immune responses",
+    "stId": "R-HSA-9692916",
+    "stIdVersion": "R-HSA-9692916.2",
+    "isInDisease": true,
+    "isInferred": false,
+    "maxDepth": 2,
+    "name": [
+      "SARS-CoV-1 activates/modulates innate immune responses"
+    ],
+    "releaseDate": "2022-09-14",
+    "speciesName": "Homo sapiens",
+    "hasDiagram": false,
+    "hasEHLD": false,
+    "schemaClass": "Pathway",
+    "className": "Pathway"
+  },
+  {
+    "dbId": 9705671,
+    "displayName": "SARS-CoV-2 activates/modulates innate and adaptive immune responses",
+    "stId": "R-HSA-9705671",
+    "stIdVersion": "R-HSA-9705671.5",
+    "isInDisease": true,
+    "isInferred": false,
+    "maxDepth": 2,
+    "name": [
+      "SARS-CoV-2 activates/modulates innate and adaptive immune responses"
+    ],
+    "releaseDate": "2022-03-23",
+    "speciesName": "Homo sapiens",
+    "hasDiagram": false,
+    "hasEHLD": false,
+    "lastUpdatedDate": "2023-03-29",
+    "schemaClass": "Pathway",
+    "className": "Pathway"
+  },
+  {
+    "dbId": 9824878,
+    "displayName": "Regulation of TBK1, IKKε (IKBKE)-mediated activation of IRF3, IRF7 ",
+    "stId": "R-HSA-9824878",
+    "stIdVersion": "R-HSA-9824878.1",
+    "isInDisease": false,
+    "isInferred": false,
+    "maxDepth": 2,
+    "name": [
+      "Regulation of TBK1, IKKε (IKBKE)-mediated activation of IRF3, IRF7 "
+    ],
+    "releaseDate": "2024-03-27",
+    "speciesName": "Homo sapiens",
+    "hasDiagram": false,
+    "hasEHLD": false,
+    "schemaClass": "Pathway",
+    "className": "Pathway"
+  },
+  {
+    "dbId": 9828211,
+    "displayName": "Regulation of TBK1, IKKε-mediated activation of IRF3, IRF7 upon TLR3 ligation",
+    "stId": "R-HSA-9828211",
+    "stIdVersion": "R-HSA-9828211.1",
+    "isInDisease": false,
+    "isInferred": false,
+    "maxDepth": 2,
+    "name": [
+      "Regulation of TBK1, IKKε-mediated activation of IRF3, IRF7 upon TLR3 ligation",
+      "Regulation of TBK1, IKBKE-mediated activation of IRF3, IRF7 upon TLR3 ligation"
+    ],
+    "releaseDate": "2024-03-27",
+    "speciesName": "Homo sapiens",
+    "hasDiagram": false,
+    "hasEHLD": false,
+    "schemaClass": "Pathway",
+    "className": "Pathway"
+  }
+]

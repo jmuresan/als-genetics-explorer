@@ -1,0 +1,48 @@
+{
+  "header": {
+    "type": "esearch",
+    "version": "0.3"
+  },
+  "esearchresult": {
+    "count": "3",
+    "retmax": "3",
+    "retstart": "0",
+    "idlist": [
+      "981016",
+      "976652",
+      "8114"
+    ],
+    "translationset": [],
+    "translationstack": [
+      {
+        "term": "ATXN2[gene]",
+        "field": "gene",
+        "count": "255",
+        "explode": "N"
+      },
+      {
+        "term": "amyotrophic[All Fields]",
+        "field": "All Fields",
+        "count": "10881",
+        "explode": "N"
+      },
+      {
+        "term": "lateral[All Fields]",
+        "field": "All Fields",
+        "count": "23718",
+        "explode": "N"
+      },
+      "AND",
+      {
+        "term": "sclerosis[All Fields]",
+        "field": "All Fields",
+        "count": "32827",
+        "explode": "N"
+      },
+      "AND",
+      "GROUP",
+      "AND"
+    ],
+    "querytranslation": "ATXN2[gene] AND (amyotrophic[All Fields] AND lateral[All Fields] AND sclerosis[All Fields])"
+  }
+}

@@ -1,0 +1,1414 @@
+{
+  "data": {
+    "target": {
+      "id": "ENSG00000147894",
+      "approvedSymbol": "C9orf72",
+      "approvedName": "C9orf72-SMCR8 complex subunit",
+      "associatedDiseases": {
+        "count": 738,
+        "rows": [
+          {
+            "disease": {
+              "id": "MONDO_0004976",
+              "name": "amyotrophic lateral sclerosis"
+            },
+            "score": 0.6103425432677596
+          },
+          {
+            "disease": {
+              "id": "MONDO_0007105",
+              "name": "frontotemporal dementia and/or amyotrophic lateral sclerosis 1"
+            },
+            "score": 0.5660311237408793
+          },
+          {
+            "disease": {
+              "id": "HP_0000924",
+              "name": "Abnormality of the skeletal system"
+            },
+            "score": 0.37431998607589156
+          },
+          {
+            "disease": {
+              "id": "MONDO_0017161",
+              "name": "frontotemporal dementia with motor neuron disease"
+            },
+            "score": 0.36994943453938645
+          },
+          {
+            "disease": {
+              "id": "MONDO_0018425",
+              "name": "Huntington disease-like syndrome due to C9ORF72 expansions"
+            },
+            "score": 0.3695798546847018
+          },
+          {
+            "disease": {
+              "id": "MONDO_0020950",
+              "name": "viral eye infection"
+            },
+            "score": 0.32217749238910004
+          },
+          {
+            "disease": {
+              "id": "EFO_0001073",
+              "name": "obesity"
+            },
+            "score": 0.29454637076908696
+          },
+          {
+            "disease": {
+              "id": "EFO_0004329",
+              "name": "alcohol drinking"
+            },
+            "score": 0.2574681190931728
+          },
+          {
+            "disease": {
+              "id": "EFO_0005670",
+              "name": "smoking initiation"
+            },
+            "score": 0.2546994532165696
+          },
+          {
+            "disease": {
+              "id": "EFO_0009518",
+              "name": "complication"
+            },
+            "score": 0.23694206868993634
+          },
+          {
+            "disease": {
+              "id": "MONDO_0005148",
+              "name": "type 2 diabetes mellitus"
+            },
+            "score": 0.23186454345293053
+          },
+          {
+            "disease": {
+              "id": "EFO_0009003",
+              "name": "ovarian dysfunction"
+            },
+            "score": 0.22882055846766222
+          },
+          {
+            "disease": {
+              "id": "EFO_0001357",
+              "name": "sporadic amyotrophic lateral sclerosis"
+            },
+            "score": 0.21384464864024635
+          },
+          {
+            "disease": {
+              "id": "MONDO_0003916",
+              "name": "overnutrition"
+            },
+            "score": 0.20789919796725106
+          },
+          {
+            "disease": {
+              "id": "MONDO_0002043",
+              "name": "ectropion"
+            },
+            "score": 0.194773147055578
+          },
+          {
+            "disease": {
+              "id": "EFO_0010282",
+              "name": "gastrointestinal disease"
+            },
+            "score": 0.19435814882926886
+          },
+          {
+            "disease": {
+              "id": "EFO_1001754",
+              "name": "Abruptio Placentae"
+            },
+            "score": 0.19106472960199716
+          },
+          {
+            "disease": {
+              "id": "EFO_0005558",
+              "name": "hemolytic anemia"
+            },
+            "score": 0.1872590775727526
+          },
+          {
+            "disease": {
+              "id": "EFO_0004264",
+              "name": "vascular disease"
+            },
+            "score": 0.16944916842189
+          },
+          {
+            "disease": {
+              "id": "EFO_0004319",
+              "name": "smoking cessation"
+            },
+            "score": 0.16870595393819499
+          },
+          {
+            "disease": {
+              "id": "HP_0031047",
+              "name": "Paraproteinemia"
+            },
+            "score": 0.1448710477130116
+          },
+          {
+            "disease": {
+              "id": "MONDO_0017276",
+              "name": "frontotemporal dementia"
+            },
+            "score": 0.13307698246889643
+          },
+          {
+            "disease": {
+              "id": "EFO_0003096",
+              "name": "Pick disease"
+            },
+            "score": 0.1112986435556903
+          },
+          {
+            "disease": {
+              "id": "EFO_0000668",
+              "name": "preeclampsia"
+            },
+            "score": 0.11070498985223579
+          },
+          {
+            "disease": {
+              "id": "EFO_0009543",
+              "name": "disturbances of sensation of smell and taste"
+            },
+            "score": 0.09750255450669008
+          },
+          {
+            "disease": {
+              "id": "EFO_0000660",
+              "name": "polycystic ovary syndrome"
+            },
+            "score": 0.09750255450669008
+          },
+          {
+            "disease": {
+              "id": "MONDO_0005180",
+              "name": "Parkinson disease"
+            },
+            "score": 0.09737083902989621
+          },
+          {
+            "disease": {
+              "id": "EFO_0009505",
+              "name": "head injury"
+            },
+            "score": 0.09709333880781905
+          },
+          {
+            "disease": {
+              "id": "EFO_0004270",
+              "name": "restless legs syndrome"
+            },
+            "score": 0.09173655196798385
+          },
+          {
+            "disease": {
+              "id": "EFO_0007982",
+              "name": "mild neurocognitive disorder"
+            },
+            "score": 0.08194024085997967
+          },
+          {
+            "disease": {
+              "id": "HP_0001626",
+              "name": "Abnormality of the cardiovascular system"
+            },
+            "score": 0.07494717290999293
+          },
+          {
+            "disease": {
+              "id": "MONDO_0032803",
+              "name": "immunodeficiency 64"
+            },
+            "score": 0.07178702055657904
+          },
+          {
+            "disease": {
+              "id": "MONDO_0017979",
+              "name": "autoimmune lymphoproliferative syndrome"
+            },
+            "score": 0.07061952600851573
+          },
+          {
+            "disease": {
+              "id": "MONDO_0011158",
+              "name": "autoimmune lymphoproliferative syndrome type 1"
+            },
+            "score": 0.07061952600851573
+          },
+          {
+            "disease": {
+              "id": "Orphanet_268114",
+              "name": "RAS-associated autoimmune leukoproliferative disease"
+            },
+            "score": 0.06841451814728171
+          },
+          {
+            "disease": {
+              "id": "MONDO_0013767",
+              "name": "autoimmune lymphoproliferative syndrome type 4"
+            },
+            "score": 0.06841451814728171
+          },
+          {
+            "disease": {
+              "id": "MONDO_0011086",
+              "name": "severe combined immunodeficiency, autosomal recessive, T cell-negative, B cell-negative, NK cell-positive"
+            },
+            "score": 0.06825078400554932
+          },
+          {
+            "disease": {
+              "id": "MONDO_0011383",
+              "name": "autoimmune lymphoproliferative syndrome type 2A"
+            },
+            "score": 0.0679264674169564
+          },
+          {
+            "disease": {
+              "id": "MONDO_0100096",
+              "name": "COVID-19"
+            },
+            "score": 0.06779737112049364
+          },
+          {
+            "disease": {
+              "id": "MONDO_0957494",
+              "name": "autoinflammatory disease, multisystem, with immune dysregulation, X-linked"
+            },
+            "score": 0.06776041313502515
+          },
+          {
+            "disease": {
+              "id": "Orphanet_2442",
+              "name": "X-linked lymphoproliferative disease"
+            },
+            "score": 0.06647476801386197
+          },
+          {
+            "disease": {
+              "id": "Orphanet_169355",
+              "name": "Immunodeficiency syndrome with autoimmunity"
+            },
+            "score": 0.06630144532812193
+          },
+          {
+            "disease": {
+              "id": "Orphanet_277",
+              "name": "Severe combined immunodeficiency due to adenosine deaminase deficiency"
+            },
+            "score": 0.06572932339374153
+          },
+          {
+            "disease": {
+              "id": "EFO_0010737",
+              "name": "autoinflammation with episodic fever and lymphadenopathy"
+            },
+            "score": 0.06545038505163965
+          },
+          {
+            "disease": {
+              "id": "MONDO_0030971",
+              "name": "immunodeficiency 78 with autoimmunity and developmental delay"
+            },
+            "score": 0.0644700231565531
+          },
+          {
+            "disease": {
+              "id": "Orphanet_540",
+              "name": "Familial hemophagocytic lymphohistiocytosis"
+            },
+            "score": 0.06393996554872301
+          },
+          {
+            "disease": {
+              "id": "MONDO_0011381",
+              "name": "dominant beta-thalassemia"
+            },
+            "score": 0.06389481317716468
+          },
+          {
+            "disease": {
+              "id": "MONDO_0019537",
+              "name": "hemoglobin D disease"
+            },
+            "score": 0.06385939510775739
+          },
+          {
+            "disease": {
+              "id": "MONDO_0044721",
+              "name": "severe combined immunodeficiency due to LAT deficiency"
+            },
+            "score": 0.0632856223833594
+          },
+          {
+            "disease": {
+              "id": "EFO_0005555",
+              "name": "gamma chain deficiency"
+            },
+            "score": 0.06314061772737385
+          },
+          {
+            "disease": {
+              "id": "MONDO_0014493",
+              "name": "autoimmune lymphoproliferative syndrome due to CTLA4 haploinsufficiency"
+            },
+            "score": 0.06254110171287564
+          },
+          {
+            "disease": {
+              "id": "MONDO_0013081",
+              "name": "lymphoproliferative syndrome 1"
+            },
+            "score": 0.06252551981555785
+          },
+          {
+            "disease": {
+              "id": "Orphanet_1334",
+              "name": "Chronic mucocutaneous candidosis"
+            },
+            "score": 0.0625170854729748
+          },
+          {
+            "disease": {
+              "id": "MONDO_0010580",
+              "name": "immune dysregulation-polyendocrinopathy-enteropathy-X-linked syndrome"
+            },
+            "score": 0.062482556157450755
+          },
+          {
+            "disease": {
+              "id": "MONDO_0024777",
+              "name": "immunodeficiency 98 with autoinflammation, X-linked"
+            },
+            "score": 0.062455299643167754
+          },
+          {
+            "disease": {
+              "id": "MONDO_0800130",
+              "name": "autoinflammatory syndrome with immunodeficiency"
+            },
+            "score": 0.06236203206039524
+          },
+          {
+            "disease": {
+              "id": "MONDO_0018338",
+              "name": "activated PI3K-delta syndrome"
+            },
+            "score": 0.06230426878232945
+          },
+          {
+            "disease": {
+              "id": "MONDO_0010023",
+              "name": "combined immunodeficiency due to ZAP70 deficiency"
+            },
+            "score": 0.0620000183266245
+          },
+          {
+            "disease": {
+              "id": "Orphanet_572",
+              "name": "Immunodeficiency by defective expression of HLA class 2"
+            },
+            "score": 0.06163175253364535
+          },
+          {
+            "disease": {
+              "id": "MONDO_0012426",
+              "name": "immunodeficiency 25"
+            },
+            "score": 0.06074106508385522
+          },
+          {
+            "disease": {
+              "id": "MONDO_0014118",
+              "name": "congenital neutropenia-myelofibrosis-nephromegaly syndrome"
+            },
+            "score": 0.060719095614715626
+          },
+          {
+            "disease": {
+              "id": "Orphanet_369852",
+              "name": "Recurrent infections-myelofibrosis-nephromegaly syndrome"
+            },
+            "score": 0.060719095614715626
+          },
+          {
+            "disease": {
+              "id": "MONDO_0016462",
+              "name": "isolated agammaglobulinemia"
+            },
+            "score": 0.06057216845209483
+          },
+          {
+            "disease": {
+              "id": "MONDO_0033541",
+              "name": "immunodeficiency 69"
+            },
+            "score": 0.0603308314451552
+          },
+          {
+            "disease": {
+              "id": "MONDO_0004975",
+              "name": "Alzheimer disease"
+            },
+            "score": 0.06018965221743895
+          },
+          {
+            "disease": {
+              "id": "EFO_1001806",
+              "name": "macrophage activation syndrome"
+            },
+            "score": 0.059982810415327104
+          },
+          {
+            "disease": {
+              "id": "MONDO_0958011",
+              "name": "immunodeficiency 117"
+            },
+            "score": 0.05985756390901729
+          },
+          {
+            "disease": {
+              "id": "MONDO_0014160",
+              "name": "TCR-alpha-beta-positive T-cell deficiency"
+            },
+            "score": 0.05965491095536517
+          },
+          {
+            "disease": {
+              "id": "MONDO_0009348",
+              "name": "classic Hodgkin lymphoma"
+            },
+            "score": 0.05888244594142442
+          },
+          {
+            "disease": {
+              "id": "MONDO_0975847",
+              "name": "autoimmune disease with susceptibility to mycobacterium tuberculosis"
+            },
+            "score": 0.05856198119620592
+          },
+          {
+            "disease": {
+              "id": "MONDO_0013512",
+              "name": "hemoglobin H disease"
+            },
+            "score": 0.05848842453901658
+          },
+          {
+            "disease": {
+              "id": "MONDO_0009194",
+              "name": "immunodeficiency 32B"
+            },
+            "score": 0.05829649966725742
+          },
+          {
+            "disease": {
+              "id": "Orphanet_231242",
+              "name": "Hemoglobin C - beta-thalassemia"
+            },
+            "score": 0.058050421080679836
+          },
+          {
+            "disease": {
+              "id": "MONDO_0016490",
+              "name": "hemoglobin C-beta-thalassemia syndrome"
+            },
+            "score": 0.058050421080679836
+          },
+          {
+            "disease": {
+              "id": "MONDO_0010938",
+              "name": "T-B+ severe combined immunodeficiency due to JAK3 deficiency"
+            },
+            "score": 0.0580485567556351
+          },
+          {
+            "disease": {
+              "id": "MONDO_0009113",
+              "name": "hemolytic anemia due to diphosphoglycerate mutase deficiency"
+            },
+            "score": 0.05801515700287867
+          },
+          {
+            "disease": {
+              "id": "MONDO_0015701",
+              "name": "T-B+ severe combined immunodeficiency due to IL-7Ralpha deficiency"
+            },
+            "score": 0.057992212253567
+          },
+          {
+            "disease": {
+              "id": "MONDO_0011225",
+              "name": "severe combined immunodeficiency due to DCLRE1C deficiency"
+            },
+            "score": 0.057928849840702734
+          },
+          {
+            "disease": {
+              "id": "MONDO_0013500",
+              "name": "immunodeficiency 51"
+            },
+            "score": 0.05781691847526863
+          },
+          {
+            "disease": {
+              "id": "MONDO_0017910",
+              "name": "dehydrated hereditary stomatocytosis"
+            },
+            "score": 0.057684656111384056
+          },
+          {
+            "disease": {
+              "id": "MONDO_0016243",
+              "name": "hemoglobin E disease"
+            },
+            "score": 0.0576485543192456
+          },
+          {
+            "disease": {
+              "id": "Orphanet_47",
+              "name": "X-linked agammaglobulinemia"
+            },
+            "score": 0.057637928898423424
+          },
+          {
+            "disease": {
+              "id": "MONDO_0054700",
+              "name": "proteasome-associated autoinflammatory syndrome 2"
+            },
+            "score": 0.057511142476052414
+          },
+          {
+            "disease": {
+              "id": "EFO_0000218",
+              "name": "acute erythroleukemia"
+            },
+            "score": 0.056723647881354484
+          },
+          {
+            "disease": {
+              "id": "EFO_0003812",
+              "name": "refractory anemia with ringed sideroblasts"
+            },
+            "score": 0.056688827299378956
+          },
+          {
+            "disease": {
+              "id": "MONDO_0010745",
+              "name": "beta-thalassemia-X-linked thrombocytopenia syndrome"
+            },
+            "score": 0.05659322725707909
+          },
+          {
+            "disease": {
+              "id": "Orphanet_231393",
+              "name": "Beta-thalassemia - X-linked thrombocytopenia"
+            },
+            "score": 0.05659322725707909
+          },
+          {
+            "disease": {
+              "id": "Orphanet_101088",
+              "name": "X-linked hyper-IgM syndrome"
+            },
+            "score": 0.05654017406893911
+          },
+          {
+            "disease": {
+              "id": "MONDO_0010626",
+              "name": "hyper-IgM syndrome type 1"
+            },
+            "score": 0.05654017406893911
+          },
+          {
+            "disease": {
+              "id": "MONDO_0014334",
+              "name": "severe combined immunodeficiency due to LCK deficiency"
+            },
+            "score": 0.05646625809800216
+          },
+          {
+            "disease": {
+              "id": "EFO_0005140",
+              "name": "autoimmune disease"
+            },
+            "score": 0.05619256442401966
+          },
+          {
+            "disease": {
+              "id": "MONDO_0011804",
+              "name": "autoimmune lymphoproliferative syndrome type 2B"
+            },
+            "score": 0.05604924882863292
+          },
+          {
+            "disease": {
+              "id": "Orphanet_275517",
+              "name": "Autoimmune lymphoproliferative syndrome with recurrent viral infections"
+            },
+            "score": 0.05604924882863292
+          },
+          {
+            "disease": {
+              "id": "MONDO_0030798",
+              "name": "immunodeficiency 99 with hypogammaglobulinemia and autoimmune cytopenias"
+            },
+            "score": 0.05600515589874762
+          },
+          {
+            "disease": {
+              "id": "Orphanet_98869",
+              "name": "Congenital dyserythropoietic anemia type I"
+            },
+            "score": 0.05552890810125036
+          },
+          {
+            "disease": {
+              "id": "MONDO_0971013",
+              "name": "MHC class II deficiency 2"
+            },
+            "score": 0.055484407617389805
+          },
+          {
+            "disease": {
+              "id": "MONDO_0007573",
+              "name": "erythroleukemia, familial, susceptibility to"
+            },
+            "score": 0.05541947449014312
+          },
+          {
+            "disease": {
+              "id": "MONDO_0007915",
+              "name": "systemic lupus erythematosus"
+            },
+            "score": 0.055369735201366795
+          },
+          {
+            "disease": {
+              "id": "MONDO_0019557",
+              "name": "chilblain lupus"
+            },
+            "score": 0.055280933375171724
+          },
+          {
+            "disease": {
+              "id": "MONDO_0010421",
+              "name": "Bruton-type agammaglobulinemia"
+            },
+            "score": 0.05523904765830748
+          },
+          {
+            "disease": {
+              "id": "MONDO_0971015",
+              "name": "MHC class II deficiency 4"
+            },
+            "score": 0.05521194513563058
+          },
+          {
+            "disease": {
+              "id": "MONDO_0015703",
+              "name": "T-B+ severe combined immunodeficiency due to CD3delta/CD3epsilon/CD3zeta"
+            },
+            "score": 0.05518751180079309
+          },
+          {
+            "disease": {
+              "id": "MONDO_0024781",
+              "name": "immunodeficiency 102"
+            },
+            "score": 0.05496576388798227
+          },
+          {
+            "disease": {
+              "id": "MONDO_0030717",
+              "name": "immunodeficiency 97 with autoinflammation"
+            },
+            "score": 0.05495282859306831
+          },
+          {
+            "disease": {
+              "id": "Orphanet_293825",
+              "name": "Congenital dyserythropoietic anemia type IV"
+            },
+            "score": 0.05434040397553454
+          },
+          {
+            "disease": {
+              "id": "MONDO_0013355",
+              "name": "congenital dyserythropoietic anemia type 4"
+            },
+            "score": 0.05434040397553454
+          },
+          {
+            "disease": {
+              "id": "MONDO_0800104",
+              "name": "immunodeficiency 105"
+            },
+            "score": 0.05426315151979837
+          },
+          {
+            "disease": {
+              "id": "MONDO_0013016",
+              "name": "leukocyte adhesion deficiency 3"
+            },
+            "score": 0.05425350137914826
+          },
+          {
+            "disease": {
+              "id": "Orphanet_99844",
+              "name": "Leukocyte adhesion deficiency type III"
+            },
+            "score": 0.05425350137914826
+          },
+          {
+            "disease": {
+              "id": "Orphanet_255132",
+              "name": "Adult-onset autosomal recessive sideroblastic anemia"
+            },
+            "score": 0.05421064654177615
+          },
+          {
+            "disease": {
+              "id": "MONDO_0010455",
+              "name": "X-linked immunodeficiency with magnesium defect, Epstein-Barr virus infection and neoplasia"
+            },
+            "score": 0.05412866551712143
+          },
+          {
+            "disease": {
+              "id": "MONDO_0011338",
+              "name": "Omenn syndrome"
+            },
+            "score": 0.054064194364693084
+          },
+          {
+            "disease": {
+              "id": "MONDO_0016672",
+              "name": "hereditary persistence of fetal hemoglobin-sickle cell disease syndrome"
+            },
+            "score": 0.05384814414130867
+          },
+          {
+            "disease": {
+              "id": "EFO_0007269",
+              "name": "Felty's syndrome"
+            },
+            "score": 0.053539801615323804
+          },
+          {
+            "disease": {
+              "id": "MONDO_0009413",
+              "name": "immunodeficiency, common variable, 2"
+            },
+            "score": 0.05341722429685337
+          },
+          {
+            "disease": {
+              "id": "EFO_0005044",
+              "name": "Leishmaniasis"
+            },
+            "score": 0.053328319809587556
+          },
+          {
+            "disease": {
+              "id": "MONDO_0030484",
+              "name": "immunodeficiency 89 and autoimmunity"
+            },
+            "score": 0.05323592484591638
+          },
+          {
+            "disease": {
+              "id": "Orphanet_766",
+              "name": "Hemolytic anemia due to red cell pyruvate kinase deficiency"
+            },
+            "score": 0.05314215833034004
+          },
+          {
+            "disease": {
+              "id": "MONDO_0008493",
+              "name": "overhydrated hereditary stomatocytosis"
+            },
+            "score": 0.0531202771497213
+          },
+          {
+            "disease": {
+              "id": "MONDO_0014804",
+              "name": "sideroblastic anemia 3"
+            },
+            "score": 0.05294313547214949
+          },
+          {
+            "disease": {
+              "id": "MONDO_0060583",
+              "name": "platelet abnormalities with eosinophilia and immune-mediated inflammatory disease"
+            },
+            "score": 0.052864702414099754
+          },
+          {
+            "disease": {
+              "id": "MONDO_0030069",
+              "name": "hyper-IgE recurrent infection syndrome 5, autosomal recessive"
+            },
+            "score": 0.052807417536623616
+          },
+          {
+            "disease": {
+              "id": "EFO_0002429",
+              "name": "polycythemia vera"
+            },
+            "score": 0.05280700689234063
+          },
+          {
+            "disease": {
+              "id": "Orphanet_83471",
+              "name": "Thymic aplasia"
+            },
+            "score": 0.05265404189692947
+          },
+          {
+            "disease": {
+              "id": "MONDO_0968982",
+              "name": "autoinflammation with episodic fever and immune dysregulation"
+            },
+            "score": 0.05236392171100199
+          },
+          {
+            "disease": {
+              "id": "MONDO_0060611",
+              "name": "combined immunodeficiency and megaloblastic anemia with or without hyperhomocysteinemia"
+            },
+            "score": 0.05234913851681458
+          },
+          {
+            "disease": {
+              "id": "MONDO_0015517",
+              "name": "common variable immunodeficiency"
+            },
+            "score": 0.05225386904316253
+          },
+          {
+            "disease": {
+              "id": "MONDO_0030066",
+              "name": "granulomatous disease, chronic, autosomal recessive, 5"
+            },
+            "score": 0.05216434858947223
+          },
+          {
+            "disease": {
+              "id": "MONDO_0030924",
+              "name": "proteasome-associated autoinflammatory syndrome 5"
+            },
+            "score": 0.05213457687895597
+          },
+          {
+            "disease": {
+              "id": "MONDO_0958187",
+              "name": "C1Q deficiency 2"
+            },
+            "score": 0.05207441749149896
+          },
+          {
+            "disease": {
+              "id": "Orphanet_169446",
+              "name": "Autosomal recessive hyper-IgE syndrome"
+            },
+            "score": 0.05188449451061932
+          },
+          {
+            "disease": {
+              "id": "MONDO_0009478",
+              "name": "combined immunodeficiency due to DOCK8 deficiency"
+            },
+            "score": 0.05188449451061932
+          },
+          {
+            "disease": {
+              "id": "Orphanet_231401",
+              "name": "Alpha-thalassemia - myelodysplastic syndrome"
+            },
+            "score": 0.05167814575842035
+          },
+          {
+            "disease": {
+              "id": "MONDO_0010328",
+              "name": "alpha-thalassemia-myelodysplastic syndrome"
+            },
+            "score": 0.05167814575842035
+          },
+          {
+            "disease": {
+              "id": "MONDO_0012291",
+              "name": "immunoglobulin A deficiency 2"
+            },
+            "score": 0.05144387319497855
+          },
+          {
+            "disease": {
+              "id": "MONDO_0014453",
+              "name": "immunodeficiency 36 with lymphoproliferation"
+            },
+            "score": 0.05138083929754067
+          },
+          {
+            "disease": {
+              "id": "EFO_0003802",
+              "name": "refractory anemia"
+            },
+            "score": 0.05132026926580067
+          },
+          {
+            "disease": {
+              "id": "Orphanet_79124",
+              "name": "Hepatic veno-occlusive disease - immunodeficiency"
+            },
+            "score": 0.051112483258611265
+          },
+          {
+            "disease": {
+              "id": "MONDO_0009338",
+              "name": "hepatic veno-occlusive disease-immunodeficiency syndrome"
+            },
+            "score": 0.051112483258611265
+          },
+          {
+            "disease": {
+              "id": "MONDO_0030858",
+              "name": "immunodeficiency 75"
+            },
+            "score": 0.051087228635207815
+          },
+          {
+            "disease": {
+              "id": "EFO_1000318",
+              "name": "Langerhans Cell Histiocytosis"
+            },
+            "score": 0.051071213508171495
+          },
+          {
+            "disease": {
+              "id": "MONDO_0012163",
+              "name": "immunodeficiency 104"
+            },
+            "score": 0.05083776223329564
+          },
+          {
+            "disease": {
+              "id": "MONDO_0018749",
+              "name": "hereditary persistence of fetal hemoglobin-beta-thalassemia syndrome"
+            },
+            "score": 0.05072678561581949
+          },
+          {
+            "disease": {
+              "id": "Orphanet_46532",
+              "name": "Hereditary persistence of fetal hemoglobin - beta-thalassemia"
+            },
+            "score": 0.05072678561581949
+          },
+          {
+            "disease": {
+              "id": "Orphanet_231154",
+              "name": "Combined immunodeficiency T+ B+ due to partial RAG1 deficiency"
+            },
+            "score": 0.050664265023735326
+          },
+          {
+            "disease": {
+              "id": "MONDO_0012359",
+              "name": "combined immunodeficiency due to partial RAG1 deficiency"
+            },
+            "score": 0.050664265023735326
+          },
+          {
+            "disease": {
+              "id": "MONDO_0011864",
+              "name": "immunodeficiency, common variable, 1"
+            },
+            "score": 0.050577003113601436
+          },
+          {
+            "disease": {
+              "id": "MONDO_0957271",
+              "name": "autoinflammatory disease, systemic, with vasculitis"
+            },
+            "score": 0.050554828322320354
+          },
+          {
+            "disease": {
+              "id": "MONDO_0957920",
+              "name": "immunodeficiency 113 with autoimmunity and autoinflammation"
+            },
+            "score": 0.05051971823612531
+          },
+          {
+            "disease": {
+              "id": "MONDO_0012650",
+              "name": "Cernunnos-XLF deficiency"
+            },
+            "score": 0.050504935041937926
+          },
+          {
+            "disease": {
+              "id": "MONDO_0007064",
+              "name": "severe combined immunodeficiency, autosomal recessive, T cell-negative, B cell-negative, NK cell-negative, due to adenosine deaminase deficiency"
+            },
+            "score": 0.050493847646297385
+          },
+          {
+            "disease": {
+              "id": "MONDO_0033551",
+              "name": "immunodeficiency 72 with autoinflammation"
+            },
+            "score": 0.05049199974702396
+          },
+          {
+            "disease": {
+              "id": "MONDO_0957790",
+              "name": "immune dysregulation, autoimmunity, and autoinflammation"
+            },
+            "score": 0.05048645604920369
+          },
+          {
+            "disease": {
+              "id": "MONDO_0018039",
+              "name": "selective IgM deficiency"
+            },
+            "score": 0.05043101907100098
+          },
+          {
+            "disease": {
+              "id": "EFO_1000364",
+              "name": "Mast Cell Sarcoma"
+            },
+            "score": 0.05031172690679442
+          },
+          {
+            "disease": {
+              "id": "MONDO_0054699",
+              "name": "proteasome-associated autoinflammatory syndrome 3"
+            },
+            "score": 0.05026286023711944
+          },
+          {
+            "disease": {
+              "id": "MONDO_0009198",
+              "name": "congenital lethal erythroderma"
+            },
+            "score": 0.05019428264186128
+          },
+          {
+            "disease": {
+              "id": "MONDO_0971014",
+              "name": "MHC class II deficiency 3"
+            },
+            "score": 0.0501359711536777
+          },
+          {
+            "disease": {
+              "id": "MONDO_0014353",
+              "name": "immunodeficiency 23"
+            },
+            "score": 0.05012857955658401
+          },
+          {
+            "disease": {
+              "id": "MONDO_0009340",
+              "name": "non-spherocytic hemolytic anemia due to hexokinase deficiency"
+            },
+            "score": 0.04991124606981524
+          },
+          {
+            "disease": {
+              "id": "MONDO_0958333",
+              "name": "thrombocytopenia 13, syndromic"
+            },
+            "score": 0.0498748013897005
+          },
+          {
+            "disease": {
+              "id": "MONDO_0033554",
+              "name": "immunodeficiency 73b with defective neutrophil chemotaxis and lymphopenia"
+            },
+            "score": 0.04984872547773109
+          },
+          {
+            "disease": {
+              "id": "EFO_1000552",
+              "name": "Subcutaneous Panniculitis-Like T-Cell Lymphoma"
+            },
+            "score": 0.04984523500132573
+          },
+          {
+            "disease": {
+              "id": "EFO_0005224",
+              "name": "Q fever"
+            },
+            "score": 0.04982490810931806
+          },
+          {
+            "disease": {
+              "id": "MONDO_0017287",
+              "name": "immunoglobulin G4-related sclerosing disease"
+            },
+            "score": 0.049795341720943305
+          },
+          {
+            "disease": {
+              "id": "MONDO_0009973",
+              "name": "reticular dysgenesis"
+            },
+            "score": 0.049645251235513006
+          },
+          {
+            "disease": {
+              "id": "MONDO_0014405",
+              "name": "STING-associated vasculopathy with onset in infancy"
+            },
+            "score": 0.049627182887061756
+          },
+          {
+            "disease": {
+              "id": "EFO_0004537",
+              "name": "neonatal systemic lupus erythematosus"
+            },
+            "score": 0.049542179520484265
+          },
+          {
+            "disease": {
+              "id": "MONDO_0007182",
+              "name": "Machado-Joseph disease"
+            },
+            "score": 0.04952370052775004
+          },
+          {
+            "disease": {
+              "id": "MONDO_0015541",
+              "name": "hereditary hemophagocytic lymphohistiocytosis"
+            },
+            "score": 0.04937402068660274
+          },
+          {
+            "disease": {
+              "id": "MONDO_0008221",
+              "name": "prolidase deficiency"
+            },
+            "score": 0.049333366902587425
+          },
+          {
+            "disease": {
+              "id": "EFO_1001165",
+              "name": "Schnitzler syndrome"
+            },
+            "score": 0.04924836353600993
+          },
+          {
+            "disease": {
+              "id": "MONDO_0957981",
+              "name": "immunodeficiency 115 with autoinflammation"
+            },
+            "score": 0.04917075176652615
+          },
+          {
+            "disease": {
+              "id": "MONDO_0012316",
+              "name": "Majeed syndrome"
+            },
+            "score": 0.049076508903581555
+          },
+          {
+            "disease": {
+              "id": "MONDO_0032763",
+              "name": "immunodeficiency 62"
+            },
+            "score": 0.04892867696170767
+          },
+          {
+            "disease": {
+              "id": "MONDO_0034054",
+              "name": "severe combined immunodeficiency due to CD70 deficiency"
+            },
+            "score": 0.0488555822793367
+          },
+          {
+            "disease": {
+              "id": "MONDO_0859083",
+              "name": "systemic lupus erythematosus 17"
+            },
+            "score": 0.04881965090457568
+          },
+          {
+            "disease": {
+              "id": "MONDO_0014760",
+              "name": "TFRC-related combined immunodeficiency"
+            },
+            "score": 0.04880671560966172
+          },
+          {
+            "disease": {
+              "id": "MONDO_0971001",
+              "name": "immunodeficiency 121 with autoinflammation"
+            },
+            "score": 0.048756822329279276
+          },
+          {
+            "disease": {
+              "id": "Orphanet_98813",
+              "name": "Hypohidrotic ectodermal dysplasia with immunodeficiency"
+            },
+            "score": 0.048679210559795495
+          },
+          {
+            "disease": {
+              "id": "MONDO_0011664",
+              "name": "immunodeficiency due to CD25 deficiency"
+            },
+            "score": 0.04858496769685089
+          },
+          {
+            "disease": {
+              "id": "MONDO_0013607",
+              "name": "monocytopenia with susceptibility to infections"
+            },
+            "score": 0.048549857610655854
+          },
+          {
+            "disease": {
+              "id": "MONDO_0014809",
+              "name": "DDX41-related hematologic malignancy predisposition syndrome"
+            },
+            "score": 0.04852398702082793
+          },
+          {
+            "disease": {
+              "id": "MONDO_0968983",
+              "name": "proteasome-associated autoinflammatory syndrome 6"
+            },
+            "score": 0.048512899625187386
+          },
+          {
+            "disease": {
+              "id": "MONDO_0011382",
+              "name": "sickle cell disease"
+            },
+            "score": 0.04846454626086614
+          },
+          {
+            "disease": {
+              "id": "MONDO_0030519",
+              "name": "agammaglobulinemia 9, autosomal recessive"
+            },
+            "score": 0.048420709983657696
+          },
+          {
+            "disease": {
+              "id": "MONDO_0970993",
+              "name": "immunodeficiency 119"
+            },
+            "score": 0.048267129021822064
+          },
+          {
+            "disease": {
+              "id": "MONDO_0010518",
+              "name": "Wiskott-Aldrich syndrome"
+            },
+            "score": 0.04814824750189848
+          },
+          {
+            "disease": {
+              "id": "MONDO_0020840",
+              "name": "pulmonary alveolar proteinosis with hypogammaglobulinemia"
+            },
+            "score": 0.0479252676562387
+          },
+          {
+            "disease": {
+              "id": "EFO_0009266",
+              "name": "refractory celiac disease"
+            },
+            "score": 0.04788461387222339
+          },
+          {
+            "disease": {
+              "id": "MONDO_0018702",
+              "name": "Castleman-Kojima disease"
+            },
+            "score": 0.04771666036048334
+          },
+          {
+            "disease": {
+              "id": "MONDO_0011735",
+              "name": "hyper-IgM syndrome type 3"
+            },
+            "score": 0.0475195511046515
+          },
+          {
+            "disease": {
+              "id": "MONDO_0011462",
+              "name": "pyogenic arthritis-pyoderma gangrenosum-acne syndrome"
+            },
+            "score": 0.047505794521171575
+          },
+          {
+            "disease": {
+              "id": "Orphanet_69126",
+              "name": "Pyogenic arthritis - pyoderma gangrenosum - acne"
+            },
+            "score": 0.047505794521171575
+          },
+          {
+            "disease": {
+              "id": "MONDO_0013171",
+              "name": "purine nucleoside phosphorylase deficiency"
+            },
+            "score": 0.047420791154594084
+          },
+          {
+            "disease": {
+              "id": "MONDO_0011871",
+              "name": "Niemann-Pick disease type B"
+            },
+            "score": 0.047356166010559635
+          },
+          {
+            "disease": {
+              "id": "MONDO_0054696",
+              "name": "immunodeficiency 53"
+            },
+            "score": 0.047326548291649485
+          },
+          {
+            "disease": {
+              "id": "EFO_0005676",
+              "name": "Autoimmune Hepatitis"
+            },
+            "score": 0.04729513400400128
+          },
+          {
+            "disease": {
+              "id": "MONDO_0014276",
+              "name": "combined immunodeficiency due to CD3gamma deficiency"
+            },
+            "score": 0.047254480219985975
+          },
+          {
+            "disease": {
+              "id": "Orphanet_398088",
+              "name": "Hereditary cryohydrocytosis with normal stomatin"
+            },
+            "score": 0.04724524072361886
+          }
+        ]
+      }
+    }
+  }
+}

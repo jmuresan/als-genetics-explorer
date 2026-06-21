@@ -1,0 +1,25 @@
+{
+  "header": {
+    "type": "esearch",
+    "version": "0.3"
+  },
+  "esearchresult": {
+    "count": "217",
+    "retmax": "10",
+    "retstart": "0",
+    "idlist": [
+      "42117108",
+      "41827910",
+      "41710977",
+      "41638908",
+      "41603250",
+      "41485128",
+      "41430073",
+      "41337593",
+      "41302089",
+      "41269363"
+    ],
+    "translationset": [],
+    "querytranslation": "(\"TBK1\"[Title/Abstract] OR \"TBK1\"[All Fields]) AND (\"amyotrophic lateral sclerosis\"[Title/Abstract] OR \"ALS\"[Title/Abstract])"
+  }
+}

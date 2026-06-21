@@ -1,0 +1,4122 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "42239172",
+      "42239283",
+      "42240799",
+      "42242586",
+      "42243993",
+      "42250707",
+      "42251349",
+      "42251967",
+      "42253371",
+      "42254864",
+      "42255926",
+      "42260986",
+      "42261159",
+      "42262924",
+      "42265995",
+      "42268433",
+      "42268660",
+      "42282797",
+      "42286839",
+      "42287757",
+      "42288493",
+      "42295687",
+      "42296226",
+      "42299014",
+      "42304808",
+      "42314654",
+      "42314891",
+      "42315356",
+      "42316301",
+      "42317073"
+    ],
+    "42239172": {
+      "uid": "42239172",
+      "pubdate": "2026 May 24",
+      "epubdate": "2026 May 24",
+      "source": "bioRxiv",
+      "authors": [
+        {
+          "name": "Matthews AM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Whiteley AM",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Whiteley AM",
+      "title": "The retroelement-derived human protein PEG10 is a regulator of mRNA splicing in neurons.",
+      "sorttitle": "retroelement derived human protein peg10 is a regulator of mrna splicing in neurons",
+      "volume": "",
+      "issue": "",
+      "pages": "",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "101680187",
+      "issn": "",
+      "essn": "2692-8205",
+      "pubtype": [
+        "Journal Article",
+        "Preprint"
+      ],
+      "recordstatus": "PubMed",
+      "pubstatus": "3",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "42239172"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC13228445"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC13228445;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.64898/2026.05.21.727000"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "2026.05.21.727000"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "medline",
+          "date": "2026/06/04 06:35"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2026/06/04 06:34"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2026/06/04 05:36"
+        },
+        {
+          "pubstatus": "pmc-release",
+          "date": "2026/06/02 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "bioRxiv : the preprint server for biology",
+      "elocationid": "pii: 2026.05.21.727000. doi: 10.64898/2026.05.21.727000",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/05/24 00:00",
+      "sortfirstauthor": "Matthews AM",
+      "vernaculartitle": ""
+    },
+    "42239283": {
+      "uid": "42239283",
+      "pubdate": "2026 May 19",
+      "epubdate": "2026 May 19",
+      "source": "bioRxiv",
+      "authors": [
+        {
+          "name": "Reedich E",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Chen YT",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Imhoff-Manuel R",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Li D",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Manuel M",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Manuel M",
+      "title": "Chronic diazepam reveals excessive homeostatic gain in SOD1(G93A) mouse spinal motoneurons.",
+      "sorttitle": "chronic diazepam reveals excessive homeostatic gain in sod1 g93a mouse spinal motoneurons",
+      "volume": "",
+      "issue": "",
+      "pages": "",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "101680187",
+      "issn": "",
+      "essn": "2692-8205",
+      "pubtype": [
+        "Journal Article",
+        "Preprint"
+      ],
+      "recordstatus": "PubMed",
+      "pubstatus": "3",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "42239283"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC13228630"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC13228630;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.64898/2026.05.16.725609"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "2026.05.16.725609"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "2026/06/04 06:33"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2026/06/04 06:34"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2026/06/04 05:37"
+        },
+        {
+          "pubstatus": "pmc-release",
+          "date": "2026/06/02 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 54,
+      "fulljournalname": "bioRxiv : the preprint server for biology",
+      "elocationid": "pii: 2026.05.16.725609. doi: 10.64898/2026.05.16.725609",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/05/19 00:00",
+      "sortfirstauthor": "Reedich E",
+      "vernaculartitle": ""
+    },
+    "42240799": {
+      "uid": "42240799",
+      "pubdate": "2026 Jun 4",
+      "epubdate": "2026 Jun 4",
+      "source": "Mol Neurobiol",
+      "authors": [
+        {
+          "name": "Saadat A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Jasińska M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Cedro B",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Piekarska A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Flis DJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ziółkowski W",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Pyza E",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Pyza E",
+      "title": "Synaptic Plasticity Changes in the Somatosensory Cortex During Amyotrophic Lateral Sclerosis Progression and After Swim Training in SOD1-G93A Mice.",
+      "sorttitle": "synaptic plasticity changes in the somatosensory cortex during amyotrophic lateral sclerosis progression and after swim training in sod1 g93a mice",
+      "volume": "63",
+      "issue": "1",
+      "pages": "",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "8900963",
+      "issn": "0893-7648",
+      "essn": "1559-1182",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "3",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "42240799"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1007/s12035-026-05979-6"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "10.1007/s12035-026-05979-6"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC13236807"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC13236807;"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2025/12/12 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2026/05/27 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2026/06/10 11:44"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2026/06/04 12:43"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2026/06/04 11:07"
+        },
+        {
+          "pubstatus": "pmc-release",
+          "date": "2026/06/04 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 54,
+      "fulljournalname": "Molecular neurobiology",
+      "elocationid": "doi: 10.1007/s12035-026-05979-6",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/06/04 00:00",
+      "sortfirstauthor": "Saadat A",
+      "vernaculartitle": ""
+    },
+    "42242586": {
+      "uid": "42242586",
+      "pubdate": "2026 Aug",
+      "epubdate": "2026 Jun 3",
+      "source": "Neurobiol Dis",
+      "authors": [
+        {
+          "name": "Wong B",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Payne M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Silva A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kurniawan E",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Eidman AS",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Pizzo D",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Rajupalem R",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Lenk GM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Paulo JA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Khan T",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Eskelinen EL",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Gygi SP",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Brown NG",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Meisler MH",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Mendiola AS",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Gassaway BM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ferguson CJ",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Ferguson CJ",
+      "title": "Early-onset neuroinflammation drives neurodegeneration caused by lysosomal PI(3,5)P(2) insufficiency.",
+      "sorttitle": "early onset neuroinflammation drives neurodegeneration caused by lysosomal pi 3 5 p 2 insufficiency",
+      "volume": "226",
+      "issue": "",
+      "pages": "107467",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "9500169",
+      "issn": "0969-9961",
+      "essn": "1095-953X",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "42242586"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.nbd.2026.107467"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0969-9961(26)00212-3"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2026/05/12 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2026/05/31 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2026/06/01 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2026/06/16 00:33"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2026/06/05 00:34"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2026/06/04 19:36"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Neurobiology of disease",
+      "elocationid": "doi: 10.1016/j.nbd.2026.107467",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/08/01 00:00",
+      "sortfirstauthor": "Wong B",
+      "vernaculartitle": ""
+    },
+    "42243993": {
+      "uid": "42243993",
+      "pubdate": "2026 Jun 4",
+      "epubdate": "2026 Jun 4",
+      "source": "Chin Med",
+      "authors": [
+        {
+          "name": "Hsieh WC",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Lin CY",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wu HC",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Weng EF",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wang SM",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Wang SM",
+      "title": "Hyperoside protects against poly-GR-mediated neurodegeneration via regulation of mitochondrial fission and oxidative stress in C9orf72-associated ALS.",
+      "sorttitle": "hyperoside protects against poly gr mediated neurodegeneration via regulation of mitochondrial fission and oxidative stress in c9orf72 associated als",
+      "volume": "21",
+      "issue": "1",
+      "pages": "",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "101265109",
+      "issn": "1749-8546",
+      "essn": "1749-8546",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed",
+      "pubstatus": "3",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "42243993"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1186/s13020-026-01433-w"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "10.1186/s13020-026-01433-w"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC13235191"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC13235191;"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2025/12/26 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2026/05/18 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2026/06/05 06:37"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2026/06/05 06:36"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2026/06/05 00:08"
+        },
+        {
+          "pubstatus": "pmc-release",
+          "date": "2026/06/04 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 54,
+      "fulljournalname": "Chinese medicine",
+      "elocationid": "doi: 10.1186/s13020-026-01433-w",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/06/04 00:00",
+      "sortfirstauthor": "Hsieh WC",
+      "vernaculartitle": ""
+    },
+    "42250707": {
+      "uid": "42250707",
+      "pubdate": "2026 Jun 5",
+      "epubdate": "2026 Jun 5",
+      "source": "Int J Biol Macromol",
+      "authors": [
+        {
+          "name": "Hosseinpoor Z",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Seyedalipour B",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Behjou NK",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Hosseinkhani S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Baziyar P",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Baziyar P",
+      "title": "Inhibitory effect of silymarin on amyloid formation in ALS-associated hSOD1 P66R mutant.",
+      "sorttitle": "inhibitory effect of silymarin on amyloid formation in als associated hsod1 p66r mutant",
+      "volume": "370",
+      "issue": "",
+      "pages": "152922",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "7909578",
+      "issn": "0141-8130",
+      "essn": "1879-0003",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - as supplied by publisher",
+      "pubstatus": "10",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "42250707"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.ijbiomac.2026.152922"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0141-8130(26)02849-7"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2025/10/07 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2026/05/26 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2026/06/04 00:00"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2026/06/07 00:34"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2026/06/07 00:34"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2026/06/06 19:33"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "International journal of biological macromolecules",
+      "elocationid": "doi: 10.1016/j.ijbiomac.2026.152922",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/06/05 00:00",
+      "sortfirstauthor": "Hosseinpoor Z",
+      "vernaculartitle": ""
+    },
+    "42251349": {
+      "uid": "42251349",
+      "pubdate": "2026 Jun 6",
+      "epubdate": "2026 Jun 6",
+      "source": "Mol Neurodegener",
+      "authors": [
+        {
+          "name": "Masrori P",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Amado DA",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Amado DA",
+      "title": "RAN translation as a dominant pathogenic axis in C9ORF72-associated ALS and FTD models.",
+      "sorttitle": "ran translation as a dominant pathogenic axis in c9orf72 associated als and ftd models",
+      "volume": "",
+      "issue": "",
+      "pages": "",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "101266600",
+      "issn": "",
+      "essn": "1750-1326",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ],
+      "recordstatus": "PubMed - as supplied by publisher",
+      "pubstatus": "10",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "42251349"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1186/s13024-026-00959-9"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "10.1186/s13024-026-00959-9"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2026/03/08 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2026/05/21 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2026/06/07 00:34"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2026/06/07 00:34"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2026/06/06 23:35"
+        }
+      ],
+      "references": [],
+      "attributes": [],
+      "pmcrefcount": "",
+      "fulljournalname": "Molecular neurodegeneration",
+      "elocationid": "doi: 10.1186/s13024-026-00959-9",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/06/06 00:00",
+      "sortfirstauthor": "Masrori P",
+      "vernaculartitle": ""
+    },
+    "42251967": {
+      "uid": "42251967",
+      "pubdate": "2026 Aug",
+      "epubdate": "2026 Jun 6",
+      "source": "Neurobiol Dis",
+      "authors": [
+        {
+          "name": "Manchinu MF",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Congiu M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Massidda M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Borghero G",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Marongiu J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Marzi I",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Maschio A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Rallo V",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Serra M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Porcedda C",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Etzi M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Palmas MF",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Angius A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Sogos V",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Pateri MI",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Steri M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Coroneo V",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "De Simone A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Cossu G",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Chiti F",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Carta AR",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Carta AR",
+      "title": "PBMC DEG/miRNA biomarkers of TDP-43 pathology in ALS.",
+      "sorttitle": "pbmc deg mirna biomarkers of tdp 43 pathology in als",
+      "volume": "226",
+      "issue": "",
+      "pages": "107473",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "9500169",
+      "issn": "0969-9961",
+      "essn": "1095-953X",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "256",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "42251967"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.nbd.2026.107473"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0969-9961(26)00218-4"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2026/04/01 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2026/06/05 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2026/06/05 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2026/06/16 00:33"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2026/06/08 00:36"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2026/06/07 19:26"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Neurobiology of disease",
+      "elocationid": "doi: 10.1016/j.nbd.2026.107473",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/08/01 00:00",
+      "sortfirstauthor": "Manchinu MF",
+      "vernaculartitle": ""
+    },
+    "42253371": {
+      "uid": "42253371",
+      "pubdate": "2026",
+      "epubdate": "2026 May 21",
+      "source": "Front Aging Neurosci",
+      "authors": [
+        {
+          "name": "Chen X",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Mo Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Jiang H",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Jiang H",
+      "title": "NEK1 variants and reduced protein levels in Chinese ALS patients: a descriptive study.",
+      "sorttitle": "nek1 variants and reduced protein levels in chinese als patients a descriptive study",
+      "volume": "18",
+      "issue": "",
+      "pages": "1831861",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "101525824",
+      "issn": "1663-4365",
+      "essn": "1663-4365",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed",
+      "pubstatus": "258",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "42253371"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC13233418"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC13233418;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.3389/fnagi.2026.1831861"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2026/03/16 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2026/04/23 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2026/04/27 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2026/06/08 12:40"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2026/06/08 12:39"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2026/06/08 07:15"
+        },
+        {
+          "pubstatus": "pmc-release",
+          "date": "2026/05/21 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 56,
+      "fulljournalname": "Frontiers in aging neuroscience",
+      "elocationid": "doi: 10.3389/fnagi.2026.1831861",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/05/21 00:00",
+      "sortfirstauthor": "Chen X",
+      "vernaculartitle": ""
+    },
+    "42254864": {
+      "uid": "42254864",
+      "pubdate": "2026",
+      "epubdate": "2026 May 22",
+      "source": "Front Mol Neurosci",
+      "authors": [
+        {
+          "name": "Yokoi S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Iguchi Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Katsuno M",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Katsuno M",
+      "title": "Human iPSC-derived motor neurons as a platform for elucidating TDP-43-related amyotrophic lateral sclerosis pathogenesis: a mini review.",
+      "sorttitle": "human ipsc derived motor neurons as a platform for elucidating tdp 43 related amyotrophic lateral sclerosis pathogenesis a mini review",
+      "volume": "19",
+      "issue": "",
+      "pages": "1864964",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "101477914",
+      "issn": "1662-5099",
+      "essn": "1662-5099",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ],
+      "recordstatus": "PubMed",
+      "pubstatus": "258",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "42254864"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC13236890"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC13236890;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.3389/fnmol.2026.1864964"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2026/04/25 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2026/05/10 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2026/05/11 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2026/06/08 12:40"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2026/06/08 12:39"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2026/06/08 07:27"
+        },
+        {
+          "pubstatus": "pmc-release",
+          "date": "2026/05/22 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 72,
+      "fulljournalname": "Frontiers in molecular neuroscience",
+      "elocationid": "doi: 10.3389/fnmol.2026.1864964",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/05/22 00:00",
+      "sortfirstauthor": "Yokoi S",
+      "vernaculartitle": ""
+    },
+    "42255926": {
+      "uid": "42255926",
+      "pubdate": "2026",
+      "epubdate": "2026 Jun 5",
+      "source": "Brain Commun",
+      "authors": [],
+      "lastauthor": "",
+      "title": "Correction to: C9orf72 poly(glycine-alanine) knock-in mice exhibit mild rotarod and proteomic changes consistent with amyotrophic lateral sclerosis/frontotemporal dementia.",
+      "sorttitle": "correction to c9orf72 poly glycine alanine knock in mice exhibit mild rotarod and proteomic changes consistent with amyotrophic lateral sclerosis frontotemporal dementia",
+      "volume": "8",
+      "issue": "3",
+      "pages": "fcag208",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "101755125",
+      "issn": "",
+      "essn": "2632-1297",
+      "pubtype": [
+        "Published Erratum"
+      ],
+      "recordstatus": "PubMed",
+      "pubstatus": "258",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "42255926"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC13237863"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC13237863;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1093/braincomms/fcag208"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "fcag208"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "medline",
+          "date": "2026/06/08 12:39"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2026/06/08 12:38"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2026/06/08 07:36"
+        },
+        {
+          "pubstatus": "pmc-release",
+          "date": "2026/06/05 00:00"
+        }
+      ],
+      "references": [
+        {
+          "refsource": "Brain Commun. 2026 Mar 17;8(2):fcag087. doi: 10.1093/braincomms/fcag087.",
+          "reftype": "Erratum for",
+          "pmid": 41884597,
+          "note": ""
+        }
+      ],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Brain communications",
+      "elocationid": "doi: 10.1093/braincomms/fcag208",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/06/05 00:00",
+      "sortfirstauthor": "",
+      "vernaculartitle": ""
+    },
+    "42260986": {
+      "uid": "42260986",
+      "pubdate": "2026 Jun 14",
+      "epubdate": "2026 Jun 14",
+      "source": "Autophagy",
+      "authors": [
+        {
+          "name": "Sun X",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Dong J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Liang X",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Peng J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Chen Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Yin R",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Tan T",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Bai L",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Lan K",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Lan K",
+      "title": "PFN1 inhibits lytic replication of Kaposi sarcoma-associated herpesvirus through SQSTM1/p62-mediated selective autophagy targeting the KSHV helicase.",
+      "sorttitle": "pfn1 inhibits lytic replication of kaposi sarcoma associated herpesvirus through sqstm1 p62 mediated selective autophagy targeting the kshv helicase",
+      "volume": "",
+      "issue": "",
+      "pages": "1-16",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "101265188",
+      "issn": "1554-8627",
+      "essn": "1554-8635",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - as supplied by publisher",
+      "pubstatus": "10",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "42260986"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1080/15548627.2026.2686417"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "pubmed",
+          "date": "2026/06/09 06:33"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2026/06/09 06:33"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2026/06/09 01:43"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Autophagy",
+      "elocationid": "doi: 10.1080/15548627.2026.2686417",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/06/14 00:00",
+      "sortfirstauthor": "Sun X",
+      "vernaculartitle": ""
+    },
+    "42261159": {
+      "uid": "42261159",
+      "pubdate": "2026 Jun 8",
+      "epubdate": "2026 Jun 8",
+      "source": "Curr Neuropharmacol",
+      "authors": [
+        {
+          "name": "Shirbhate E",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Singh V",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Mishra OK",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Koch B",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Tiwari AK",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Yasin HKA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Rajak H",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Rajak H",
+      "title": "The Pivotal Role of HDAC6 in Amyotrophic Lateral Sclerosis: Neuroprotective Protagonist or Degenerative Adversary?",
+      "sorttitle": "pivotal role of hdac6 in amyotrophic lateral sclerosis neuroprotective protagonist or degenerative adversary",
+      "volume": "",
+      "issue": "",
+      "pages": "",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "101157239",
+      "issn": "1570-159X",
+      "essn": "1875-6190",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - as supplied by publisher",
+      "pubstatus": "10",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "42261159"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.2174/011570159X462214260429080002"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "CN-EPUB-156141"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2025/12/06 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2026/01/31 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2026/02/18 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2026/06/09 06:34"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2026/06/09 06:34"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2026/06/09 03:13"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Current neuropharmacology",
+      "elocationid": "doi: 10.2174/011570159X462214260429080002",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/06/08 00:00",
+      "sortfirstauthor": "Shirbhate E",
+      "vernaculartitle": ""
+    },
+    "42262924": {
+      "uid": "42262924",
+      "pubdate": "2026 Jun 8",
+      "epubdate": "2026 Jun 8",
+      "source": "Cell Rep",
+      "authors": [
+        {
+          "name": "Mastromarco GJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Earnshaw R",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Moore G",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Xu XYS",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Sadek NH",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Cui F",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Lo N",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Lee HO",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Lee HO",
+      "title": "Human J-domain proteins promote stress granule disassembly and suppress neurodegeneration-linked protein aggregation.",
+      "sorttitle": "human j domain proteins promote stress granule disassembly and suppress neurodegeneration linked protein aggregation",
+      "volume": "45",
+      "issue": "6",
+      "pages": "117326",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "101573691",
+      "issn": "",
+      "essn": "2211-1247",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - as supplied by publisher",
+      "pubstatus": "10",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "42262924"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.celrep.2026.117326"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S2211-1247(26)00404-3"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2024/11/05 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2025/11/26 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2026/04/09 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2026/06/09 18:42"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2026/06/09 18:42"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2026/06/09 12:35"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Cell reports",
+      "elocationid": "doi: 10.1016/j.celrep.2026.117326",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/06/08 00:00",
+      "sortfirstauthor": "Mastromarco GJ",
+      "vernaculartitle": ""
+    },
+    "42265995": {
+      "uid": "42265995",
+      "pubdate": "2026 Jun 9",
+      "epubdate": "2026 Jun 9",
+      "source": "Muscle Nerve",
+      "authors": [
+        {
+          "name": "Ozlu C",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Schwaede A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "McGowan B",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zhang L",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Finch M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wolfe LF",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ajroud-Driss S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Franz CK",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kuntz N",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Kuntz N",
+      "title": "Two Patients With Juvenile-Onset, Rapidly Progressive Amyotrophic Lateral Sclerosis Associated With an SOD1 Variant (p.Asp125Gly) With Incomplete Penetrance.",
+      "sorttitle": "two patients with juvenile onset rapidly progressive amyotrophic lateral sclerosis associated with an sod1 variant p asp125gly with incomplete penetrance",
+      "volume": "",
+      "issue": "",
+      "pages": "",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "7803146",
+      "issn": "0148-639X",
+      "essn": "1097-4598",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - as supplied by publisher",
+      "pubstatus": "10",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "42265995"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1002/mus.70314"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "revised",
+          "date": "2026/05/29 00:00"
+        },
+        {
+          "pubstatus": "received",
+          "date": "2026/03/06 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2026/06/02 00:00"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2026/06/10 06:52"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2026/06/10 06:52"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2026/06/10 02:23"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Muscle & nerve",
+      "elocationid": "doi: 10.1002/mus.70314",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/06/09 00:00",
+      "sortfirstauthor": "Ozlu C",
+      "vernaculartitle": ""
+    },
+    "42268433": {
+      "uid": "42268433",
+      "pubdate": "2026 Jun 10",
+      "epubdate": "2026 Jun 10",
+      "source": "J Neurol",
+      "authors": [
+        {
+          "name": "Sytwu HP",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Jih KY",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Tsai YS",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Fang SY",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Liao YC",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Lee YC",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Lee YC",
+      "title": "FUS-associated ALS in Taiwan: genetic spectrum, clinical features, and a founder haplotype of p.H517D.",
+      "sorttitle": "fus associated als in taiwan genetic spectrum clinical features and a founder haplotype of p h517d",
+      "volume": "273",
+      "issue": "7",
+      "pages": "",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "0423161",
+      "issn": "0340-5354",
+      "essn": "1432-1459",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "3",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "42268433"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1007/s00415-026-13929-4"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "10.1007/s00415-026-13929-4"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC13253602"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC13253602;"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2026/03/15 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2026/05/29 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2026/05/21 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2026/06/13 00:38"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2026/06/10 14:04"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2026/06/10 11:15"
+        },
+        {
+          "pubstatus": "pmc-release",
+          "date": "2026/06/10 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": 34,
+      "fulljournalname": "Journal of neurology",
+      "elocationid": "doi: 10.1007/s00415-026-13929-4",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/06/10 00:00",
+      "sortfirstauthor": "Sytwu HP",
+      "vernaculartitle": ""
+    },
+    "42268660": {
+      "uid": "42268660",
+      "pubdate": "2026 Jun 10",
+      "epubdate": "2026 Jun 10",
+      "source": "Amyotroph Lateral Scler Frontotemporal Degener",
+      "authors": [
+        {
+          "name": "Roy É",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Blais M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Dion P",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Rouleau GA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Dupré N",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Picher-Martel V",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Picher-Martel V",
+      "title": "Oligogenic variants in NEK1 and ATXN2 in amyotrophic lateral sclerosis: report of two cases and review of the literature.",
+      "sorttitle": "oligogenic variants in nek1 and atxn2 in amyotrophic lateral sclerosis report of two cases and review of the literature",
+      "volume": "",
+      "issue": "",
+      "pages": "1-9",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "101587185",
+      "issn": "2167-8421",
+      "essn": "2167-9223",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ],
+      "recordstatus": "PubMed - as supplied by publisher",
+      "pubstatus": "10",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "42268660"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1080/21678421.2026.2685158"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "medline",
+          "date": "2026/06/10 14:04"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2026/06/10 14:04"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2026/06/10 11:52"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Amyotrophic lateral sclerosis & frontotemporal degeneration",
+      "elocationid": "doi: 10.1080/21678421.2026.2685158",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/06/10 00:00",
+      "sortfirstauthor": "Roy É",
+      "vernaculartitle": ""
+    },
+    "42282797": {
+      "uid": "42282797",
+      "pubdate": "2026 Jun 3",
+      "epubdate": "2026 Jun 3",
+      "source": "bioRxiv",
+      "authors": [
+        {
+          "name": "Yusuf IO",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Silva RLA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Amoako GG",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Thompson PR",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Xu Z",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Xu Z",
+      "title": "PAD2 knockout reduces myelin protein aggregates, modulates neuroinflammation and protects motor neurons, axons and neuromuscular junction in a SOD1-ALS mouse model.",
+      "sorttitle": "pad2 knockout reduces myelin protein aggregates modulates neuroinflammation and protects motor neurons axons and neuromuscular junction in a sod1 als mouse model",
+      "volume": "",
+      "issue": "",
+      "pages": "",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "101680187",
+      "issn": "",
+      "essn": "2692-8205",
+      "pubtype": [
+        "Journal Article",
+        "Preprint"
+      ],
+      "recordstatus": "PubMed",
+      "pubstatus": "3",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "42282797"
+        },
+        {
+          "idtype": "pmc",
+          "idtypen": 8,
+          "value": "PMC13252015"
+        },
+        {
+          "idtype": "pmcid",
+          "idtypen": 5,
+          "value": "pmc-id: PMC13252015;"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.64898/2026.05.30.729013"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "2026.05.30.729013"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "medline",
+          "date": "2026/06/12 06:39"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2026/06/12 06:38"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2026/06/12 05:07"
+        },
+        {
+          "pubstatus": "pmc-release",
+          "date": "2026/06/10 00:00"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "bioRxiv : the preprint server for biology",
+      "elocationid": "pii: 2026.05.30.729013. doi: 10.64898/2026.05.30.729013",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/06/03 00:00",
+      "sortfirstauthor": "Yusuf IO",
+      "vernaculartitle": ""
+    },
+    "42286839": {
+      "uid": "42286839",
+      "pubdate": "2026 Jun 12",
+      "epubdate": "2026 Jun 12",
+      "source": "Muscle Nerve",
+      "authors": [
+        {
+          "name": "Wheeler A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Mehta K",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Sanders D",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Chin C",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zivalic H",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Carey J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "McCaffrey A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Pant P",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Lewenhaupt C",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Luppino S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Jacobs G",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Golden S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Gifford R",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Scirocco E",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Keegan M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Hatem M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Yazdanian T",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Uysal SP",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Susco N",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Schwartzman S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Branch K",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Hall KE",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Barnas J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Lam J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Hagar J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Hannan CA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Paganoni S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Berry JD",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Garret M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Scalia J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Babu S",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Babu S",
+      "title": "Optimizing Research Operations and Resource Utilization in ALS Care: Insights From the Tofersen Antisense Oligonucleotide Expanded Access Protocol.",
+      "sorttitle": "optimizing research operations and resource utilization in als care insights from the tofersen antisense oligonucleotide expanded access protocol",
+      "volume": "",
+      "issue": "",
+      "pages": "",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "7803146",
+      "issn": "0148-639X",
+      "essn": "1097-4598",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - as supplied by publisher",
+      "pubstatus": "10",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "42286839"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1002/mus.70310"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "revised",
+          "date": "2026/05/27 00:00"
+        },
+        {
+          "pubstatus": "received",
+          "date": "2026/02/12 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2026/06/01 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2026/06/13 06:39"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2026/06/13 06:39"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2026/06/13 00:43"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Muscle & nerve",
+      "elocationid": "doi: 10.1002/mus.70310",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/06/12 00:00",
+      "sortfirstauthor": "Wheeler A",
+      "vernaculartitle": ""
+    },
+    "42287757": {
+      "uid": "42287757",
+      "pubdate": "2026 Jun 13",
+      "epubdate": "2026 Jun 13",
+      "source": "Biomed Pharmacother",
+      "authors": [
+        {
+          "name": "Jaberi KR",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Haghighi MR",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Aligholi H",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Takallu S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Asadi P",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Mirzaei E",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Jaberi AR",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Sahraian A",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Sahraian A",
+      "title": "Focused ultrasound-mediated nanocarrier delivery across the blood-brain barrier for neurodegenerative diseases.",
+      "sorttitle": "focused ultrasound mediated nanocarrier delivery across the blood brain barrier for neurodegenerative diseases",
+      "volume": "201",
+      "issue": "",
+      "pages": "119622",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "8213295",
+      "issn": "0753-3322",
+      "essn": "1950-6007",
+      "pubtype": [
+        "Journal Article",
+        "Review"
+      ],
+      "recordstatus": "PubMed - as supplied by publisher",
+      "pubstatus": "10",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "42287757"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.biopha.2026.119622"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0753-3322(26)00658-X"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2026/01/31 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2026/05/16 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2026/06/04 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2026/06/15 11:30"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2026/06/15 11:30"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2026/06/13 17:59"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Biomedicine & pharmacotherapy = Biomedecine & pharmacotherapie",
+      "elocationid": "doi: 10.1016/j.biopha.2026.119622",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/06/13 00:00",
+      "sortfirstauthor": "Jaberi KR",
+      "vernaculartitle": ""
+    },
+    "42288493": {
+      "uid": "42288493",
+      "pubdate": "2026 Jun 13",
+      "epubdate": "2026 Jun 13",
+      "source": "Sci Data",
+      "authors": [
+        {
+          "name": "Wang N",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Li Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Li N",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Shen L",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wang C",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zhu H",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zhou Z",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ding Y",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Zhang J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Fang L",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Bai B",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Bai B",
+      "title": "Quantitative Proteomics Unveils Comprehensive Tissue-Specific VCP Interaction Networks in Mice.",
+      "sorttitle": "quantitative proteomics unveils comprehensive tissue specific vcp interaction networks in mice",
+      "volume": "",
+      "issue": "",
+      "pages": "",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "101640192",
+      "issn": "",
+      "essn": "2052-4463",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - as supplied by publisher",
+      "pubstatus": "10",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "42288493"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1038/s41597-026-07626-0"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "10.1038/s41597-026-07626-0"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2025/12/09 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2026/06/08 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2026/06/15 11:33"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2026/06/15 11:33"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2026/06/13 23:13"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Scientific data",
+      "elocationid": "doi: 10.1038/s41597-026-07626-0",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/06/13 00:00",
+      "sortfirstauthor": "Wang N",
+      "vernaculartitle": ""
+    },
+    "42295687": {
+      "uid": "42295687",
+      "pubdate": "2026 Jun 15",
+      "epubdate": "2026 Jun 15",
+      "source": "Ann Clin Transl Neurol",
+      "authors": [
+        {
+          "name": "Jürs AV",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Naumann M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Lehto A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Schön H",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kurth J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Prudlo J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Hermann A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kasper E",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Kasper E",
+      "title": "Cognitive and Neuroimaging Divergence Between Juvenile and Adult FUS Amyotrophic Lateral Sclerosis.",
+      "sorttitle": "cognitive and neuroimaging divergence between juvenile and adult fus amyotrophic lateral sclerosis",
+      "volume": "",
+      "issue": "",
+      "pages": "",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "101623278",
+      "issn": "",
+      "essn": "2328-9503",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - as supplied by publisher",
+      "pubstatus": "10",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "42295687"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1002/acn3.70447"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "revised",
+          "date": "2026/05/11 00:00"
+        },
+        {
+          "pubstatus": "received",
+          "date": "2026/04/16 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2026/05/18 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2026/06/15 12:54"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2026/06/15 12:54"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2026/06/15 11:22"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Annals of clinical and translational neurology",
+      "elocationid": "doi: 10.1002/acn3.70447",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/06/15 00:00",
+      "sortfirstauthor": "Jürs AV",
+      "vernaculartitle": ""
+    },
+    "42296226": {
+      "uid": "42296226",
+      "pubdate": "2026 Jun 15",
+      "epubdate": "2026 Jun 15",
+      "source": "Amyotroph Lateral Scler Frontotemporal Degener",
+      "authors": [
+        {
+          "name": "Naumann M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kretschmer S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Dorst J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Lapp H",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Peikert K",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Petri S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Gess B",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wolf C",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Rödiger A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Smesny U",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Pan-Montojo F",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kerschen P",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Grehl T",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Prudlo J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Regensburger M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ludolph A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Günther R",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Brenner D",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Lee-Kirsch MA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Hermann A",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Hermann A",
+      "title": "Innate immune signaling as a potential pathomechanistic biomarker for distinct subtypes in amyotrophic lateral sclerosis.",
+      "sorttitle": "innate immune signaling as a potential pathomechanistic biomarker for distinct subtypes in amyotrophic lateral sclerosis",
+      "volume": "",
+      "issue": "",
+      "pages": "1-8",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "101587185",
+      "issn": "2167-8421",
+      "essn": "2167-9223",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - as supplied by publisher",
+      "pubstatus": "10",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "42296226"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1080/21678421.2026.2663910"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "medline",
+          "date": "2026/06/15 18:34"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2026/06/15 18:34"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2026/06/15 14:13"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Amyotrophic lateral sclerosis & frontotemporal degeneration",
+      "elocationid": "doi: 10.1080/21678421.2026.2663910",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/06/15 00:00",
+      "sortfirstauthor": "Naumann M",
+      "vernaculartitle": ""
+    },
+    "42299014": {
+      "uid": "42299014",
+      "pubdate": "2026 Apr 1",
+      "epubdate": "2026 Apr 1",
+      "source": "CNS Neurol Disord Drug Targets",
+      "authors": [
+        {
+          "name": "Kaur H",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kaur M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Sethi GK",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kaur AS",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Mishra A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Sharma N",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Sharma N",
+      "title": "Pathogenic Proteins Driving ALS Pathogenesis: Molecular Mechanisms and Translational Therapeutic Perspectives.",
+      "sorttitle": "pathogenic proteins driving als pathogenesis molecular mechanisms and translational therapeutic perspectives",
+      "volume": "",
+      "issue": "",
+      "pages": "",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "101269155",
+      "issn": "1871-5273",
+      "essn": "1996-3181",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - as supplied by publisher",
+      "pubstatus": "10",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "42299014"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.2174/0118715273440191260226063811"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "CNSNDDT-EPUB-154437"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2025/08/20 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2025/12/03 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2025/12/08 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2026/06/16 06:35"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2026/06/16 06:35"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2026/06/16 03:03"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "CNS & neurological disorders drug targets",
+      "elocationid": "doi: 10.2174/0118715273440191260226063811",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/04/01 00:00",
+      "sortfirstauthor": "Kaur H",
+      "vernaculartitle": ""
+    },
+    "42304808": {
+      "uid": "42304808",
+      "pubdate": "2026 Jun 16",
+      "epubdate": "2026 Jun 16",
+      "source": "Muscle Nerve",
+      "authors": [
+        {
+          "name": "Smith SE",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Hughes B",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Miller TM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Bucelli RC",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Bucelli RC",
+      "title": "Amyotrophic Lateral Sclerosis Recovery: A New Model System of Care Integrating Neuromuscular Rehabilitation With Clinical Stabilization in ALS.",
+      "sorttitle": "amyotrophic lateral sclerosis recovery a new model system of care integrating neuromuscular rehabilitation with clinical stabilization in als",
+      "volume": "",
+      "issue": "",
+      "pages": "",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "7803146",
+      "issn": "0148-639X",
+      "essn": "1097-4598",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - as supplied by publisher",
+      "pubstatus": "10",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "42304808"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1002/mus.70320"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "revised",
+          "date": "2026/06/08 00:00"
+        },
+        {
+          "pubstatus": "received",
+          "date": "2025/12/16 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2026/06/10 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2026/06/17 06:31"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2026/06/17 06:31"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2026/06/17 02:33"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Muscle & nerve",
+      "elocationid": "doi: 10.1002/mus.70320",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/06/16 00:00",
+      "sortfirstauthor": "Smith SE",
+      "vernaculartitle": ""
+    },
+    "42314654": {
+      "uid": "42314654",
+      "pubdate": "2026 Jun 18",
+      "epubdate": "",
+      "source": "Cell Chem Biol",
+      "authors": [
+        {
+          "name": "Yang R",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Fang Y",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Fang Y",
+      "title": "S-acylation of TDP-43: PALMing down aggregation?",
+      "sorttitle": "s acylation of tdp 43 palming down aggregation",
+      "volume": "33",
+      "issue": "6",
+      "pages": "742-744",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "101676030",
+      "issn": "",
+      "essn": "2451-9448",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "4",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "42314654"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.chembiol.2026.05.009"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S2451-9456(26)00188-1"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2026/05/20 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2026/05/23 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2026/05/26 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2026/06/19 00:37"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2026/06/19 00:36"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2026/06/18 18:16"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Cell chemical biology",
+      "elocationid": "doi: 10.1016/j.chembiol.2026.05.009",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/06/18 00:00",
+      "sortfirstauthor": "Yang R",
+      "vernaculartitle": ""
+    },
+    "42314891": {
+      "uid": "42314891",
+      "pubdate": "2026 Jun 18",
+      "epubdate": "2026 Jun 18",
+      "source": "Int J Biol Macromol",
+      "authors": [
+        {
+          "name": "Yadav P",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Malik I",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Joshi H",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Joshi H",
+      "title": "Folding pathways and force-induced unfolding of neurodegeneration associated GGGGCC microsatellite repeat RNA revealed by molecular simulations.",
+      "sorttitle": "folding pathways and force induced unfolding of neurodegeneration associated ggggcc microsatellite repeat rna revealed by molecular simulations",
+      "volume": "",
+      "issue": "",
+      "pages": "153101",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "7909578",
+      "issn": "0141-8130",
+      "essn": "1879-0003",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - as supplied by publisher",
+      "pubstatus": "10",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "42314891"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1016/j.ijbiomac.2026.153101"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "S0141-8130(26)03028-X"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2026/04/09 00:00"
+        },
+        {
+          "pubstatus": "revised",
+          "date": "2026/06/05 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2026/06/17 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2026/06/19 00:36"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2026/06/19 00:36"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2026/06/18 19:31"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "International journal of biological macromolecules",
+      "elocationid": "doi: 10.1016/j.ijbiomac.2026.153101",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/06/18 00:00",
+      "sortfirstauthor": "Yadav P",
+      "vernaculartitle": ""
+    },
+    "42315356": {
+      "uid": "42315356",
+      "pubdate": "2026 Jun 18",
+      "epubdate": "2026 Jun 18",
+      "source": "BMJ Open",
+      "authors": [
+        {
+          "name": "Henders AK",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ziser L",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Garton FC",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Adams L",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ernst K",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Furlong S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Heads JA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Heggie S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Krasniqi R",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Bhadravathi Lokeshappa M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Mazumder S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "McNamara E",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "MacShane A",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Mekhael L",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Nunn L",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Orden B",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ryder J",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Thorpe K",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Toubia M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wallace LM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wickremeratne D",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Windebank E",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Benyamin B",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Ngo S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Nicholson G",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Pamphlett R",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Steyn FJ",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Visscher PM",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Willams KL",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Henderson R",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Kiernan MC",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Laing N",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Mathers S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "McCombe PA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Needham M",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Rowe D",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Schultz D",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Talman P",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Vucic S",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Blair IP",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "McRae AF",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Wray NR",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Wray NR",
+      "title": "Strategic Amyotrophic Lateral Sclerosis Australia-Systems Genomics Consortium (SALSA-SGC): cohort profile.",
+      "sorttitle": "strategic amyotrophic lateral sclerosis australia systems genomics consortium salsa sgc cohort profile",
+      "volume": "16",
+      "issue": "6",
+      "pages": "e110906",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "101552874",
+      "issn": "",
+      "essn": "2044-6055",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - indexed for MEDLINE",
+      "pubstatus": "3",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "42315356"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1136/bmjopen-2025-110906"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "bmjopen-2025-110906"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "medline",
+          "date": "2026/06/19 00:38"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2026/06/19 00:37"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2026/06/18 21:53"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "BMJ open",
+      "elocationid": "doi: 10.1136/bmjopen-2025-110906",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/06/18 00:00",
+      "sortfirstauthor": "Henders AK",
+      "vernaculartitle": ""
+    },
+    "42316301": {
+      "uid": "42316301",
+      "pubdate": "2026 Jun 18",
+      "epubdate": "2026 Jun 18",
+      "source": "Acta Neuropathol Commun",
+      "authors": [
+        {
+          "name": "Russell KA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Shahrabi AA",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Akerman SC",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Byrne MD",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Rothstein JD",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Trotti D",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Jensen BK",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Haeusler AR",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Haeusler AR",
+      "title": "Intrathecal (G(4)C(2))(149) delivery in C9orf72-deficient mice yields mild motor dysfunction and ALS/FTD pathological hallmarks.",
+      "sorttitle": "intrathecal g 4 c 2 149 delivery in c9orf72 deficient mice yields mild motor dysfunction and als ftd pathological hallmarks",
+      "volume": "",
+      "issue": "",
+      "pages": "",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "101610673",
+      "issn": "",
+      "essn": "2051-5960",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - as supplied by publisher",
+      "pubstatus": "10",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "42316301"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1186/s40478-026-02341-8"
+        },
+        {
+          "idtype": "pii",
+          "idtypen": 4,
+          "value": "10.1186/s40478-026-02341-8"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2026/02/11 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2026/06/01 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2026/06/19 06:33"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2026/06/19 06:33"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2026/06/19 00:16"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "Acta neuropathologica communications",
+      "elocationid": "doi: 10.1186/s40478-026-02341-8",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/06/18 00:00",
+      "sortfirstauthor": "Russell KA",
+      "vernaculartitle": ""
+    },
+    "42317073": {
+      "uid": "42317073",
+      "pubdate": "2026 Jun 19",
+      "epubdate": "2026 Jun 19",
+      "source": "FEBS J",
+      "authors": [
+        {
+          "name": "Stark T",
+          "authtype": "Author",
+          "clusterid": ""
+        },
+        {
+          "name": "Müller S",
+          "authtype": "Author",
+          "clusterid": ""
+        }
+      ],
+      "lastauthor": "Müller S",
+      "title": "PML as a neuroprotective guardian: Leveraging nuclear protein quality control to mitigate neurotoxicity of an ALS-associated NEK1 variant.",
+      "sorttitle": "pml as a neuroprotective guardian leveraging nuclear protein quality control to mitigate neurotoxicity of an als associated nek1 variant",
+      "volume": "",
+      "issue": "",
+      "pages": "",
+      "lang": [
+        "eng"
+      ],
+      "nlmuniqueid": "101229646",
+      "issn": "1742-464X",
+      "essn": "1742-4658",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "recordstatus": "PubMed - as supplied by publisher",
+      "pubstatus": "10",
+      "articleids": [
+        {
+          "idtype": "pubmed",
+          "idtypen": 1,
+          "value": "42317073"
+        },
+        {
+          "idtype": "doi",
+          "idtypen": 3,
+          "value": "10.1111/febs.70630"
+        }
+      ],
+      "history": [
+        {
+          "pubstatus": "received",
+          "date": "2026/05/04 00:00"
+        },
+        {
+          "pubstatus": "accepted",
+          "date": "2026/06/10 00:00"
+        },
+        {
+          "pubstatus": "medline",
+          "date": "2026/06/19 06:32"
+        },
+        {
+          "pubstatus": "pubmed",
+          "date": "2026/06/19 06:32"
+        },
+        {
+          "pubstatus": "entrez",
+          "date": "2026/06/19 03:43"
+        }
+      ],
+      "references": [],
+      "attributes": [
+        "Has Abstract"
+      ],
+      "pmcrefcount": "",
+      "fulljournalname": "The FEBS journal",
+      "elocationid": "doi: 10.1111/febs.70630",
+      "doctype": "citation",
+      "srccontriblist": [],
+      "booktitle": "",
+      "medium": "",
+      "edition": "",
+      "publisherlocation": "",
+      "publishername": "",
+      "srcdate": "",
+      "reportnumber": "",
+      "availablefromurl": "",
+      "locationlabel": "",
+      "doccontriblist": [],
+      "docdate": "",
+      "bookname": "",
+      "chapter": "",
+      "sortpubdate": "2026/06/19 00:00",
+      "sortfirstauthor": "Stark T",
+      "vernaculartitle": ""
+    }
+  }
+}

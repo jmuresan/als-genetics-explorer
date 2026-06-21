@@ -1,0 +1,47 @@
+[
+  {
+    "stringId_A": "9606.ENSP00000257860",
+    "stringId_B": "9606.ENSP00000221166",
+    "preferredName_A": "PRPH",
+    "preferredName_B": "NEFM",
+    "ncbiTaxonId": 9606,
+    "score": 0.904,
+    "nscore": 0,
+    "fscore": 0,
+    "pscore": 0,
+    "ascore": 0.06,
+    "escore": 0.045,
+    "dscore": 0.9,
+    "tscore": 0.063
+  },
+  {
+    "stringId_A": "9606.ENSP00000257860",
+    "stringId_B": "9606.ENSP00000311997",
+    "preferredName_A": "PRPH",
+    "preferredName_B": "NEFH",
+    "ncbiTaxonId": 9606,
+    "score": 0.904,
+    "nscore": 0,
+    "fscore": 0,
+    "pscore": 0,
+    "ascore": 0.042,
+    "escore": 0.045,
+    "dscore": 0.9,
+    "tscore": 0.076
+  },
+  {
+    "stringId_A": "9606.ENSP00000257860",
+    "stringId_B": "9606.ENSP00000482169",
+    "preferredName_A": "PRPH",
+    "preferredName_B": "NEFL",
+    "ncbiTaxonId": 9606,
+    "score": 0.902,
+    "nscore": 0,
+    "fscore": 0,
+    "pscore": 0,
+    "ascore": 0,
+    "escore": 0.045,
+    "dscore": 0.9,
+    "tscore": 0.058
+  }
+]

@@ -1,0 +1,185 @@
+{
+  "data": {
+    "target": {
+      "drugAndClinicalCandidates": {
+        "count": 9,
+        "rows": [
+          {
+            "id": "13253d2b5958d1305890ed8e7bbfee247cbf5f76624186ee9ef5a1e9ae2ebd06",
+            "maxClinicalStage": "APPROVAL",
+            "drug": {
+              "id": "CHEMBL52440",
+              "name": "DEXTROMETHORPHAN",
+              "maximumClinicalStage": "APPROVAL",
+              "mechanismsOfAction": {
+                "rows": [
+                  {
+                    "mechanismOfAction": "Sigma opioid receptor agonist"
+                  },
+                  {
+                    "mechanismOfAction": "Glutamate [NMDA] receptor subunit epsilon 1 antagonist"
+                  },
+                  {
+                    "mechanismOfAction": "Sigma opioid receptor agonist"
+                  },
+                  {
+                    "mechanismOfAction": "Glutamate [NMDA] receptor subunit epsilon 1 antagonist"
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "id": "40c7ac2c9df28ce4a28879028f56a02b05926f65cb0d5e6ac23e2107001557d2",
+            "maxClinicalStage": "APPROVAL",
+            "drug": {
+              "id": "CHEMBL87493",
+              "name": "FENFLURAMINE",
+              "maximumClinicalStage": "APPROVAL",
+              "mechanismsOfAction": {
+                "rows": [
+                  {
+                    "mechanismOfAction": "Serotonin 2c (5-HT2c) receptor agonist"
+                  },
+                  {
+                    "mechanismOfAction": "Sigma opioid receptor antagonist"
+                  },
+                  {
+                    "mechanismOfAction": "Serotonin 1d (5-HT1d) receptor agonist"
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "id": "4cda088c10d3614c83995a6afac70e6f85ae30f5173a33a46537b49ad6d0a37c",
+            "maxClinicalStage": "APPROVAL",
+            "drug": {
+              "id": "CHEMBL1256818",
+              "name": "DEXTROMETHORPHAN HYDROBROMIDE",
+              "maximumClinicalStage": "APPROVAL",
+              "mechanismsOfAction": {
+                "rows": [
+                  {
+                    "mechanismOfAction": "Sigma opioid receptor agonist"
+                  },
+                  {
+                    "mechanismOfAction": "Glutamate [NMDA] receptor subunit epsilon 1 antagonist"
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "id": "53a7671c00d7801c759d312b2c31bff6a8618e280b545e74afdf86fa883adf5c",
+            "maxClinicalStage": "APPROVAL",
+            "drug": {
+              "id": "CHEMBL3989510",
+              "name": "PENTAZOCINE HYDROCHLORIDE",
+              "maximumClinicalStage": "APPROVAL",
+              "mechanismsOfAction": {
+                "rows": [
+                  {
+                    "mechanismOfAction": "Sigma opioid receptor modulator"
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "id": "55cbd73530b252012f4d4f47125ddc759dafedd1278c5b8bd1977765a7bbd846",
+            "maxClinicalStage": "APPROVAL",
+            "drug": {
+              "id": "CHEMBL1256696",
+              "name": "CARBETAPENTANE CITRATE",
+              "maximumClinicalStage": "APPROVAL",
+              "mechanismsOfAction": {
+                "rows": [
+                  {
+                    "mechanismOfAction": "Sigma opioid receptor agonist"
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "id": "68d24dc54542b474bb6b441e7f3f38c18b45d5e17b2e102e33b440779b8b09e6",
+            "maxClinicalStage": "APPROVAL",
+            "drug": {
+              "id": "CHEMBL1201461",
+              "name": "DEXTROMETHORPHAN POLISTIREX",
+              "maximumClinicalStage": "APPROVAL",
+              "mechanismsOfAction": {
+                "rows": [
+                  {
+                    "mechanismOfAction": "Sigma opioid receptor agonist"
+                  },
+                  {
+                    "mechanismOfAction": "Glutamate [NMDA] receptor subunit epsilon 1 antagonist"
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "id": "7b94bdef693154016673c56a876a4242d10c754d370d6a4712cbd0697dec1a88",
+            "maxClinicalStage": "APPROVAL",
+            "drug": {
+              "id": "CHEMBL100116",
+              "name": "PENTAZOCINE",
+              "maximumClinicalStage": "APPROVAL",
+              "mechanismsOfAction": {
+                "rows": [
+                  {
+                    "mechanismOfAction": "Sigma opioid receptor modulator"
+                  },
+                  {
+                    "mechanismOfAction": "Sigma opioid receptor modulator"
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "id": "94cbe8065df9a64e68c122ca0c0b12c3557e30d113f2f5c9fb19fb2d44af5fb0",
+            "maxClinicalStage": "APPROVAL",
+            "drug": {
+              "id": "CHEMBL2106217",
+              "name": "FENFLURAMINE HYDROCHLORIDE",
+              "maximumClinicalStage": "APPROVAL",
+              "mechanismsOfAction": {
+                "rows": [
+                  {
+                    "mechanismOfAction": "Serotonin 2c (5-HT2c) receptor agonist"
+                  },
+                  {
+                    "mechanismOfAction": "Sigma opioid receptor antagonist"
+                  },
+                  {
+                    "mechanismOfAction": "Serotonin 1d (5-HT1d) receptor agonist"
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "id": "fd1aaa05a74d9dde0c836f0fc5937f67649bb47ebb886009f0b34706864336cc",
+            "maxClinicalStage": "APPROVAL",
+            "drug": {
+              "id": "CHEMBL73234",
+              "name": "CARBETAPENTANE",
+              "maximumClinicalStage": "APPROVAL",
+              "mechanismsOfAction": {
+                "rows": [
+                  {
+                    "mechanismOfAction": "Sigma opioid receptor agonist"
+                  }
+                ]
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

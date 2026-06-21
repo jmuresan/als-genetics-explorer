@@ -1,0 +1,39 @@
+[
+  {
+    "dbId": 8876198,
+    "displayName": "RAB GEFs exchange GTP for GDP on RABs",
+    "stId": "R-HSA-8876198",
+    "stIdVersion": "R-HSA-8876198.4",
+    "isInDisease": false,
+    "isInferred": false,
+    "maxDepth": 2,
+    "name": [
+      "RAB GEFs exchange GTP for GDP on RABs"
+    ],
+    "releaseDate": "2016-09-19",
+    "speciesName": "Homo sapiens",
+    "doi": "10.3180/R-HSA-8876198.1",
+    "hasDiagram": true,
+    "hasEHLD": false,
+    "schemaClass": "Pathway",
+    "className": "Pathway"
+  },
+  {
+    "dbId": 9013149,
+    "displayName": "RAC1 GTPase cycle",
+    "stId": "R-HSA-9013149",
+    "stIdVersion": "R-HSA-9013149.2",
+    "isInDisease": false,
+    "isInferred": false,
+    "maxDepth": 2,
+    "name": [
+      "RAC1 GTPase cycle"
+    ],
+    "releaseDate": "2021-03-23",
+    "speciesName": "Homo sapiens",
+    "hasDiagram": false,
+    "hasEHLD": false,
+    "schemaClass": "Pathway",
+    "className": "Pathway"
+  }
+]

@@ -1,0 +1,63 @@
+{
+  "header": {
+    "type": "esearch",
+    "version": "0.3"
+  },
+  "esearchresult": {
+    "count": "18",
+    "retmax": "18",
+    "retstart": "0",
+    "idlist": [
+      "4845223",
+      "4293520",
+      "3896963",
+      "3892196",
+      "3769289",
+      "3768034",
+      "3629541",
+      "3574887",
+      "3382963",
+      "3251556",
+      "3234975",
+      "2637522",
+      "1801688",
+      "1333542",
+      "873306",
+      "66714",
+      "66713",
+      "13707"
+    ],
+    "translationset": [],
+    "translationstack": [
+      {
+        "term": "PRPH[gene]",
+        "field": "gene",
+        "count": "137",
+        "explode": "N"
+      },
+      {
+        "term": "amyotrophic[All Fields]",
+        "field": "All Fields",
+        "count": "10881",
+        "explode": "N"
+      },
+      {
+        "term": "lateral[All Fields]",
+        "field": "All Fields",
+        "count": "23718",
+        "explode": "N"
+      },
+      "AND",
+      {
+        "term": "sclerosis[All Fields]",
+        "field": "All Fields",
+        "count": "32827",
+        "explode": "N"
+      },
+      "AND",
+      "GROUP",
+      "AND"
+    ],
+    "querytranslation": "PRPH[gene] AND (amyotrophic[All Fields] AND lateral[All Fields] AND sclerosis[All Fields])"
+  }
+}

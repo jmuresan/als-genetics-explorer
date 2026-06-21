@@ -1,0 +1,22 @@
+[
+  {
+    "dbId": 3214847,
+    "displayName": "HATs acetylate histones",
+    "stId": "R-HSA-3214847",
+    "stIdVersion": "R-HSA-3214847.3",
+    "isInDisease": false,
+    "isInferred": false,
+    "maxDepth": 2,
+    "name": [
+      "HATs acetylate histones",
+      "Histone acetyltransferases acetylate histones"
+    ],
+    "releaseDate": "2013-12-04",
+    "speciesName": "Homo sapiens",
+    "hasDiagram": false,
+    "hasEHLD": false,
+    "lastUpdatedDate": "2015-03-23",
+    "schemaClass": "Pathway",
+    "className": "Pathway"
+  }
+]

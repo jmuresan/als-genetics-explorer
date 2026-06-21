@@ -1,0 +1,27 @@
+{
+  "data": {
+    "target": {
+      "drugAndClinicalCandidates": {
+        "count": 1,
+        "rows": [
+          {
+            "id": "e64309660798ddd86db5e62ae16387c22204bfe5cc15b33741581d08b1e2f0af",
+            "maxClinicalStage": "APPROVAL",
+            "drug": {
+              "id": "CHEMBL3833346",
+              "name": "TOFERSEN",
+              "maximumClinicalStage": "APPROVAL",
+              "mechanismsOfAction": {
+                "rows": [
+                  {
+                    "mechanismOfAction": "SOD1 mRNA antisense inhibitor"
+                  }
+                ]
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

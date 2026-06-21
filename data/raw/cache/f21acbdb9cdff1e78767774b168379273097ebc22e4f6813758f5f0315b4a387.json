@@ -1,0 +1,25 @@
+{
+  "header": {
+    "type": "esearch",
+    "version": "0.3"
+  },
+  "esearchresult": {
+    "count": "72",
+    "retmax": "10",
+    "retstart": "0",
+    "idlist": [
+      "42254864",
+      "42234776",
+      "42223334",
+      "42178983",
+      "41996987",
+      "41931746",
+      "41573891",
+      "41481541",
+      "41394711",
+      "40949955"
+    ],
+    "translationset": [],
+    "querytranslation": "(\"UNC13A\"[Title/Abstract] OR \"UNC13A\"[All Fields]) AND (\"amyotrophic lateral sclerosis\"[Title/Abstract] OR \"ALS\"[Title/Abstract])"
+  }
+}

@@ -1,0 +1,403 @@
+[
+  {
+    "dbId": 110320,
+    "displayName": "Translesion Synthesis by POLH",
+    "stId": "R-HSA-110320",
+    "stIdVersion": "R-HSA-110320.3",
+    "isInDisease": false,
+    "isInferred": false,
+    "maxDepth": 2,
+    "name": [
+      "Translesion Synthesis by POLH"
+    ],
+    "releaseDate": "2004-03-06",
+    "speciesName": "Homo sapiens",
+    "hasDiagram": false,
+    "hasEHLD": false,
+    "lastUpdatedDate": "2017-06-22",
+    "schemaClass": "Pathway",
+    "className": "Pathway"
+  },
+  {
+    "dbId": 3371511,
+    "displayName": "HSF1 activation",
+    "stId": "R-HSA-3371511",
+    "stIdVersion": "R-HSA-3371511.4",
+    "isInDisease": false,
+    "isInferred": false,
+    "maxDepth": 2,
+    "name": [
+      "HSF1 activation"
+    ],
+    "releaseDate": "2014-03-12",
+    "speciesName": "Homo sapiens",
+    "hasDiagram": false,
+    "hasEHLD": false,
+    "lastUpdatedDate": "2014-07-15",
+    "schemaClass": "Pathway",
+    "className": "Pathway"
+  },
+  {
+    "dbId": 382556,
+    "displayName": "ABC-family protein mediated transport",
+    "stId": "R-HSA-382556",
+    "stIdVersion": "R-HSA-382556.7",
+    "isInDisease": false,
+    "isInferred": false,
+    "maxDepth": 3,
+    "name": [
+      "ABC-family protein mediated transport"
+    ],
+    "releaseDate": "2008-12-17",
+    "releaseStatus": "UPDATED",
+    "speciesName": "Homo sapiens",
+    "hasDiagram": true,
+    "hasEHLD": false,
+    "lastUpdatedDate": "2022-06-09",
+    "schemaClass": "Pathway",
+    "className": "Pathway"
+  },
+  {
+    "dbId": 532668,
+    "displayName": "N-glycan trimming in the ER and Calnexin/Calreticulin cycle",
+    "stId": "R-HSA-532668",
+    "stIdVersion": "R-HSA-532668.4",
+    "isInDisease": false,
+    "isInferred": false,
+    "maxDepth": 4,
+    "name": [
+      "N-glycan trimming in the ER and Calnexin/Calreticulin cycle"
+    ],
+    "releaseDate": "2010-09-21",
+    "speciesName": "Homo sapiens",
+    "hasDiagram": false,
+    "hasEHLD": false,
+    "lastUpdatedDate": "2016-12-21",
+    "schemaClass": "Pathway",
+    "className": "Pathway"
+  },
+  {
+    "dbId": 5358346,
+    "displayName": "Hedgehog ligand biogenesis",
+    "stId": "R-HSA-5358346",
+    "stIdVersion": "R-HSA-5358346.2",
+    "isInDisease": false,
+    "isInferred": false,
+    "maxDepth": 3,
+    "name": [
+      "Hedgehog ligand biogenesis"
+    ],
+    "releaseDate": "2014-06-10",
+    "speciesName": "Homo sapiens",
+    "doi": "10.3180/REACT_228111.1",
+    "hasDiagram": true,
+    "hasEHLD": false,
+    "schemaClass": "Pathway",
+    "className": "Pathway"
+  },
+  {
+    "dbId": 5362768,
+    "displayName": "Hh mutants are degraded by ERAD",
+    "stId": "R-HSA-5362768",
+    "stIdVersion": "R-HSA-5362768.4",
+    "isInDisease": true,
+    "isInferred": false,
+    "maxDepth": 2,
+    "name": [
+      "Hh mutants are degraded by ERAD"
+    ],
+    "releaseDate": "2014-06-10",
+    "speciesName": "Homo sapiens",
+    "hasDiagram": true,
+    "hasEHLD": false,
+    "lastUpdatedDate": "2018-06-13",
+    "schemaClass": "Pathway",
+    "className": "Pathway"
+  },
+  {
+    "dbId": 5678895,
+    "displayName": "Defective CFTR causes cystic fibrosis",
+    "stId": "R-HSA-5678895",
+    "stIdVersion": "R-HSA-5678895.5",
+    "isInDisease": true,
+    "isInferred": false,
+    "maxDepth": 2,
+    "name": [
+      "Defective CFTR causes cystic fibrosis"
+    ],
+    "releaseDate": "2015-06-17",
+    "speciesName": "Homo sapiens",
+    "hasDiagram": true,
+    "hasEHLD": false,
+    "lastUpdatedDate": "2022-06-09",
+    "schemaClass": "Pathway",
+    "className": "Pathway"
+  },
+  {
+    "dbId": 5689877,
+    "displayName": "Josephin domain DUBs",
+    "stId": "R-HSA-5689877",
+    "stIdVersion": "R-HSA-5689877.3",
+    "isInDisease": false,
+    "isInferred": false,
+    "maxDepth": 2,
+    "name": [
+      "Josephin domain DUBs"
+    ],
+    "releaseDate": "2016-06-15",
+    "speciesName": "Homo sapiens",
+    "hasDiagram": false,
+    "hasEHLD": false,
+    "schemaClass": "Pathway",
+    "className": "Pathway"
+  },
+  {
+    "dbId": 5689896,
+    "displayName": "Ovarian tumor domain proteases",
+    "stId": "R-HSA-5689896",
+    "stIdVersion": "R-HSA-5689896.5",
+    "isInDisease": false,
+    "isInferred": false,
+    "maxDepth": 2,
+    "name": [
+      "Ovarian tumor domain proteases"
+    ],
+    "releaseDate": "2016-06-15",
+    "speciesName": "Homo sapiens",
+    "hasDiagram": false,
+    "hasEHLD": false,
+    "lastUpdatedDate": "2019-09-09",
+    "schemaClass": "Pathway",
+    "className": "Pathway"
+  },
+  {
+    "dbId": 6798695,
+    "displayName": "Neutrophil degranulation",
+    "stId": "R-HSA-6798695",
+    "stIdVersion": "R-HSA-6798695.3",
+    "isInDisease": false,
+    "isInferred": false,
+    "maxDepth": 2,
+    "name": [
+      "Neutrophil degranulation"
+    ],
+    "releaseDate": "2016-09-19",
+    "speciesName": "Homo sapiens",
+    "doi": "10.3180/R-HSA-6798695.1",
+    "hasDiagram": true,
+    "hasEHLD": false,
+    "schemaClass": "Pathway",
+    "className": "Pathway"
+  },
+  {
+    "dbId": 8866654,
+    "displayName": "E3 ubiquitin ligases ubiquitinate target proteins",
+    "stId": "R-HSA-8866654",
+    "stIdVersion": "R-HSA-8866654.5",
+    "isInDisease": false,
+    "isInferred": false,
+    "maxDepth": 2,
+    "name": [
+      "E3 ubiquitin ligases ubiquitinate target proteins"
+    ],
+    "releaseDate": "2016-12-12",
+    "speciesName": "Homo sapiens",
+    "doi": "10.3180/R-HSA-8866654.1",
+    "hasDiagram": true,
+    "hasEHLD": false,
+    "lastUpdatedDate": "2023-09-13",
+    "schemaClass": "Pathway",
+    "className": "Pathway"
+  },
+  {
+    "dbId": 8876725,
+    "displayName": "Protein methylation",
+    "stId": "R-HSA-8876725",
+    "stIdVersion": "R-HSA-8876725.6",
+    "isInDisease": false,
+    "isInferred": false,
+    "maxDepth": 2,
+    "name": [
+      "Protein methylation"
+    ],
+    "releaseDate": "2016-12-12",
+    "speciesName": "Homo sapiens",
+    "doi": "10.3180/R-HSA-8876725.1",
+    "hasDiagram": true,
+    "hasEHLD": false,
+    "lastUpdatedDate": "2023-03-29",
+    "schemaClass": "Pathway",
+    "className": "Pathway"
+  },
+  {
+    "dbId": 8951664,
+    "displayName": "Neddylation",
+    "stId": "R-HSA-8951664",
+    "stIdVersion": "R-HSA-8951664.7",
+    "isInDisease": false,
+    "isInferred": false,
+    "maxDepth": 2,
+    "name": [
+      "Neddylation"
+    ],
+    "releaseDate": "2017-03-27",
+    "speciesName": "Homo sapiens",
+    "doi": "10.3180/R-HSA-8951664.4",
+    "hasDiagram": true,
+    "hasEHLD": false,
+    "lastUpdatedDate": "2022-12-07",
+    "schemaClass": "Pathway",
+    "className": "Pathway"
+  },
+  {
+    "dbId": 9013407,
+    "displayName": "RHOH GTPase cycle",
+    "stId": "R-HSA-9013407",
+    "stIdVersion": "R-HSA-9013407.3",
+    "isInDisease": false,
+    "isInferred": false,
+    "maxDepth": 2,
+    "name": [
+      "RHOH GTPase cycle"
+    ],
+    "releaseDate": "2021-03-23",
+    "speciesName": "Homo sapiens",
+    "doi": "10.3180/R-HSA-9013407.1",
+    "hasDiagram": false,
+    "hasEHLD": false,
+    "schemaClass": "Pathway",
+    "className": "Pathway"
+  },
+  {
+    "dbId": 9646399,
+    "displayName": "Aggrephagy",
+    "stId": "R-HSA-9646399",
+    "stIdVersion": "R-HSA-9646399.4",
+    "isInDisease": false,
+    "isInferred": false,
+    "maxDepth": 2,
+    "name": [
+      "Aggrephagy"
+    ],
+    "releaseDate": "2019-12-10",
+    "speciesName": "Homo sapiens",
+    "doi": "10.3180/R-HSA-9646399.1",
+    "hasDiagram": true,
+    "hasEHLD": false,
+    "schemaClass": "Pathway",
+    "className": "Pathway"
+  },
+  {
+    "dbId": 9678110,
+    "displayName": "Attachment and Entry",
+    "stId": "R-HSA-9678110",
+    "stIdVersion": "R-HSA-9678110.5",
+    "isInDisease": true,
+    "isInferred": false,
+    "maxDepth": 2,
+    "name": [
+      "Attachment and Entry"
+    ],
+    "releaseDate": "2020-06-10",
+    "speciesName": "Homo sapiens",
+    "hasDiagram": false,
+    "hasEHLD": false,
+    "lastUpdatedDate": "2022-06-09",
+    "schemaClass": "Pathway",
+    "className": "Pathway"
+  },
+  {
+    "dbId": 9694614,
+    "displayName": "Attachment and Entry",
+    "stId": "R-HSA-9694614",
+    "stIdVersion": "R-HSA-9694614.6",
+    "isInDisease": true,
+    "isInferred": true,
+    "maxDepth": 2,
+    "name": [
+      "Attachment and Entry"
+    ],
+    "releaseDate": "2020-09-15",
+    "speciesName": "Homo sapiens",
+    "hasDiagram": false,
+    "hasEHLD": false,
+    "lastUpdatedDate": "2022-09-14",
+    "schemaClass": "Pathway",
+    "className": "Pathway"
+  },
+  {
+    "dbId": 9755511,
+    "displayName": "KEAP1-NFE2L2 pathway",
+    "stId": "R-HSA-9755511",
+    "stIdVersion": "R-HSA-9755511.5",
+    "isInDisease": false,
+    "isInferred": false,
+    "maxDepth": 4,
+    "name": [
+      "KEAP1-NFE2L2 pathway"
+    ],
+    "releaseDate": "2022-03-23",
+    "speciesName": "Homo sapiens",
+    "doi": "10.3180/R-HSA-9755511.1",
+    "hasDiagram": true,
+    "hasEHLD": false,
+    "lastUpdatedDate": "2023-09-13",
+    "schemaClass": "Pathway",
+    "className": "Pathway"
+  },
+  {
+    "dbId": 9918487,
+    "displayName": "Dengue Virus Genome Translation and Replication",
+    "stId": "R-HSA-9918487",
+    "stIdVersion": "R-HSA-9918487.1",
+    "isInDisease": true,
+    "isInferred": false,
+    "maxDepth": 3,
+    "name": [
+      "Dengue Virus Genome Translation and Replication"
+    ],
+    "releaseDate": "2025-12-08",
+    "releaseStatus": "UPDATED",
+    "speciesName": "Homo sapiens",
+    "hasDiagram": true,
+    "hasEHLD": false,
+    "schemaClass": "Pathway",
+    "className": "Pathway"
+  },
+  {
+    "dbId": 9931269,
+    "displayName": "AMPK-induced ERAD and lysosome mediated degradation of PD-L1(CD274)",
+    "stId": "R-HSA-9931269",
+    "stIdVersion": "R-HSA-9931269.1",
+    "isInDisease": false,
+    "isInferred": false,
+    "maxDepth": 2,
+    "name": [
+      "AMPK-induced ERAD and lysosome mediated degradation of PD-L1(CD274)"
+    ],
+    "releaseDate": "2025-09-18",
+    "speciesName": "Homo sapiens",
+    "hasDiagram": false,
+    "hasEHLD": false,
+    "schemaClass": "Pathway",
+    "className": "Pathway"
+  },
+  {
+    "dbId": 9954709,
+    "displayName": "Ribosome Quality Control (RQC) complex extracts and degrades nascent peptide",
+    "stId": "R-HSA-9954709",
+    "stIdVersion": "R-HSA-9954709.2",
+    "isInDisease": false,
+    "isInferred": false,
+    "maxDepth": 2,
+    "name": [
+      "Ribosome Quality Control (RQC) complex extracts and degrades nascent peptide"
+    ],
+    "releaseDate": "2025-09-18",
+    "speciesName": "Homo sapiens",
+    "hasDiagram": false,
+    "hasEHLD": false,
+    "schemaClass": "Pathway",
+    "className": "Pathway"
+  }
+]

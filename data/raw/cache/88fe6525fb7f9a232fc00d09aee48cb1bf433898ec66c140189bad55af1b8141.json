@@ -1,0 +1,25 @@
+{
+  "header": {
+    "type": "esearch",
+    "version": "0.3"
+  },
+  "esearchresult": {
+    "count": "171",
+    "retmax": "10",
+    "retstart": "0",
+    "idlist": [
+      "42239172",
+      "42104039",
+      "41912662",
+      "41862640",
+      "41727138",
+      "41582437",
+      "41561437",
+      "41428212",
+      "41278912",
+      "41028049"
+    ],
+    "translationset": [],
+    "querytranslation": "(\"UBQLN2\"[Title/Abstract] OR \"UBQLN2\"[All Fields]) AND (\"amyotrophic lateral sclerosis\"[Title/Abstract] OR \"ALS\"[Title/Abstract])"
+  }
+}

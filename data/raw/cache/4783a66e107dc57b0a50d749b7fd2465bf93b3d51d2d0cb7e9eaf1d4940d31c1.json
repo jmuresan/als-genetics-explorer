@@ -1,0 +1,25 @@
+{
+  "header": {
+    "type": "esearch",
+    "version": "0.3"
+  },
+  "esearchresult": {
+    "count": "1710",
+    "retmax": "10",
+    "retstart": "0",
+    "idlist": [
+      "42314654",
+      "42268660",
+      "42254864",
+      "42251967",
+      "42234776",
+      "42227825",
+      "42195033",
+      "42171861",
+      "42171508",
+      "42141322"
+    ],
+    "translationset": [],
+    "querytranslation": "(\"TARDBP\"[Title/Abstract] OR \"TARDBP\"[All Fields]) AND (\"amyotrophic lateral sclerosis\"[Title/Abstract] OR \"ALS\"[Title/Abstract])"
+  }
+}

@@ -1,0 +1,20 @@
+[
+  {
+    "dbId": 9861718,
+    "displayName": "Regulation of pyruvate metabolism",
+    "stId": "R-HSA-9861718",
+    "stIdVersion": "R-HSA-9861718.1",
+    "isInDisease": false,
+    "isInferred": false,
+    "maxDepth": 3,
+    "name": [
+      "Regulation of pyruvate metabolism"
+    ],
+    "releaseDate": "2024-03-27",
+    "speciesName": "Homo sapiens",
+    "hasDiagram": false,
+    "hasEHLD": false,
+    "schemaClass": "Pathway",
+    "className": "Pathway"
+  }
+]

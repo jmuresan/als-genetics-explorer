@@ -1,0 +1,51 @@
+{
+  "header": {
+    "type": "esearch",
+    "version": "0.3"
+  },
+  "esearchresult": {
+    "count": "6",
+    "retmax": "6",
+    "retstart": "0",
+    "idlist": [
+      "3352091",
+      "2634041",
+      "2445231",
+      "1804618",
+      "1709996",
+      "981032"
+    ],
+    "translationset": [],
+    "translationstack": [
+      {
+        "term": "UNC13A[gene]",
+        "field": "gene",
+        "count": "439",
+        "explode": "N"
+      },
+      {
+        "term": "amyotrophic[All Fields]",
+        "field": "All Fields",
+        "count": "10881",
+        "explode": "N"
+      },
+      {
+        "term": "lateral[All Fields]",
+        "field": "All Fields",
+        "count": "23718",
+        "explode": "N"
+      },
+      "AND",
+      {
+        "term": "sclerosis[All Fields]",
+        "field": "All Fields",
+        "count": "32827",
+        "explode": "N"
+      },
+      "AND",
+      "GROUP",
+      "AND"
+    ],
+    "querytranslation": "UNC13A[gene] AND (amyotrophic[All Fields] AND lateral[All Fields] AND sclerosis[All Fields])"
+  }
+}

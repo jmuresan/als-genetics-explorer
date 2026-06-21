@@ -1,0 +1,85 @@
+{
+  "header": {
+    "type": "esearch",
+    "version": "0.3"
+  },
+  "esearchresult": {
+    "count": "40",
+    "retmax": "40",
+    "retstart": "0",
+    "idlist": [
+      "4819859",
+      "4531569",
+      "4293445",
+      "3779545",
+      "3706373",
+      "3673194",
+      "3393203",
+      "2982289",
+      "2910245",
+      "2910244",
+      "2871504",
+      "2870112",
+      "2634560",
+      "2634471",
+      "2152085",
+      "2152084",
+      "2069548",
+      "2043857",
+      "1966979",
+      "1943820",
+      "1711861",
+      "1706565",
+      "1646325",
+      "1624615",
+      "1607012",
+      "1523076",
+      "1499369",
+      "1494074",
+      "1447044",
+      "1442994",
+      "1403760",
+      "1398399",
+      "1352634",
+      "1343335",
+      "1343334",
+      "1343333",
+      "802593",
+      "488355",
+      "488354",
+      "488353"
+    ],
+    "translationset": [],
+    "translationstack": [
+      {
+        "term": "ANXA11[gene]",
+        "field": "gene",
+        "count": "526",
+        "explode": "N"
+      },
+      {
+        "term": "amyotrophic[All Fields]",
+        "field": "All Fields",
+        "count": "10881",
+        "explode": "N"
+      },
+      {
+        "term": "lateral[All Fields]",
+        "field": "All Fields",
+        "count": "23718",
+        "explode": "N"
+      },
+      "AND",
+      {
+        "term": "sclerosis[All Fields]",
+        "field": "All Fields",
+        "count": "32827",
+        "explode": "N"
+      },
+      "AND",
+      "GROUP",
+      "AND"
+    ],
+    "querytranslation": "ANXA11[gene] AND (amyotrophic[All Fields] AND lateral[All Fields] AND sclerosis[All Fields])"
+  }
+}

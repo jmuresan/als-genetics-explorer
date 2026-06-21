@@ -1,0 +1,25 @@
+{
+  "header": {
+    "type": "esearch",
+    "version": "0.3"
+  },
+  "esearchresult": {
+    "count": "36",
+    "retmax": "10",
+    "retstart": "0",
+    "idlist": [
+      "41889878",
+      "41678358",
+      "40666348",
+      "39227882",
+      "38884572",
+      "38463699",
+      "38239833",
+      "38177100",
+      "38102515",
+      "20301623"
+    ],
+    "translationset": [],
+    "querytranslation": "(\"TUBA4A\"[Title/Abstract] OR \"TUBA4A\"[All Fields]) AND (\"amyotrophic lateral sclerosis\"[Title/Abstract] OR \"ALS\"[Title/Abstract])"
+  }
+}

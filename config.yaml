@@ -1,0 +1,71 @@
+# config.yaml - ALS Genetic Mechanism Explorer Configuration
+
+# Seed genes for analysis
+# 41 human genes carrying the UniProt "Amyotrophic lateral sclerosis" keyword (KW-0036),
+# pulled from rest.uniprot.org (see data/raw/uniprot_als_kw0036.fasta). This is the full
+# keyword-defined panel and supersedes the earlier 20-gene hand-picked set. UNC13A, an ALS
+# modifier from the prior panel, is not keyword-tagged by UniProt and is therefore not here.
+seed_genes:
+  - ALS2
+  - ANG
+  - ANXA11
+  - ATXN2
+  - C9orf72
+  - CCNF
+  - CHCHD10
+  - CHMP2B
+  - CYLD
+  - DAO
+  - DCTN1
+  - ELP3
+  - ERBB4
+  - FGGY
+  - FIG4
+  - FUS
+  - HNRNPA1
+  - KIF5A
+  - LRP12
+  - MATR3
+  - NEFH
+  - NEK1
+  - OPTN
+  - PFN1
+  - PRPH
+  - SETX
+  - SIGMAR1
+  - SOD1
+  - SPG11
+  - SPTLC1
+  - SQSTM1
+  - TARDBP
+  - TBK1
+  - TIA1
+  - TMEM106B
+  - TRPM7
+  - TUBA4A
+  - UBQLN2
+  - UBQLN4
+  - VAPB
+  - VCP
+
+# Ingestion and API Settings
+api_settings:
+  offline_mode: false
+  cache_dir: "data/raw/cache"
+  string_db:
+    confidence_threshold: 0.7
+    partner_limit: 10
+  pubmed:
+    limit_per_gene: 10
+
+# Scoring weights configured for the gene ranking engine
+scoring_weights:
+  open_targets_association: 0.25
+  clinvar_pathogenicity: 0.20
+  pathway_centrality: 0.15
+  string_centrality: 0.15
+  literature_volume: 0.15
+  citation_quality: 0.10
+  contradiction_penalty: 0.05
+  druggability: 0.10
+

@@ -1,0 +1,21 @@
+[
+  {
+    "dbId": 6803529,
+    "displayName": "FGFR2 alternative splicing",
+    "stId": "R-HSA-6803529",
+    "stIdVersion": "R-HSA-6803529.3",
+    "isInDisease": false,
+    "isInferred": false,
+    "maxDepth": 2,
+    "name": [
+      "FGFR2 alternative splicing"
+    ],
+    "releaseDate": "2016-03-23",
+    "speciesName": "Homo sapiens",
+    "doi": "10.3180/r-hsa-6803529.1",
+    "hasDiagram": false,
+    "hasEHLD": false,
+    "schemaClass": "Pathway",
+    "className": "Pathway"
+  }
+]

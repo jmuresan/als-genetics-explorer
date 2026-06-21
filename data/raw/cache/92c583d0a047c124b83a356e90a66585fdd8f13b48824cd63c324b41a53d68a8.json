@@ -1,0 +1,17 @@
+[
+  {
+    "stringId_A": "9606.ENSP00000276654",
+    "stringId_B": "9606.ENSP00000462298",
+    "preferredName_A": "LRP12",
+    "preferredName_B": "NOTCH2NLC",
+    "ncbiTaxonId": 9606,
+    "score": 0.722,
+    "nscore": 0,
+    "fscore": 0,
+    "pscore": 0,
+    "ascore": 0,
+    "escore": 0,
+    "dscore": 0,
+    "tscore": 0.722
+  }
+]

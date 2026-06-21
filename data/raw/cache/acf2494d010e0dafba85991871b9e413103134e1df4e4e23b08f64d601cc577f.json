@@ -1,0 +1,25 @@
+{
+  "header": {
+    "type": "esearch",
+    "version": "0.3"
+  },
+  "esearchresult": {
+    "count": "40",
+    "retmax": "10",
+    "retstart": "0",
+    "idlist": [
+      "42041567",
+      "41621017",
+      "41419928",
+      "41387380",
+      "41020397",
+      "40607881",
+      "40313273",
+      "39985110",
+      "39913612",
+      "39386447"
+    ],
+    "translationset": [],
+    "querytranslation": "(\"NEFH\"[Title/Abstract] OR \"NEFH\"[All Fields]) AND (\"amyotrophic lateral sclerosis\"[Title/Abstract] OR \"ALS\"[Title/Abstract])"
+  }
+}

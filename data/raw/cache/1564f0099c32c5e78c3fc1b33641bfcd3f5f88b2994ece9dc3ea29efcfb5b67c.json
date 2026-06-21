@@ -1,0 +1,251 @@
+[
+  {
+    "dbId": 2132295,
+    "displayName": "MHC class II antigen presentation",
+    "stId": "R-HSA-2132295",
+    "stIdVersion": "R-HSA-2132295.5",
+    "isInDisease": false,
+    "isInferred": false,
+    "maxDepth": 2,
+    "name": [
+      "MHC class II antigen presentation"
+    ],
+    "releaseDate": "2012-06-12",
+    "speciesName": "Homo sapiens",
+    "doi": "10.3180/REACT_121399.1",
+    "hasDiagram": true,
+    "hasEHLD": false,
+    "lastUpdatedDate": "2017-04-20",
+    "schemaClass": "Pathway",
+    "className": "Pathway"
+  },
+  {
+    "dbId": 2565942,
+    "displayName": "Regulation of PLK1 Activity at G2/M Transition",
+    "stId": "R-HSA-2565942",
+    "stIdVersion": "R-HSA-2565942.5",
+    "isInDisease": false,
+    "isInferred": false,
+    "maxDepth": 2,
+    "name": [
+      "Regulation of PLK1 Activity at G2/M Transition"
+    ],
+    "releaseDate": "2013-03-12",
+    "speciesName": "Homo sapiens",
+    "doi": "10.3180/R-HSA-2565942.4",
+    "hasDiagram": false,
+    "hasEHLD": false,
+    "lastUpdatedDate": "2013-09-23",
+    "schemaClass": "Pathway",
+    "className": "Pathway"
+  },
+  {
+    "dbId": 3371497,
+    "displayName": "HSP90 chaperone cycle for steroid hormone receptors (SHR) in the presence of ligand",
+    "stId": "R-HSA-3371497",
+    "stIdVersion": "R-HSA-3371497.7",
+    "isInDisease": false,
+    "isInferred": false,
+    "maxDepth": 2,
+    "name": [
+      "HSP90 chaperone cycle for steroid hormone receptors (SHR) in the presence of ligand",
+      "HSP90 chaperone cycle for SHRs"
+    ],
+    "releaseDate": "2017-03-27",
+    "speciesName": "Homo sapiens",
+    "doi": "10.3180/R-HSA-3371497.1",
+    "hasDiagram": true,
+    "hasEHLD": false,
+    "lastUpdatedDate": "2022-06-09",
+    "schemaClass": "Pathway",
+    "className": "Pathway"
+  },
+  {
+    "dbId": 380259,
+    "displayName": "Loss of Nlp from mitotic centrosomes",
+    "stId": "R-HSA-380259",
+    "stIdVersion": "R-HSA-380259.3",
+    "isInDisease": false,
+    "isInferred": false,
+    "maxDepth": 2,
+    "name": [
+      "Loss of Nlp from mitotic centrosomes"
+    ],
+    "releaseDate": "2008-12-17",
+    "speciesName": "Homo sapiens",
+    "hasDiagram": false,
+    "hasEHLD": false,
+    "lastUpdatedDate": "2017-06-22",
+    "schemaClass": "Pathway",
+    "className": "Pathway"
+  },
+  {
+    "dbId": 380270,
+    "displayName": "Recruitment of mitotic centrosome proteins and complexes",
+    "stId": "R-HSA-380270",
+    "stIdVersion": "R-HSA-380270.4",
+    "isInDisease": false,
+    "isInferred": false,
+    "maxDepth": 2,
+    "name": [
+      "Recruitment of mitotic centrosome proteins and complexes"
+    ],
+    "releaseDate": "2008-12-17",
+    "speciesName": "Homo sapiens",
+    "hasDiagram": false,
+    "hasEHLD": false,
+    "lastUpdatedDate": "2018-06-13",
+    "schemaClass": "Pathway",
+    "className": "Pathway"
+  },
+  {
+    "dbId": 380284,
+    "displayName": "Loss of proteins required for interphase microtubule organization from the centrosome",
+    "stId": "R-HSA-380284",
+    "stIdVersion": "R-HSA-380284.3",
+    "isInDisease": false,
+    "isInferred": false,
+    "maxDepth": 3,
+    "name": [
+      "Loss of proteins required for interphase microtubule organization from the centrosome"
+    ],
+    "releaseDate": "2008-12-17",
+    "speciesName": "Homo sapiens",
+    "hasDiagram": false,
+    "hasEHLD": false,
+    "lastUpdatedDate": "2017-06-22",
+    "schemaClass": "Pathway",
+    "className": "Pathway"
+  },
+  {
+    "dbId": 380320,
+    "displayName": "Recruitment of NuMA to mitotic centrosomes",
+    "stId": "R-HSA-380320",
+    "stIdVersion": "R-HSA-380320.5",
+    "isInDisease": false,
+    "isInferred": false,
+    "maxDepth": 2,
+    "name": [
+      "Recruitment of NuMA to mitotic centrosomes"
+    ],
+    "releaseDate": "2008-12-17",
+    "speciesName": "Homo sapiens",
+    "hasDiagram": false,
+    "hasEHLD": false,
+    "lastUpdatedDate": "2017-06-22",
+    "schemaClass": "Pathway",
+    "className": "Pathway"
+  },
+  {
+    "dbId": 381038,
+    "displayName": "XBP1(S) activates chaperone genes",
+    "stId": "R-HSA-381038",
+    "stIdVersion": "R-HSA-381038.5",
+    "isInDisease": false,
+    "isInferred": false,
+    "maxDepth": 2,
+    "name": [
+      "XBP1(S) activates chaperone genes"
+    ],
+    "releaseDate": "2009-06-24",
+    "speciesName": "Homo sapiens",
+    "hasDiagram": true,
+    "hasEHLD": false,
+    "lastUpdatedDate": "2019-03-25",
+    "schemaClass": "Pathway",
+    "className": "Pathway"
+  },
+  {
+    "dbId": 5620912,
+    "displayName": "Anchoring of the basal body to the plasma membrane",
+    "stId": "R-HSA-5620912",
+    "stIdVersion": "R-HSA-5620912.4",
+    "isInDisease": false,
+    "isInferred": false,
+    "maxDepth": 2,
+    "name": [
+      "Anchoring of the basal body to the plasma membrane"
+    ],
+    "releaseDate": "2014-12-11",
+    "speciesName": "Homo sapiens",
+    "hasDiagram": true,
+    "hasEHLD": false,
+    "lastUpdatedDate": "2016-12-21",
+    "schemaClass": "Pathway",
+    "className": "Pathway"
+  },
+  {
+    "dbId": 6807878,
+    "displayName": "COPI-mediated anterograde transport",
+    "stId": "R-HSA-6807878",
+    "stIdVersion": "R-HSA-6807878.2",
+    "isInDisease": false,
+    "isInferred": false,
+    "maxDepth": 2,
+    "name": [
+      "COPI-mediated anterograde transport"
+    ],
+    "releaseDate": "2015-12-15",
+    "speciesName": "Homo sapiens",
+    "hasDiagram": true,
+    "hasEHLD": false,
+    "schemaClass": "Pathway",
+    "className": "Pathway"
+  },
+  {
+    "dbId": 6811436,
+    "displayName": "COPI-independent Golgi-to-ER retrograde traffic",
+    "stId": "R-HSA-6811436",
+    "stIdVersion": "R-HSA-6811436.2",
+    "isInDisease": false,
+    "isInferred": false,
+    "maxDepth": 2,
+    "name": [
+      "COPI-independent Golgi-to-ER retrograde traffic"
+    ],
+    "releaseDate": "2016-03-23",
+    "speciesName": "Homo sapiens",
+    "hasDiagram": false,
+    "hasEHLD": false,
+    "schemaClass": "Pathway",
+    "className": "Pathway"
+  },
+  {
+    "dbId": 8854518,
+    "displayName": "AURKA Activation by TPX2",
+    "stId": "R-HSA-8854518",
+    "stIdVersion": "R-HSA-8854518.4",
+    "isInDisease": false,
+    "isInferred": false,
+    "maxDepth": 2,
+    "name": [
+      "AURKA Activation by TPX2"
+    ],
+    "releaseDate": "2016-03-23",
+    "speciesName": "Homo sapiens",
+    "doi": "10.3180/r-hsa-8854518.1",
+    "hasDiagram": false,
+    "hasEHLD": false,
+    "schemaClass": "Pathway",
+    "className": "Pathway"
+  },
+  {
+    "dbId": 9725370,
+    "displayName": "Signaling by ALK fusions and activated point mutants",
+    "stId": "R-HSA-9725370",
+    "stIdVersion": "R-HSA-9725370.3",
+    "isInDisease": true,
+    "isInferred": false,
+    "maxDepth": 3,
+    "name": [
+      "Signaling by ALK fusions and activated point mutants"
+    ],
+    "releaseDate": "2021-06-09",
+    "speciesName": "Homo sapiens",
+    "hasDiagram": true,
+    "hasEHLD": false,
+    "lastUpdatedDate": "2021-12-08",
+    "schemaClass": "Pathway",
+    "className": "Pathway"
+  }
+]

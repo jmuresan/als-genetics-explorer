@@ -1,0 +1,25 @@
+{
+  "header": {
+    "type": "esearch",
+    "version": "0.3"
+  },
+  "esearchresult": {
+    "count": "41",
+    "retmax": "10",
+    "retstart": "0",
+    "idlist": [
+      "41791354",
+      "39167487",
+      "38472280",
+      "38134563",
+      "38035964",
+      "20301623",
+      "37697342",
+      "37558109",
+      "36549973",
+      "33982369"
+    ],
+    "translationset": [],
+    "querytranslation": "(\"DAO\"[Title/Abstract] OR \"DAO\"[All Fields]) AND (\"amyotrophic lateral sclerosis\"[Title/Abstract] OR \"ALS\"[Title/Abstract])"
+  }
+}

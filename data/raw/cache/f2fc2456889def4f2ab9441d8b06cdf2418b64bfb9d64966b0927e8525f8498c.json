@@ -1,0 +1,97 @@
+[
+  {
+    "dbId": 2132295,
+    "displayName": "MHC class II antigen presentation",
+    "stId": "R-HSA-2132295",
+    "stIdVersion": "R-HSA-2132295.5",
+    "isInDisease": false,
+    "isInferred": false,
+    "maxDepth": 2,
+    "name": [
+      "MHC class II antigen presentation"
+    ],
+    "releaseDate": "2012-06-12",
+    "speciesName": "Homo sapiens",
+    "doi": "10.3180/REACT_121399.1",
+    "hasDiagram": true,
+    "hasEHLD": false,
+    "lastUpdatedDate": "2017-04-20",
+    "schemaClass": "Pathway",
+    "className": "Pathway"
+  },
+  {
+    "dbId": 264876,
+    "displayName": "Insulin processing",
+    "stId": "R-HSA-264876",
+    "stIdVersion": "R-HSA-264876.7",
+    "isInDisease": false,
+    "isInferred": false,
+    "maxDepth": 2,
+    "name": [
+      "Insulin processing"
+    ],
+    "releaseDate": "2008-12-17",
+    "speciesName": "Homo sapiens",
+    "doi": "10.3180/R-HSA-264876.4",
+    "hasDiagram": true,
+    "hasEHLD": false,
+    "lastUpdatedDate": "2022-12-07",
+    "schemaClass": "Pathway",
+    "className": "Pathway"
+  },
+  {
+    "dbId": 5625970,
+    "displayName": "RHO GTPases activate KTN1",
+    "stId": "R-HSA-5625970",
+    "stIdVersion": "R-HSA-5625970.2",
+    "isInDisease": false,
+    "isInferred": false,
+    "maxDepth": 2,
+    "name": [
+      "RHO GTPases activate KTN1"
+    ],
+    "releaseDate": "2015-03-19",
+    "speciesName": "Homo sapiens",
+    "hasDiagram": true,
+    "hasEHLD": false,
+    "schemaClass": "Pathway",
+    "className": "Pathway"
+  },
+  {
+    "dbId": 6811434,
+    "displayName": "COPI-dependent Golgi-to-ER retrograde traffic",
+    "stId": "R-HSA-6811434",
+    "stIdVersion": "R-HSA-6811434.2",
+    "isInDisease": false,
+    "isInferred": false,
+    "maxDepth": 2,
+    "name": [
+      "COPI-dependent Golgi-to-ER retrograde traffic"
+    ],
+    "releaseDate": "2016-03-23",
+    "speciesName": "Homo sapiens",
+    "hasDiagram": false,
+    "hasEHLD": false,
+    "schemaClass": "Pathway",
+    "className": "Pathway"
+  },
+  {
+    "dbId": 983189,
+    "displayName": "Kinesins",
+    "stId": "R-HSA-983189",
+    "stIdVersion": "R-HSA-983189.5",
+    "isInDisease": false,
+    "isInferred": false,
+    "maxDepth": 2,
+    "name": [
+      "Kinesins"
+    ],
+    "releaseDate": "2010-12-14",
+    "speciesName": "Homo sapiens",
+    "hasDiagram": true,
+    "hasEHLD": false,
+    "lastUpdatedDate": "2016-03-24",
+    "schemaClass": "Pathway",
+    "className": "Pathway"
+  }
+]

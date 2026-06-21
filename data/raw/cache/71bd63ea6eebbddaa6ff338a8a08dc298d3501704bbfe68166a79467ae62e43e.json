@@ -1,0 +1,25 @@
+{
+  "header": {
+    "type": "esearch",
+    "version": "0.3"
+  },
+  "esearchresult": {
+    "count": "63",
+    "retmax": "10",
+    "retstart": "0",
+    "idlist": [
+      "20301378",
+      "41559796",
+      "41422089",
+      "40649976",
+      "40316175",
+      "39709457",
+      "38392208",
+      "20301623",
+      "37635943",
+      "37606396"
+    ],
+    "translationset": [],
+    "querytranslation": "(\"CHMP2B\"[Title/Abstract] OR \"CHMP2B\"[All Fields]) AND (\"amyotrophic lateral sclerosis\"[Title/Abstract] OR \"ALS\"[Title/Abstract])"
+  }
+}

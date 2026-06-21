@@ -1,0 +1,25 @@
+{
+  "header": {
+    "type": "esearch",
+    "version": "0.3"
+  },
+  "esearchresult": {
+    "count": "106",
+    "retmax": "10",
+    "retstart": "0",
+    "idlist": [
+      "42072614",
+      "41737544",
+      "41292773",
+      "40858193",
+      "40778857",
+      "40766389",
+      "40737092",
+      "40707625",
+      "40687373",
+      "40441157"
+    ],
+    "translationset": [],
+    "querytranslation": "(\"HNRNPA1\"[Title/Abstract] OR \"HNRNPA1\"[All Fields]) AND (\"amyotrophic lateral sclerosis\"[Title/Abstract] OR \"ALS\"[Title/Abstract])"
+  }
+}

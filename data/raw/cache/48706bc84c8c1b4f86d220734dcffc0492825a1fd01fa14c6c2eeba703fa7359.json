@@ -1,0 +1,41 @@
+[
+  {
+    "dbId": 418990,
+    "displayName": "Adherens junctions interactions",
+    "stId": "R-HSA-418990",
+    "stIdVersion": "R-HSA-418990.6",
+    "isInDisease": false,
+    "isInferred": false,
+    "maxDepth": 7,
+    "name": [
+      "Adherens junctions interactions"
+    ],
+    "releaseDate": "2009-09-30",
+    "releaseStatus": "UPDATED",
+    "speciesName": "Homo sapiens",
+    "hasDiagram": false,
+    "hasEHLD": false,
+    "lastUpdatedDate": "2023-06-07",
+    "schemaClass": "Pathway",
+    "className": "Pathway"
+  },
+  {
+    "dbId": 9708296,
+    "displayName": "tRNA-derived small RNA (tsRNA or tRNA-related fragment, tRF) biogenesis",
+    "stId": "R-HSA-9708296",
+    "stIdVersion": "R-HSA-9708296.3",
+    "isInDisease": false,
+    "isInferred": false,
+    "maxDepth": 2,
+    "name": [
+      "tRNA-derived small RNA (tsRNA or tRNA-related fragment, tRF) biogenesis"
+    ],
+    "releaseDate": "2021-03-23",
+    "speciesName": "Homo sapiens",
+    "doi": "10.3180/R-HSA-9708296.1",
+    "hasDiagram": false,
+    "hasEHLD": false,
+    "schemaClass": "Pathway",
+    "className": "Pathway"
+  }
+]

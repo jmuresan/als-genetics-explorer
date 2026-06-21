@@ -1,0 +1,21 @@
+[
+  {
+    "dbId": 3295583,
+    "displayName": "TRP channels",
+    "stId": "R-HSA-3295583",
+    "stIdVersion": "R-HSA-3295583.4",
+    "isInDisease": false,
+    "isInferred": false,
+    "maxDepth": 2,
+    "name": [
+      "TRP channels"
+    ],
+    "releaseDate": "2013-09-18",
+    "speciesName": "Homo sapiens",
+    "hasDiagram": false,
+    "hasEHLD": false,
+    "lastUpdatedDate": "2022-06-09",
+    "schemaClass": "Pathway",
+    "className": "Pathway"
+  }
+]

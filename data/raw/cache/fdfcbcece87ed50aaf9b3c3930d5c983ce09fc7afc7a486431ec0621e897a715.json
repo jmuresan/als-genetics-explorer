@@ -1,0 +1,65 @@
+{
+  "header": {
+    "type": "esearch",
+    "version": "0.3"
+  },
+  "esearchresult": {
+    "count": "20",
+    "retmax": "20",
+    "retstart": "0",
+    "idlist": [
+      "3901256",
+      "3897052",
+      "3780772",
+      "3341483",
+      "3061822",
+      "3061816",
+      "3061812",
+      "3036927",
+      "2578200",
+      "2442039",
+      "2438433",
+      "2438432",
+      "1801689",
+      "1343329",
+      "180187",
+      "180186",
+      "180185",
+      "180184",
+      "180183",
+      "180182"
+    ],
+    "translationset": [],
+    "translationstack": [
+      {
+        "term": "TUBA4A[gene]",
+        "field": "gene",
+        "count": "158",
+        "explode": "N"
+      },
+      {
+        "term": "amyotrophic[All Fields]",
+        "field": "All Fields",
+        "count": "10881",
+        "explode": "N"
+      },
+      {
+        "term": "lateral[All Fields]",
+        "field": "All Fields",
+        "count": "23718",
+        "explode": "N"
+      },
+      "AND",
+      {
+        "term": "sclerosis[All Fields]",
+        "field": "All Fields",
+        "count": "32827",
+        "explode": "N"
+      },
+      "AND",
+      "GROUP",
+      "AND"
+    ],
+    "querytranslation": "TUBA4A[gene] AND (amyotrophic[All Fields] AND lateral[All Fields] AND sclerosis[All Fields])"
+  }
+}

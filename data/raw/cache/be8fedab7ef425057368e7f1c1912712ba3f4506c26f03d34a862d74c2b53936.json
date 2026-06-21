@@ -1,0 +1,727 @@
+[
+  {
+    "dbId": 114608,
+    "displayName": "Platelet degranulation ",
+    "stId": "R-HSA-114608",
+    "stIdVersion": "R-HSA-114608.5",
+    "isInDisease": false,
+    "isInferred": false,
+    "maxDepth": 2,
+    "name": [
+      "Platelet degranulation "
+    ],
+    "releaseDate": "2004-10-27",
+    "speciesName": "Homo sapiens",
+    "hasDiagram": false,
+    "hasEHLD": false,
+    "lastUpdatedDate": "2021-06-14",
+    "schemaClass": "Pathway",
+    "className": "Pathway"
+  },
+  {
+    "dbId": 1445148,
+    "displayName": "Translocation of SLC2A4 (GLUT4) to the plasma membrane",
+    "stId": "R-HSA-1445148",
+    "stIdVersion": "R-HSA-1445148.4",
+    "isInDisease": false,
+    "isInferred": false,
+    "maxDepth": 2,
+    "name": [
+      "Translocation of SLC2A4 (GLUT4) to the plasma membrane"
+    ],
+    "releaseDate": "2012-09-18",
+    "speciesName": "Homo sapiens",
+    "doi": "10.3180/REACT_147867.1",
+    "hasDiagram": true,
+    "hasEHLD": false,
+    "lastUpdatedDate": "2021-09-15",
+    "schemaClass": "Pathway",
+    "className": "Pathway"
+  },
+  {
+    "dbId": 190840,
+    "displayName": "Microtubule-dependent trafficking of connexons from Golgi to the plasma membrane",
+    "stId": "R-HSA-190840",
+    "stIdVersion": "R-HSA-190840.2",
+    "isInDisease": false,
+    "isInferred": false,
+    "maxDepth": 2,
+    "name": [
+      "Microtubule-dependent trafficking of connexons from Golgi to the plasma membrane"
+    ],
+    "releaseDate": "2007-05-15",
+    "speciesName": "Homo sapiens",
+    "hasDiagram": false,
+    "hasEHLD": false,
+    "schemaClass": "Pathway",
+    "className": "Pathway"
+  },
+  {
+    "dbId": 190861,
+    "displayName": "Gap junction assembly",
+    "stId": "R-HSA-190861",
+    "stIdVersion": "R-HSA-190861.3",
+    "isInDisease": false,
+    "isInferred": false,
+    "maxDepth": 4,
+    "name": [
+      "Gap junction assembly"
+    ],
+    "releaseDate": "2007-02-20",
+    "speciesName": "Homo sapiens",
+    "hasDiagram": false,
+    "hasEHLD": false,
+    "lastUpdatedDate": "2020-03-16",
+    "schemaClass": "Pathway",
+    "className": "Pathway"
+  },
+  {
+    "dbId": 2132295,
+    "displayName": "MHC class II antigen presentation",
+    "stId": "R-HSA-2132295",
+    "stIdVersion": "R-HSA-2132295.5",
+    "isInDisease": false,
+    "isInferred": false,
+    "maxDepth": 2,
+    "name": [
+      "MHC class II antigen presentation"
+    ],
+    "releaseDate": "2012-06-12",
+    "speciesName": "Homo sapiens",
+    "doi": "10.3180/REACT_121399.1",
+    "hasDiagram": true,
+    "hasEHLD": false,
+    "lastUpdatedDate": "2017-04-20",
+    "schemaClass": "Pathway",
+    "className": "Pathway"
+  },
+  {
+    "dbId": 2467813,
+    "displayName": "Separation of Sister Chromatids",
+    "stId": "R-HSA-2467813",
+    "stIdVersion": "R-HSA-2467813.4",
+    "isInDisease": false,
+    "isInferred": false,
+    "maxDepth": 2,
+    "name": [
+      "Separation of Sister Chromatids"
+    ],
+    "releaseDate": "2012-12-04",
+    "speciesName": "Homo sapiens",
+    "hasDiagram": false,
+    "hasEHLD": false,
+    "lastUpdatedDate": "2022-04-07",
+    "schemaClass": "Pathway",
+    "className": "Pathway"
+  },
+  {
+    "dbId": 2500257,
+    "displayName": "Resolution of Sister Chromatid Cohesion",
+    "stId": "R-HSA-2500257",
+    "stIdVersion": "R-HSA-2500257.7",
+    "isInDisease": false,
+    "isInferred": false,
+    "maxDepth": 2,
+    "name": [
+      "Resolution of Sister Chromatid Cohesion"
+    ],
+    "releaseDate": "2012-12-04",
+    "speciesName": "Homo sapiens",
+    "doi": "10.3180/R-HSA-2500257.6",
+    "hasDiagram": false,
+    "hasEHLD": false,
+    "lastUpdatedDate": "2013-03-31",
+    "schemaClass": "Pathway",
+    "className": "Pathway"
+  },
+  {
+    "dbId": 2565942,
+    "displayName": "Regulation of PLK1 Activity at G2/M Transition",
+    "stId": "R-HSA-2565942",
+    "stIdVersion": "R-HSA-2565942.5",
+    "isInDisease": false,
+    "isInferred": false,
+    "maxDepth": 2,
+    "name": [
+      "Regulation of PLK1 Activity at G2/M Transition"
+    ],
+    "releaseDate": "2013-03-12",
+    "speciesName": "Homo sapiens",
+    "doi": "10.3180/R-HSA-2565942.4",
+    "hasDiagram": false,
+    "hasEHLD": false,
+    "lastUpdatedDate": "2013-09-23",
+    "schemaClass": "Pathway",
+    "className": "Pathway"
+  },
+  {
+    "dbId": 3371497,
+    "displayName": "HSP90 chaperone cycle for steroid hormone receptors (SHR) in the presence of ligand",
+    "stId": "R-HSA-3371497",
+    "stIdVersion": "R-HSA-3371497.7",
+    "isInDisease": false,
+    "isInferred": false,
+    "maxDepth": 2,
+    "name": [
+      "HSP90 chaperone cycle for steroid hormone receptors (SHR) in the presence of ligand",
+      "HSP90 chaperone cycle for SHRs"
+    ],
+    "releaseDate": "2017-03-27",
+    "speciesName": "Homo sapiens",
+    "doi": "10.3180/R-HSA-3371497.1",
+    "hasDiagram": true,
+    "hasEHLD": false,
+    "lastUpdatedDate": "2022-06-09",
+    "schemaClass": "Pathway",
+    "className": "Pathway"
+  },
+  {
+    "dbId": 380259,
+    "displayName": "Loss of Nlp from mitotic centrosomes",
+    "stId": "R-HSA-380259",
+    "stIdVersion": "R-HSA-380259.3",
+    "isInDisease": false,
+    "isInferred": false,
+    "maxDepth": 2,
+    "name": [
+      "Loss of Nlp from mitotic centrosomes"
+    ],
+    "releaseDate": "2008-12-17",
+    "speciesName": "Homo sapiens",
+    "hasDiagram": false,
+    "hasEHLD": false,
+    "lastUpdatedDate": "2017-06-22",
+    "schemaClass": "Pathway",
+    "className": "Pathway"
+  },
+  {
+    "dbId": 380270,
+    "displayName": "Recruitment of mitotic centrosome proteins and complexes",
+    "stId": "R-HSA-380270",
+    "stIdVersion": "R-HSA-380270.4",
+    "isInDisease": false,
+    "isInferred": false,
+    "maxDepth": 2,
+    "name": [
+      "Recruitment of mitotic centrosome proteins and complexes"
+    ],
+    "releaseDate": "2008-12-17",
+    "speciesName": "Homo sapiens",
+    "hasDiagram": false,
+    "hasEHLD": false,
+    "lastUpdatedDate": "2018-06-13",
+    "schemaClass": "Pathway",
+    "className": "Pathway"
+  },
+  {
+    "dbId": 380284,
+    "displayName": "Loss of proteins required for interphase microtubule organization from the centrosome",
+    "stId": "R-HSA-380284",
+    "stIdVersion": "R-HSA-380284.3",
+    "isInDisease": false,
+    "isInferred": false,
+    "maxDepth": 3,
+    "name": [
+      "Loss of proteins required for interphase microtubule organization from the centrosome"
+    ],
+    "releaseDate": "2008-12-17",
+    "speciesName": "Homo sapiens",
+    "hasDiagram": false,
+    "hasEHLD": false,
+    "lastUpdatedDate": "2017-06-22",
+    "schemaClass": "Pathway",
+    "className": "Pathway"
+  },
+  {
+    "dbId": 380320,
+    "displayName": "Recruitment of NuMA to mitotic centrosomes",
+    "stId": "R-HSA-380320",
+    "stIdVersion": "R-HSA-380320.5",
+    "isInDisease": false,
+    "isInferred": false,
+    "maxDepth": 2,
+    "name": [
+      "Recruitment of NuMA to mitotic centrosomes"
+    ],
+    "releaseDate": "2008-12-17",
+    "speciesName": "Homo sapiens",
+    "hasDiagram": false,
+    "hasEHLD": false,
+    "lastUpdatedDate": "2017-06-22",
+    "schemaClass": "Pathway",
+    "className": "Pathway"
+  },
+  {
+    "dbId": 389957,
+    "displayName": "Prefoldin mediated transfer of substrate  to CCT/TriC",
+    "stId": "R-HSA-389957",
+    "stIdVersion": "R-HSA-389957.4",
+    "isInDisease": false,
+    "isInferred": false,
+    "maxDepth": 2,
+    "name": [
+      "Prefoldin mediated transfer of substrate  to CCT/TriC"
+    ],
+    "releaseDate": "2009-04-01",
+    "speciesName": "Homo sapiens",
+    "hasDiagram": false,
+    "hasEHLD": false,
+    "lastUpdatedDate": "2011-09-30",
+    "schemaClass": "Pathway",
+    "className": "Pathway"
+  },
+  {
+    "dbId": 389960,
+    "displayName": "Formation of tubulin folding intermediates by CCT/TriC",
+    "stId": "R-HSA-389960",
+    "stIdVersion": "R-HSA-389960.4",
+    "isInDisease": false,
+    "isInferred": false,
+    "maxDepth": 2,
+    "name": [
+      "Formation of tubulin folding intermediates by CCT/TriC"
+    ],
+    "releaseDate": "2009-04-01",
+    "speciesName": "Homo sapiens",
+    "hasDiagram": false,
+    "hasEHLD": false,
+    "lastUpdatedDate": "2011-09-30",
+    "schemaClass": "Pathway",
+    "className": "Pathway"
+  },
+  {
+    "dbId": 389977,
+    "displayName": "Post-chaperonin tubulin folding pathway",
+    "stId": "R-HSA-389977",
+    "stIdVersion": "R-HSA-389977.4",
+    "isInDisease": false,
+    "isInferred": false,
+    "maxDepth": 2,
+    "name": [
+      "Post-chaperonin tubulin folding pathway"
+    ],
+    "releaseDate": "2009-04-01",
+    "speciesName": "Homo sapiens",
+    "doi": "10.3180/REACT_16889.1",
+    "hasDiagram": false,
+    "hasEHLD": false,
+    "lastUpdatedDate": "2014-07-15",
+    "schemaClass": "Pathway",
+    "className": "Pathway"
+  },
+  {
+    "dbId": 437239,
+    "displayName": "Recycling pathway of L1",
+    "stId": "R-HSA-437239",
+    "stIdVersion": "R-HSA-437239.3",
+    "isInDisease": false,
+    "isInferred": false,
+    "maxDepth": 2,
+    "name": [
+      "Recycling pathway of L1"
+    ],
+    "releaseDate": "2010-06-15",
+    "speciesName": "Homo sapiens",
+    "hasDiagram": false,
+    "hasEHLD": false,
+    "lastUpdatedDate": "2014-07-15",
+    "schemaClass": "Pathway",
+    "className": "Pathway"
+  },
+  {
+    "dbId": 5610787,
+    "displayName": "Hedgehog 'off' state",
+    "stId": "R-HSA-5610787",
+    "stIdVersion": "R-HSA-5610787.3",
+    "isInDisease": false,
+    "isInferred": false,
+    "maxDepth": 3,
+    "name": [
+      "Hedgehog 'off' state"
+    ],
+    "releaseDate": "2014-09-30",
+    "speciesName": "Homo sapiens",
+    "doi": "10.3180/REACT_267634.1",
+    "hasDiagram": true,
+    "hasEHLD": false,
+    "lastUpdatedDate": "2014-12-08",
+    "schemaClass": "Pathway",
+    "className": "Pathway"
+  },
+  {
+    "dbId": 5620912,
+    "displayName": "Anchoring of the basal body to the plasma membrane",
+    "stId": "R-HSA-5620912",
+    "stIdVersion": "R-HSA-5620912.4",
+    "isInDisease": false,
+    "isInferred": false,
+    "maxDepth": 2,
+    "name": [
+      "Anchoring of the basal body to the plasma membrane"
+    ],
+    "releaseDate": "2014-12-11",
+    "speciesName": "Homo sapiens",
+    "hasDiagram": true,
+    "hasEHLD": false,
+    "lastUpdatedDate": "2016-12-21",
+    "schemaClass": "Pathway",
+    "className": "Pathway"
+  },
+  {
+    "dbId": 5620920,
+    "displayName": "Cargo trafficking to the periciliary membrane",
+    "stId": "R-HSA-5620920",
+    "stIdVersion": "R-HSA-5620920.6",
+    "isInDisease": false,
+    "isInferred": false,
+    "maxDepth": 3,
+    "name": [
+      "Cargo trafficking to the periciliary membrane"
+    ],
+    "releaseDate": "2014-12-11",
+    "speciesName": "Homo sapiens",
+    "hasDiagram": true,
+    "hasEHLD": false,
+    "lastUpdatedDate": "2016-12-21",
+    "schemaClass": "Pathway",
+    "className": "Pathway"
+  },
+  {
+    "dbId": 5620924,
+    "displayName": "Intraflagellar transport",
+    "stId": "R-HSA-5620924",
+    "stIdVersion": "R-HSA-5620924.5",
+    "isInDisease": false,
+    "isInferred": false,
+    "maxDepth": 2,
+    "name": [
+      "Intraflagellar transport"
+    ],
+    "releaseDate": "2014-12-11",
+    "speciesName": "Homo sapiens",
+    "hasDiagram": true,
+    "hasEHLD": false,
+    "lastUpdatedDate": "2016-12-21",
+    "schemaClass": "Pathway",
+    "className": "Pathway"
+  },
+  {
+    "dbId": 5626467,
+    "displayName": "RHO GTPases activate IQGAPs",
+    "stId": "R-HSA-5626467",
+    "stIdVersion": "R-HSA-5626467.3",
+    "isInDisease": false,
+    "isInferred": false,
+    "maxDepth": 2,
+    "name": [
+      "RHO GTPases activate IQGAPs"
+    ],
+    "releaseDate": "2015-03-19",
+    "speciesName": "Homo sapiens",
+    "hasDiagram": true,
+    "hasEHLD": false,
+    "lastUpdatedDate": "2018-03-26",
+    "schemaClass": "Pathway",
+    "className": "Pathway"
+  },
+  {
+    "dbId": 5663220,
+    "displayName": "RHO GTPases Activate Formins",
+    "stId": "R-HSA-5663220",
+    "stIdVersion": "R-HSA-5663220.2",
+    "isInDisease": false,
+    "isInferred": false,
+    "maxDepth": 2,
+    "name": [
+      "RHO GTPases Activate Formins"
+    ],
+    "releaseDate": "2015-03-19",
+    "speciesName": "Homo sapiens",
+    "hasDiagram": true,
+    "hasEHLD": false,
+    "schemaClass": "Pathway",
+    "className": "Pathway"
+  },
+  {
+    "dbId": 6807878,
+    "displayName": "COPI-mediated anterograde transport",
+    "stId": "R-HSA-6807878",
+    "stIdVersion": "R-HSA-6807878.2",
+    "isInDisease": false,
+    "isInferred": false,
+    "maxDepth": 2,
+    "name": [
+      "COPI-mediated anterograde transport"
+    ],
+    "releaseDate": "2015-12-15",
+    "speciesName": "Homo sapiens",
+    "hasDiagram": true,
+    "hasEHLD": false,
+    "schemaClass": "Pathway",
+    "className": "Pathway"
+  },
+  {
+    "dbId": 6811434,
+    "displayName": "COPI-dependent Golgi-to-ER retrograde traffic",
+    "stId": "R-HSA-6811434",
+    "stIdVersion": "R-HSA-6811434.2",
+    "isInDisease": false,
+    "isInferred": false,
+    "maxDepth": 2,
+    "name": [
+      "COPI-dependent Golgi-to-ER retrograde traffic"
+    ],
+    "releaseDate": "2016-03-23",
+    "speciesName": "Homo sapiens",
+    "hasDiagram": false,
+    "hasEHLD": false,
+    "schemaClass": "Pathway",
+    "className": "Pathway"
+  },
+  {
+    "dbId": 6811436,
+    "displayName": "COPI-independent Golgi-to-ER retrograde traffic",
+    "stId": "R-HSA-6811436",
+    "stIdVersion": "R-HSA-6811436.2",
+    "isInDisease": false,
+    "isInferred": false,
+    "maxDepth": 2,
+    "name": [
+      "COPI-independent Golgi-to-ER retrograde traffic"
+    ],
+    "releaseDate": "2016-03-23",
+    "speciesName": "Homo sapiens",
+    "hasDiagram": false,
+    "hasEHLD": false,
+    "schemaClass": "Pathway",
+    "className": "Pathway"
+  },
+  {
+    "dbId": 68877,
+    "displayName": "Mitotic Prometaphase",
+    "stId": "R-HSA-68877",
+    "stIdVersion": "R-HSA-68877.8",
+    "definition": "The stage in mitosis (in higher eukaryotes), following prophase, during which the nuclear envelope is disrupted and breaks into membrane vesicles, and the spindle microtubules enter the nuclear region. Kinetochores mature on each centromere and attach to some of the spindle microtubules. Kinetochore microtubules begin the process of aligning chromosomes in one plane halfway between the poles.",
+    "isInDisease": false,
+    "isInferred": false,
+    "maxDepth": 3,
+    "name": [
+      "Mitotic Prometaphase"
+    ],
+    "releaseDate": "2004-07-06",
+    "speciesName": "Homo sapiens",
+    "hasDiagram": true,
+    "hasEHLD": false,
+    "lastUpdatedDate": "2019-12-10",
+    "schemaClass": "Pathway",
+    "className": "Pathway"
+  },
+  {
+    "dbId": 8852276,
+    "displayName": "The role of GTSE1 in G2/M progression after G2 checkpoint",
+    "stId": "R-HSA-8852276",
+    "stIdVersion": "R-HSA-8852276.4",
+    "isInDisease": false,
+    "isInferred": false,
+    "maxDepth": 2,
+    "name": [
+      "The role of GTSE1 in G2/M progression after G2 checkpoint"
+    ],
+    "releaseDate": "2016-03-23",
+    "speciesName": "Homo sapiens",
+    "doi": "10.3180/r-hsa-8852276.1",
+    "hasDiagram": false,
+    "hasEHLD": false,
+    "lastUpdatedDate": "2017-06-22",
+    "schemaClass": "Pathway",
+    "className": "Pathway"
+  },
+  {
+    "dbId": 8854518,
+    "displayName": "AURKA Activation by TPX2",
+    "stId": "R-HSA-8854518",
+    "stIdVersion": "R-HSA-8854518.4",
+    "isInDisease": false,
+    "isInferred": false,
+    "maxDepth": 2,
+    "name": [
+      "AURKA Activation by TPX2"
+    ],
+    "releaseDate": "2016-03-23",
+    "speciesName": "Homo sapiens",
+    "doi": "10.3180/r-hsa-8854518.1",
+    "hasDiagram": false,
+    "hasEHLD": false,
+    "schemaClass": "Pathway",
+    "className": "Pathway"
+  },
+  {
+    "dbId": 8955332,
+    "displayName": "Carboxyterminal post-translational modifications of tubulin",
+    "stId": "R-HSA-8955332",
+    "stIdVersion": "R-HSA-8955332.3",
+    "isInDisease": false,
+    "isInferred": false,
+    "maxDepth": 2,
+    "name": [
+      "Carboxyterminal post-translational modifications of tubulin"
+    ],
+    "releaseDate": "2017-03-27",
+    "speciesName": "Homo sapiens",
+    "hasDiagram": true,
+    "hasEHLD": false,
+    "lastUpdatedDate": "2020-12-07",
+    "schemaClass": "Pathway",
+    "className": "Pathway"
+  },
+  {
+    "dbId": 9609690,
+    "displayName": "HCMV Early Events",
+    "stId": "R-HSA-9609690",
+    "stIdVersion": "R-HSA-9609690.2",
+    "isInDisease": true,
+    "isInferred": false,
+    "maxDepth": 2,
+    "name": [
+      "HCMV Early Events"
+    ],
+    "releaseDate": "2019-12-10",
+    "speciesName": "Homo sapiens",
+    "hasDiagram": false,
+    "hasEHLD": false,
+    "schemaClass": "Pathway",
+    "className": "Pathway"
+  },
+  {
+    "dbId": 9609736,
+    "displayName": "Assembly and cell surface presentation of NMDA receptors",
+    "stId": "R-HSA-9609736",
+    "stIdVersion": "R-HSA-9609736.5",
+    "isInDisease": false,
+    "isInferred": false,
+    "maxDepth": 2,
+    "name": [
+      "Assembly and cell surface presentation of NMDA receptors"
+    ],
+    "releaseDate": "2019-03-20",
+    "speciesName": "Homo sapiens",
+    "doi": "10.3180/R-HSA-9609736.1",
+    "hasDiagram": true,
+    "hasEHLD": false,
+    "lastUpdatedDate": "2020-03-16",
+    "schemaClass": "Pathway",
+    "className": "Pathway"
+  },
+  {
+    "dbId": 9619483,
+    "displayName": "Activation of AMPK downstream of NMDARs",
+    "stId": "R-HSA-9619483",
+    "stIdVersion": "R-HSA-9619483.3",
+    "isInDisease": false,
+    "isInferred": false,
+    "maxDepth": 2,
+    "name": [
+      "Activation of AMPK downstream of NMDARs"
+    ],
+    "releaseDate": "2018-12-13",
+    "speciesName": "Homo sapiens",
+    "hasDiagram": false,
+    "hasEHLD": false,
+    "schemaClass": "Pathway",
+    "className": "Pathway"
+  },
+  {
+    "dbId": 9646399,
+    "displayName": "Aggrephagy",
+    "stId": "R-HSA-9646399",
+    "stIdVersion": "R-HSA-9646399.4",
+    "isInDisease": false,
+    "isInferred": false,
+    "maxDepth": 2,
+    "name": [
+      "Aggrephagy"
+    ],
+    "releaseDate": "2019-12-10",
+    "speciesName": "Homo sapiens",
+    "doi": "10.3180/R-HSA-9646399.1",
+    "hasDiagram": true,
+    "hasEHLD": false,
+    "schemaClass": "Pathway",
+    "className": "Pathway"
+  },
+  {
+    "dbId": 9648025,
+    "displayName": "EML4 and NUDC in mitotic spindle formation",
+    "stId": "R-HSA-9648025",
+    "stIdVersion": "R-HSA-9648025.3",
+    "isInDisease": false,
+    "isInferred": false,
+    "maxDepth": 2,
+    "name": [
+      "EML4 and NUDC in mitotic spindle formation"
+    ],
+    "releaseDate": "2019-12-10",
+    "speciesName": "Homo sapiens",
+    "doi": "10.3180/R-HSA-9648025.1",
+    "hasDiagram": false,
+    "hasEHLD": false,
+    "schemaClass": "Pathway",
+    "className": "Pathway"
+  },
+  {
+    "dbId": 9668328,
+    "displayName": "Sealing of the nuclear envelope (NE) by ESCRT-III",
+    "stId": "R-HSA-9668328",
+    "stIdVersion": "R-HSA-9668328.2",
+    "isInDisease": false,
+    "isInferred": false,
+    "maxDepth": 2,
+    "name": [
+      "Sealing of the nuclear envelope (NE) by ESCRT-III"
+    ],
+    "releaseDate": "2020-03-17",
+    "speciesName": "Homo sapiens",
+    "hasDiagram": false,
+    "hasEHLD": false,
+    "schemaClass": "Pathway",
+    "className": "Pathway"
+  },
+  {
+    "dbId": 983189,
+    "displayName": "Kinesins",
+    "stId": "R-HSA-983189",
+    "stIdVersion": "R-HSA-983189.5",
+    "isInDisease": false,
+    "isInferred": false,
+    "maxDepth": 2,
+    "name": [
+      "Kinesins"
+    ],
+    "releaseDate": "2010-12-14",
+    "speciesName": "Homo sapiens",
+    "hasDiagram": true,
+    "hasEHLD": false,
+    "lastUpdatedDate": "2016-03-24",
+    "schemaClass": "Pathway",
+    "className": "Pathway"
+  },
+  {
+    "dbId": 9833482,
+    "displayName": "PKR-mediated signaling",
+    "stId": "R-HSA-9833482",
+    "stIdVersion": "R-HSA-9833482.3",
+    "isInDisease": false,
+    "isInferred": false,
+    "maxDepth": 2,
+    "name": [
+      "PKR-mediated signaling"
+    ],
+    "releaseDate": "2023-09-13",
+    "speciesName": "Homo sapiens",
+    "doi": "10.3180/R-HSA-9833482.1",
+    "hasDiagram": true,
+    "hasEHLD": false,
+    "schemaClass": "Pathway",
+    "className": "Pathway"
+  }
+]

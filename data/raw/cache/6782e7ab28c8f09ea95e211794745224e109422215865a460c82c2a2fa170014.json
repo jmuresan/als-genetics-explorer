@@ -1,0 +1,4757 @@
+{
+  "results": [
+    {
+      "entryType": "UniProtKB reviewed (Swiss-Prot)",
+      "primaryAccession": "P12036",
+      "secondaryAccessions": [
+        "B4DYY4",
+        "Q96HF8",
+        "Q9UJS7",
+        "Q9UQ14"
+      ],
+      "uniProtkbId": "NFH_HUMAN",
+      "entryAudit": {
+        "firstPublicDate": "1989-10-01",
+        "lastAnnotationUpdateDate": "2026-06-10",
+        "lastSequenceUpdateDate": "2024-05-29",
+        "entryVersion": 223,
+        "sequenceVersion": 5
+      },
+      "annotationScore": 5.0,
+      "organism": {
+        "scientificName": "Homo sapiens",
+        "commonName": "Human",
+        "taxonId": 9606,
+        "lineage": [
+          "Eukaryota",
+          "Metazoa",
+          "Chordata",
+          "Craniata",
+          "Vertebrata",
+          "Euteleostomi",
+          "Mammalia",
+          "Eutheria",
+          "Euarchontoglires",
+          "Primates",
+          "Haplorrhini",
+          "Catarrhini",
+          "Hominidae",
+          "Homo"
+        ]
+      },
+      "proteinExistence": "1: Evidence at protein level",
+      "proteinDescription": {
+        "recommendedName": {
+          "fullName": {
+            "value": "Neurofilament heavy polypeptide"
+          },
+          "shortNames": [
+            {
+              "value": "NF-H"
+            }
+          ]
+        },
+        "alternativeNames": [
+          {
+            "fullName": {
+              "value": "200 kDa neurofilament protein"
+            }
+          },
+          {
+            "fullName": {
+              "value": "Neurofilament triplet H protein"
+            }
+          }
+        ]
+      },
+      "genes": [
+        {
+          "geneName": {
+            "value": "NEFH"
+          },
+          "synonyms": [
+            {
+              "value": "KIAA0845"
+            },
+            {
+              "value": "NFH"
+            }
+          ]
+        }
+      ],
+      "comments": [
+        {
+          "texts": [
+            {
+              "evidences": [
+                {
+                  "evidenceCode": "ECO:0000250",
+                  "source": "UniProtKB",
+                  "id": "P19246"
+                }
+              ],
+              "value": "Neurofilaments usually contain three intermediate filament proteins: NEFL, NEFM, and NEFH which are involved in the maintenance of neuronal caliber. NEFH has an important function in mature axons that is not subserved by the two smaller NF proteins. May additionally cooperate with the neuronal intermediate filament proteins PRPH and INA to form neuronal filamentous networks (By similarity)"
+            }
+          ],
+          "commentType": "FUNCTION"
+        },
+        {
+          "texts": [
+            {
+              "evidences": [
+                {
+                  "evidenceCode": "ECO:0000250",
+                  "source": "UniProtKB",
+                  "id": "P16884"
+                }
+              ],
+              "value": "Forms heterodimers with NEFL; which can further hetero-oligomerize (in vitro) (By similarity). Forms heterodimers with INA (in vitro) (By similarity)"
+            }
+          ],
+          "commentType": "SUBUNIT"
+        },
+        {
+          "commentType": "INTERACTION",
+          "interactions": [
+            {
+              "interactantOne": {
+                "uniProtKBAccession": "P12036",
+                "intActId": "EBI-2880271"
+              },
+              "interactantTwo": {
+                "uniProtKBAccession": "P05067",
+                "geneName": "APP",
+                "intActId": "EBI-77613"
+              },
+              "numberOfExperiments": 3,
+              "organismDiffer": false
+            },
+            {
+              "interactantOne": {
+                "uniProtKBAccession": "P12036",
+                "intActId": "EBI-2880271"
+              },
+              "interactantTwo": {
+                "uniProtKBAccession": "P10809",
+                "geneName": "HSPD1",
+                "intActId": "EBI-352528"
+              },
+              "numberOfExperiments": 3,
+              "organismDiffer": false
+            }
+          ]
+        },
+        {
+          "commentType": "SUBCELLULAR LOCATION",
+          "subcellularLocations": [
+            {
+              "location": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000269",
+                    "source": "PubMed",
+                    "id": "27040688"
+                  }
+                ],
+                "value": "Cytoplasm, cytoskeleton",
+                "id": "SL-0090"
+              }
+            },
+            {
+              "location": {
+                "evidences": [
+                  {
+                    "evidenceCode": "ECO:0000250",
+                    "source": "UniProtKB",
+                    "id": "P19246"
+                  }
+                ],
+                "value": "Cell projection, axon",
+                "id": "SL-0279"
+              }
+            }
+          ]
+        },
+        {
+          "commentType": "ALTERNATIVE PRODUCTS",
+          "events": [
+            "Alternative splicing"
+          ],
+          "isoforms": [
+            {
+              "name": {
+                "value": "1"
+              },
+              "isoformIds": [
+                "P12036-1"
+              ],
+              "isoformSequenceStatus": "Displayed"
+            },
+            {
+              "name": {
+                "value": "2"
+              },
+              "isoformIds": [
+                "P12036-2"
+              ],
+              "sequenceIds": [
+                "VSP_036706"
+              ],
+              "isoformSequenceStatus": "Described"
+            }
+          ]
+        },
+        {
+          "texts": [
+            {
+              "evidences": [
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "8621664"
+                }
+              ],
+              "value": "There are a number of repeats of the tripeptide K-S-P, NFH is phosphorylated on a number of the serines in this motif. It is thought that phosphorylation of NFH results in the formation of interfilament cross bridges that are important in the maintenance of axonal caliber"
+            }
+          ],
+          "commentType": "PTM"
+        },
+        {
+          "texts": [
+            {
+              "evidences": [
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "8621664"
+                }
+              ],
+              "value": "Phosphorylation seems to play a major role in the functioning of the larger neurofilament polypeptides (NF-M and NF-H), the levels of phosphorylation being altered developmentally and coincidentally with a change in the neurofilament function"
+            }
+          ],
+          "commentType": "PTM"
+        },
+        {
+          "texts": [
+            {
+              "evidences": [
+                {
+                  "evidenceCode": "ECO:0000269",
+                  "source": "PubMed",
+                  "id": "8621664"
+                }
+              ],
+              "value": "Phosphorylated in the head and rod regions by the PKC kinase PKN1, leading to the inhibition of polymerization"
+            }
+          ],
+          "commentType": "PTM"
+        },
+        {
+          "texts": [
+            {
+              "value": "The number of repeats is shown to vary between 29 and 30"
+            }
+          ],
+          "commentType": "POLYMORPHISM"
+        },
+        {
+          "commentType": "DISEASE",
+          "disease": {
+            "diseaseId": "Amyotrophic lateral sclerosis",
+            "diseaseAccession": "DI-00107",
+            "acronym": "ALS",
+            "description": "A neurodegenerative disorder affecting upper motor neurons in the brain and lower motor neurons in the brain stem and spinal cord, resulting in fatal paralysis. Sensory abnormalities are absent. The pathologic hallmarks of the disease include pallor of the corticospinal tract due to loss of motor neurons, presence of ubiquitin-positive inclusions within surviving motor neurons, and deposition of pathologic aggregates. The etiology of amyotrophic lateral sclerosis is likely to be multifactorial, involving both genetic and environmental factors. The disease is inherited in 5-10% of the cases.",
+            "diseaseCrossReference": {
+              "database": "MIM",
+              "id": "105400"
+            },
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000269",
+                "source": "PubMed",
+                "id": "7849698"
+              }
+            ]
+          },
+          "note": {
+            "texts": [
+              {
+                "value": "Disease susceptibility is associated with variants affecting the gene represented in this entry"
+              }
+            ]
+          }
+        },
+        {
+          "commentType": "DISEASE",
+          "disease": {
+            "diseaseId": "Charcot-Marie-Tooth disease, axonal, type 2CC",
+            "diseaseAccession": "DI-04709",
+            "acronym": "CMT2CC",
+            "description": "An axonal form of Charcot-Marie-Tooth disease, a disorder of the peripheral nervous system, characterized by progressive weakness and atrophy, initially of the peroneal muscles and later of the distal muscles of the arms. Charcot-Marie-Tooth disease is classified in two main groups on the basis of electrophysiologic properties and histopathology: primary peripheral demyelinating neuropathies (designated CMT1 when they are dominantly inherited) and primary peripheral axonal neuropathies (CMT2). Neuropathies of the CMT2 group are characterized by signs of axonal degeneration in the absence of obvious myelin alterations, normal or slightly reduced nerve conduction velocities, and progressive distal muscle weakness and atrophy.",
+            "diseaseCrossReference": {
+              "database": "MIM",
+              "id": "616924"
+            },
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000269",
+                "source": "PubMed",
+                "id": "27040688"
+              }
+            ]
+          },
+          "note": {
+            "texts": [
+              {
+                "value": "The disease is caused by variants affecting the gene represented in this entry"
+              }
+            ]
+          }
+        },
+        {
+          "texts": [
+            {
+              "evidences": [
+                {
+                  "evidenceCode": "ECO:0000255",
+                  "source": "PROSITE-ProRule",
+                  "id": "PRU01188"
+                }
+              ],
+              "value": "Belongs to the intermediate filament family"
+            }
+          ],
+          "commentType": "SIMILARITY"
+        },
+        {
+          "commentType": "SEQUENCE CAUTION",
+          "sequenceCautionType": "Erroneous initiation",
+          "sequence": "BAA74868.2",
+          "note": "Extended N-terminus.",
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000305"
+            }
+          ]
+        },
+        {
+          "commentType": "SEQUENCE CAUTION",
+          "sequenceCautionType": "Erroneous initiation",
+          "sequence": "BAG63896.1",
+          "note": "Truncated N-terminus.",
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000305"
+            }
+          ]
+        },
+        {
+          "commentType": "WEB RESOURCE",
+          "resourceName": "Alsod",
+          "resourceUrl": "https://alsod.ac.uk/",
+          "ftp": false,
+          "note": "ALS genetic mutations db"
+        }
+      ],
+      "features": [
+        {
+          "type": "Chain",
+          "location": {
+            "start": {
+              "value": 1,
+              "modifier": "EXACT"
+            },
+            "end": {
+              "value": 1020,
+              "modifier": "EXACT"
+            }
+          },
+          "description": "Neurofilament heavy polypeptide",
+          "featureId": "PRO_0000063800"
+        },
+        {
+          "type": "Domain",
+          "location": {
+            "start": {
+              "value": 97,
+              "modifier": "EXACT"
+            },
+            "end": {
+              "value": 413,
+              "modifier": "EXACT"
+            }
+          },
+          "description": "IF rod",
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000255",
+              "source": "PROSITE-ProRule",
+              "id": "PRU01188"
+            }
+          ]
+        },
+        {
+          "type": "Repeat",
+          "location": {
+            "start": {
+              "value": 525,
+              "modifier": "EXACT"
+            },
+            "end": {
+              "value": 530,
+              "modifier": "EXACT"
+            }
+          },
+          "description": "1"
+        },
+        {
+          "type": "Repeat",
+          "location": {
+            "start": {
+              "value": 531,
+              "modifier": "EXACT"
+            },
+            "end": {
+              "value": 536,
+              "modifier": "EXACT"
+            }
+          },
+          "description": "2"
+        },
+        {
+          "type": "Repeat",
+          "location": {
+            "start": {
+              "value": 539,
+              "modifier": "EXACT"
+            },
+            "end": {
+              "value": 544,
+              "modifier": "EXACT"
+            }
+          },
+          "description": "3"
+        },
+        {
+          "type": "Repeat",
+          "location": {
+            "start": {
+              "value": 545,
+              "modifier": "EXACT"
+            },
+            "end": {
+              "value": 550,
+              "modifier": "EXACT"
+            }
+          },
+          "description": "4"
+        },
+        {
+          "type": "Repeat",
+          "location": {
+            "start": {
+              "value": 559,
+              "modifier": "EXACT"
+            },
+            "end": {
+              "value": 564,
+              "modifier": "EXACT"
+            }
+          },
+          "description": "5"
+        },
+        {
+          "type": "Repeat",
+          "location": {
+            "start": {
+              "value": 573,
+              "modifier": "EXACT"
+            },
+            "end": {
+              "value": 578,
+              "modifier": "EXACT"
+            }
+          },
+          "description": "6"
+        },
+        {
+          "type": "Repeat",
+          "location": {
+            "start": {
+              "value": 579,
+              "modifier": "EXACT"
+            },
+            "end": {
+              "value": 584,
+              "modifier": "EXACT"
+            }
+          },
+          "description": "7"
+        },
+        {
+          "type": "Repeat",
+          "location": {
+            "start": {
+              "value": 593,
+              "modifier": "EXACT"
+            },
+            "end": {
+              "value": 598,
+              "modifier": "EXACT"
+            }
+          },
+          "description": "8"
+        },
+        {
+          "type": "Repeat",
+          "location": {
+            "start": {
+              "value": 599,
+              "modifier": "EXACT"
+            },
+            "end": {
+              "value": 604,
+              "modifier": "EXACT"
+            }
+          },
+          "description": "9"
+        },
+        {
+          "type": "Repeat",
+          "location": {
+            "start": {
+              "value": 613,
+              "modifier": "EXACT"
+            },
+            "end": {
+              "value": 618,
+              "modifier": "EXACT"
+            }
+          },
+          "description": "10"
+        },
+        {
+          "type": "Repeat",
+          "location": {
+            "start": {
+              "value": 627,
+              "modifier": "EXACT"
+            },
+            "end": {
+              "value": 632,
+              "modifier": "EXACT"
+            }
+          },
+          "description": "11"
+        },
+        {
+          "type": "Repeat",
+          "location": {
+            "start": {
+              "value": 633,
+              "modifier": "EXACT"
+            },
+            "end": {
+              "value": 638,
+              "modifier": "EXACT"
+            }
+          },
+          "description": "12"
+        },
+        {
+          "type": "Repeat",
+          "location": {
+            "start": {
+              "value": 639,
+              "modifier": "EXACT"
+            },
+            "end": {
+              "value": 644,
+              "modifier": "EXACT"
+            }
+          },
+          "description": "13"
+        },
+        {
+          "type": "Repeat",
+          "location": {
+            "start": {
+              "value": 647,
+              "modifier": "EXACT"
+            },
+            "end": {
+              "value": 652,
+              "modifier": "EXACT"
+            }
+          },
+          "description": "14"
+        },
+        {
+          "type": "Repeat",
+          "location": {
+            "start": {
+              "value": 661,
+              "modifier": "EXACT"
+            },
+            "end": {
+              "value": 666,
+              "modifier": "EXACT"
+            }
+          },
+          "description": "15"
+        },
+        {
+          "type": "Repeat",
+          "location": {
+            "start": {
+              "value": 667,
+              "modifier": "EXACT"
+            },
+            "end": {
+              "value": 672,
+              "modifier": "EXACT"
+            }
+          },
+          "description": "16"
+        },
+        {
+          "type": "Repeat",
+          "location": {
+            "start": {
+              "value": 675,
+              "modifier": "EXACT"
+            },
+            "end": {
+              "value": 680,
+              "modifier": "EXACT"
+            }
+          },
+          "description": "17"
+        },
+        {
+          "type": "Repeat",
+          "location": {
+            "start": {
+              "value": 681,
+              "modifier": "EXACT"
+            },
+            "end": {
+              "value": 686,
+              "modifier": "EXACT"
+            }
+          },
+          "description": "18"
+        },
+        {
+          "type": "Repeat",
+          "location": {
+            "start": {
+              "value": 689,
+              "modifier": "EXACT"
+            },
+            "end": {
+              "value": 694,
+              "modifier": "EXACT"
+            }
+          },
+          "description": "19"
+        },
+        {
+          "type": "Repeat",
+          "location": {
+            "start": {
+              "value": 695,
+              "modifier": "EXACT"
+            },
+            "end": {
+              "value": 700,
+              "modifier": "EXACT"
+            }
+          },
+          "description": "20"
+        },
+        {
+          "type": "Repeat",
+          "location": {
+            "start": {
+              "value": 703,
+              "modifier": "EXACT"
+            },
+            "end": {
+              "value": 708,
+              "modifier": "EXACT"
+            }
+          },
+          "description": "21"
+        },
+        {
+          "type": "Repeat",
+          "location": {
+            "start": {
+              "value": 709,
+              "modifier": "EXACT"
+            },
+            "end": {
+              "value": 714,
+              "modifier": "EXACT"
+            }
+          },
+          "description": "22"
+        },
+        {
+          "type": "Repeat",
+          "location": {
+            "start": {
+              "value": 717,
+              "modifier": "EXACT"
+            },
+            "end": {
+              "value": 722,
+              "modifier": "EXACT"
+            }
+          },
+          "description": "23"
+        },
+        {
+          "type": "Repeat",
+          "location": {
+            "start": {
+              "value": 723,
+              "modifier": "EXACT"
+            },
+            "end": {
+              "value": 728,
+              "modifier": "EXACT"
+            }
+          },
+          "description": "24"
+        },
+        {
+          "type": "Repeat",
+          "location": {
+            "start": {
+              "value": 737,
+              "modifier": "EXACT"
+            },
+            "end": {
+              "value": 742,
+              "modifier": "EXACT"
+            }
+          },
+          "description": "25"
+        },
+        {
+          "type": "Repeat",
+          "location": {
+            "start": {
+              "value": 745,
+              "modifier": "EXACT"
+            },
+            "end": {
+              "value": 750,
+              "modifier": "EXACT"
+            }
+          },
+          "description": "26"
+        },
+        {
+          "type": "Repeat",
+          "location": {
+            "start": {
+              "value": 762,
+              "modifier": "EXACT"
+            },
+            "end": {
+              "value": 767,
+              "modifier": "EXACT"
+            }
+          },
+          "description": "27"
+        },
+        {
+          "type": "Repeat",
+          "location": {
+            "start": {
+              "value": 786,
+              "modifier": "EXACT"
+            },
+            "end": {
+              "value": 791,
+              "modifier": "EXACT"
+            }
+          },
+          "description": "28"
+        },
+        {
+          "type": "Repeat",
+          "location": {
+            "start": {
+              "value": 794,
+              "modifier": "EXACT"
+            },
+            "end": {
+              "value": 799,
+              "modifier": "EXACT"
+            }
+          },
+          "description": "29"
+        },
+        {
+          "type": "Repeat",
+          "location": {
+            "start": {
+              "value": 821,
+              "modifier": "EXACT"
+            },
+            "end": {
+              "value": 826,
+              "modifier": "EXACT"
+            }
+          },
+          "description": "30"
+        },
+        {
+          "type": "Region",
+          "location": {
+            "start": {
+              "value": 1,
+              "modifier": "EXACT"
+            },
+            "end": {
+              "value": 100,
+              "modifier": "EXACT"
+            }
+          },
+          "description": "Head"
+        },
+        {
+          "type": "Region",
+          "location": {
+            "start": {
+              "value": 58,
+              "modifier": "EXACT"
+            },
+            "end": {
+              "value": 83,
+              "modifier": "EXACT"
+            }
+          },
+          "description": "Disordered",
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000256",
+              "source": "SAM",
+              "id": "MobiDB-lite"
+            }
+          ]
+        },
+        {
+          "type": "Region",
+          "location": {
+            "start": {
+              "value": 101,
+              "modifier": "EXACT"
+            },
+            "end": {
+              "value": 132,
+              "modifier": "EXACT"
+            }
+          },
+          "description": "Coil 1A"
+        },
+        {
+          "type": "Region",
+          "location": {
+            "start": {
+              "value": 133,
+              "modifier": "EXACT"
+            },
+            "end": {
+              "value": 145,
+              "modifier": "EXACT"
+            }
+          },
+          "description": "Linker 1"
+        },
+        {
+          "type": "Region",
+          "location": {
+            "start": {
+              "value": 146,
+              "modifier": "EXACT"
+            },
+            "end": {
+              "value": 244,
+              "modifier": "EXACT"
+            }
+          },
+          "description": "Coil 1B"
+        },
+        {
+          "type": "Region",
+          "location": {
+            "start": {
+              "value": 245,
+              "modifier": "EXACT"
+            },
+            "end": {
+              "value": 266,
+              "modifier": "EXACT"
+            }
+          },
+          "description": "Linker 12"
+        },
+        {
+          "type": "Region",
+          "location": {
+            "start": {
+              "value": 267,
+              "modifier": "EXACT"
+            },
+            "end": {
+              "value": 288,
+              "modifier": "EXACT"
+            }
+          },
+          "description": "Coil 2A"
+        },
+        {
+          "type": "Region",
+          "location": {
+            "start": {
+              "value": 289,
+              "modifier": "EXACT"
+            },
+            "end": {
+              "value": 292,
+              "modifier": "EXACT"
+            }
+          },
+          "description": "Linker 2"
+        },
+        {
+          "type": "Region",
+          "location": {
+            "start": {
+              "value": 293,
+              "modifier": "EXACT"
+            },
+            "end": {
+              "value": 413,
+              "modifier": "EXACT"
+            }
+          },
+          "description": "Coil 2B"
+        },
+        {
+          "type": "Region",
+          "location": {
+            "start": {
+              "value": 414,
+              "modifier": "EXACT"
+            },
+            "end": {
+              "value": 1020,
+              "modifier": "EXACT"
+            }
+          },
+          "description": "Tail"
+        },
+        {
+          "type": "Region",
+          "location": {
+            "start": {
+              "value": 456,
+              "modifier": "EXACT"
+            },
+            "end": {
+              "value": 1020,
+              "modifier": "EXACT"
+            }
+          },
+          "description": "Disordered",
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000256",
+              "source": "SAM",
+              "id": "MobiDB-lite"
+            }
+          ]
+        },
+        {
+          "type": "Region",
+          "location": {
+            "start": {
+              "value": 525,
+              "modifier": "EXACT"
+            },
+            "end": {
+              "value": 826,
+              "modifier": "EXACT"
+            }
+          },
+          "description": "30 X 6 AA repeats of K-S-P-[AEPV]-[EAK]-[AEVK]"
+        },
+        {
+          "type": "Compositional bias",
+          "location": {
+            "start": {
+              "value": 71,
+              "modifier": "EXACT"
+            },
+            "end": {
+              "value": 82,
+              "modifier": "EXACT"
+            }
+          },
+          "description": "Polar residues",
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000256",
+              "source": "SAM",
+              "id": "MobiDB-lite"
+            }
+          ]
+        },
+        {
+          "type": "Compositional bias",
+          "location": {
+            "start": {
+              "value": 459,
+              "modifier": "EXACT"
+            },
+            "end": {
+              "value": 475,
+              "modifier": "EXACT"
+            }
+          },
+          "description": "Acidic residues",
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000256",
+              "source": "SAM",
+              "id": "MobiDB-lite"
+            }
+          ]
+        },
+        {
+          "type": "Compositional bias",
+          "location": {
+            "start": {
+              "value": 483,
+              "modifier": "EXACT"
+            },
+            "end": {
+              "value": 498,
+              "modifier": "EXACT"
+            }
+          },
+          "description": "Acidic residues",
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000256",
+              "source": "SAM",
+              "id": "MobiDB-lite"
+            }
+          ]
+        },
+        {
+          "type": "Compositional bias",
+          "location": {
+            "start": {
+              "value": 511,
+              "modifier": "EXACT"
+            },
+            "end": {
+              "value": 1020,
+              "modifier": "EXACT"
+            }
+          },
+          "description": "Basic and acidic residues",
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000256",
+              "source": "SAM",
+              "id": "MobiDB-lite"
+            }
+          ]
+        },
+        {
+          "type": "Modified residue",
+          "location": {
+            "start": {
+              "value": 76,
+              "modifier": "EXACT"
+            },
+            "end": {
+              "value": 76,
+              "modifier": "EXACT"
+            }
+          },
+          "description": "Phosphoserine",
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000250",
+              "source": "UniProtKB",
+              "id": "P19246"
+            }
+          ]
+        },
+        {
+          "type": "Modified residue",
+          "location": {
+            "start": {
+              "value": 124,
+              "modifier": "EXACT"
+            },
+            "end": {
+              "value": 124,
+              "modifier": "EXACT"
+            }
+          },
+          "description": "Phosphoserine",
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000250",
+              "source": "UniProtKB",
+              "id": "P19246"
+            }
+          ]
+        },
+        {
+          "type": "Modified residue",
+          "location": {
+            "start": {
+              "value": 347,
+              "modifier": "EXACT"
+            },
+            "end": {
+              "value": 347,
+              "modifier": "EXACT"
+            }
+          },
+          "description": "Phosphoserine",
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000250",
+              "source": "UniProtKB",
+              "id": "P16884"
+            }
+          ]
+        },
+        {
+          "type": "Modified residue",
+          "location": {
+            "start": {
+              "value": 421,
+              "modifier": "EXACT"
+            },
+            "end": {
+              "value": 421,
+              "modifier": "EXACT"
+            }
+          },
+          "description": "Phosphoserine",
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000250",
+              "source": "UniProtKB",
+              "id": "P19246"
+            }
+          ]
+        },
+        {
+          "type": "Modified residue",
+          "location": {
+            "start": {
+              "value": 511,
+              "modifier": "EXACT"
+            },
+            "end": {
+              "value": 511,
+              "modifier": "EXACT"
+            }
+          },
+          "description": "Phosphoserine",
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000250",
+              "source": "UniProtKB",
+              "id": "P16884"
+            }
+          ]
+        },
+        {
+          "type": "Modified residue",
+          "location": {
+            "start": {
+              "value": 526,
+              "modifier": "EXACT"
+            },
+            "end": {
+              "value": 526,
+              "modifier": "EXACT"
+            }
+          },
+          "description": "Phosphoserine",
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000250",
+              "source": "UniProtKB",
+              "id": "P16884"
+            }
+          ]
+        },
+        {
+          "type": "Modified residue",
+          "location": {
+            "start": {
+              "value": 532,
+              "modifier": "EXACT"
+            },
+            "end": {
+              "value": 532,
+              "modifier": "EXACT"
+            }
+          },
+          "description": "Phosphoserine",
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000250",
+              "source": "UniProtKB",
+              "id": "P19246"
+            }
+          ]
+        },
+        {
+          "type": "Modified residue",
+          "location": {
+            "start": {
+              "value": 540,
+              "modifier": "EXACT"
+            },
+            "end": {
+              "value": 540,
+              "modifier": "EXACT"
+            }
+          },
+          "description": "Phosphoserine",
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0007744",
+              "source": "PubMed",
+              "id": "24275569"
+            }
+          ]
+        },
+        {
+          "type": "Modified residue",
+          "location": {
+            "start": {
+              "value": 546,
+              "modifier": "EXACT"
+            },
+            "end": {
+              "value": 546,
+              "modifier": "EXACT"
+            }
+          },
+          "description": "Phosphoserine",
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000250",
+              "source": "UniProtKB",
+              "id": "P19246"
+            }
+          ]
+        },
+        {
+          "type": "Modified residue",
+          "location": {
+            "start": {
+              "value": 552,
+              "modifier": "EXACT"
+            },
+            "end": {
+              "value": 552,
+              "modifier": "EXACT"
+            }
+          },
+          "description": "Phosphoserine",
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000250",
+              "source": "UniProtKB",
+              "id": "P19246"
+            }
+          ]
+        },
+        {
+          "type": "Modified residue",
+          "location": {
+            "start": {
+              "value": 560,
+              "modifier": "EXACT"
+            },
+            "end": {
+              "value": 560,
+              "modifier": "EXACT"
+            }
+          },
+          "description": "Phosphoserine",
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000250",
+              "source": "UniProtKB",
+              "id": "P19246"
+            }
+          ]
+        },
+        {
+          "type": "Modified residue",
+          "location": {
+            "start": {
+              "value": 566,
+              "modifier": "EXACT"
+            },
+            "end": {
+              "value": 566,
+              "modifier": "EXACT"
+            }
+          },
+          "description": "Phosphoserine",
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000250",
+              "source": "UniProtKB",
+              "id": "P19246"
+            }
+          ]
+        },
+        {
+          "type": "Modified residue",
+          "location": {
+            "start": {
+              "value": 574,
+              "modifier": "EXACT"
+            },
+            "end": {
+              "value": 574,
+              "modifier": "EXACT"
+            }
+          },
+          "description": "Phosphoserine",
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0007744",
+              "source": "PubMed",
+              "id": "24275569"
+            }
+          ]
+        },
+        {
+          "type": "Modified residue",
+          "location": {
+            "start": {
+              "value": 580,
+              "modifier": "EXACT"
+            },
+            "end": {
+              "value": 580,
+              "modifier": "EXACT"
+            }
+          },
+          "description": "Phosphoserine",
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000250",
+              "source": "UniProtKB",
+              "id": "P19246"
+            }
+          ]
+        },
+        {
+          "type": "Modified residue",
+          "location": {
+            "start": {
+              "value": 586,
+              "modifier": "EXACT"
+            },
+            "end": {
+              "value": 586,
+              "modifier": "EXACT"
+            }
+          },
+          "description": "Phosphoserine",
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000250",
+              "source": "UniProtKB",
+              "id": "P19246"
+            }
+          ]
+        },
+        {
+          "type": "Modified residue",
+          "location": {
+            "start": {
+              "value": 594,
+              "modifier": "EXACT"
+            },
+            "end": {
+              "value": 594,
+              "modifier": "EXACT"
+            }
+          },
+          "description": "Phosphoserine",
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000250",
+              "source": "UniProtKB",
+              "id": "P19246"
+            }
+          ]
+        },
+        {
+          "type": "Modified residue",
+          "location": {
+            "start": {
+              "value": 600,
+              "modifier": "EXACT"
+            },
+            "end": {
+              "value": 600,
+              "modifier": "EXACT"
+            }
+          },
+          "description": "Phosphoserine",
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000250",
+              "source": "UniProtKB",
+              "id": "P19246"
+            }
+          ]
+        },
+        {
+          "type": "Modified residue",
+          "location": {
+            "start": {
+              "value": 606,
+              "modifier": "EXACT"
+            },
+            "end": {
+              "value": 606,
+              "modifier": "EXACT"
+            }
+          },
+          "description": "Phosphoserine",
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000250",
+              "source": "UniProtKB",
+              "id": "P19246"
+            }
+          ]
+        },
+        {
+          "type": "Modified residue",
+          "location": {
+            "start": {
+              "value": 614,
+              "modifier": "EXACT"
+            },
+            "end": {
+              "value": 614,
+              "modifier": "EXACT"
+            }
+          },
+          "description": "Phosphoserine",
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000250",
+              "source": "UniProtKB",
+              "id": "P19246"
+            }
+          ]
+        },
+        {
+          "type": "Modified residue",
+          "location": {
+            "start": {
+              "value": 620,
+              "modifier": "EXACT"
+            },
+            "end": {
+              "value": 620,
+              "modifier": "EXACT"
+            }
+          },
+          "description": "Phosphoserine",
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000250",
+              "source": "UniProtKB",
+              "id": "P19246"
+            }
+          ]
+        },
+        {
+          "type": "Modified residue",
+          "location": {
+            "start": {
+              "value": 628,
+              "modifier": "EXACT"
+            },
+            "end": {
+              "value": 628,
+              "modifier": "EXACT"
+            }
+          },
+          "description": "Phosphoserine",
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0007744",
+              "source": "PubMed",
+              "id": "24275569"
+            }
+          ]
+        },
+        {
+          "type": "Modified residue",
+          "location": {
+            "start": {
+              "value": 634,
+              "modifier": "EXACT"
+            },
+            "end": {
+              "value": 634,
+              "modifier": "EXACT"
+            }
+          },
+          "description": "Phosphoserine",
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000250",
+              "source": "UniProtKB",
+              "id": "P19246"
+            }
+          ]
+        },
+        {
+          "type": "Modified residue",
+          "location": {
+            "start": {
+              "value": 640,
+              "modifier": "EXACT"
+            },
+            "end": {
+              "value": 640,
+              "modifier": "EXACT"
+            }
+          },
+          "description": "Phosphoserine",
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000250",
+              "source": "UniProtKB",
+              "id": "P19246"
+            }
+          ]
+        },
+        {
+          "type": "Modified residue",
+          "location": {
+            "start": {
+              "value": 648,
+              "modifier": "EXACT"
+            },
+            "end": {
+              "value": 648,
+              "modifier": "EXACT"
+            }
+          },
+          "description": "Phosphoserine",
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000250",
+              "source": "UniProtKB",
+              "id": "P19246"
+            }
+          ]
+        },
+        {
+          "type": "Modified residue",
+          "location": {
+            "start": {
+              "value": 654,
+              "modifier": "EXACT"
+            },
+            "end": {
+              "value": 654,
+              "modifier": "EXACT"
+            }
+          },
+          "description": "Phosphoserine",
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000250",
+              "source": "UniProtKB",
+              "id": "P19246"
+            }
+          ]
+        },
+        {
+          "type": "Modified residue",
+          "location": {
+            "start": {
+              "value": 662,
+              "modifier": "EXACT"
+            },
+            "end": {
+              "value": 662,
+              "modifier": "EXACT"
+            }
+          },
+          "description": "Phosphoserine",
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000250",
+              "source": "UniProtKB",
+              "id": "P16884"
+            }
+          ]
+        },
+        {
+          "type": "Modified residue",
+          "location": {
+            "start": {
+              "value": 668,
+              "modifier": "EXACT"
+            },
+            "end": {
+              "value": 668,
+              "modifier": "EXACT"
+            }
+          },
+          "description": "Phosphoserine",
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0007744",
+              "source": "PubMed",
+              "id": "24275569"
+            }
+          ]
+        },
+        {
+          "type": "Modified residue",
+          "location": {
+            "start": {
+              "value": 676,
+              "modifier": "EXACT"
+            },
+            "end": {
+              "value": 676,
+              "modifier": "EXACT"
+            }
+          },
+          "description": "Phosphoserine",
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000250",
+              "source": "UniProtKB",
+              "id": "P19246"
+            }
+          ]
+        },
+        {
+          "type": "Modified residue",
+          "location": {
+            "start": {
+              "value": 682,
+              "modifier": "EXACT"
+            },
+            "end": {
+              "value": 682,
+              "modifier": "EXACT"
+            }
+          },
+          "description": "Phosphoserine",
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0007744",
+              "source": "PubMed",
+              "id": "24275569"
+            }
+          ]
+        },
+        {
+          "type": "Modified residue",
+          "location": {
+            "start": {
+              "value": 690,
+              "modifier": "EXACT"
+            },
+            "end": {
+              "value": 690,
+              "modifier": "EXACT"
+            }
+          },
+          "description": "Phosphoserine",
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000250",
+              "source": "UniProtKB",
+              "id": "P19246"
+            }
+          ]
+        },
+        {
+          "type": "Modified residue",
+          "location": {
+            "start": {
+              "value": 696,
+              "modifier": "EXACT"
+            },
+            "end": {
+              "value": 696,
+              "modifier": "EXACT"
+            }
+          },
+          "description": "Phosphoserine",
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000250",
+              "source": "UniProtKB",
+              "id": "P19246"
+            }
+          ]
+        },
+        {
+          "type": "Modified residue",
+          "location": {
+            "start": {
+              "value": 704,
+              "modifier": "EXACT"
+            },
+            "end": {
+              "value": 704,
+              "modifier": "EXACT"
+            }
+          },
+          "description": "Phosphoserine",
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000250",
+              "source": "UniProtKB",
+              "id": "P19246"
+            }
+          ]
+        },
+        {
+          "type": "Modified residue",
+          "location": {
+            "start": {
+              "value": 718,
+              "modifier": "EXACT"
+            },
+            "end": {
+              "value": 718,
+              "modifier": "EXACT"
+            }
+          },
+          "description": "Phosphoserine",
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000250",
+              "source": "UniProtKB",
+              "id": "P19246"
+            }
+          ]
+        },
+        {
+          "type": "Modified residue",
+          "location": {
+            "start": {
+              "value": 724,
+              "modifier": "EXACT"
+            },
+            "end": {
+              "value": 724,
+              "modifier": "EXACT"
+            }
+          },
+          "description": "Phosphoserine",
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000250",
+              "source": "UniProtKB",
+              "id": "P19246"
+            }
+          ]
+        },
+        {
+          "type": "Modified residue",
+          "location": {
+            "start": {
+              "value": 738,
+              "modifier": "EXACT"
+            },
+            "end": {
+              "value": 738,
+              "modifier": "EXACT"
+            }
+          },
+          "description": "Phosphoserine",
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000250",
+              "source": "UniProtKB",
+              "id": "P16884"
+            }
+          ]
+        },
+        {
+          "type": "Modified residue",
+          "location": {
+            "start": {
+              "value": 752,
+              "modifier": "EXACT"
+            },
+            "end": {
+              "value": 752,
+              "modifier": "EXACT"
+            }
+          },
+          "description": "Phosphoserine",
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000250",
+              "source": "UniProtKB",
+              "id": "P16884"
+            }
+          ]
+        },
+        {
+          "type": "Modified residue",
+          "location": {
+            "start": {
+              "value": 763,
+              "modifier": "EXACT"
+            },
+            "end": {
+              "value": 763,
+              "modifier": "EXACT"
+            }
+          },
+          "description": "Phosphoserine",
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000250",
+              "source": "UniProtKB",
+              "id": "P19246"
+            }
+          ]
+        },
+        {
+          "type": "Modified residue",
+          "location": {
+            "start": {
+              "value": 768,
+              "modifier": "EXACT"
+            },
+            "end": {
+              "value": 768,
+              "modifier": "EXACT"
+            }
+          },
+          "description": "Phosphothreonine",
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000250",
+              "source": "UniProtKB",
+              "id": "P16884"
+            }
+          ]
+        },
+        {
+          "type": "Modified residue",
+          "location": {
+            "start": {
+              "value": 787,
+              "modifier": "EXACT"
+            },
+            "end": {
+              "value": 787,
+              "modifier": "EXACT"
+            }
+          },
+          "description": "Phosphoserine",
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000250",
+              "source": "UniProtKB",
+              "id": "P19246"
+            }
+          ]
+        },
+        {
+          "type": "Modified residue",
+          "location": {
+            "start": {
+              "value": 795,
+              "modifier": "EXACT"
+            },
+            "end": {
+              "value": 795,
+              "modifier": "EXACT"
+            }
+          },
+          "description": "Phosphoserine",
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000250",
+              "source": "UniProtKB",
+              "id": "P19246"
+            }
+          ]
+        },
+        {
+          "type": "Modified residue",
+          "location": {
+            "start": {
+              "value": 822,
+              "modifier": "EXACT"
+            },
+            "end": {
+              "value": 822,
+              "modifier": "EXACT"
+            }
+          },
+          "description": "Phosphoserine",
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000250",
+              "source": "UniProtKB",
+              "id": "P19246"
+            }
+          ]
+        },
+        {
+          "type": "Modified residue",
+          "location": {
+            "start": {
+              "value": 888,
+              "modifier": "EXACT"
+            },
+            "end": {
+              "value": 888,
+              "modifier": "EXACT"
+            }
+          },
+          "description": "Phosphoserine",
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000250",
+              "source": "UniProtKB",
+              "id": "P16884"
+            }
+          ]
+        },
+        {
+          "type": "Alternative sequence",
+          "location": {
+            "start": {
+              "value": 744,
+              "modifier": "EXACT"
+            },
+            "end": {
+              "value": 806,
+              "modifier": "EXACT"
+            }
+          },
+          "description": "in isoform 2",
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000303",
+              "source": "PubMed",
+              "id": "15489334"
+            }
+          ],
+          "featureId": "VSP_036706",
+          "alternativeSequence": {}
+        },
+        {
+          "type": "Natural variant",
+          "location": {
+            "start": {
+              "value": 575,
+              "modifier": "EXACT"
+            },
+            "end": {
+              "value": 575,
+              "modifier": "EXACT"
+            }
+          },
+          "description": "in dbSNP:rs6006164",
+          "featureCrossReferences": [
+            {
+              "database": "dbSNP",
+              "id": "rs6006164"
+            }
+          ],
+          "featureId": "VAR_054787",
+          "alternativeSequence": {
+            "originalSequence": "P",
+            "alternativeSequences": [
+              "S"
+            ]
+          }
+        },
+        {
+          "type": "Natural variant",
+          "location": {
+            "start": {
+              "value": 615,
+              "modifier": "EXACT"
+            },
+            "end": {
+              "value": 615,
+              "modifier": "EXACT"
+            }
+          },
+          "description": "in dbSNP:rs5763269",
+          "featureCrossReferences": [
+            {
+              "database": "dbSNP",
+              "id": "rs5763269"
+            }
+          ],
+          "featureId": "VAR_056025",
+          "alternativeSequence": {
+            "originalSequence": "P",
+            "alternativeSequences": [
+              "L"
+            ]
+          }
+        },
+        {
+          "type": "Natural variant",
+          "location": {
+            "start": {
+              "value": 645,
+              "modifier": "EXACT"
+            },
+            "end": {
+              "value": 645,
+              "modifier": "EXACT"
+            }
+          },
+          "description": "in dbSNP:rs147489453",
+          "featureCrossReferences": [
+            {
+              "database": "dbSNP",
+              "id": "rs147489453"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000269",
+              "source": "PubMed",
+              "id": "3138108"
+            }
+          ],
+          "featureId": "VAR_088859",
+          "alternativeSequence": {
+            "originalSequence": "E",
+            "alternativeSequences": [
+              "EAKSPEK"
+            ]
+          }
+        },
+        {
+          "type": "Natural variant",
+          "location": {
+            "start": {
+              "value": 790,
+              "modifier": "EXACT"
+            },
+            "end": {
+              "value": 790,
+              "modifier": "EXACT"
+            }
+          },
+          "description": "in ALS; dbSNP:rs59551486",
+          "featureCrossReferences": [
+            {
+              "database": "dbSNP",
+              "id": "rs59551486"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000269",
+              "source": "PubMed",
+              "id": "7849698"
+            }
+          ],
+          "featureId": "VAR_023063",
+          "alternativeSequence": {}
+        },
+        {
+          "type": "Natural variant",
+          "location": {
+            "start": {
+              "value": 805,
+              "modifier": "EXACT"
+            },
+            "end": {
+              "value": 805,
+              "modifier": "EXACT"
+            }
+          },
+          "description": "in dbSNP:rs165602",
+          "featureCrossReferences": [
+            {
+              "database": "dbSNP",
+              "id": "rs165602"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000269",
+              "source": "PubMed",
+              "id": "3138108"
+            }
+          ],
+          "featureId": "VAR_026163",
+          "alternativeSequence": {
+            "originalSequence": "E",
+            "alternativeSequences": [
+              "A"
+            ]
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "KW-0025",
+          "category": "Coding sequence diversity",
+          "name": "Alternative splicing"
+        },
+        {
+          "id": "KW-0036",
+          "category": "Disease",
+          "name": "Amyotrophic lateral sclerosis"
+        },
+        {
+          "id": "KW-0966",
+          "category": "Cellular component",
+          "name": "Cell projection"
+        },
+        {
+          "id": "KW-0144",
+          "category": "Disease",
+          "name": "Charcot-Marie-Tooth disease"
+        },
+        {
+          "id": "KW-0175",
+          "category": "Domain",
+          "name": "Coiled coil"
+        },
+        {
+          "id": "KW-0963",
+          "category": "Cellular component",
+          "name": "Cytoplasm"
+        },
+        {
+          "id": "KW-0206",
+          "category": "Cellular component",
+          "name": "Cytoskeleton"
+        },
+        {
+          "id": "KW-0225",
+          "category": "Disease",
+          "name": "Disease variant"
+        },
+        {
+          "id": "KW-0403",
+          "category": "Cellular component",
+          "name": "Intermediate filament"
+        },
+        {
+          "id": "KW-0523",
+          "category": "Disease",
+          "name": "Neurodegeneration"
+        },
+        {
+          "id": "KW-0622",
+          "category": "Disease",
+          "name": "Neuropathy"
+        },
+        {
+          "id": "KW-0597",
+          "category": "PTM",
+          "name": "Phosphoprotein"
+        },
+        {
+          "id": "KW-1267",
+          "category": "Technical term",
+          "name": "Proteomics identification"
+        },
+        {
+          "id": "KW-1185",
+          "category": "Technical term",
+          "name": "Reference proteome"
+        },
+        {
+          "id": "KW-0677",
+          "category": "Domain",
+          "name": "Repeat"
+        }
+      ],
+      "references": [
+        {
+          "referenceNumber": 1,
+          "citation": {
+            "id": "3138108",
+            "citationType": "journal article",
+            "authors": [
+              "Lees J.F.",
+              "Shneidman P.S.",
+              "Skuntz S.F.",
+              "Carden M.J.",
+              "Lazzarini R.A."
+            ],
+            "citationCrossReferences": [
+              {
+                "database": "PubMed",
+                "id": "3138108"
+              },
+              {
+                "database": "DOI",
+                "id": "10.1002/j.1460-2075.1988.tb03032.x"
+              }
+            ],
+            "title": "The structure and organization of the human heavy neurofilament subunit (NF-H) and the gene encoding it.",
+            "publicationDate": "1988",
+            "journal": "EMBO J.",
+            "firstPage": "1947",
+            "lastPage": "1955",
+            "volume": "7"
+          },
+          "referencePositions": [
+            "NUCLEOTIDE SEQUENCE [GENOMIC DNA]",
+            "VARIANT ALA-805"
+          ]
+        },
+        {
+          "referenceNumber": 2,
+          "citation": {
+            "id": "CI-5S7KOAC9H532E",
+            "citationType": "journal article",
+            "authors": [
+              "Zhu Y.",
+              "Han Y."
+            ],
+            "title": "Molecular Cloning of human hSTE cDNA.",
+            "publicationDate": "1999",
+            "journal": "Beijing Yi Ke Da Xue Xue Bao",
+            "firstPage": "531",
+            "lastPage": "531",
+            "volume": "31"
+          },
+          "referencePositions": [
+            "NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 1)",
+            "VARIANT ALA-LYS-SER-PRO-GLU-LYS-645 INS"
+          ]
+        },
+        {
+          "referenceNumber": 3,
+          "citation": {
+            "id": "10048485",
+            "citationType": "journal article",
+            "authors": [
+              "Nagase T.",
+              "Ishikawa K.",
+              "Suyama M.",
+              "Kikuno R.",
+              "Hirosawa M.",
+              "Miyajima N.",
+              "Tanaka A.",
+              "Kotani H.",
+              "Nomura N.",
+              "Ohara O."
+            ],
+            "citationCrossReferences": [
+              {
+                "database": "PubMed",
+                "id": "10048485"
+              },
+              {
+                "database": "DOI",
+                "id": "10.1093/dnares/5.6.355"
+              }
+            ],
+            "title": "Prediction of the coding sequences of unidentified human genes. XII. The complete sequences of 100 new cDNA clones from brain which code for large proteins in vitro.",
+            "publicationDate": "1998",
+            "journal": "DNA Res.",
+            "firstPage": "355",
+            "lastPage": "364",
+            "volume": "5"
+          },
+          "referencePositions": [
+            "NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 1)",
+            "VARIANT ALA-LYS-SER-PRO-GLU-LYS-645 INS"
+          ],
+          "referenceComments": [
+            {
+              "value": "Brain",
+              "type": "TISSUE"
+            }
+          ]
+        },
+        {
+          "referenceNumber": 4,
+          "citation": {
+            "id": "14702039",
+            "citationType": "journal article",
+            "authors": [
+              "Ota T.",
+              "Suzuki Y.",
+              "Nishikawa T.",
+              "Otsuki T.",
+              "Sugiyama T.",
+              "Irie R.",
+              "Wakamatsu A.",
+              "Hayashi K.",
+              "Sato H.",
+              "Nagai K.",
+              "Kimura K.",
+              "Makita H.",
+              "Sekine M.",
+              "Obayashi M.",
+              "Nishi T.",
+              "Shibahara T.",
+              "Tanaka T.",
+              "Ishii S.",
+              "Yamamoto J.",
+              "Saito K.",
+              "Kawai Y.",
+              "Isono Y.",
+              "Nakamura Y.",
+              "Nagahari K.",
+              "Murakami K.",
+              "Yasuda T.",
+              "Iwayanagi T.",
+              "Wagatsuma M.",
+              "Shiratori A.",
+              "Sudo H.",
+              "Hosoiri T.",
+              "Kaku Y.",
+              "Kodaira H.",
+              "Kondo H.",
+              "Sugawara M.",
+              "Takahashi M.",
+              "Kanda K.",
+              "Yokoi T.",
+              "Furuya T.",
+              "Kikkawa E.",
+              "Omura Y.",
+              "Abe K.",
+              "Kamihara K.",
+              "Katsuta N.",
+              "Sato K.",
+              "Tanikawa M.",
+              "Yamazaki M.",
+              "Ninomiya K.",
+              "Ishibashi T.",
+              "Yamashita H.",
+              "Murakawa K.",
+              "Fujimori K.",
+              "Tanai H.",
+              "Kimata M.",
+              "Watanabe M.",
+              "Hiraoka S.",
+              "Chiba Y.",
+              "Ishida S.",
+              "Ono Y.",
+              "Takiguchi S.",
+              "Watanabe S.",
+              "Yosida M.",
+              "Hotuta T.",
+              "Kusano J.",
+              "Kanehori K.",
+              "Takahashi-Fujii A.",
+              "Hara H.",
+              "Tanase T.-O.",
+              "Nomura Y.",
+              "Togiya S.",
+              "Komai F.",
+              "Hara R.",
+              "Takeuchi K.",
+              "Arita M.",
+              "Imose N.",
+              "Musashino K.",
+              "Yuuki H.",
+              "Oshima A.",
+              "Sasaki N.",
+              "Aotsuka S.",
+              "Yoshikawa Y.",
+              "Matsunawa H.",
+              "Ichihara T.",
+              "Shiohata N.",
+              "Sano S.",
+              "Moriya S.",
+              "Momiyama H.",
+              "Satoh N.",
+              "Takami S.",
+              "Terashima Y.",
+              "Suzuki O.",
+              "Nakagawa S.",
+              "Senoh A.",
+              "Mizoguchi H.",
+              "Goto Y.",
+              "Shimizu F.",
+              "Wakebe H.",
+              "Hishigaki H.",
+              "Watanabe T.",
+              "Sugiyama A.",
+              "Takemoto M.",
+              "Kawakami B.",
+              "Yamazaki M.",
+              "Watanabe K.",
+              "Kumagai A.",
+              "Itakura S.",
+              "Fukuzumi Y.",
+              "Fujimori Y.",
+              "Komiyama M.",
+              "Tashiro H.",
+              "Tanigami A.",
+              "Fujiwara T.",
+              "Ono T.",
+              "Yamada K.",
+              "Fujii Y.",
+              "Ozaki K.",
+              "Hirao M.",
+              "Ohmori Y.",
+              "Kawabata A.",
+              "Hikiji T.",
+              "Kobatake N.",
+              "Inagaki H.",
+              "Ikema Y.",
+              "Okamoto S.",
+              "Okitani R.",
+              "Kawakami T.",
+              "Noguchi S.",
+              "Itoh T.",
+              "Shigeta K.",
+              "Senba T.",
+              "Matsumura K.",
+              "Nakajima Y.",
+              "Mizuno T.",
+              "Morinaga M.",
+              "Sasaki M.",
+              "Togashi T.",
+              "Oyama M.",
+              "Hata H.",
+              "Watanabe M.",
+              "Komatsu T.",
+              "Mizushima-Sugano J.",
+              "Satoh T.",
+              "Shirai Y.",
+              "Takahashi Y.",
+              "Nakagawa K.",
+              "Okumura K.",
+              "Nagase T.",
+              "Nomura N.",
+              "Kikuchi H.",
+              "Masuho Y.",
+              "Yamashita R.",
+              "Nakai K.",
+              "Yada T.",
+              "Nakamura Y.",
+              "Ohara O.",
+              "Isogai T.",
+              "Sugano S."
+            ],
+            "citationCrossReferences": [
+              {
+                "database": "PubMed",
+                "id": "14702039"
+              },
+              {
+                "database": "DOI",
+                "id": "10.1038/ng1285"
+              }
+            ],
+            "title": "Complete sequencing and characterization of 21,243 full-length human cDNAs.",
+            "publicationDate": "2004",
+            "journal": "Nat. Genet.",
+            "firstPage": "40",
+            "lastPage": "45",
+            "volume": "36"
+          },
+          "referencePositions": [
+            "NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 1)",
+            "VARIANT ALA-LYS-SER-PRO-GLU-LYS-645 INS"
+          ],
+          "referenceComments": [
+            {
+              "value": "Testis",
+              "type": "TISSUE"
+            }
+          ]
+        },
+        {
+          "referenceNumber": 5,
+          "citation": {
+            "id": "10591208",
+            "citationType": "journal article",
+            "authors": [
+              "Dunham I.",
+              "Hunt A.R.",
+              "Collins J.E.",
+              "Bruskiewich R.",
+              "Beare D.M.",
+              "Clamp M.",
+              "Smink L.J.",
+              "Ainscough R.",
+              "Almeida J.P.",
+              "Babbage A.K.",
+              "Bagguley C.",
+              "Bailey J.",
+              "Barlow K.F.",
+              "Bates K.N.",
+              "Beasley O.P.",
+              "Bird C.P.",
+              "Blakey S.E.",
+              "Bridgeman A.M.",
+              "Buck D.",
+              "Burgess J.",
+              "Burrill W.D.",
+              "Burton J.",
+              "Carder C.",
+              "Carter N.P.",
+              "Chen Y.",
+              "Clark G.",
+              "Clegg S.M.",
+              "Cobley V.E.",
+              "Cole C.G.",
+              "Collier R.E.",
+              "Connor R.",
+              "Conroy D.",
+              "Corby N.R.",
+              "Coville G.J.",
+              "Cox A.V.",
+              "Davis J.",
+              "Dawson E.",
+              "Dhami P.D.",
+              "Dockree C.",
+              "Dodsworth S.J.",
+              "Durbin R.M.",
+              "Ellington A.G.",
+              "Evans K.L.",
+              "Fey J.M.",
+              "Fleming K.",
+              "French L.",
+              "Garner A.A.",
+              "Gilbert J.G.R.",
+              "Goward M.E.",
+              "Grafham D.V.",
+              "Griffiths M.N.D.",
+              "Hall C.",
+              "Hall R.E.",
+              "Hall-Tamlyn G.",
+              "Heathcott R.W.",
+              "Ho S.",
+              "Holmes S.",
+              "Hunt S.E.",
+              "Jones M.C.",
+              "Kershaw J.",
+              "Kimberley A.M.",
+              "King A.",
+              "Laird G.K.",
+              "Langford C.F.",
+              "Leversha M.A.",
+              "Lloyd C.",
+              "Lloyd D.M.",
+              "Martyn I.D.",
+              "Mashreghi-Mohammadi M.",
+              "Matthews L.H.",
+              "Mccann O.T.",
+              "Mcclay J.",
+              "Mclaren S.",
+              "McMurray A.A.",
+              "Milne S.A.",
+              "Mortimore B.J.",
+              "Odell C.N.",
+              "Pavitt R.",
+              "Pearce A.V.",
+              "Pearson D.",
+              "Phillimore B.J.C.T.",
+              "Phillips S.H.",
+              "Plumb R.W.",
+              "Ramsay H.",
+              "Ramsey Y.",
+              "Rogers L.",
+              "Ross M.T.",
+              "Scott C.E.",
+              "Sehra H.K.",
+              "Skuce C.D.",
+              "Smalley S.",
+              "Smith M.L.",
+              "Soderlund C.",
+              "Spragon L.",
+              "Steward C.A.",
+              "Sulston J.E.",
+              "Swann R.M.",
+              "Vaudin M.",
+              "Wall M.",
+              "Wallis J.M.",
+              "Whiteley M.N.",
+              "Willey D.L.",
+              "Williams L.",
+              "Williams S.A.",
+              "Williamson H.",
+              "Wilmer T.E.",
+              "Wilming L.",
+              "Wright C.L.",
+              "Hubbard T.",
+              "Bentley D.R.",
+              "Beck S.",
+              "Rogers J.",
+              "Shimizu N.",
+              "Minoshima S.",
+              "Kawasaki K.",
+              "Sasaki T.",
+              "Asakawa S.",
+              "Kudoh J.",
+              "Shintani A.",
+              "Shibuya K.",
+              "Yoshizaki Y.",
+              "Aoki N.",
+              "Mitsuyama S.",
+              "Roe B.A.",
+              "Chen F.",
+              "Chu L.",
+              "Crabtree J.",
+              "Deschamps S.",
+              "Do A.",
+              "Do T.",
+              "Dorman A.",
+              "Fang F.",
+              "Fu Y.",
+              "Hu P.",
+              "Hua A.",
+              "Kenton S.",
+              "Lai H.",
+              "Lao H.I.",
+              "Lewis J.",
+              "Lewis S.",
+              "Lin S.-P.",
+              "Loh P.",
+              "Malaj E.",
+              "Nguyen T.",
+              "Pan H.",
+              "Phan S.",
+              "Qi S.",
+              "Qian Y.",
+              "Ray L.",
+              "Ren Q.",
+              "Shaull S.",
+              "Sloan D.",
+              "Song L.",
+              "Wang Q.",
+              "Wang Y.",
+              "Wang Z.",
+              "White J.",
+              "Willingham D.",
+              "Wu H.",
+              "Yao Z.",
+              "Zhan M.",
+              "Zhang G.",
+              "Chissoe S.",
+              "Murray J.",
+              "Miller N.",
+              "Minx P.",
+              "Fulton R.",
+              "Johnson D.",
+              "Bemis G.",
+              "Bentley D.",
+              "Bradshaw H.",
+              "Bourne S.",
+              "Cordes M.",
+              "Du Z.",
+              "Fulton L.",
+              "Goela D.",
+              "Graves T.",
+              "Hawkins J.",
+              "Hinds K.",
+              "Kemp K.",
+              "Latreille P.",
+              "Layman D.",
+              "Ozersky P.",
+              "Rohlfing T.",
+              "Scheet P.",
+              "Walker C.",
+              "Wamsley A.",
+              "Wohldmann P.",
+              "Pepin K.",
+              "Nelson J.",
+              "Korf I.",
+              "Bedell J.A.",
+              "Hillier L.W.",
+              "Mardis E.",
+              "Waterston R.",
+              "Wilson R.",
+              "Emanuel B.S.",
+              "Shaikh T.",
+              "Kurahashi H.",
+              "Saitta S.",
+              "Budarf M.L.",
+              "McDermid H.E.",
+              "Johnson A.",
+              "Wong A.C.C.",
+              "Morrow B.E.",
+              "Edelmann L.",
+              "Kim U.J.",
+              "Shizuya H.",
+              "Simon M.I.",
+              "Dumanski J.P.",
+              "Peyrard M.",
+              "Kedra D.",
+              "Seroussi E.",
+              "Fransson I.",
+              "Tapia I.",
+              "Bruder C.E.",
+              "O'Brien K.P.",
+              "Wilkinson P.",
+              "Bodenteich A.",
+              "Hartman K.",
+              "Hu X.",
+              "Khan A.S.",
+              "Lane L.",
+              "Tilahun Y.",
+              "Wright H."
+            ],
+            "citationCrossReferences": [
+              {
+                "database": "PubMed",
+                "id": "10591208"
+              },
+              {
+                "database": "DOI",
+                "id": "10.1038/990031"
+              }
+            ],
+            "title": "The DNA sequence of human chromosome 22.",
+            "publicationDate": "1999",
+            "journal": "Nature",
+            "firstPage": "489",
+            "lastPage": "495",
+            "volume": "402"
+          },
+          "referencePositions": [
+            "NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]"
+          ]
+        },
+        {
+          "referenceNumber": 6,
+          "citation": {
+            "id": "15489334",
+            "citationType": "journal article",
+            "authoringGroup": [
+              "The MGC Project Team"
+            ],
+            "citationCrossReferences": [
+              {
+                "database": "PubMed",
+                "id": "15489334"
+              },
+              {
+                "database": "DOI",
+                "id": "10.1101/gr.2596504"
+              }
+            ],
+            "title": "The status, quality, and expansion of the NIH full-length cDNA project: the Mammalian Gene Collection (MGC).",
+            "publicationDate": "2004",
+            "journal": "Genome Res.",
+            "firstPage": "2121",
+            "lastPage": "2127",
+            "volume": "14"
+          },
+          "referencePositions": [
+            "NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] (ISOFORM 1)",
+            "NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA] OF 606-1026 (ISOFORM 2)",
+            "VARIANT ALA-LYS-SER-PRO-GLU-LYS-645 INS"
+          ],
+          "referenceComments": [
+            {
+              "value": "Eye",
+              "type": "TISSUE"
+            }
+          ]
+        },
+        {
+          "referenceNumber": 7,
+          "citation": {
+            "id": "8621664",
+            "citationType": "journal article",
+            "authors": [
+              "Mukai H.",
+              "Toshimori M.",
+              "Shibata H.",
+              "Kitagawa M.",
+              "Shimakawa M.",
+              "Miyahara M.",
+              "Sunakawa H.",
+              "Ono Y."
+            ],
+            "citationCrossReferences": [
+              {
+                "database": "PubMed",
+                "id": "8621664"
+              },
+              {
+                "database": "DOI",
+                "id": "10.1074/jbc.271.16.9816"
+              }
+            ],
+            "title": "PKN associates and phosphorylates the head-rod domain of neurofilament protein.",
+            "publicationDate": "1996",
+            "journal": "J. Biol. Chem.",
+            "firstPage": "9816",
+            "lastPage": "9822",
+            "volume": "271"
+          },
+          "referencePositions": [
+            "PHOSPHORYLATION BY PKN1"
+          ]
+        },
+        {
+          "referenceNumber": 8,
+          "citation": {
+            "id": "24275569",
+            "citationType": "journal article",
+            "authors": [
+              "Bian Y.",
+              "Song C.",
+              "Cheng K.",
+              "Dong M.",
+              "Wang F.",
+              "Huang J.",
+              "Sun D.",
+              "Wang L.",
+              "Ye M.",
+              "Zou H."
+            ],
+            "citationCrossReferences": [
+              {
+                "database": "PubMed",
+                "id": "24275569"
+              },
+              {
+                "database": "DOI",
+                "id": "10.1016/j.jprot.2013.11.014"
+              }
+            ],
+            "title": "An enzyme assisted RP-RPLC approach for in-depth analysis of human liver phosphoproteome.",
+            "publicationDate": "2014",
+            "journal": "J. Proteomics",
+            "firstPage": "253",
+            "lastPage": "262",
+            "volume": "96"
+          },
+          "referencePositions": [
+            "PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT SER-540; SER-574; SER-628; SER-668 AND SER-682",
+            "IDENTIFICATION BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS]"
+          ],
+          "referenceComments": [
+            {
+              "value": "Liver",
+              "type": "TISSUE"
+            }
+          ]
+        },
+        {
+          "referenceNumber": 9,
+          "citation": {
+            "id": "27040688",
+            "citationType": "journal article",
+            "authors": [
+              "Rebelo A.P.",
+              "Abrams A.J.",
+              "Cottenie E.",
+              "Horga A.",
+              "Gonzalez M.",
+              "Bis D.M.",
+              "Sanchez-Mejias A.",
+              "Pinto M.",
+              "Buglo E.",
+              "Markel K.",
+              "Prince J.",
+              "Laura M.",
+              "Houlden H.",
+              "Blake J.",
+              "Woodward C.",
+              "Sweeney M.G.",
+              "Holton J.L.",
+              "Hanna M.",
+              "Dallman J.E.",
+              "Auer-Grumbach M.",
+              "Reilly M.M.",
+              "Zuchner S."
+            ],
+            "citationCrossReferences": [
+              {
+                "database": "PubMed",
+                "id": "27040688"
+              },
+              {
+                "database": "DOI",
+                "id": "10.1016/j.ajhg.2016.02.022"
+              }
+            ],
+            "title": "Cryptic amyloidogenic elements in the 3' UTRs of neurofilament genes trigger axonal neuropathy.",
+            "publicationDate": "2016",
+            "journal": "Am. J. Hum. Genet.",
+            "firstPage": "597",
+            "lastPage": "614",
+            "volume": "98"
+          },
+          "referencePositions": [
+            "SUBCELLULAR LOCATION",
+            "INVOLVEMENT IN CMT2CC"
+          ]
+        },
+        {
+          "referenceNumber": 10,
+          "citation": {
+            "id": "7849698",
+            "citationType": "journal article",
+            "authors": [
+              "Figlewicz D.A.",
+              "Krizus A.",
+              "Martinoli M.G.",
+              "Meininger V.",
+              "Dib M.",
+              "Rouleau G.A.",
+              "Julien J.-P."
+            ],
+            "citationCrossReferences": [
+              {
+                "database": "PubMed",
+                "id": "7849698"
+              },
+              {
+                "database": "DOI",
+                "id": "10.1093/hmg/3.10.1757"
+              }
+            ],
+            "title": "Variants of the heavy neurofilament subunit are associated with the development of amyotrophic lateral sclerosis.",
+            "publicationDate": "1994",
+            "journal": "Hum. Mol. Genet.",
+            "firstPage": "1757",
+            "lastPage": "1761",
+            "volume": "3"
+          },
+          "referencePositions": [
+            "VARIANT ALS LYS-790 DEL"
+          ]
+        }
+      ],
+      "uniProtKBCrossReferences": [
+        {
+          "database": "EMBL",
+          "id": "X15306",
+          "properties": [
+            {
+              "key": "ProteinId",
+              "value": "CAA33366.1"
+            },
+            {
+              "key": "Status",
+              "value": "-"
+            },
+            {
+              "key": "MoleculeType",
+              "value": "Genomic_DNA"
+            }
+          ]
+        },
+        {
+          "database": "EMBL",
+          "id": "X15307",
+          "properties": [
+            {
+              "key": "ProteinId",
+              "value": "CAA33366.1"
+            },
+            {
+              "key": "Status",
+              "value": "JOINED"
+            },
+            {
+              "key": "MoleculeType",
+              "value": "Genomic_DNA"
+            }
+          ]
+        },
+        {
+          "database": "EMBL",
+          "id": "X15308",
+          "properties": [
+            {
+              "key": "ProteinId",
+              "value": "CAA33366.1"
+            },
+            {
+              "key": "Status",
+              "value": "JOINED"
+            },
+            {
+              "key": "MoleculeType",
+              "value": "Genomic_DNA"
+            }
+          ]
+        },
+        {
+          "database": "EMBL",
+          "id": "X15309",
+          "properties": [
+            {
+              "key": "ProteinId",
+              "value": "CAA33366.1"
+            },
+            {
+              "key": "Status",
+              "value": "JOINED"
+            },
+            {
+              "key": "MoleculeType",
+              "value": "Genomic_DNA"
+            }
+          ]
+        },
+        {
+          "database": "EMBL",
+          "id": "AF203032",
+          "properties": [
+            {
+              "key": "ProteinId",
+              "value": "AAF13722.1"
+            },
+            {
+              "key": "Status",
+              "value": "-"
+            },
+            {
+              "key": "MoleculeType",
+              "value": "mRNA"
+            }
+          ]
+        },
+        {
+          "database": "EMBL",
+          "id": "AB020652",
+          "properties": [
+            {
+              "key": "ProteinId",
+              "value": "BAA74868.2"
+            },
+            {
+              "key": "Status",
+              "value": "ALT_INIT"
+            },
+            {
+              "key": "MoleculeType",
+              "value": "mRNA"
+            }
+          ]
+        },
+        {
+          "database": "EMBL",
+          "id": "AK302660",
+          "properties": [
+            {
+              "key": "ProteinId",
+              "value": "BAG63896.1"
+            },
+            {
+              "key": "Status",
+              "value": "ALT_INIT"
+            },
+            {
+              "key": "MoleculeType",
+              "value": "mRNA"
+            }
+          ]
+        },
+        {
+          "database": "EMBL",
+          "id": "AC000035",
+          "properties": [
+            {
+              "key": "ProteinId",
+              "value": "-"
+            },
+            {
+              "key": "Status",
+              "value": "NOT_ANNOTATED_CDS"
+            },
+            {
+              "key": "MoleculeType",
+              "value": "Genomic_DNA"
+            }
+          ]
+        },
+        {
+          "database": "EMBL",
+          "id": "BC008648",
+          "properties": [
+            {
+              "key": "ProteinId",
+              "value": "AAH08648.1"
+            },
+            {
+              "key": "Status",
+              "value": "-"
+            },
+            {
+              "key": "MoleculeType",
+              "value": "mRNA"
+            }
+          ]
+        },
+        {
+          "database": "EMBL",
+          "id": "BC073969",
+          "properties": [
+            {
+              "key": "ProteinId",
+              "value": "AAH73969.1"
+            },
+            {
+              "key": "Status",
+              "value": "-"
+            },
+            {
+              "key": "MoleculeType",
+              "value": "mRNA"
+            }
+          ]
+        },
+        {
+          "database": "CCDS",
+          "id": "CCDS13858.1",
+          "properties": [
+            {
+              "key": "Description",
+              "value": "-"
+            }
+          ],
+          "isoformId": "P12036-1"
+        },
+        {
+          "database": "PIR",
+          "id": "S00979",
+          "properties": [
+            {
+              "key": "EntryName",
+              "value": "QFHUH"
+            }
+          ]
+        },
+        {
+          "database": "RefSeq",
+          "id": "NP_066554.2",
+          "properties": [
+            {
+              "key": "NucleotideSequenceId",
+              "value": "NM_021076.3"
+            }
+          ],
+          "isoformId": "P12036-1"
+        },
+        {
+          "database": "AlphaFoldDB",
+          "id": "P12036",
+          "properties": [
+            {
+              "key": "Description",
+              "value": "-"
+            }
+          ]
+        },
+        {
+          "database": "SMR",
+          "id": "P12036",
+          "properties": [
+            {
+              "key": "Description",
+              "value": "-"
+            }
+          ]
+        },
+        {
+          "database": "BioGRID",
+          "id": "110819",
+          "properties": [
+            {
+              "key": "Interactions",
+              "value": "62"
+            }
+          ]
+        },
+        {
+          "database": "FunCoup",
+          "id": "P12036",
+          "properties": [
+            {
+              "key": "Number of interactors",
+              "value": "217"
+            }
+          ]
+        },
+        {
+          "database": "IntAct",
+          "id": "P12036",
+          "properties": [
+            {
+              "key": "Interactions",
+              "value": "44"
+            }
+          ]
+        },
+        {
+          "database": "MINT",
+          "id": "P12036",
+          "properties": [
+            {
+              "key": "Description",
+              "value": "-"
+            }
+          ]
+        },
+        {
+          "database": "NDEx",
+          "id": "IQUERY-CP-NEFH",
+          "properties": [
+            {
+              "key": "Evidences",
+              "value": "2 NDEx IQuery Curated Pathways"
+            }
+          ]
+        },
+        {
+          "database": "STRING",
+          "id": "9606.ENSP00000311997",
+          "properties": [
+            {
+              "key": "Description",
+              "value": "-"
+            }
+          ]
+        },
+        {
+          "database": "CarbonylDB",
+          "id": "P12036",
+          "properties": [
+            {
+              "key": "Description",
+              "value": "-"
+            }
+          ]
+        },
+        {
+          "database": "GlyCosmos",
+          "id": "P12036",
+          "properties": [
+            {
+              "key": "glycosylation",
+              "value": "4 sites, 1 glycan"
+            }
+          ]
+        },
+        {
+          "database": "GlyGen",
+          "id": "P12036",
+          "properties": [
+            {
+              "key": "glycosylation",
+              "value": "11 sites, 1 O-linked glycan (10 sites)"
+            }
+          ]
+        },
+        {
+          "database": "iPTMnet",
+          "id": "P12036",
+          "properties": [
+            {
+              "key": "Description",
+              "value": "-"
+            }
+          ]
+        },
+        {
+          "database": "PhosphoSitePlus",
+          "id": "P12036",
+          "properties": [
+            {
+              "key": "Description",
+              "value": "-"
+            }
+          ]
+        },
+        {
+          "database": "SwissPalm",
+          "id": "P12036",
+          "properties": [
+            {
+              "key": "Description",
+              "value": "-"
+            }
+          ]
+        },
+        {
+          "database": "BioMuta",
+          "id": "NEFH",
+          "properties": [
+            {
+              "key": "Description",
+              "value": "-"
+            }
+          ]
+        },
+        {
+          "database": "DMDM",
+          "id": "226726294",
+          "properties": [
+            {
+              "key": "Description",
+              "value": "-"
+            }
+          ]
+        },
+        {
+          "database": "jPOST",
+          "id": "P12036",
+          "properties": [
+            {
+              "key": "Description",
+              "value": "-"
+            }
+          ]
+        },
+        {
+          "database": "MassIVE",
+          "id": "P12036",
+          "properties": [
+            {
+              "key": "Description",
+              "value": "-"
+            }
+          ]
+        },
+        {
+          "database": "PaxDb",
+          "id": "9606-ENSP00000311997",
+          "properties": [
+            {
+              "key": "Description",
+              "value": "-"
+            }
+          ]
+        },
+        {
+          "database": "PeptideAtlas",
+          "id": "P12036",
+          "properties": [
+            {
+              "key": "Description",
+              "value": "-"
+            }
+          ]
+        },
+        {
+          "database": "ProteomicsDB",
+          "id": "52821",
+          "properties": [
+            {
+              "key": "Description",
+              "value": "-"
+            }
+          ],
+          "isoformId": "P12036-1"
+        },
+        {
+          "database": "ProteomicsDB",
+          "id": "52822",
+          "properties": [
+            {
+              "key": "Description",
+              "value": "-"
+            }
+          ],
+          "isoformId": "P12036-2"
+        },
+        {
+          "database": "Pumba",
+          "id": "P12036",
+          "properties": [
+            {
+              "key": "Description",
+              "value": "-"
+            }
+          ]
+        },
+        {
+          "database": "Antibodypedia",
+          "id": "3579",
+          "properties": [
+            {
+              "key": "antibodies",
+              "value": "1744 antibodies from 48 providers"
+            }
+          ]
+        },
+        {
+          "database": "DNASU",
+          "id": "4744",
+          "properties": [
+            {
+              "key": "Description",
+              "value": "-"
+            }
+          ]
+        },
+        {
+          "database": "Ensembl",
+          "id": "ENST00000310624.7",
+          "properties": [
+            {
+              "key": "ProteinId",
+              "value": "ENSP00000311997.6"
+            },
+            {
+              "key": "GeneId",
+              "value": "ENSG00000100285.10"
+            }
+          ],
+          "isoformId": "P12036-1"
+        },
+        {
+          "database": "GeneID",
+          "id": "4744",
+          "properties": [
+            {
+              "key": "Description",
+              "value": "-"
+            }
+          ]
+        },
+        {
+          "database": "KEGG",
+          "id": "hsa:4744",
+          "properties": [
+            {
+              "key": "Description",
+              "value": "-"
+            }
+          ]
+        },
+        {
+          "database": "MANE-Select",
+          "id": "ENST00000310624.7",
+          "properties": [
+            {
+              "key": "ProteinId",
+              "value": "ENSP00000311997.6"
+            },
+            {
+              "key": "RefSeqNucleotideId",
+              "value": "NM_021076.4"
+            },
+            {
+              "key": "RefSeqProteinId",
+              "value": "NP_066554.2"
+            }
+          ]
+        },
+        {
+          "database": "UCSC",
+          "id": "uc003afo.4",
+          "properties": [
+            {
+              "key": "OrganismName",
+              "value": "human"
+            }
+          ],
+          "isoformId": "P12036-1"
+        },
+        {
+          "database": "AGR",
+          "id": "HGNC:7737",
+          "properties": [
+            {
+              "key": "Description",
+              "value": "-"
+            }
+          ]
+        },
+        {
+          "database": "ClinPGx",
+          "id": "PA31540",
+          "properties": [
+            {
+              "key": "Description",
+              "value": "-"
+            }
+          ]
+        },
+        {
+          "database": "CTD",
+          "id": "4744",
+          "properties": [
+            {
+              "key": "Description",
+              "value": "-"
+            }
+          ]
+        },
+        {
+          "database": "DisGeNET",
+          "id": "4744",
+          "properties": [
+            {
+              "key": "Description",
+              "value": "-"
+            }
+          ]
+        },
+        {
+          "database": "GeneCards",
+          "id": "NEFH",
+          "properties": [
+            {
+              "key": "Description",
+              "value": "-"
+            }
+          ]
+        },
+        {
+          "database": "GeneReviews",
+          "id": "NEFH",
+          "properties": [
+            {
+              "key": "Description",
+              "value": "-"
+            }
+          ]
+        },
+        {
+          "database": "HGNC",
+          "id": "HGNC:7737",
+          "properties": [
+            {
+              "key": "GeneName",
+              "value": "NEFH"
+            }
+          ]
+        },
+        {
+          "database": "HPA",
+          "id": "ENSG00000100285",
+          "properties": [
+            {
+              "key": "ExpressionPatterns",
+              "value": "Group enriched (brain, prostate)"
+            }
+          ]
+        },
+        {
+          "database": "MalaCards",
+          "id": "NEFH",
+          "properties": [
+            {
+              "key": "Description",
+              "value": "-"
+            }
+          ]
+        },
+        {
+          "database": "MIM",
+          "id": "105400",
+          "properties": [
+            {
+              "key": "Type",
+              "value": "phenotype"
+            }
+          ]
+        },
+        {
+          "database": "MIM",
+          "id": "162230",
+          "properties": [
+            {
+              "key": "Type",
+              "value": "gene"
+            }
+          ]
+        },
+        {
+          "database": "MIM",
+          "id": "616924",
+          "properties": [
+            {
+              "key": "Type",
+              "value": "phenotype"
+            }
+          ]
+        },
+        {
+          "database": "OpenTargets",
+          "id": "ENSG00000100285",
+          "properties": [
+            {
+              "key": "Description",
+              "value": "-"
+            }
+          ]
+        },
+        {
+          "database": "Orphanet",
+          "id": "803",
+          "properties": [
+            {
+              "key": "Disease",
+              "value": "Amyotrophic lateral sclerosis"
+            }
+          ]
+        },
+        {
+          "database": "VEuPathDB",
+          "id": "HostDB:ENSG00000100285",
+          "properties": [
+            {
+              "key": "Description",
+              "value": "-"
+            }
+          ]
+        },
+        {
+          "database": "eggNOG",
+          "id": "ENOG502QYDU",
+          "properties": [
+            {
+              "key": "ToxonomicScope",
+              "value": "Eukaryota"
+            }
+          ]
+        },
+        {
+          "database": "GeneTree",
+          "id": "ENSGT00940000161893",
+          "properties": [
+            {
+              "key": "Description",
+              "value": "-"
+            }
+          ]
+        },
+        {
+          "database": "HOGENOM",
+          "id": "CLU_012560_7_2_1",
+          "properties": [
+            {
+              "key": "Description",
+              "value": "-"
+            }
+          ]
+        },
+        {
+          "database": "InParanoid",
+          "id": "P12036",
+          "properties": [
+            {
+              "key": "Description",
+              "value": "-"
+            }
+          ]
+        },
+        {
+          "database": "OMA",
+          "id": "FHSWTRT",
+          "properties": [
+            {
+              "key": "Fingerprint",
+              "value": "-"
+            }
+          ]
+        },
+        {
+          "database": "OrthoDB",
+          "id": "2441647at2759",
+          "properties": [
+            {
+              "key": "Description",
+              "value": "-"
+            }
+          ]
+        },
+        {
+          "database": "PAN-GO",
+          "id": "P12036",
+          "properties": [
+            {
+              "key": "Number of GO annotations",
+              "value": "5 GO annotations based on evolutionary models"
+            }
+          ]
+        },
+        {
+          "database": "PhylomeDB",
+          "id": "P12036",
+          "properties": [
+            {
+              "key": "Description",
+              "value": "-"
+            }
+          ]
+        },
+        {
+          "database": "PathwayCommons",
+          "id": "P12036",
+          "properties": [
+            {
+              "key": "Description",
+              "value": "-"
+            }
+          ]
+        },
+        {
+          "database": "SignaLink",
+          "id": "P12036",
+          "properties": [
+            {
+              "key": "Description",
+              "value": "-"
+            }
+          ]
+        },
+        {
+          "database": "SIGNOR",
+          "id": "P12036",
+          "properties": [
+            {
+              "key": "Description",
+              "value": "-"
+            }
+          ]
+        },
+        {
+          "database": "Agora",
+          "id": "ENSG00000100285",
+          "properties": [
+            {
+              "key": "NominatedTarget",
+              "value": "-"
+            }
+          ]
+        },
+        {
+          "database": "BioGRID-ORCS",
+          "id": "4744",
+          "properties": [
+            {
+              "key": "hits",
+              "value": "13 hits in 1154 CRISPR screens"
+            }
+          ]
+        },
+        {
+          "database": "CD-CODE",
+          "id": "232F8A39",
+          "properties": [
+            {
+              "key": "EntryName",
+              "value": "P-body"
+            }
+          ]
+        },
+        {
+          "database": "CD-CODE",
+          "id": "FB4E32DD",
+          "properties": [
+            {
+              "key": "EntryName",
+              "value": "Presynaptic clusters and postsynaptic densities"
+            }
+          ]
+        },
+        {
+          "database": "ChiTaRS",
+          "id": "NEFH",
+          "properties": [
+            {
+              "key": "OrganismName",
+              "value": "human"
+            }
+          ]
+        },
+        {
+          "database": "GenomeRNAi",
+          "id": "4744",
+          "properties": [
+            {
+              "key": "Description",
+              "value": "-"
+            }
+          ]
+        },
+        {
+          "database": "Pharos",
+          "id": "P12036",
+          "properties": [
+            {
+              "key": "DevelopmentLevel",
+              "value": "Tbio"
+            }
+          ]
+        },
+        {
+          "database": "PRO",
+          "id": "PR:P12036",
+          "properties": [
+            {
+              "key": "Description",
+              "value": "-"
+            }
+          ]
+        },
+        {
+          "database": "Proteomes",
+          "id": "UP000005640",
+          "properties": [
+            {
+              "key": "Component",
+              "value": "Chromosome 22"
+            }
+          ]
+        },
+        {
+          "database": "RNAct",
+          "id": "P12036",
+          "properties": [
+            {
+              "key": "moleculeType",
+              "value": "protein"
+            }
+          ]
+        },
+        {
+          "database": "Bgee",
+          "id": "ENSG00000100285",
+          "properties": [
+            {
+              "key": "ExpressionPatterns",
+              "value": "Expressed in dorsal root ganglion and 163 other cell types or tissues"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0030424",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:axon"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IBA:GO_Central"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005737",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:cytoplasm"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:UniProtKB"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "27040688"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005856",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:cytoskeleton"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:ARUK-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "24327345"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0097418",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:neurofibrillary tangle"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IDA:BHF-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000314",
+              "source": "PubMed",
+              "id": "21828286"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005883",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:neurofilament"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IBA:GO_Central"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0014069",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:postsynaptic density"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:Ensembl"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0099160",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:postsynaptic intermediate filament cytoskeleton"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:Ensembl"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0098685",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "C:Schaffer collateral - CA1 synapse"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:Ensembl"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0070840",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:dynein complex binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "TAS:BHF-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000304",
+              "source": "PubMed",
+              "id": "17498690"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0019894",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:kinesin binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "TAS:BHF-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000304",
+              "source": "PubMed",
+              "id": "17498690"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0008017",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:microtubule binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "TAS:BHF-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000304",
+              "source": "PubMed",
+              "id": "17498690"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0019901",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:protein kinase binding"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IPI:ARUK-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000353",
+              "source": "PubMed",
+              "id": "24327345"
+            },
+            {
+              "evidenceCode": "ECO:0000353",
+              "source": "PubMed",
+              "id": "9313898"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0030674",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:protein-macromolecule adaptor activity"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "ISS:BHF-UCL"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0005200",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:structural constituent of cytoskeleton"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IMP:BHF-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000315",
+              "source": "PubMed",
+              "id": "7536898"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0099184",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "F:structural constituent of postsynaptic intermediate filament cytoskeleton"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IBA:GO_Central"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0061564",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:axon development"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IMP:BHF-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000315",
+              "source": "PubMed",
+              "id": "7536898"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0007409",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:axonogenesis"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "TAS:BHF-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000304",
+              "source": "PubMed",
+              "id": "17498690"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0030031",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:cell projection assembly"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "TAS:BHF-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000304",
+              "source": "PubMed",
+              "id": "17498690"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0045110",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:intermediate filament bundle assembly"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IBA:GO_Central"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0033693",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:neurofilament bundle assembly"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IMP:BHF-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000315",
+              "source": "PubMed",
+              "id": "7536898"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:0099170",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:postsynaptic modulation of chemical synaptic transmission"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IEA:Ensembl"
+            }
+          ]
+        },
+        {
+          "database": "GO",
+          "id": "GO:1902513",
+          "properties": [
+            {
+              "key": "GoTerm",
+              "value": "P:regulation of organelle transport along microtubule"
+            },
+            {
+              "key": "GoEvidenceType",
+              "value": "IMP:BHF-UCL"
+            }
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000315",
+              "source": "PubMed",
+              "id": "7536898"
+            }
+          ]
+        },
+        {
+          "database": "FunFam",
+          "id": "1.20.5.1160:FF:000010",
+          "properties": [
+            {
+              "key": "EntryName",
+              "value": "neurofilament heavy polypeptide"
+            },
+            {
+              "key": "MatchStatus",
+              "value": "1"
+            }
+          ]
+        },
+        {
+          "database": "FunFam",
+          "id": "1.20.5.170:FF:000002",
+          "properties": [
+            {
+              "key": "EntryName",
+              "value": "Type I keratin KA11"
+            },
+            {
+              "key": "MatchStatus",
+              "value": "1"
+            }
+          ]
+        },
+        {
+          "database": "Gene3D",
+          "id": "1.20.5.170",
+          "properties": [
+            {
+              "key": "EntryName",
+              "value": "-"
+            },
+            {
+              "key": "MatchStatus",
+              "value": "1"
+            }
+          ]
+        },
+        {
+          "database": "Gene3D",
+          "id": "1.20.5.500",
+          "properties": [
+            {
+              "key": "EntryName",
+              "value": "Single helix bin"
+            },
+            {
+              "key": "MatchStatus",
+              "value": "1"
+            }
+          ]
+        },
+        {
+          "database": "Gene3D",
+          "id": "1.20.5.1160",
+          "properties": [
+            {
+              "key": "EntryName",
+              "value": "Vasodilator-stimulated phosphoprotein"
+            },
+            {
+              "key": "MatchStatus",
+              "value": "1"
+            }
+          ]
+        },
+        {
+          "database": "InterPro",
+          "id": "IPR010790",
+          "properties": [
+            {
+              "key": "EntryName",
+              "value": "DUF1388"
+            }
+          ]
+        },
+        {
+          "database": "InterPro",
+          "id": "IPR018039",
+          "properties": [
+            {
+              "key": "EntryName",
+              "value": "IF_conserved"
+            }
+          ]
+        },
+        {
+          "database": "InterPro",
+          "id": "IPR039008",
+          "properties": [
+            {
+              "key": "EntryName",
+              "value": "IF_rod_dom"
+            }
+          ]
+        },
+        {
+          "database": "PANTHER",
+          "id": "PTHR23214:SF1",
+          "properties": [
+            {
+              "key": "EntryName",
+              "value": "NEUROFILAMENT HEAVY POLYPEPTIDE"
+            },
+            {
+              "key": "MatchStatus",
+              "value": "1"
+            }
+          ]
+        },
+        {
+          "database": "PANTHER",
+          "id": "PTHR23214",
+          "properties": [
+            {
+              "key": "EntryName",
+              "value": "NEUROFILAMENT TRIPLET H PROTEIN"
+            },
+            {
+              "key": "MatchStatus",
+              "value": "1"
+            }
+          ]
+        },
+        {
+          "database": "Pfam",
+          "id": "PF07142",
+          "properties": [
+            {
+              "key": "EntryName",
+              "value": "DUF1388"
+            },
+            {
+              "key": "MatchStatus",
+              "value": "2"
+            }
+          ]
+        },
+        {
+          "database": "Pfam",
+          "id": "PF00038",
+          "properties": [
+            {
+              "key": "EntryName",
+              "value": "Filament"
+            },
+            {
+              "key": "MatchStatus",
+              "value": "1"
+            }
+          ]
+        },
+        {
+          "database": "SMART",
+          "id": "SM01391",
+          "properties": [
+            {
+              "key": "EntryName",
+              "value": "Filament"
+            },
+            {
+              "key": "MatchStatus",
+              "value": "1"
+            }
+          ]
+        },
+        {
+          "database": "SUPFAM",
+          "id": "SSF64593",
+          "properties": [
+            {
+              "key": "EntryName",
+              "value": "Intermediate filament protein, coiled coil region"
+            },
+            {
+              "key": "MatchStatus",
+              "value": "2"
+            }
+          ]
+        },
+        {
+          "database": "PROSITE",
+          "id": "PS00226",
+          "properties": [
+            {
+              "key": "EntryName",
+              "value": "IF_ROD_1"
+            },
+            {
+              "key": "MatchStatus",
+              "value": "1"
+            }
+          ]
+        },
+        {
+          "database": "PROSITE",
+          "id": "PS51842",
+          "properties": [
+            {
+              "key": "EntryName",
+              "value": "IF_ROD_2"
+            },
+            {
+              "key": "MatchStatus",
+              "value": "1"
+            }
+          ]
+        }
+      ],
+      "sequence": {
+        "value": "MMSFGGADALLGAPFAPLHGGGSLHYALARKGGAGGTRSAAGSSSGFHSWTRTSVSSVSASPSRFRGAGAASSTDSLDTLSNGPEGCMVAVATSRSEKEQLQALNDRFAGYIDKVRQLEAHNRSLEGEAAALRQQQAGRSAMGELYEREVREMRGAVLRLGAARGQLRLEQEHLLEDIAHVRQRLDDEARQREEAEAAARALARFAQEAEAARVDLQKKAQALQEECGYLRRHHQEEVGELLGQIQGSGAAQAQMQAETRDALKCDVTSALREIRAQLEGHAVQSTLQSEEWFRVRLDRLSEAAKVNTDAMRSAQEEITEYRRQLQARTTELEALKSTKDSLERQRSELEDRHQADIASYQEAIQQLDAELRNTKWEMAAQLREYQDLLNVKMALDIEIAAYRKLLEGEECRIGFGPIPFSLPEGLPKIPSVSTHIKVKSEEKIKVVEKSEKETVIVEEQTEETQVTEEVTEEEEKEAKEEEGKEEEGGEEEEAEGGEEETKSPPAEEAASPEKEAKSPVKEEAKSPAEAKSPEKEEAKSPAEVKSPEKAKSPAKEEAKSPPEAKSPEKEEAKSPAEVKSPEKAKSPAKEEAKSPAEAKSPEKAKSPVKEEAKSPAEAKSPVKEEAKSPAEVKSPEKAKSPTKEEAKSPEKAKSPEKEEAKSPEKAKSPVKAEAKSPEKAKSPVKAEAKSPEKAKSPVKEEAKSPEKAKSPVKEEAKSPEKAKSPVKEEAKTPEKAKSPVKEEAKSPEKAKSPEKAKTLDVKSPEAKTPAKEEARSPADKFPEKAKSPVKEEVKSPEKAKSPLKEDAKAPEKEIPKKEEVKSPVKEEEKPQEVKVKEPPKKAEEEKAPATPKTEEKKDSKKEEAPKKEAPKPKVEEKKEPAVEKPKESKVEAKKEEAEDKKKVPTPEKEAPAKVEVKEDAKPKEKTEVAKKEPDDAKAKEPSKPAEKKEAAPEKKDTKEEKAKKPEEKPKTEAKAKEDDKTLSKEPSKPKAEKAEKSSSTDQKDSKPPEKATEDKAAKGK",
+        "length": 1020,
+        "molWeight": 111838,
+        "crc64": "43DBA75CF1727197",
+        "md5": "68DE0A32F3BD668528FE4E771F2F0A9F"
+      },
+      "extraAttributes": {
+        "countByCommentType": {
+          "FUNCTION": 1,
+          "SUBUNIT": 1,
+          "INTERACTION": 2,
+          "SUBCELLULAR LOCATION": 1,
+          "ALTERNATIVE PRODUCTS": 2,
+          "PTM": 3,
+          "POLYMORPHISM": 1,
+          "DISEASE": 2,
+          "SIMILARITY": 1,
+          "SEQUENCE CAUTION": 2,
+          "WEB RESOURCE": 1
+        },
+        "countByFeatureType": {
+          "Chain": 1,
+          "Domain": 1,
+          "Repeat": 30,
+          "Region": 12,
+          "Compositional bias": 4,
+          "Modified residue": 42,
+          "Alternative sequence": 1,
+          "Natural variant": 5
+        },
+        "uniParcId": "UPI00001AEF71"
+      }
+    },
+    {
+      "entryType": "UniProtKB unreviewed (TrEMBL)",
+      "primaryAccession": "Q16070",
+      "uniProtkbId": "Q16070_HUMAN",
+      "entryAudit": {
+        "firstPublicDate": "1996-11-01",
+        "lastAnnotationUpdateDate": "2025-02-05",
+        "lastSequenceUpdateDate": "1996-11-01",
+        "entryVersion": 41,
+        "sequenceVersion": 1
+      },
+      "annotationScore": 1.0,
+      "organism": {
+        "scientificName": "Homo sapiens",
+        "commonName": "Human",
+        "taxonId": 9606,
+        "evidences": [
+          {
+            "evidenceCode": "ECO:0000313",
+            "source": "EMBL",
+            "id": "AAB28609.1"
+          }
+        ],
+        "lineage": [
+          "Eukaryota",
+          "Metazoa",
+          "Chordata",
+          "Craniata",
+          "Vertebrata",
+          "Euteleostomi",
+          "Mammalia",
+          "Eutheria",
+          "Euarchontoglires",
+          "Primates",
+          "Haplorrhini",
+          "Catarrhini",
+          "Hominidae",
+          "Homo"
+        ]
+      },
+      "proteinExistence": "2: Evidence at transcript level",
+      "proteinDescription": {
+        "submissionNames": [
+          {
+            "fullName": {
+              "evidences": [
+                {
+                  "evidenceCode": "ECO:0000313",
+                  "source": "EMBL",
+                  "id": "AAB28609.1"
+                }
+              ],
+              "value": "Neurofilament heavy subunit"
+            }
+          }
+        ],
+        "flag": "Fragment"
+      },
+      "genes": [
+        {
+          "geneName": {
+            "evidences": [
+              {
+                "evidenceCode": "ECO:0000313",
+                "source": "EMBL",
+                "id": "AAB28609.1"
+              }
+            ],
+            "value": "NEFH"
+          }
+        }
+      ],
+      "features": [
+        {
+          "type": "Region",
+          "location": {
+            "start": {
+              "value": 1,
+              "modifier": "EXACT"
+            },
+            "end": {
+              "value": 20,
+              "modifier": "EXACT"
+            }
+          },
+          "description": "Disordered",
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000256",
+              "source": "SAM",
+              "id": "MobiDB-lite"
+            }
+          ]
+        },
+        {
+          "type": "Non-terminal residue",
+          "location": {
+            "start": {
+              "value": 20,
+              "modifier": "EXACT"
+            },
+            "end": {
+              "value": 20,
+              "modifier": "EXACT"
+            }
+          },
+          "description": "",
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000313",
+              "source": "EMBL",
+              "id": "AAB28609.1"
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "referenceNumber": 1,
+          "citation": {
+            "id": "8224877",
+            "citationType": "journal article",
+            "authors": [
+              "Figlewicz D.A.",
+              "Rouleau G.A.",
+              "Krizus A.",
+              "Julien J.P."
+            ],
+            "citationCrossReferences": [
+              {
+                "database": "PubMed",
+                "id": "8224877"
+              },
+              {
+                "database": "DOI",
+                "id": "10.1016/0378-1119(93)90211-K"
+              }
+            ],
+            "title": "Polymorphism in the multi-phosphorylation domain of the human neurofilament heavy-subunit-encoding gene.",
+            "publicationDate": "1993",
+            "journal": "Gene",
+            "firstPage": "297",
+            "lastPage": "300",
+            "volume": "132"
+          },
+          "referencePositions": [
+            "NUCLEOTIDE SEQUENCE"
+          ],
+          "evidences": [
+            {
+              "evidenceCode": "ECO:0000313",
+              "source": "EMBL",
+              "id": "AAB28609.1"
+            }
+          ]
+        }
+      ],
+      "uniProtKBCrossReferences": [
+        {
+          "database": "EMBL",
+          "id": "S66488",
+          "properties": [
+            {
+              "key": "ProteinId",
+              "value": "AAB28609.1"
+            },
+            {
+              "key": "Status",
+              "value": "-"
+            },
+            {
+              "key": "MoleculeType",
+              "value": "mRNA"
+            }
+          ]
+        },
+        {
+          "database": "PIR",
+          "id": "I53671",
+          "properties": [
+            {
+              "key": "EntryName",
+              "value": "I53671"
+            }
+          ]
+        },
+        {
+          "database": "AlphaFoldDB",
+          "id": "Q16070",
+          "properties": [
+            {
+              "key": "Description",
+              "value": "-"
+            }
+          ]
+        },
+        {
+          "database": "PeptideAtlas",
+          "id": "Q16070",
+          "properties": [
+            {
+              "key": "Description",
+              "value": "-"
+            }
+          ]
+        },
+        {
+          "database": "OrthoDB",
+          "id": "2441647at2759",
+          "properties": [
+            {
+              "key": "Description",
+              "value": "-"
+            }
+          ]
+        },
+        {
+          "database": "ChiTaRS",
+          "id": "NEFH",
+          "properties": [
+            {
+              "key": "OrganismName",
+              "value": "human"
+            }
+          ]
+        }
+      ],
+      "sequence": {
+        "value": "SPEKAKSPEKAKSPEKEEAK",
+        "length": 20,
+        "molWeight": 2198,
+        "crc64": "E9A0975B41FD8082",
+        "md5": "245EC4EA844B03C224B2A283891B1A64"
+      },
+      "extraAttributes": {
+        "countByFeatureType": {
+          "Region": 1,
+          "Non-terminal residue": 1
+        },
+        "uniParcId": "UPI0000072AF9"
+      }
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+[
+  {
+    "dbId": 975634,
+    "displayName": "Retinoid metabolism and transport",
+    "stId": "R-HSA-975634",
+    "stIdVersion": "R-HSA-975634.4",
+    "isInDisease": false,
+    "isInferred": false,
+    "maxDepth": 2,
+    "name": [
+      "Retinoid metabolism and transport"
+    ],
+    "releaseDate": "2010-12-14",
+    "releaseStatus": "UPDATED",
+    "speciesName": "Homo sapiens",
+    "hasDiagram": true,
+    "hasEHLD": false,
+    "lastUpdatedDate": "2017-12-18",
+    "schemaClass": "Pathway",
+    "className": "Pathway"
+  }
+]

@@ -1,0 +1,136 @@
+[
+  {
+    "dbId": 6803529,
+    "displayName": "FGFR2 alternative splicing",
+    "stId": "R-HSA-6803529",
+    "stIdVersion": "R-HSA-6803529.3",
+    "isInDisease": false,
+    "isInferred": false,
+    "maxDepth": 2,
+    "name": [
+      "FGFR2 alternative splicing"
+    ],
+    "releaseDate": "2016-03-23",
+    "speciesName": "Homo sapiens",
+    "doi": "10.3180/r-hsa-6803529.1",
+    "hasDiagram": false,
+    "hasEHLD": false,
+    "schemaClass": "Pathway",
+    "className": "Pathway"
+  },
+  {
+    "dbId": 72163,
+    "displayName": "mRNA Splicing - Major Pathway",
+    "stId": "R-HSA-72163",
+    "stIdVersion": "R-HSA-72163.6",
+    "isInDisease": false,
+    "isInferred": false,
+    "maxDepth": 2,
+    "name": [
+      "mRNA Splicing - Major Pathway",
+      "pre-mRNA splicing",
+      "U2 Dependent Splicing"
+    ],
+    "releaseDate": "2004-07-06",
+    "speciesName": "Homo sapiens",
+    "doi": "10.3180/R-HSA-72163.3",
+    "hasDiagram": false,
+    "hasEHLD": false,
+    "lastUpdatedDate": "2023-03-29",
+    "schemaClass": "Pathway",
+    "className": "Pathway"
+  },
+  {
+    "dbId": 72203,
+    "displayName": "Processing of Capped Intron-Containing Pre-mRNA",
+    "stId": "R-HSA-72203",
+    "stIdVersion": "R-HSA-72203.7",
+    "isInDisease": false,
+    "isInferred": false,
+    "maxDepth": 5,
+    "name": [
+      "Processing of Capped Intron-Containing Pre-mRNA"
+    ],
+    "releaseDate": "2004-07-06",
+    "speciesName": "Homo sapiens",
+    "hasDiagram": true,
+    "hasEHLD": false,
+    "lastUpdatedDate": "2023-03-29",
+    "schemaClass": "Pathway",
+    "className": "Pathway"
+  },
+  {
+    "dbId": 9692914,
+    "displayName": "SARS-CoV-1-host interactions",
+    "stId": "R-HSA-9692914",
+    "stIdVersion": "R-HSA-9692914.3",
+    "isInDisease": true,
+    "isInferred": false,
+    "maxDepth": 3,
+    "name": [
+      "SARS-CoV-1-host interactions"
+    ],
+    "releaseDate": "2022-09-14",
+    "speciesName": "Homo sapiens",
+    "hasDiagram": true,
+    "hasEHLD": false,
+    "schemaClass": "Pathway",
+    "className": "Pathway"
+  },
+  {
+    "dbId": 9735869,
+    "displayName": "SARS-CoV-1 modulates host translation machinery",
+    "stId": "R-HSA-9735869",
+    "stIdVersion": "R-HSA-9735869.2",
+    "isInDisease": true,
+    "isInferred": false,
+    "maxDepth": 2,
+    "name": [
+      "SARS-CoV-1 modulates host translation machinery"
+    ],
+    "releaseDate": "2022-09-14",
+    "speciesName": "Homo sapiens",
+    "hasDiagram": false,
+    "hasEHLD": false,
+    "schemaClass": "Pathway",
+    "className": "Pathway"
+  },
+  {
+    "dbId": 9770562,
+    "displayName": "mRNA Polyadenylation",
+    "stId": "R-HSA-9770562",
+    "stIdVersion": "R-HSA-9770562.2",
+    "isInDisease": false,
+    "isInferred": false,
+    "maxDepth": 2,
+    "name": [
+      "mRNA Polyadenylation"
+    ],
+    "releaseDate": "2025-12-08",
+    "speciesName": "Homo sapiens",
+    "doi": "10.3180/R-HSA-9770562.1",
+    "hasDiagram": true,
+    "hasEHLD": false,
+    "schemaClass": "Pathway",
+    "className": "Pathway"
+  },
+  {
+    "dbId": 9918481,
+    "displayName": "Dengue Virus-Host Interactions",
+    "stId": "R-HSA-9918481",
+    "stIdVersion": "R-HSA-9918481.1",
+    "isInDisease": true,
+    "isInferred": false,
+    "maxDepth": 3,
+    "name": [
+      "Dengue Virus-Host Interactions"
+    ],
+    "releaseDate": "2025-12-08",
+    "releaseStatus": "UPDATED",
+    "speciesName": "Homo sapiens",
+    "hasDiagram": true,
+    "hasEHLD": false,
+    "schemaClass": "Pathway",
+    "className": "Pathway"
+  }
+]

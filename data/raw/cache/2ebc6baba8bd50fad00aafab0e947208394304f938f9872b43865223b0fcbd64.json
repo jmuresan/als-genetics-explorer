@@ -1,0 +1,65 @@
+{
+  "header": {
+    "type": "esearch",
+    "version": "0.3"
+  },
+  "esearchresult": {
+    "count": "20",
+    "retmax": "20",
+    "retstart": "0",
+    "idlist": [
+      "3769514",
+      "3768961",
+      "3731469",
+      "3577351",
+      "3577350",
+      "3374828",
+      "3367048",
+      "3339347",
+      "3336067",
+      "3065375",
+      "3063767",
+      "3063745",
+      "2577126",
+      "2573589",
+      "2363893",
+      "1696347",
+      "1683689",
+      "1029635",
+      "776889",
+      "4807"
+    ],
+    "translationset": [],
+    "translationstack": [
+      {
+        "term": "TRPM7[gene]",
+        "field": "gene",
+        "count": "411",
+        "explode": "N"
+      },
+      {
+        "term": "amyotrophic[All Fields]",
+        "field": "All Fields",
+        "count": "10881",
+        "explode": "N"
+      },
+      {
+        "term": "lateral[All Fields]",
+        "field": "All Fields",
+        "count": "23718",
+        "explode": "N"
+      },
+      "AND",
+      {
+        "term": "sclerosis[All Fields]",
+        "field": "All Fields",
+        "count": "32827",
+        "explode": "N"
+      },
+      "AND",
+      "GROUP",
+      "AND"
+    ],
+    "querytranslation": "TRPM7[gene] AND (amyotrophic[All Fields] AND lateral[All Fields] AND sclerosis[All Fields])"
+  }
+}

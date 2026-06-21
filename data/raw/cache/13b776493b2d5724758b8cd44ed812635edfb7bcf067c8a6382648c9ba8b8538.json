@@ -1,0 +1,352 @@
+{
+  "data": {
+    "target": {
+      "drugAndClinicalCandidates": {
+        "count": 14,
+        "rows": [
+          {
+            "id": "0c35515b09c6a7c56ba8c78e107bdb61c15884201ce760d542c3179cc01f3e92",
+            "maxClinicalStage": "PHASE_1",
+            "drug": {
+              "id": "CHEMBL4650289",
+              "name": "KBP5209",
+              "maximumClinicalStage": "PHASE_1",
+              "mechanismsOfAction": {
+                "rows": [
+                  {
+                    "mechanismOfAction": "Epidermal growth factor receptor inhibitor"
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "id": "1aa6a98c44e61d827b30f900b922082ca201389015824d58c613872f805e574f",
+            "maxClinicalStage": "APPROVAL",
+            "drug": {
+              "id": "CHEMBL2105712",
+              "name": "AFATINIB DIMALEATE",
+              "maximumClinicalStage": "APPROVAL",
+              "mechanismsOfAction": {
+                "rows": [
+                  {
+                    "mechanismOfAction": "Receptor protein-tyrosine kinase erbB-4 inhibitor"
+                  },
+                  {
+                    "mechanismOfAction": "Epidermal growth factor receptor erbB1 inhibitor"
+                  },
+                  {
+                    "mechanismOfAction": "Receptor protein-tyrosine kinase erbB-2 inhibitor"
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "id": "2337accbf44aa8ec258c10911068321be17c1b53f5df86032e979f6cc083b740",
+            "maxClinicalStage": "APPROVAL",
+            "drug": {
+              "id": "CHEMBL24828",
+              "name": "VANDETANIB",
+              "maximumClinicalStage": "APPROVAL",
+              "mechanismsOfAction": {
+                "rows": [
+                  {
+                    "mechanismOfAction": "Ephrin receptor inhibitor"
+                  },
+                  {
+                    "mechanismOfAction": "Tyrosine-protein kinase BRK inhibitor"
+                  },
+                  {
+                    "mechanismOfAction": "Tyrosine-protein kinase receptor RET inhibitor"
+                  },
+                  {
+                    "mechanismOfAction": "Vascular endothelial growth factor receptor inhibitor"
+                  },
+                  {
+                    "mechanismOfAction": "Epidermal growth factor receptor inhibitor"
+                  },
+                  {
+                    "mechanismOfAction": "Tyrosine-protein kinase SRC inhibitor"
+                  },
+                  {
+                    "mechanismOfAction": "Tyrosine-protein kinase TIE-2 inhibitor"
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "id": "2c8d5c5454f41c4634360273604b07a489619fd565ba97e9d480d45545c87e6f",
+            "maxClinicalStage": "APPROVAL",
+            "drug": {
+              "id": "CHEMBL3989921",
+              "name": "NERATINIB MALEATE",
+              "maximumClinicalStage": "APPROVAL",
+              "mechanismsOfAction": {
+                "rows": [
+                  {
+                    "mechanismOfAction": "Receptor protein-tyrosine kinase erbB-4 inhibitor"
+                  },
+                  {
+                    "mechanismOfAction": "Epidermal growth factor receptor erbB1 inhibitor"
+                  },
+                  {
+                    "mechanismOfAction": "Receptor protein-tyrosine kinase erbB-2 inhibitor"
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "id": "2d7df5b08ad65c4dc18f2643a17923c4f934f11323b1d252db4f755705b8bc0f",
+            "maxClinicalStage": "PHASE_3",
+            "drug": {
+              "id": "CHEMBL3545154",
+              "name": "POZIOTINIB",
+              "maximumClinicalStage": "PHASE_3",
+              "mechanismsOfAction": {
+                "rows": [
+                  {
+                    "mechanismOfAction": "Epidermal growth factor receptor inhibitor"
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "id": "32cd6a279f66777ba94b2d9042579c820b2b6857bb22fe272da43fe0aab07411",
+            "maxClinicalStage": "PHASE_2",
+            "drug": {
+              "id": "CHEMBL545315",
+              "name": "CANERTINIB DIHYDROCHLORIDE",
+              "maximumClinicalStage": "PHASE_2",
+              "mechanismsOfAction": {
+                "rows": [
+                  {
+                    "mechanismOfAction": "Receptor protein-tyrosine kinase erbB-4 inhibitor"
+                  },
+                  {
+                    "mechanismOfAction": "Epidermal growth factor receptor erbB1 inhibitor"
+                  },
+                  {
+                    "mechanismOfAction": "Receptor protein-tyrosine kinase erbB-2 inhibitor"
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "id": "584527474139061b178e1d7eb67b3f2acf9fcd31f8cf267e30bb241e3e81bbea",
+            "maxClinicalStage": "PHASE_1",
+            "drug": {
+              "id": "CHEMBL3109738",
+              "name": "JNJ-26483327",
+              "maximumClinicalStage": "PHASE_1",
+              "mechanismsOfAction": {
+                "rows": [
+                  {
+                    "mechanismOfAction": "Receptor protein-tyrosine kinase erbB-4 inhibitor"
+                  },
+                  {
+                    "mechanismOfAction": "Tyrosine-protein kinase Lyn inhibitor"
+                  },
+                  {
+                    "mechanismOfAction": "Tyrosine-protein kinase YES inhibitor"
+                  },
+                  {
+                    "mechanismOfAction": "Epidermal growth factor receptor erbB1 inhibitor"
+                  },
+                  {
+                    "mechanismOfAction": "Receptor protein-tyrosine kinase erbB-2 inhibitor"
+                  },
+                  {
+                    "mechanismOfAction": "Tyrosine-protein kinase FYN inhibitor"
+                  },
+                  {
+                    "mechanismOfAction": "Tyrosine-protein kinase LCK inhibitor"
+                  },
+                  {
+                    "mechanismOfAction": "Tyrosine-protein kinase SRC inhibitor"
+                  },
+                  {
+                    "mechanismOfAction": "Vascular endothelial growth factor receptor 3 inhibitor"
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "id": "6ab0a5d9f77b89c1f115553c226a2c857eee4f056107bcf27634bedcda764932",
+            "maxClinicalStage": "PHASE_3",
+            "drug": {
+              "id": "CHEMBL2110732",
+              "name": "DACOMITINIB ANHYDROUS",
+              "maximumClinicalStage": "PHASE_3",
+              "mechanismsOfAction": {
+                "rows": [
+                  {
+                    "mechanismOfAction": "Epidermal growth factor receptor erbB1 inhibitor"
+                  },
+                  {
+                    "mechanismOfAction": "Epidermal growth factor receptor erbB1 inhibitor"
+                  },
+                  {
+                    "mechanismOfAction": "Receptor protein-tyrosine kinase erbB-2 inhibitor"
+                  },
+                  {
+                    "mechanismOfAction": "Receptor protein-tyrosine kinase erbB-2 inhibitor"
+                  },
+                  {
+                    "mechanismOfAction": "Receptor protein-tyrosine kinase erbB-4 inhibitor"
+                  },
+                  {
+                    "mechanismOfAction": "Receptor protein-tyrosine kinase erbB-4 inhibitor"
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "id": "76fe77ab2a30776a65e3433abb22d5b0348ce42a863c82b7db5f92810d98a2c6",
+            "maxClinicalStage": "APPROVAL",
+            "drug": {
+              "id": "CHEMBL2105719",
+              "name": "DACOMITINIB",
+              "maximumClinicalStage": "APPROVAL",
+              "mechanismsOfAction": {
+                "rows": [
+                  {
+                    "mechanismOfAction": "Epidermal growth factor receptor erbB1 inhibitor"
+                  },
+                  {
+                    "mechanismOfAction": "Receptor protein-tyrosine kinase erbB-2 inhibitor"
+                  },
+                  {
+                    "mechanismOfAction": "Receptor protein-tyrosine kinase erbB-4 inhibitor"
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "id": "83502d29f747cb645fca14662e43af9b6d688c2625c3bcea8f8c1247da54d3a6",
+            "maxClinicalStage": "APPROVAL",
+            "drug": {
+              "id": "CHEMBL180022",
+              "name": "NERATINIB",
+              "maximumClinicalStage": "APPROVAL",
+              "mechanismsOfAction": {
+                "rows": [
+                  {
+                    "mechanismOfAction": "Epidermal growth factor receptor erbB1 inhibitor"
+                  },
+                  {
+                    "mechanismOfAction": "Receptor protein-tyrosine kinase erbB-2 inhibitor"
+                  },
+                  {
+                    "mechanismOfAction": "Receptor protein-tyrosine kinase erbB-4 inhibitor"
+                  },
+                  {
+                    "mechanismOfAction": "Epidermal growth factor receptor erbB1 inhibitor"
+                  },
+                  {
+                    "mechanismOfAction": "Receptor protein-tyrosine kinase erbB-2 inhibitor"
+                  },
+                  {
+                    "mechanismOfAction": "Receptor protein-tyrosine kinase erbB-4 inhibitor"
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "id": "90523939887de40963dd04e6b679acc07cebf04be92885f4323d157d9f19d467",
+            "maxClinicalStage": "PHASE_2",
+            "drug": {
+              "id": "CHEMBL4297661",
+              "name": "TARLOXOTINIB",
+              "maximumClinicalStage": "PHASE_2",
+              "mechanismsOfAction": {
+                "rows": [
+                  {
+                    "mechanismOfAction": "Epidermal growth factor receptor inhibitor"
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "id": "95fb84e7b4a3428db9e20c313f45c6e8b11742ac42dca720229d1c74e1c8b600",
+            "maxClinicalStage": "APPROVAL",
+            "drug": {
+              "id": "CHEMBL1173655",
+              "name": "AFATINIB",
+              "maximumClinicalStage": "APPROVAL",
+              "mechanismsOfAction": {
+                "rows": [
+                  {
+                    "mechanismOfAction": "Receptor protein-tyrosine kinase erbB-4 inhibitor"
+                  },
+                  {
+                    "mechanismOfAction": "Epidermal growth factor receptor erbB1 inhibitor"
+                  },
+                  {
+                    "mechanismOfAction": "Receptor protein-tyrosine kinase erbB-2 inhibitor"
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "id": "a337bd6a692aeff3a5f532d1108999d496f9ad28ab0d2aa1fd4b364993715389",
+            "maxClinicalStage": "PHASE_2",
+            "drug": {
+              "id": "CHEMBL3545396",
+              "name": "BMS-690514",
+              "maximumClinicalStage": "PHASE_2",
+              "mechanismsOfAction": {
+                "rows": [
+                  {
+                    "mechanismOfAction": "Receptor protein-tyrosine kinase erbB-4 inhibitor"
+                  },
+                  {
+                    "mechanismOfAction": "Epidermal growth factor receptor erbB1 inhibitor"
+                  },
+                  {
+                    "mechanismOfAction": "Receptor protein-tyrosine kinase erbB-2 inhibitor"
+                  },
+                  {
+                    "mechanismOfAction": "Vascular endothelial growth factor receptor inhibitor"
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "id": "e66e7b442389b858fb0795691a1167d71f45477435c647f0324807bcc1b79176",
+            "maxClinicalStage": "PHASE_2",
+            "drug": {
+              "id": "CHEMBL1645462",
+              "name": "AC-480",
+              "maximumClinicalStage": "PHASE_2",
+              "mechanismsOfAction": {
+                "rows": [
+                  {
+                    "mechanismOfAction": "Epidermal growth factor receptor erbB1 inhibitor"
+                  },
+                  {
+                    "mechanismOfAction": "Receptor protein-tyrosine kinase erbB-2 inhibitor"
+                  },
+                  {
+                    "mechanismOfAction": "Receptor protein-tyrosine kinase erbB-4 inhibitor"
+                  }
+                ]
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

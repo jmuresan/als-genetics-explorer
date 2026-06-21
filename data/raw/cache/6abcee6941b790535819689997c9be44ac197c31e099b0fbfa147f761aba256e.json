@@ -1,0 +1,20 @@
+{
+  "header": {
+    "type": "esearch",
+    "version": "0.3"
+  },
+  "esearchresult": {
+    "count": "5",
+    "retmax": "5",
+    "retstart": "0",
+    "idlist": [
+      "24439956",
+      "20001489",
+      "19922138",
+      "19464757",
+      "19193627"
+    ],
+    "translationset": [],
+    "querytranslation": "(\"FGGY\"[Title/Abstract] OR \"FGGY\"[All Fields]) AND (\"amyotrophic lateral sclerosis\"[Title/Abstract] OR \"ALS\"[Title/Abstract])"
+  }
+}

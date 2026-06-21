@@ -1,0 +1,416 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "8114",
+      "976652",
+      "981016"
+    ],
+    "8114": {
+      "uid": "8114",
+      "obj_type": "Microsatellite",
+      "accession": "VCV000008114",
+      "accession_version": "VCV000008114.2",
+      "title": "NM_002973.4(ATXN2):c.16CAG[27_33] (p.6Gln[27_33])",
+      "variation_set": [
+        {
+          "measure_id": "23153",
+          "variation_xrefs": [
+            {
+              "db_source": "OMIM",
+              "db_id": "601517.0002"
+            },
+            {
+              "db_source": "dbSNP",
+              "db_id": "1885090126"
+            }
+          ],
+          "variation_name": "NM_002973.4(ATXN2):c.16CAG[27_33] (p.6Gln[27_33])",
+          "cdna_change": "c.16CAG[27_33]",
+          "aliases": [
+            "ATXN2, (CAG)n REPEAT EXPANSION, INTERMEDIATE"
+          ],
+          "variation_loc": [],
+          "allele_freq_set": [],
+          "variant_type": "Microsatellite",
+          "canonical_spdi": "",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV000028791"
+        ],
+        "rcv": [
+          "RCV000008583"
+        ]
+      },
+      "germline_classification": {
+        "description": "risk factor",
+        "last_evaluated": "2011/10/01 00:00",
+        "review_status": "no assertion criteria provided",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "MedGen",
+                "db_id": "C3149907"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0800224"
+              }
+            ],
+            "trait_name": "Amyotrophic lateral sclerosis, susceptibility to, 13"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "ATXN2",
+      "chr_sort": "ZZZ",
+      "location_sort": "99999999999999999999",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "ATXN2",
+          "geneid": "6311",
+          "strand": "-",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [],
+      "protein_change": "",
+      "fda_recognized_database": ""
+    },
+    "976652": {
+      "uid": "976652",
+      "obj_type": "Microsatellite",
+      "accession": "VCV000976652",
+      "accession_version": "VCV000976652.4",
+      "title": "NM_001372574.1(ATXN2):c.18GCA[28] (p.Gln14_Gln28dup)",
+      "variation_set": [
+        {
+          "measure_id": "964787",
+          "variation_xrefs": [
+            {
+              "db_source": "ClinGen",
+              "db_id": "CA1139662886"
+            },
+            {
+              "db_source": "dbSNP",
+              "db_id": "193922927"
+            }
+          ],
+          "variation_name": "NM_001372574.1(ATXN2):c.18GCA[28] (p.Gln14_Gln28dup)",
+          "cdna_change": "c.18GCA[28]",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "12",
+              "band": "12q24.12",
+              "start": "111598978",
+              "stop": "111598979",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "111598978",
+              "display_stop": "111598979",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "12",
+              "band": "12q24.12",
+              "start": "112036782",
+              "stop": "112036783",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "112036782",
+              "display_stop": "112036783",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "Microsatellite",
+          "canonical_spdi": "NC_000012.12:111598978:TGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTG:TGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTG",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV001426222",
+          "SCV005904425"
+        ],
+        "rcv": [
+          "RCV001260553",
+          "RCV005253771"
+        ]
+      },
+      "germline_classification": {
+        "description": "Likely pathogenic; risk factor",
+        "last_evaluated": "2023/12/02 00:00",
+        "review_status": "criteria provided, multiple submitters, no conflicts",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "803"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C0002736"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0004976"
+              },
+              {
+                "db_source": "Human Phenotype Ontology",
+                "db_id": "HP:0007354"
+              }
+            ],
+            "trait_name": "Amyotrophic lateral sclerosis"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "98756"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C0752121"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0008458"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "183090"
+              }
+            ],
+            "trait_name": "Spinocerebellar ataxia type 2"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "ATXN2",
+      "chr_sort": "12",
+      "location_sort": "00000000000111598978",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "ATXN2",
+          "geneid": "6311",
+          "strand": "-",
+          "source": "submitted"
+        },
+        {
+          "symbol": "LOC130008791",
+          "geneid": "130008791",
+          "strand": "+",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "inframe_insertion",
+        "non-coding transcript variant",
+        "intron variant"
+      ],
+      "protein_change": "",
+      "fda_recognized_database": ""
+    },
+    "981016": {
+      "uid": "981016",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV000981016",
+      "accession_version": "VCV000981016.3",
+      "title": "NM_001372574.1(ATXN2):c.2470A>C (p.Ile824Leu)",
+      "variation_set": [
+        {
+          "measure_id": "969101",
+          "variation_xrefs": [
+            {
+              "db_source": "ClinGen",
+              "db_id": "CA386723736"
+            },
+            {
+              "db_source": "dbSNP",
+              "db_id": "1338140819"
+            }
+          ],
+          "variation_name": "NM_001372574.1(ATXN2):c.2470A>C (p.Ile824Leu)",
+          "cdna_change": "c.2470A>C",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "12",
+              "band": "12q24.12",
+              "start": "111485319",
+              "stop": "111485319",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "111485319",
+              "display_stop": "111485319",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "12",
+              "band": "12q24.12",
+              "start": "111923123",
+              "stop": "111923123",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "111923123",
+              "display_stop": "111923123",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [
+            {
+              "source": "The Genome Aggregation Database (gnomAD), exomes",
+              "value": "0.00000",
+              "minor_allele": ""
+            }
+          ],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000012.12:111485318:T:G",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV001437161"
+        ],
+        "rcv": [
+          "RCV001260192"
+        ]
+      },
+      "germline_classification": {
+        "description": "Uncertain significance",
+        "last_evaluated": "2020/09/09 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "803"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C0002736"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0004976"
+              },
+              {
+                "db_source": "Human Phenotype Ontology",
+                "db_id": "HP:0007354"
+              }
+            ],
+            "trait_name": "Amyotrophic lateral sclerosis"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "ATXN2",
+      "chr_sort": "12",
+      "location_sort": "00000000000111485319",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "ATXN2",
+          "geneid": "6311",
+          "strand": "-",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "missense variant"
+      ],
+      "protein_change": "I695L, I719L, I824L",
+      "fda_recognized_database": ""
+    }
+  }
+}

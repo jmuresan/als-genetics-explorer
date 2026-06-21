@@ -1,0 +1,25 @@
+{
+  "header": {
+    "type": "esearch",
+    "version": "0.3"
+  },
+  "esearchresult": {
+    "count": "52",
+    "retmax": "10",
+    "retstart": "0",
+    "idlist": [
+      "41827855",
+      "41007432",
+      "40622676",
+      "39163160",
+      "38638178",
+      "38239833",
+      "38193795",
+      "37250416",
+      "36747652",
+      "36499097"
+    ],
+    "translationset": [],
+    "querytranslation": "(\"TIA1\"[Title/Abstract] OR \"TIA1\"[All Fields]) AND (\"amyotrophic lateral sclerosis\"[Title/Abstract] OR \"ALS\"[Title/Abstract])"
+  }
+}

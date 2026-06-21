@@ -1,0 +1,21 @@
+[
+  {
+    "dbId": 1660661,
+    "displayName": "Sphingolipid de novo biosynthesis",
+    "stId": "R-HSA-1660661",
+    "stIdVersion": "R-HSA-1660661.12",
+    "isInDisease": false,
+    "isInferred": false,
+    "maxDepth": 2,
+    "name": [
+      "Sphingolipid de novo biosynthesis"
+    ],
+    "releaseDate": "2011-12-06",
+    "speciesName": "Homo sapiens",
+    "hasDiagram": false,
+    "hasEHLD": false,
+    "lastUpdatedDate": "2023-09-13",
+    "schemaClass": "Pathway",
+    "className": "Pathway"
+  }
+]

@@ -1,0 +1,56 @@
+{
+  "data": {
+    "search": {
+      "hits": [
+        {
+          "id": "ENSG00000108518",
+          "entity": "target"
+        },
+        {
+          "id": "ENSG00000293296",
+          "entity": "target"
+        },
+        {
+          "id": "ENSG00000270392",
+          "entity": "target"
+        },
+        {
+          "id": "ENSG00000233328",
+          "entity": "target"
+        },
+        {
+          "id": "ENSG00000227205",
+          "entity": "target"
+        },
+        {
+          "id": "ENSG00000244371",
+          "entity": "target"
+        },
+        {
+          "id": "ENSG00000176378",
+          "entity": "target"
+        },
+        {
+          "id": "ENSG00000227212",
+          "entity": "target"
+        },
+        {
+          "id": "ENSG00000234367",
+          "entity": "target"
+        },
+        {
+          "id": "ENSG00000213061",
+          "entity": "target"
+        },
+        {
+          "id": "ENSG00000226028",
+          "entity": "target"
+        },
+        {
+          "id": "ENSG00000225080",
+          "entity": "target"
+        }
+      ]
+    }
+  }
+}

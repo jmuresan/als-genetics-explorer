@@ -1,0 +1,108 @@
+{
+  "data": {
+    "search": {
+      "hits": [
+        {
+          "id": "ENSG00000214274",
+          "entity": "target"
+        },
+        {
+          "id": "ENSG00000132855",
+          "entity": "target"
+        },
+        {
+          "id": "ENSG00000154188",
+          "entity": "target"
+        },
+        {
+          "id": "ENSG00000171819",
+          "entity": "target"
+        },
+        {
+          "id": "ENSG00000091879",
+          "entity": "target"
+        },
+        {
+          "id": "ENSG00000116194",
+          "entity": "target"
+        },
+        {
+          "id": "ENSG00000167772",
+          "entity": "target"
+        },
+        {
+          "id": "ENSG00000136859",
+          "entity": "target"
+        },
+        {
+          "id": "ENSG00000130173",
+          "entity": "target"
+        },
+        {
+          "id": "ENSG00000144891",
+          "entity": "target"
+        },
+        {
+          "id": "ENSG00000130812",
+          "entity": "target"
+        },
+        {
+          "id": "ENSG00000101280",
+          "entity": "target"
+        },
+        {
+          "id": "ENSG00000187151",
+          "entity": "target"
+        },
+        {
+          "id": "ENSG00000013523",
+          "entity": "target"
+        },
+        {
+          "id": "ENSG00000174606",
+          "entity": "target"
+        },
+        {
+          "id": "ENSG00000159640",
+          "entity": "target"
+        },
+        {
+          "id": "ENSG00000135744",
+          "entity": "target"
+        },
+        {
+          "id": "ENSG00000149131",
+          "entity": "target"
+        },
+        {
+          "id": "ENSG00000130234",
+          "entity": "target"
+        },
+        {
+          "id": "ENSG00000114062",
+          "entity": "target"
+        },
+        {
+          "id": "ENSG00000166025",
+          "entity": "target"
+        },
+        {
+          "id": "ENSG00000114019",
+          "entity": "target"
+        },
+        {
+          "id": "ENSG00000180772",
+          "entity": "target"
+        },
+        {
+          "id": "ENSG00000164252",
+          "entity": "target"
+        },
+        {
+          "id": "ENSG00000177674",
+          "entity": "target"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,78 @@
+[
+  {
+    "dbId": 114608,
+    "displayName": "Platelet degranulation ",
+    "stId": "R-HSA-114608",
+    "stIdVersion": "R-HSA-114608.5",
+    "isInDisease": false,
+    "isInferred": false,
+    "maxDepth": 2,
+    "name": [
+      "Platelet degranulation "
+    ],
+    "releaseDate": "2004-10-27",
+    "speciesName": "Homo sapiens",
+    "hasDiagram": false,
+    "hasEHLD": false,
+    "lastUpdatedDate": "2021-06-14",
+    "schemaClass": "Pathway",
+    "className": "Pathway"
+  },
+  {
+    "dbId": 376176,
+    "displayName": "Signaling by ROBO receptors",
+    "stId": "R-HSA-376176",
+    "stIdVersion": "R-HSA-376176.7",
+    "isInDisease": false,
+    "isInferred": false,
+    "maxDepth": 3,
+    "name": [
+      "Signaling by ROBO receptors"
+    ],
+    "releaseDate": "2009-09-30",
+    "speciesName": "Homo sapiens",
+    "doi": "10.3180/R-HSA-376176.3",
+    "hasDiagram": true,
+    "hasEHLD": false,
+    "lastUpdatedDate": "2020-03-16",
+    "schemaClass": "Pathway",
+    "className": "Pathway"
+  },
+  {
+    "dbId": 4086400,
+    "displayName": "PCP/CE pathway",
+    "stId": "R-HSA-4086400",
+    "stIdVersion": "R-HSA-4086400.4",
+    "isInDisease": false,
+    "isInferred": false,
+    "maxDepth": 3,
+    "name": [
+      "PCP/CE pathway"
+    ],
+    "releaseDate": "2013-12-04",
+    "speciesName": "Homo sapiens",
+    "hasDiagram": false,
+    "hasEHLD": false,
+    "lastUpdatedDate": "2020-03-16",
+    "schemaClass": "Pathway",
+    "className": "Pathway"
+  },
+  {
+    "dbId": 5663220,
+    "displayName": "RHO GTPases Activate Formins",
+    "stId": "R-HSA-5663220",
+    "stIdVersion": "R-HSA-5663220.2",
+    "isInDisease": false,
+    "isInferred": false,
+    "maxDepth": 2,
+    "name": [
+      "RHO GTPases Activate Formins"
+    ],
+    "releaseDate": "2015-03-19",
+    "speciesName": "Homo sapiens",
+    "hasDiagram": true,
+    "hasEHLD": false,
+    "schemaClass": "Pathway",
+    "className": "Pathway"
+  }
+]

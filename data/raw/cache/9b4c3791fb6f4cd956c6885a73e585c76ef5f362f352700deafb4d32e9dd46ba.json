@@ -1,0 +1,25 @@
+{
+  "header": {
+    "type": "esearch",
+    "version": "0.3"
+  },
+  "esearchresult": {
+    "count": "34",
+    "retmax": "10",
+    "retstart": "0",
+    "idlist": [
+      "41911331",
+      "41040684",
+      "40476320",
+      "35950263",
+      "35714755",
+      "34264016",
+      "33281562",
+      "32638105",
+      "30385300",
+      "29063394"
+    ],
+    "translationset": [],
+    "querytranslation": "(\"PRPH\"[Title/Abstract] OR \"PRPH\"[All Fields]) AND (\"amyotrophic lateral sclerosis\"[Title/Abstract] OR \"ALS\"[Title/Abstract])"
+  }
+}

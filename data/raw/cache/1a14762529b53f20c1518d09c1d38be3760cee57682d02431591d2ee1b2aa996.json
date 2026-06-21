@@ -1,0 +1,64 @@
+{
+  "header": {
+    "type": "esearch",
+    "version": "0.3"
+  },
+  "esearchresult": {
+    "count": "19",
+    "retmax": "19",
+    "retstart": "0",
+    "idlist": [
+      "3897552",
+      "3897029",
+      "3892554",
+      "3600479",
+      "3597799",
+      "2915454",
+      "2444011",
+      "1042690",
+      "997832",
+      "864757",
+      "802489",
+      "732005",
+      "657806",
+      "573814",
+      "526709",
+      "450572",
+      "372788",
+      "246520",
+      "4801"
+    ],
+    "translationset": [],
+    "translationstack": [
+      {
+        "term": "SPTLC1[gene]",
+        "field": "gene",
+        "count": "597",
+        "explode": "N"
+      },
+      {
+        "term": "amyotrophic[All Fields]",
+        "field": "All Fields",
+        "count": "10881",
+        "explode": "N"
+      },
+      {
+        "term": "lateral[All Fields]",
+        "field": "All Fields",
+        "count": "23718",
+        "explode": "N"
+      },
+      "AND",
+      {
+        "term": "sclerosis[All Fields]",
+        "field": "All Fields",
+        "count": "32827",
+        "explode": "N"
+      },
+      "AND",
+      "GROUP",
+      "AND"
+    ],
+    "querytranslation": "SPTLC1[gene] AND (amyotrophic[All Fields] AND lateral[All Fields] AND sclerosis[All Fields])"
+  }
+}

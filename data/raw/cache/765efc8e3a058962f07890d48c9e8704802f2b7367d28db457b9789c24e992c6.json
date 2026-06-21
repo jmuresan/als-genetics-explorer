@@ -1,0 +1,25 @@
+{
+  "header": {
+    "type": "esearch",
+    "version": "0.3"
+  },
+  "esearchresult": {
+    "count": "196",
+    "retmax": "10",
+    "retstart": "0",
+    "idlist": [
+      "42237814",
+      "42210413",
+      "42166520",
+      "41733214",
+      "41651252",
+      "41536906",
+      "41345183",
+      "41337593",
+      "41187939",
+      "40905788"
+    ],
+    "translationset": [],
+    "querytranslation": "(\"VAPB\"[Title/Abstract] OR \"VAPB\"[All Fields]) AND (\"amyotrophic lateral sclerosis\"[Title/Abstract] OR \"ALS\"[Title/Abstract])"
+  }
+}

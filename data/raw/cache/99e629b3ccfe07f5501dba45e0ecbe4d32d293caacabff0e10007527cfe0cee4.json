@@ -1,0 +1,25 @@
+{
+  "header": {
+    "type": "esearch",
+    "version": "0.3"
+  },
+  "esearchresult": {
+    "count": "45",
+    "retmax": "10",
+    "retstart": "0",
+    "idlist": [
+      "42069601",
+      "41069067",
+      "40282367",
+      "39766833",
+      "38879591",
+      "38474336",
+      "37993492",
+      "37872794",
+      "37250416",
+      "37243816"
+    ],
+    "translationset": [],
+    "querytranslation": "(\"CCNF\"[Title/Abstract] OR \"CCNF\"[All Fields]) AND (\"amyotrophic lateral sclerosis\"[Title/Abstract] OR \"ALS\"[Title/Abstract])"
+  }
+}

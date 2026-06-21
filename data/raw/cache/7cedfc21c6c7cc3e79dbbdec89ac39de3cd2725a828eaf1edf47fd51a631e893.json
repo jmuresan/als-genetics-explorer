@@ -1,0 +1,177 @@
+[
+  {
+    "dbId": 162588,
+    "displayName": "Budding and maturation of HIV virion",
+    "stId": "R-HSA-162588",
+    "stIdVersion": "R-HSA-162588.4",
+    "isInDisease": true,
+    "isInferred": false,
+    "maxDepth": 2,
+    "name": [
+      "Budding and maturation of HIV virion"
+    ],
+    "releaseDate": "2013-06-11",
+    "speciesName": "Homo sapiens",
+    "doi": "10.3180/REACT_6359.6",
+    "hasDiagram": false,
+    "hasEHLD": false,
+    "lastUpdatedDate": "2020-09-24",
+    "schemaClass": "Pathway",
+    "className": "Pathway"
+  },
+  {
+    "dbId": 1632852,
+    "displayName": "Macroautophagy",
+    "stId": "R-HSA-1632852",
+    "stIdVersion": "R-HSA-1632852.12",
+    "isInDisease": false,
+    "isInferred": false,
+    "maxDepth": 5,
+    "name": [
+      "Macroautophagy"
+    ],
+    "releaseDate": "2015-06-17",
+    "speciesName": "Homo sapiens",
+    "doi": "10.3180/R-HSA-1632852.11",
+    "hasDiagram": true,
+    "hasEHLD": false,
+    "lastUpdatedDate": "2022-12-07",
+    "schemaClass": "Pathway",
+    "className": "Pathway"
+  },
+  {
+    "dbId": 5620971,
+    "displayName": "Pyroptosis",
+    "stId": "R-HSA-5620971",
+    "stIdVersion": "R-HSA-5620971.6",
+    "isInDisease": false,
+    "isInferred": false,
+    "maxDepth": 2,
+    "name": [
+      "Pyroptosis"
+    ],
+    "releaseDate": "2021-03-23",
+    "speciesName": "Homo sapiens",
+    "doi": "10.3180/R-HSA-5620971.2",
+    "hasDiagram": true,
+    "hasEHLD": false,
+    "lastUpdatedDate": "2021-06-14",
+    "schemaClass": "Pathway",
+    "className": "Pathway"
+  },
+  {
+    "dbId": 917729,
+    "displayName": "Endosomal Sorting Complex Required For Transport (ESCRT)",
+    "stId": "R-HSA-917729",
+    "stIdVersion": "R-HSA-917729.3",
+    "isInDisease": false,
+    "isInferred": false,
+    "maxDepth": 2,
+    "name": [
+      "Endosomal Sorting Complex Required For Transport (ESCRT)"
+    ],
+    "releaseDate": "2011-03-15",
+    "speciesName": "Homo sapiens",
+    "doi": "10.3180/REACT_27258.1",
+    "hasDiagram": true,
+    "hasEHLD": false,
+    "lastUpdatedDate": "2017-04-20",
+    "schemaClass": "Pathway",
+    "className": "Pathway"
+  },
+  {
+    "dbId": 9610379,
+    "displayName": "HCMV Late Events",
+    "stId": "R-HSA-9610379",
+    "stIdVersion": "R-HSA-9610379.4",
+    "isInDisease": true,
+    "isInferred": false,
+    "maxDepth": 2,
+    "name": [
+      "HCMV Late Events"
+    ],
+    "releaseDate": "2019-12-10",
+    "speciesName": "Homo sapiens",
+    "hasDiagram": false,
+    "hasEHLD": false,
+    "lastUpdatedDate": "2021-09-15",
+    "schemaClass": "Pathway",
+    "className": "Pathway"
+  },
+  {
+    "dbId": 9615710,
+    "displayName": "Late endosomal microautophagy",
+    "stId": "R-HSA-9615710",
+    "stIdVersion": "R-HSA-9615710.5",
+    "isInDisease": false,
+    "isInferred": false,
+    "maxDepth": 2,
+    "name": [
+      "Late endosomal microautophagy"
+    ],
+    "releaseDate": "2019-06-12",
+    "speciesName": "Homo sapiens",
+    "doi": "10.3180/R-HSA-9615710.1",
+    "hasDiagram": true,
+    "hasEHLD": false,
+    "lastUpdatedDate": "2019-09-09",
+    "schemaClass": "Pathway",
+    "className": "Pathway"
+  },
+  {
+    "dbId": 9668328,
+    "displayName": "Sealing of the nuclear envelope (NE) by ESCRT-III",
+    "stId": "R-HSA-9668328",
+    "stIdVersion": "R-HSA-9668328.2",
+    "isInDisease": false,
+    "isInferred": false,
+    "maxDepth": 2,
+    "name": [
+      "Sealing of the nuclear envelope (NE) by ESCRT-III"
+    ],
+    "releaseDate": "2020-03-17",
+    "speciesName": "Homo sapiens",
+    "hasDiagram": false,
+    "hasEHLD": false,
+    "schemaClass": "Pathway",
+    "className": "Pathway"
+  },
+  {
+    "dbId": 9679504,
+    "displayName": "Translation of Replicase and Assembly of the Replication Transcription Complex",
+    "stId": "R-HSA-9679504",
+    "stIdVersion": "R-HSA-9679504.6",
+    "isInDisease": true,
+    "isInferred": false,
+    "maxDepth": 3,
+    "name": [
+      "Translation of Replicase and Assembly of the Replication Transcription Complex"
+    ],
+    "releaseDate": "2020-06-10",
+    "speciesName": "Homo sapiens",
+    "hasDiagram": false,
+    "hasEHLD": false,
+    "lastUpdatedDate": "2021-12-08",
+    "schemaClass": "Pathway",
+    "className": "Pathway"
+  },
+  {
+    "dbId": 9694676,
+    "displayName": "Translation of Replicase and Assembly of the Replication Transcription Complex",
+    "stId": "R-HSA-9694676",
+    "stIdVersion": "R-HSA-9694676.4",
+    "isInDisease": true,
+    "isInferred": true,
+    "maxDepth": 3,
+    "name": [
+      "Translation of Replicase and Assembly of the Replication Transcription Complex"
+    ],
+    "releaseDate": "2020-09-15",
+    "speciesName": "Homo sapiens",
+    "hasDiagram": false,
+    "hasEHLD": false,
+    "lastUpdatedDate": "2022-09-14",
+    "schemaClass": "Pathway",
+    "className": "Pathway"
+  }
+]

@@ -1,0 +1,2826 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "1029635",
+      "1683689",
+      "1696347",
+      "2363893",
+      "2573589",
+      "2577126",
+      "3063745",
+      "3063767",
+      "3065375",
+      "3336067",
+      "3339347",
+      "3367048",
+      "3374828",
+      "3577350",
+      "3577351",
+      "3731469",
+      "3768961",
+      "3769514",
+      "4807",
+      "776889"
+    ],
+    "1029635": {
+      "uid": "1029635",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV001029635",
+      "accession_version": "VCV001029635.3",
+      "title": "NM_017672.6(TRPM7):c.2141A>C (p.Lys714Thr)",
+      "variation_set": [
+        {
+          "measure_id": "1017928",
+          "variation_xrefs": [
+            {
+              "db_source": "ClinGen",
+              "db_id": "CA7557503"
+            },
+            {
+              "db_source": "dbSNP",
+              "db_id": "753306031"
+            }
+          ],
+          "variation_name": "NM_017672.6(TRPM7):c.2141A>C (p.Lys714Thr)",
+          "cdna_change": "c.2141A>C",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "15",
+              "band": "15q21.2",
+              "start": "50611232",
+              "stop": "50611232",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "50611232",
+              "display_stop": "50611232",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "15",
+              "band": "15q21.2",
+              "start": "50903429",
+              "stop": "50903429",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "50903429",
+              "display_stop": "50903429",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [
+            {
+              "source": "Trans-Omics for Precision Medicine (TOPMed)",
+              "value": "0.00002",
+              "minor_allele": ""
+            },
+            {
+              "source": "Exome Aggregation Consortium (ExAC)",
+              "value": "0.00002",
+              "minor_allele": ""
+            },
+            {
+              "source": "The Genome Aggregation Database (gnomAD), exomes",
+              "value": "0.00001",
+              "minor_allele": ""
+            }
+          ],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000015.10:50611231:T:G",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV001522849",
+          "SCV006552760",
+          "SCV007203561"
+        ],
+        "rcv": [
+          "RCV001330971",
+          "RCV006347695"
+        ]
+      },
+      "germline_classification": {
+        "description": "Uncertain significance",
+        "last_evaluated": "2025/10/24 00:00",
+        "review_status": "criteria provided, multiple submitters, no conflicts",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "MedGen",
+                "db_id": "CN169374"
+              }
+            ],
+            "trait_name": "not specified"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "90020"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C0543859"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0007104"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "105500"
+              }
+            ],
+            "trait_name": "Amyotrophic lateral sclerosis-parkinsonism-dementia complex"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "TRPM7",
+      "chr_sort": "15",
+      "location_sort": "00000000000050611232",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "TRPM7",
+          "geneid": "54822",
+          "strand": "-",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "missense variant",
+        "non-coding transcript variant"
+      ],
+      "protein_change": "K714T",
+      "fda_recognized_database": ""
+    },
+    "1683689": {
+      "uid": "1683689",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV001683689",
+      "accession_version": "VCV001683689.3",
+      "title": "NM_017672.6(TRPM7):c.4928A>G (p.His1643Arg)",
+      "variation_set": [
+        {
+          "measure_id": "1675620",
+          "variation_xrefs": [
+            {
+              "db_source": "ClinGen",
+              "db_id": "CA270486619"
+            },
+            {
+              "db_source": "dbSNP",
+              "db_id": "909275553"
+            }
+          ],
+          "variation_name": "NM_017672.6(TRPM7):c.4928A>G (p.His1643Arg)",
+          "cdna_change": "c.4928A>G",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "15",
+              "band": "15q21.2",
+              "start": "50574943",
+              "stop": "50574943",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "50574943",
+              "display_stop": "50574943",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "15",
+              "band": "15q21.2",
+              "start": "50867140",
+              "stop": "50867140",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "50867140",
+              "display_stop": "50867140",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [
+            {
+              "source": "The Genome Aggregation Database (gnomAD)",
+              "value": "0.00001",
+              "minor_allele": ""
+            },
+            {
+              "source": "Trans-Omics for Precision Medicine (TOPMed)",
+              "value": "0.00001",
+              "minor_allele": ""
+            }
+          ],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000015.10:50574942:T:C",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV002512587",
+          "SCV006185515"
+        ],
+        "rcv": [
+          "RCV002244210",
+          "RCV005515336"
+        ]
+      },
+      "germline_classification": {
+        "description": "Uncertain significance",
+        "last_evaluated": "2025/03/28 00:00",
+        "review_status": "criteria provided, multiple submitters, no conflicts",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "90020"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C0543859"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0007104"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "105500"
+              }
+            ],
+            "trait_name": "Amyotrophic lateral sclerosis-parkinsonism-dementia complex"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "MedGen",
+                "db_id": "CN169374"
+              }
+            ],
+            "trait_name": "not specified"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "TRPM7",
+      "chr_sort": "15",
+      "location_sort": "00000000000050574943",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "TRPM7",
+          "geneid": "54822",
+          "strand": "-",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "missense variant",
+        "non-coding transcript variant"
+      ],
+      "protein_change": "H1642R, H1643R",
+      "fda_recognized_database": ""
+    },
+    "1696347": {
+      "uid": "1696347",
+      "obj_type": "Microsatellite",
+      "accession": "VCV001696347",
+      "accession_version": "VCV001696347.1",
+      "title": "NM_017672.6(TRPM7):c.4333_4334del (p.Arg1444_Asp1445insTer)",
+      "variation_set": [
+        {
+          "measure_id": "1688753",
+          "variation_xrefs": [
+            {
+              "db_source": "dbSNP",
+              "db_id": "2059433712"
+            },
+            {
+              "db_source": "ClinGen",
+              "db_id": "CA2176474001"
+            }
+          ],
+          "variation_name": "NM_017672.6(TRPM7):c.4333_4334del (p.Arg1444_Asp1445insTer)",
+          "cdna_change": "c.4333_4334del",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "15",
+              "band": "15q21.2",
+              "start": "50589647",
+              "stop": "50589648",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "50589647",
+              "display_stop": "50589648",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "15",
+              "band": "15q21.2",
+              "start": "50881844",
+              "stop": "50881845",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "50881844",
+              "display_stop": "50881845",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "Microsatellite",
+          "canonical_spdi": "NC_000015.10:50589646:TCTCT:TCT",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV002547493"
+        ],
+        "rcv": [
+          "RCV002266492"
+        ]
+      },
+      "germline_classification": {
+        "description": "Uncertain significance",
+        "last_evaluated": "2022/05/10 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "MedGen",
+                "db_id": "CN169374"
+              }
+            ],
+            "trait_name": "not specified"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "TRPM7",
+      "chr_sort": "15",
+      "location_sort": "00000000000050589647",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "TRPM7",
+          "geneid": "54822",
+          "strand": "-",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "nonsense",
+        "non-coding transcript variant"
+      ],
+      "protein_change": "",
+      "fda_recognized_database": ""
+    },
+    "2363893": {
+      "uid": "2363893",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV002363893",
+      "accession_version": "VCV002363893.3",
+      "title": "NM_017672.6(TRPM7):c.590G>A (p.Arg197Gln)",
+      "variation_set": [
+        {
+          "measure_id": "2349660",
+          "variation_xrefs": [
+            {
+              "db_source": "ClinGen",
+              "db_id": "CA7557946"
+            },
+            {
+              "db_source": "dbSNP",
+              "db_id": "767402614"
+            }
+          ],
+          "variation_name": "NM_017672.6(TRPM7):c.590G>A (p.Arg197Gln)",
+          "cdna_change": "c.590G>A",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "15",
+              "band": "15q21.2",
+              "start": "50639494",
+              "stop": "50639494",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "50639494",
+              "display_stop": "50639494",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "15",
+              "band": "15q21.2",
+              "start": "50931691",
+              "stop": "50931691",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "50931691",
+              "display_stop": "50931691",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000015.10:50639493:C:T",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV003696103",
+          "SCV004021146"
+        ],
+        "rcv": [
+          "RCV003317656"
+        ]
+      },
+      "germline_classification": {
+        "description": "Uncertain significance",
+        "last_evaluated": "2023/06/02 00:00",
+        "review_status": "criteria provided, multiple submitters, no conflicts",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "MedGen",
+                "db_id": "CN169374"
+              }
+            ],
+            "trait_name": "not specified"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "TRPM7",
+      "chr_sort": "15",
+      "location_sort": "00000000000050639494",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "TRPM7",
+          "geneid": "54822",
+          "strand": "-",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "missense variant",
+        "non-coding transcript variant"
+      ],
+      "protein_change": "R197Q",
+      "fda_recognized_database": ""
+    },
+    "2573589": {
+      "uid": "2573589",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV002573589",
+      "accession_version": "VCV002573589.1",
+      "title": "NM_017672.6(TRPM7):c.4557+18A>G",
+      "variation_set": [
+        {
+          "measure_id": "2738533",
+          "variation_xrefs": [
+            {
+              "db_source": "ClinGen",
+              "db_id": "CA270494636"
+            },
+            {
+              "db_source": "dbSNP",
+              "db_id": "1048014858"
+            }
+          ],
+          "variation_name": "NM_017672.6(TRPM7):c.4557+18A>G",
+          "cdna_change": "NM_017672.6(TRPM7):c.4557+18A>G",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "15",
+              "band": "15q21.2",
+              "start": "50583071",
+              "stop": "50583071",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "50583071",
+              "display_stop": "50583071",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "15",
+              "band": "15q21.2",
+              "start": "50875268",
+              "stop": "50875268",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "50875268",
+              "display_stop": "50875268",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [
+            {
+              "source": "The Genome Aggregation Database (gnomAD), exomes",
+              "value": "0.00000",
+              "minor_allele": ""
+            },
+            {
+              "source": "The Genome Aggregation Database (gnomAD)",
+              "value": "0.00001",
+              "minor_allele": ""
+            },
+            {
+              "source": "Trans-Omics for Precision Medicine (TOPMed)",
+              "value": "0.00001",
+              "minor_allele": ""
+            }
+          ],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000015.10:50583070:T:C",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV004021147"
+        ],
+        "rcv": [
+          "RCV003317925"
+        ]
+      },
+      "germline_classification": {
+        "description": "Uncertain significance",
+        "last_evaluated": "2023/06/01 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "MedGen",
+                "db_id": "CN169374"
+              }
+            ],
+            "trait_name": "not specified"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "TRPM7",
+      "chr_sort": "15",
+      "location_sort": "00000000000050583071",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "TRPM7",
+          "geneid": "54822",
+          "strand": "-",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "intron variant"
+      ],
+      "protein_change": "",
+      "fda_recognized_database": ""
+    },
+    "2577126": {
+      "uid": "2577126",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV002577126",
+      "accession_version": "VCV002577126.2",
+      "title": "NM_017672.6(TRPM7):c.1609T>C (p.Tyr537His)",
+      "variation_set": [
+        {
+          "measure_id": "2742027",
+          "variation_xrefs": [
+            {
+              "db_source": "ClinGen",
+              "db_id": "CA7557628"
+            },
+            {
+              "db_source": "dbSNP",
+              "db_id": "200922295"
+            }
+          ],
+          "variation_name": "NM_017672.6(TRPM7):c.1609T>C (p.Tyr537His)",
+          "cdna_change": "c.1609T>C",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "15",
+              "band": "15q21.2",
+              "start": "50614149",
+              "stop": "50614149",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "50614149",
+              "display_stop": "50614149",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "15",
+              "band": "15q21.2",
+              "start": "50906346",
+              "stop": "50906346",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "50906346",
+              "display_stop": "50906346",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [
+            {
+              "source": "The Genome Aggregation Database (gnomAD)",
+              "value": "0.00038",
+              "minor_allele": ""
+            },
+            {
+              "source": "Exome Aggregation Consortium (ExAC)",
+              "value": "0.00039",
+              "minor_allele": ""
+            },
+            {
+              "source": "Trans-Omics for Precision Medicine (TOPMed)",
+              "value": "0.00040",
+              "minor_allele": ""
+            },
+            {
+              "source": "The Genome Aggregation Database (gnomAD), exomes",
+              "value": "0.00093",
+              "minor_allele": ""
+            },
+            {
+              "source": "NHLBI Exome Sequencing Project (ESP) Exome Variant Server",
+              "value": "0.00094",
+              "minor_allele": ""
+            }
+          ],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000015.10:50614148:A:G",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV004029581"
+        ],
+        "rcv": [
+          "RCV003324203"
+        ]
+      },
+      "germline_classification": {
+        "description": "Uncertain significance",
+        "last_evaluated": "2024/05/06 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "MedGen",
+                "db_id": "CN169374"
+              }
+            ],
+            "trait_name": "not specified"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "TRPM7",
+      "chr_sort": "15",
+      "location_sort": "00000000000050614149",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "TRPM7",
+          "geneid": "54822",
+          "strand": "-",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "missense variant",
+        "non-coding transcript variant"
+      ],
+      "protein_change": "Y537H",
+      "fda_recognized_database": ""
+    },
+    "3063745": {
+      "uid": "3063745",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV003063745",
+      "accession_version": "VCV003063745.1",
+      "title": "NM_017672.6(TRPM7):c.5156T>C (p.Val1719Ala)",
+      "variation_set": [
+        {
+          "measure_id": "3223954",
+          "variation_xrefs": [
+            {
+              "db_source": "ClinGen",
+              "db_id": "CA392386966"
+            },
+            {
+              "db_source": "dbSNP",
+              "db_id": "2542192189"
+            }
+          ],
+          "variation_name": "NM_017672.6(TRPM7):c.5156T>C (p.Val1719Ala)",
+          "cdna_change": "c.5156T>C",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "15",
+              "band": "15q21.2",
+              "start": "50574426",
+              "stop": "50574426",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "50574426",
+              "display_stop": "50574426",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "15",
+              "band": "15q21.2",
+              "start": "50866623",
+              "stop": "50866623",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "50866623",
+              "display_stop": "50866623",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [
+            {
+              "source": "The Genome Aggregation Database (gnomAD), exomes",
+              "value": "0.00000",
+              "minor_allele": ""
+            }
+          ],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000015.10:50574425:A:G",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV004804090"
+        ],
+        "rcv": [
+          "RCV003988333"
+        ]
+      },
+      "germline_classification": {
+        "description": "Uncertain significance",
+        "last_evaluated": "2024/01/03 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "MedGen",
+                "db_id": "CN169374"
+              }
+            ],
+            "trait_name": "not specified"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "TRPM7",
+      "chr_sort": "15",
+      "location_sort": "00000000000050574426",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "TRPM7",
+          "geneid": "54822",
+          "strand": "-",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "missense variant",
+        "non-coding transcript variant"
+      ],
+      "protein_change": "V1718A, V1719A",
+      "fda_recognized_database": ""
+    },
+    "3063767": {
+      "uid": "3063767",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV003063767",
+      "accession_version": "VCV003063767.1",
+      "title": "NM_017672.6(TRPM7):c.1504C>A (p.Pro502Thr)",
+      "variation_set": [
+        {
+          "measure_id": "3223976",
+          "variation_xrefs": [
+            {
+              "db_source": "ClinGen",
+              "db_id": "CA392411451"
+            },
+            {
+              "db_source": "dbSNP",
+              "db_id": "1223489527"
+            }
+          ],
+          "variation_name": "NM_017672.6(TRPM7):c.1504C>A (p.Pro502Thr)",
+          "cdna_change": "c.1504C>A",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "15",
+              "band": "15q21.2",
+              "start": "50614254",
+              "stop": "50614254",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "50614254",
+              "display_stop": "50614254",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "15",
+              "band": "15q21.2",
+              "start": "50906451",
+              "stop": "50906451",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "50906451",
+              "display_stop": "50906451",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [
+            {
+              "source": "The Genome Aggregation Database (gnomAD)",
+              "value": "0.00001",
+              "minor_allele": ""
+            },
+            {
+              "source": "The Genome Aggregation Database (gnomAD), exomes",
+              "value": "0.00001",
+              "minor_allele": ""
+            },
+            {
+              "source": "Trans-Omics for Precision Medicine (TOPMed)",
+              "value": "0.00001",
+              "minor_allele": ""
+            }
+          ],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000015.10:50614253:G:T",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV004804152"
+        ],
+        "rcv": [
+          "RCV003988355"
+        ]
+      },
+      "germline_classification": {
+        "description": "Uncertain significance",
+        "last_evaluated": "2024/01/04 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "MedGen",
+                "db_id": "CN169374"
+              }
+            ],
+            "trait_name": "not specified"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "TRPM7",
+      "chr_sort": "15",
+      "location_sort": "00000000000050614254",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "TRPM7",
+          "geneid": "54822",
+          "strand": "-",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "missense variant",
+        "non-coding transcript variant"
+      ],
+      "protein_change": "P502T",
+      "fda_recognized_database": ""
+    },
+    "3065375": {
+      "uid": "3065375",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV003065375",
+      "accession_version": "VCV003065375.1",
+      "title": "NM_017672.6(TRPM7):c.1729C>T (p.His577Tyr)",
+      "variation_set": [
+        {
+          "measure_id": "3225398",
+          "variation_xrefs": [
+            {
+              "db_source": "ClinGen",
+              "db_id": "CA392410822"
+            },
+            {
+              "db_source": "dbSNP",
+              "db_id": "2542383851"
+            }
+          ],
+          "variation_name": "NM_017672.6(TRPM7):c.1729C>T (p.His577Tyr)",
+          "cdna_change": "c.1729C>T",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "15",
+              "band": "15q21.2",
+              "start": "50613748",
+              "stop": "50613748",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "50613748",
+              "display_stop": "50613748",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "15",
+              "band": "15q21.2",
+              "start": "50905945",
+              "stop": "50905945",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "50905945",
+              "display_stop": "50905945",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000015.10:50613747:G:A",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV004807113"
+        ],
+        "rcv": [
+          "RCV003990452"
+        ]
+      },
+      "germline_classification": {
+        "description": "Uncertain significance",
+        "last_evaluated": "2024/03/26 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "90020"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C0543859"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0007104"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "105500"
+              }
+            ],
+            "trait_name": "Amyotrophic lateral sclerosis-parkinsonism-dementia complex"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "TRPM7",
+      "chr_sort": "15",
+      "location_sort": "00000000000050613748",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "TRPM7",
+          "geneid": "54822",
+          "strand": "-",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "missense variant",
+        "non-coding transcript variant"
+      ],
+      "protein_change": "H577Y",
+      "fda_recognized_database": ""
+    },
+    "3336067": {
+      "uid": "3336067",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV003336067",
+      "accession_version": "VCV003336067.2",
+      "title": "NM_017672.6(TRPM7):c.4074T>G (p.Ser1358Arg)",
+      "variation_set": [
+        {
+          "measure_id": "3494748",
+          "variation_xrefs": [],
+          "variation_name": "NM_017672.6(TRPM7):c.4074T>G (p.Ser1358Arg)",
+          "cdna_change": "c.4074T>G",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "15",
+              "band": "15q21.2",
+              "start": "50592161",
+              "stop": "50592161",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "50592161",
+              "display_stop": "50592161",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "15",
+              "band": "15q21.2",
+              "start": "50884358",
+              "stop": "50884358",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "50884358",
+              "display_stop": "50884358",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000015.10:50592160:A:C",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV005185275",
+          "SCV006457000"
+        ],
+        "rcv": [
+          "RCV004690647"
+        ]
+      },
+      "germline_classification": {
+        "description": "Uncertain significance",
+        "last_evaluated": "2025/08/29 00:00",
+        "review_status": "criteria provided, multiple submitters, no conflicts",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "MedGen",
+                "db_id": "CN169374"
+              }
+            ],
+            "trait_name": "not specified"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "LOC126862130",
+      "chr_sort": "15",
+      "location_sort": "00000000000050592161",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "LOC126862130",
+          "geneid": "126862130",
+          "strand": "+",
+          "source": "submitted"
+        },
+        {
+          "symbol": "TRPM7",
+          "geneid": "54822",
+          "strand": "-",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "missense variant",
+        "non-coding transcript variant"
+      ],
+      "protein_change": "S1358R",
+      "fda_recognized_database": ""
+    },
+    "3339347": {
+      "uid": "3339347",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV003339347",
+      "accession_version": "VCV003339347.1",
+      "title": "NM_017672.6(TRPM7):c.1953A>T (p.Lys651Asn)",
+      "variation_set": [
+        {
+          "measure_id": "3498613",
+          "variation_xrefs": [],
+          "variation_name": "NM_017672.6(TRPM7):c.1953A>T (p.Lys651Asn)",
+          "cdna_change": "c.1953A>T",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "15",
+              "band": "15q21.2",
+              "start": "50612647",
+              "stop": "50612647",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "50612647",
+              "display_stop": "50612647",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "15",
+              "band": "15q21.2",
+              "start": "50904844",
+              "stop": "50904844",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "50904844",
+              "display_stop": "50904844",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000015.10:50612646:T:A",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV005202846"
+        ],
+        "rcv": [
+          "RCV004703089"
+        ]
+      },
+      "germline_classification": {
+        "description": "Uncertain significance",
+        "last_evaluated": "2024/07/24 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "MedGen",
+                "db_id": "CN169374"
+              }
+            ],
+            "trait_name": "not specified"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "TRPM7",
+      "chr_sort": "15",
+      "location_sort": "00000000000050612647",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "TRPM7",
+          "geneid": "54822",
+          "strand": "-",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "missense variant",
+        "non-coding transcript variant"
+      ],
+      "protein_change": "K651N",
+      "fda_recognized_database": ""
+    },
+    "3367048": {
+      "uid": "3367048",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV003367048",
+      "accession_version": "VCV003367048.1",
+      "title": "NM_017672.6(TRPM7):c.3868A>C (p.Lys1290Gln)",
+      "variation_set": [
+        {
+          "measure_id": "3526249",
+          "variation_xrefs": [],
+          "variation_name": "NM_017672.6(TRPM7):c.3868A>C (p.Lys1290Gln)",
+          "cdna_change": "c.3868A>C",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "15",
+              "band": "15q21.2",
+              "start": "50592367",
+              "stop": "50592367",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "50592367",
+              "display_stop": "50592367",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "15",
+              "band": "15q21.2",
+              "start": "50884564",
+              "stop": "50884564",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "50884564",
+              "display_stop": "50884564",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000015.10:50592366:T:G",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV005382354"
+        ],
+        "rcv": [
+          "RCV004771681"
+        ]
+      },
+      "germline_classification": {
+        "description": "Uncertain significance",
+        "last_evaluated": "2023/05/20 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "90020"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C0543859"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0007104"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "105500"
+              }
+            ],
+            "trait_name": "Amyotrophic lateral sclerosis-parkinsonism-dementia complex"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "LOC126862130",
+      "chr_sort": "15",
+      "location_sort": "00000000000050592367",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "LOC126862130",
+          "geneid": "126862130",
+          "strand": "+",
+          "source": "submitted"
+        },
+        {
+          "symbol": "TRPM7",
+          "geneid": "54822",
+          "strand": "-",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "missense variant",
+        "non-coding transcript variant"
+      ],
+      "protein_change": "K1290Q",
+      "fda_recognized_database": ""
+    },
+    "3374828": {
+      "uid": "3374828",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV003374828",
+      "accession_version": "VCV003374828.2",
+      "title": "NM_017672.6(TRPM7):c.4568A>G (p.Gln1523Arg)",
+      "variation_set": [
+        {
+          "measure_id": "3534017",
+          "variation_xrefs": [],
+          "variation_name": "NM_017672.6(TRPM7):c.4568A>G (p.Gln1523Arg)",
+          "cdna_change": "c.4568A>G",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "15",
+              "band": "15q21.2",
+              "start": "50580898",
+              "stop": "50580898",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "50580898",
+              "display_stop": "50580898",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "15",
+              "band": "15q21.2",
+              "start": "50873095",
+              "stop": "50873095",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "50873095",
+              "display_stop": "50873095",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000015.10:50580897:T:C",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV005394487",
+          "SCV005522688"
+        ],
+        "rcv": [
+          "RCV004783235"
+        ]
+      },
+      "germline_classification": {
+        "description": "Uncertain significance",
+        "last_evaluated": "2024/11/25 00:00",
+        "review_status": "criteria provided, multiple submitters, no conflicts",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "MedGen",
+                "db_id": "CN169374"
+              }
+            ],
+            "trait_name": "not specified"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "TRPM7",
+      "chr_sort": "15",
+      "location_sort": "00000000000050580898",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "TRPM7",
+          "geneid": "54822",
+          "strand": "-",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "missense variant",
+        "non-coding transcript variant"
+      ],
+      "protein_change": "Q1522R, Q1523R",
+      "fda_recognized_database": ""
+    },
+    "3577350": {
+      "uid": "3577350",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV003577350",
+      "accession_version": "VCV003577350.3",
+      "title": "NM_017672.6(TRPM7):c.2525C>T (p.Thr842Met)",
+      "variation_set": [
+        {
+          "measure_id": "3703949",
+          "variation_xrefs": [],
+          "variation_name": "NM_017672.6(TRPM7):c.2525C>T (p.Thr842Met)",
+          "cdna_change": "c.2525C>T",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "15",
+              "band": "15q21.2",
+              "start": "50609636",
+              "stop": "50609636",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "50609636",
+              "display_stop": "50609636",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "15",
+              "band": "15q21.2",
+              "start": "50901833",
+              "stop": "50901833",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "50901833",
+              "display_stop": "50901833",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000015.10:50609635:G:A",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV005633094",
+          "SCV005725639"
+        ],
+        "rcv": [
+          "RCV005003080",
+          "RCV005061865"
+        ]
+      },
+      "germline_classification": {
+        "description": "Uncertain significance",
+        "last_evaluated": "2024/11/27 00:00",
+        "review_status": "criteria provided, multiple submitters, no conflicts",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "90020"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C0543859"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0007104"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "105500"
+              }
+            ],
+            "trait_name": "Amyotrophic lateral sclerosis-parkinsonism-dementia complex"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "MedGen",
+                "db_id": "CN169374"
+              }
+            ],
+            "trait_name": "not specified"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "TRPM7",
+      "chr_sort": "15",
+      "location_sort": "00000000000050609636",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "TRPM7",
+          "geneid": "54822",
+          "strand": "-",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "missense variant",
+        "non-coding transcript variant"
+      ],
+      "protein_change": "T842M",
+      "fda_recognized_database": ""
+    },
+    "3577351": {
+      "uid": "3577351",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV003577351",
+      "accession_version": "VCV003577351.1",
+      "title": "NM_017672.6(TRPM7):c.3+2T>A",
+      "variation_set": [
+        {
+          "measure_id": "3703950",
+          "variation_xrefs": [],
+          "variation_name": "NM_017672.6(TRPM7):c.3+2T>A",
+          "cdna_change": "NM_017672.6(TRPM7):c.3+2T>A",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "15",
+              "band": "15q21.2",
+              "start": "50686529",
+              "stop": "50686529",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "50686529",
+              "display_stop": "50686529",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "15",
+              "band": "15q21.2",
+              "start": "50978726",
+              "stop": "50978726",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "50978726",
+              "display_stop": "50978726",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000015.10:50686528:A:T",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV005633095"
+        ],
+        "rcv": [
+          "RCV005009721"
+        ]
+      },
+      "germline_classification": {
+        "description": "Uncertain significance",
+        "last_evaluated": "2024/03/30 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "90020"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C0543859"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0007104"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "105500"
+              }
+            ],
+            "trait_name": "Amyotrophic lateral sclerosis-parkinsonism-dementia complex"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "LOC128092252",
+      "chr_sort": "15",
+      "location_sort": "00000000000050686529",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "LOC128092252",
+          "geneid": "128092252",
+          "strand": "-",
+          "source": "submitted"
+        },
+        {
+          "symbol": "TRPM7",
+          "geneid": "54822",
+          "strand": "-",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "splice donor variant"
+      ],
+      "protein_change": "",
+      "fda_recognized_database": ""
+    },
+    "3731469": {
+      "uid": "3731469",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV003731469",
+      "accession_version": "VCV003731469.1",
+      "title": "NM_017672.6(TRPM7):c.2704C>T (p.Arg902Cys)",
+      "variation_set": [
+        {
+          "measure_id": "3863967",
+          "variation_xrefs": [],
+          "variation_name": "NM_017672.6(TRPM7):c.2704C>T (p.Arg902Cys)",
+          "cdna_change": "c.2704C>T",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "15",
+              "band": "15q21.2",
+              "start": "50607205",
+              "stop": "50607205",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "50607205",
+              "display_stop": "50607205",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "15",
+              "band": "15q21.2",
+              "start": "50899402",
+              "stop": "50899402",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "50899402",
+              "display_stop": "50899402",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000015.10:50607204:G:A",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV005849408"
+        ],
+        "rcv": [
+          "RCV005208381"
+        ]
+      },
+      "germline_classification": {
+        "description": "Uncertain significance",
+        "last_evaluated": "2023/06/22 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "90020"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C0543859"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0007104"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "105500"
+              }
+            ],
+            "trait_name": "Amyotrophic lateral sclerosis-parkinsonism-dementia complex"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "TRPM7",
+      "chr_sort": "15",
+      "location_sort": "00000000000050607205",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "TRPM7",
+          "geneid": "54822",
+          "strand": "-",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "missense variant",
+        "non-coding transcript variant"
+      ],
+      "protein_change": "R902C",
+      "fda_recognized_database": ""
+    },
+    "3768961": {
+      "uid": "3768961",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV003768961",
+      "accession_version": "VCV003768961.1",
+      "title": "NM_017672.6(TRPM7):c.1676G>A (p.Arg559Gln)",
+      "variation_set": [
+        {
+          "measure_id": "3885115",
+          "variation_xrefs": [],
+          "variation_name": "NM_017672.6(TRPM7):c.1676G>A (p.Arg559Gln)",
+          "cdna_change": "c.1676G>A",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "15",
+              "band": "15q21.2",
+              "start": "50613801",
+              "stop": "50613801",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "50613801",
+              "display_stop": "50613801",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "15",
+              "band": "15q21.2",
+              "start": "50905998",
+              "stop": "50905998",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "50905998",
+              "display_stop": "50905998",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000015.10:50613800:C:T",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV005885891"
+        ],
+        "rcv": [
+          "RCV005238727"
+        ]
+      },
+      "germline_classification": {
+        "description": "Uncertain significance",
+        "last_evaluated": "2025/02/19 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "MedGen",
+                "db_id": "CN169374"
+              }
+            ],
+            "trait_name": "not specified"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "TRPM7",
+      "chr_sort": "15",
+      "location_sort": "00000000000050613801",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "TRPM7",
+          "geneid": "54822",
+          "strand": "-",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "missense variant",
+        "non-coding transcript variant"
+      ],
+      "protein_change": "R559Q",
+      "fda_recognized_database": ""
+    },
+    "3769514": {
+      "uid": "3769514",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV003769514",
+      "accession_version": "VCV003769514.2",
+      "title": "NM_017672.6(TRPM7):c.5361-4A>G",
+      "variation_set": [
+        {
+          "measure_id": "3885667",
+          "variation_xrefs": [],
+          "variation_name": "NM_017672.6(TRPM7):c.5361-4A>G",
+          "cdna_change": "NM_017672.6(TRPM7):c.5361-4A>G",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "15",
+              "band": "15q21.2",
+              "start": "50569997",
+              "stop": "50569997",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "50569997",
+              "display_stop": "50569997",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "15",
+              "band": "15q21.2",
+              "start": "50862194",
+              "stop": "50862194",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "50862194",
+              "display_stop": "50862194",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000015.10:50569996:T:C",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV005888063"
+        ],
+        "rcv": [
+          "RCV005241180"
+        ]
+      },
+      "germline_classification": {
+        "description": "Uncertain significance",
+        "last_evaluated": "2025/01/20 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "MedGen",
+                "db_id": "CN169374"
+              }
+            ],
+            "trait_name": "not specified"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "TRPM7",
+      "chr_sort": "15",
+      "location_sort": "00000000000050569997",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "TRPM7",
+          "geneid": "54822",
+          "strand": "-",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "intron variant"
+      ],
+      "protein_change": "",
+      "fda_recognized_database": ""
+    },
+    "4807": {
+      "uid": "4807",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV000004807",
+      "accession_version": "VCV000004807.6",
+      "title": "NM_017672.6(TRPM7):c.4445C>T (p.Thr1482Ile)",
+      "variation_set": [
+        {
+          "measure_id": "19846",
+          "variation_xrefs": [
+            {
+              "db_source": "ClinGen",
+              "db_id": "CA117098"
+            },
+            {
+              "db_source": "UniProtKB",
+              "db_id": "Q96QT4#VAR_019967"
+            },
+            {
+              "db_source": "OMIM",
+              "db_id": "605692.0001"
+            },
+            {
+              "db_source": "dbSNP",
+              "db_id": "8042919"
+            }
+          ],
+          "variation_name": "NM_017672.6(TRPM7):c.4445C>T (p.Thr1482Ile)",
+          "cdna_change": "c.4445C>T",
+          "aliases": [
+            "TRPM7, THR1482ILE (rs8042919)"
+          ],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "15",
+              "band": "15q21.2",
+              "start": "50586433",
+              "stop": "50586433",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "50586433",
+              "display_stop": "50586433",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "15",
+              "band": "15q21.2",
+              "start": "50878630",
+              "stop": "50878630",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "50878630",
+              "display_stop": "50878630",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [
+            {
+              "source": "The Genome Aggregation Database (gnomAD)",
+              "value": "0.07196",
+              "minor_allele": ""
+            },
+            {
+              "source": "Trans-Omics for Precision Medicine (TOPMed)",
+              "value": "0.07391",
+              "minor_allele": ""
+            },
+            {
+              "source": "The Genome Aggregation Database (gnomAD)",
+              "value": "0.07502",
+              "minor_allele": ""
+            },
+            {
+              "source": "The Genome Aggregation Database (gnomAD), exomes",
+              "value": "0.08471",
+              "minor_allele": ""
+            },
+            {
+              "source": "Exome Aggregation Consortium (ExAC)",
+              "value": "0.08703",
+              "minor_allele": ""
+            },
+            {
+              "source": "1000 Genomes Project",
+              "value": "0.07588",
+              "minor_allele": "A"
+            }
+          ],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000015.10:50586432:G:A",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV000025252",
+          "SCV001950700",
+          "SCV001251011",
+          "SCV004793239"
+        ],
+        "rcv": [
+          "RCV000005076",
+          "RCV001095429",
+          "RCV001723538",
+          "RCV003964793"
+        ]
+      },
+      "germline_classification": {
+        "description": "Conflicting classifications of pathogenicity",
+        "last_evaluated": "2020/03/31 00:00",
+        "review_status": "criteria provided, conflicting classifications",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "300605"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C3468114"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0017593"
+              }
+            ],
+            "trait_name": "Juvenile amyotrophic lateral sclerosis"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "MedGen",
+                "db_id": "C3661900"
+              }
+            ],
+            "trait_name": "not provided"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "TRPM7",
+      "chr_sort": "15",
+      "location_sort": "00000000000050586433",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "TRPM7",
+          "geneid": "54822",
+          "strand": "-",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "missense variant",
+        "non-coding transcript variant"
+      ],
+      "protein_change": "T1482I",
+      "fda_recognized_database": ""
+    },
+    "776889": {
+      "uid": "776889",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV000776889",
+      "accession_version": "VCV000776889.8",
+      "title": "NM_017672.6(TRPM7):c.1131+3A>G",
+      "variation_set": [
+        {
+          "measure_id": "778252",
+          "variation_xrefs": [
+            {
+              "db_source": "ClinGen",
+              "db_id": "CA7557802"
+            },
+            {
+              "db_source": "dbSNP",
+              "db_id": "79443717"
+            }
+          ],
+          "variation_name": "NM_017672.6(TRPM7):c.1131+3A>G",
+          "cdna_change": "NM_017672.6(TRPM7):c.1131+3A>G",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "15",
+              "band": "15q21.2",
+              "start": "50632866",
+              "stop": "50632866",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "50632866",
+              "display_stop": "50632866",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "15",
+              "band": "15q21.2",
+              "start": "50925063",
+              "stop": "50925063",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "50925063",
+              "display_stop": "50925063",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [
+            {
+              "source": "The Genome Aggregation Database (gnomAD), exomes",
+              "value": "0.00218",
+              "minor_allele": ""
+            },
+            {
+              "source": "The Genome Aggregation Database (gnomAD), exomes",
+              "value": "0.00612",
+              "minor_allele": ""
+            },
+            {
+              "source": "Exome Aggregation Consortium (ExAC)",
+              "value": "0.00799",
+              "minor_allele": ""
+            },
+            {
+              "source": "The Genome Aggregation Database (gnomAD)",
+              "value": "0.02408",
+              "minor_allele": ""
+            },
+            {
+              "source": "The Genome Aggregation Database (gnomAD)",
+              "value": "0.02557",
+              "minor_allele": ""
+            },
+            {
+              "source": "NHLBI Exome Sequencing Project (ESP) Exome Variant Server",
+              "value": "0.02607",
+              "minor_allele": ""
+            },
+            {
+              "source": "Trans-Omics for Precision Medicine (TOPMed)",
+              "value": "0.02677",
+              "minor_allele": ""
+            },
+            {
+              "source": "1000 Genomes Project",
+              "value": "0.03375",
+              "minor_allele": "C"
+            }
+          ],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000015.10:50632865:T:C",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV001104076",
+          "SCV002798159",
+          "SCV005295761",
+          "SCV004740425"
+        ],
+        "rcv": [
+          "RCV000957276",
+          "RCV002489330",
+          "RCV003926058"
+        ]
+      },
+      "germline_classification": {
+        "description": "Benign",
+        "last_evaluated": "2022/04/05 00:00",
+        "review_status": "criteria provided, multiple submitters, no conflicts",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "90020"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C0543859"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0007104"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "105500"
+              }
+            ],
+            "trait_name": "Amyotrophic lateral sclerosis-parkinsonism-dementia complex"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "MedGen",
+                "db_id": "C3661900"
+              }
+            ],
+            "trait_name": "not provided"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "TRPM7",
+      "chr_sort": "15",
+      "location_sort": "00000000000050632866",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "TRPM7",
+          "geneid": "54822",
+          "strand": "-",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "intron variant"
+      ],
+      "protein_change": "",
+      "fda_recognized_database": ""
+    }
+  }
+}

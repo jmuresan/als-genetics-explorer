@@ -1,0 +1,1414 @@
+{
+  "data": {
+    "target": {
+      "id": "ENSG00000107290",
+      "approvedSymbol": "SETX",
+      "approvedName": "senataxin",
+      "associatedDiseases": {
+        "count": 411,
+        "rows": [
+          {
+            "disease": {
+              "id": "MONDO_0018996",
+              "name": "spinocerebellar ataxia, autosomal recessive, with axonal neuropathy 2"
+            },
+            "score": 0.8154226722373533
+          },
+          {
+            "disease": {
+              "id": "MONDO_0011223",
+              "name": "amyotrophic lateral sclerosis type 4"
+            },
+            "score": 0.7941930260812039
+          },
+          {
+            "disease": {
+              "id": "Orphanet_64753",
+              "name": "Spinocerebellar ataxia with axonal neuropathy type 2"
+            },
+            "score": 0.6691305217589745
+          },
+          {
+            "disease": {
+              "id": "EFO_0000508",
+              "name": "genetic disorder"
+            },
+            "score": 0.5321820317863537
+          },
+          {
+            "disease": {
+              "id": "EFO_0005772",
+              "name": "neurodegenerative disease"
+            },
+            "score": 0.4852429316701338
+          },
+          {
+            "disease": {
+              "id": "MONDO_0018894",
+              "name": "distal hereditary motor neuropathy"
+            },
+            "score": 0.4099957487887805
+          },
+          {
+            "disease": {
+              "id": "MONDO_0000437",
+              "name": "cerebellar ataxia"
+            },
+            "score": 0.4093925634520089
+          },
+          {
+            "disease": {
+              "id": "MONDO_0004976",
+              "name": "amyotrophic lateral sclerosis"
+            },
+            "score": 0.37802769756824256
+          },
+          {
+            "disease": {
+              "id": "MONDO_0017276",
+              "name": "frontotemporal dementia"
+            },
+            "score": 0.3562339154877542
+          },
+          {
+            "disease": {
+              "id": "MONDO_0017845",
+              "name": "spastic ataxia"
+            },
+            "score": 0.34576248627168765
+          },
+          {
+            "disease": {
+              "id": "HP_0011442",
+              "name": "Abnormal central motor function"
+            },
+            "score": 0.3400134663099256
+          },
+          {
+            "disease": {
+              "id": "Orphanet_1168",
+              "name": "Ataxia - oculomotor apraxia type 1"
+            },
+            "score": 0.30917408065790214
+          },
+          {
+            "disease": {
+              "id": "MONDO_0008842",
+              "name": "ataxia, early-onset, with oculomotor apraxia and hypoalbuminemia"
+            },
+            "score": 0.3088045008032175
+          },
+          {
+            "disease": {
+              "id": "EFO_1000632",
+              "name": "cerebral palsy"
+            },
+            "score": 0.26609749537298527
+          },
+          {
+            "disease": {
+              "id": "EFO_0010673",
+              "name": "cardiac transplant"
+            },
+            "score": 0.2613658564950767
+          },
+          {
+            "disease": {
+              "id": "HP_0001272",
+              "name": "Cerebellar atrophy"
+            },
+            "score": 0.26051552043328235
+          },
+          {
+            "disease": {
+              "id": "HP_0000639",
+              "name": "Nystagmus"
+            },
+            "score": 0.25870589827929125
+          },
+          {
+            "disease": {
+              "id": "HP_0002075",
+              "name": "Dysdiadochokinesis"
+            },
+            "score": 0.25870589827929125
+          },
+          {
+            "disease": {
+              "id": "HP_0001310",
+              "name": "Dysmetria"
+            },
+            "score": 0.25870589827929125
+          },
+          {
+            "disease": {
+              "id": "HP_0001350",
+              "name": "Slurred speech"
+            },
+            "score": 0.25870589827929125
+          },
+          {
+            "disease": {
+              "id": "EFO_0004264",
+              "name": "vascular disease"
+            },
+            "score": 0.23131264054973263
+          },
+          {
+            "disease": {
+              "id": "MONDO_0042981",
+              "name": "aortic valve stenosis"
+            },
+            "score": 0.218692720496793
+          },
+          {
+            "disease": {
+              "id": "MONDO_0019064",
+              "name": "hereditary spastic paraplegia"
+            },
+            "score": 0.1946111480308508
+          },
+          {
+            "disease": {
+              "id": "MONDO_0015626",
+              "name": "Charcot-Marie-Tooth disease"
+            },
+            "score": 0.16934557700324515
+          },
+          {
+            "disease": {
+              "id": "EFO_0022918",
+              "name": "amyotrophic lateral sclerosis, dominant"
+            },
+            "score": 0.16886514204827008
+          },
+          {
+            "disease": {
+              "id": "HP_0001258",
+              "name": "Spastic paraplegia"
+            },
+            "score": 0.12011345277252809
+          },
+          {
+            "disease": {
+              "id": "MONDO_0010100",
+              "name": "Tay-Sachs disease"
+            },
+            "score": 0.12011345277252809
+          },
+          {
+            "disease": {
+              "id": "MONDO_0018993",
+              "name": "Charcot-Marie-Tooth disease type 2"
+            },
+            "score": 0.11826555349910459
+          },
+          {
+            "disease": {
+              "id": "MONDO_0016971",
+              "name": "limb-girdle muscular dystrophy"
+            },
+            "score": 0.11826555349910459
+          },
+          {
+            "disease": {
+              "id": "HP_0001332",
+              "name": "Dystonia"
+            },
+            "score": 0.11234396027741894
+          },
+          {
+            "disease": {
+              "id": "MONDO_0019079",
+              "name": "proximal spinal muscular atrophy"
+            },
+            "score": 0.11161311611477993
+          },
+          {
+            "disease": {
+              "id": "HP_0001268",
+              "name": "Mental deterioration"
+            },
+            "score": 0.11087395640541053
+          },
+          {
+            "disease": {
+              "id": "MONDO_0003441",
+              "name": "dystonic disorder"
+            },
+            "score": 0.11087395640541053
+          },
+          {
+            "disease": {
+              "id": "MONDO_0015362",
+              "name": "neuronopathy, distal hereditary motor, autosomal dominant"
+            },
+            "score": 0.11087395640541053
+          },
+          {
+            "disease": {
+              "id": "MONDO_0024257",
+              "name": "hereditary motor neuron disease"
+            },
+            "score": 0.11087395640541053
+          },
+          {
+            "disease": {
+              "id": "Orphanet_98505",
+              "name": "Genetic motor neuron disease"
+            },
+            "score": 0.11087395640541053
+          },
+          {
+            "disease": {
+              "id": "EFO_0000279",
+              "name": "azoospermia"
+            },
+            "score": 0.08826158198872737
+          },
+          {
+            "disease": {
+              "id": "EFO_0010970",
+              "name": "severe malarial anemia"
+            },
+            "score": 0.08169454175394085
+          },
+          {
+            "disease": {
+              "id": "EFO_0000544",
+              "name": "infection"
+            },
+            "score": 0.07581569519497541
+          },
+          {
+            "disease": {
+              "id": "MONDO_0015607",
+              "name": "partial chromosome Y deletion"
+            },
+            "score": 0.07042898500799019
+          },
+          {
+            "disease": {
+              "id": "MONDO_0030439",
+              "name": "spermatogenic failure 57"
+            },
+            "score": 0.05820882711284053
+          },
+          {
+            "disease": {
+              "id": "MONDO_0030869",
+              "name": "spermatogenic failure 50"
+            },
+            "score": 0.058142302738997294
+          },
+          {
+            "disease": {
+              "id": "MONDO_0054729",
+              "name": "spermatogenic failure 25"
+            },
+            "score": 0.05793533802037386
+          },
+          {
+            "disease": {
+              "id": "MONDO_0020304",
+              "name": "isochromosomy Yp"
+            },
+            "score": 0.05701877998075579
+          },
+          {
+            "disease": {
+              "id": "MONDO_0013486",
+              "name": "spinocerebellar ataxia type 32"
+            },
+            "score": 0.05697258249892021
+          },
+          {
+            "disease": {
+              "id": "MONDO_0030787",
+              "name": "spermatogenic failure 71"
+            },
+            "score": 0.056146571523699895
+          },
+          {
+            "disease": {
+              "id": "Orphanet_52901",
+              "name": "Isolated follicle stimulating hormone deficiency"
+            },
+            "score": 0.055239252980448954
+          },
+          {
+            "disease": {
+              "id": "MONDO_0010647",
+              "name": "spermatogenic failure, X-linked, 2"
+            },
+            "score": 0.054483462177618736
+          },
+          {
+            "disease": {
+              "id": "MONDO_0018801",
+              "name": "congenital bilateral absence of vas deferens"
+            },
+            "score": 0.05425062686916738
+          },
+          {
+            "disease": {
+              "id": "MONDO_0030515",
+              "name": "spermatogenic failure 63"
+            },
+            "score": 0.05399561676943492
+          },
+          {
+            "disease": {
+              "id": "MONDO_0018394",
+              "name": "male infertility with teratozoospermia due to single gene mutation"
+            },
+            "score": 0.053552120943813286
+          },
+          {
+            "disease": {
+              "id": "MONDO_0859338",
+              "name": "spermatogenic failure 78"
+            },
+            "score": 0.05345603018159526
+          },
+          {
+            "disease": {
+              "id": "MONDO_0020305",
+              "name": "isochromosomy Yq"
+            },
+            "score": 0.05317514949203489
+          },
+          {
+            "disease": {
+              "id": "MONDO_0010720",
+              "name": "partial androgen insensitivity syndrome"
+            },
+            "score": 0.05294785788140379
+          },
+          {
+            "disease": {
+              "id": "MONDO_0023664",
+              "name": "spermatogenic failure 54"
+            },
+            "score": 0.052768611651881715
+          },
+          {
+            "disease": {
+              "id": "MONDO_0032896",
+              "name": "spermatogenic failure 42"
+            },
+            "score": 0.05238424860300964
+          },
+          {
+            "disease": {
+              "id": "EFO_0700088",
+              "name": "male infertility with azoospermia or oligozoospermia due to single gene mutation"
+            },
+            "score": 0.05237685700591594
+          },
+          {
+            "disease": {
+              "id": "MONDO_0032845",
+              "name": "spermatogenic failure 39"
+            },
+            "score": 0.05219206707857358
+          },
+          {
+            "disease": {
+              "id": "MONDO_0030531",
+              "name": "spermatogenic failure 65"
+            },
+            "score": 0.05198510235995016
+          },
+          {
+            "disease": {
+              "id": "MONDO_0030846",
+              "name": "spermatogenic failure 48"
+            },
+            "score": 0.051977710762856455
+          },
+          {
+            "disease": {
+              "id": "MONDO_0971000",
+              "name": "spermatogenic failure 93"
+            },
+            "score": 0.05196292756866907
+          },
+          {
+            "disease": {
+              "id": "MONDO_0957301",
+              "name": "spermatogenic failure 84"
+            },
+            "score": 0.05196292756866907
+          },
+          {
+            "disease": {
+              "id": "MONDO_0030493",
+              "name": "spermatogenic failure 60"
+            },
+            "score": 0.0519333611802943
+          },
+          {
+            "disease": {
+              "id": "MONDO_0030972",
+              "name": "spermatogenic failure 74"
+            },
+            "score": 0.0519333611802943
+          },
+          {
+            "disease": {
+              "id": "MONDO_0030492",
+              "name": "spermatogenic failure 59"
+            },
+            "score": 0.0519333611802943
+          },
+          {
+            "disease": {
+              "id": "MONDO_0030818",
+              "name": "spermatogenic failure 73"
+            },
+            "score": 0.0519333611802943
+          },
+          {
+            "disease": {
+              "id": "MONDO_0030507",
+              "name": "spermatogenic failure 61"
+            },
+            "score": 0.05192596958320061
+          },
+          {
+            "disease": {
+              "id": "MONDO_0030508",
+              "name": "spermatogenic failure 62"
+            },
+            "score": 0.05192596958320061
+          },
+          {
+            "disease": {
+              "id": "MONDO_0957821",
+              "name": "spermatogenic failure 88"
+            },
+            "score": 0.05192596958320061
+          },
+          {
+            "disease": {
+              "id": "MONDO_0025354",
+              "name": "spermatogenic failure, X-linked, 3"
+            },
+            "score": 0.05135681660698617
+          },
+          {
+            "disease": {
+              "id": "MONDO_0033622",
+              "name": "spermatogenic failure 44"
+            },
+            "score": 0.05133464181570508
+          },
+          {
+            "disease": {
+              "id": "MONDO_0030809",
+              "name": "spermatogenic failure 72"
+            },
+            "score": 0.0513050754273303
+          },
+          {
+            "disease": {
+              "id": "MONDO_0030430",
+              "name": "spermatogenic failure 56"
+            },
+            "score": 0.05127550903895554
+          },
+          {
+            "disease": {
+              "id": "MONDO_0970999",
+              "name": "spermatogenic failure 92"
+            },
+            "score": 0.05127550903895554
+          },
+          {
+            "disease": {
+              "id": "MONDO_0957593",
+              "name": "spermatogenic failure 86"
+            },
+            "score": 0.05127550903895554
+          },
+          {
+            "disease": {
+              "id": "MONDO_0971002",
+              "name": "spermatogenic failure 94"
+            },
+            "score": 0.05127550903895554
+          },
+          {
+            "disease": {
+              "id": "MONDO_0030926",
+              "name": "spermatogenic failure 51"
+            },
+            "score": 0.05105376112614471
+          },
+          {
+            "disease": {
+              "id": "MONDO_0970952",
+              "name": "spermatogenic failure 91"
+            },
+            "score": 0.050898537587177134
+          },
+          {
+            "disease": {
+              "id": "MONDO_0957584",
+              "name": "spermatogenic failure 85"
+            },
+            "score": 0.05086897119880235
+          },
+          {
+            "disease": {
+              "id": "MONDO_0012621",
+              "name": "deafness-infertility syndrome"
+            },
+            "score": 0.05073592245111586
+          },
+          {
+            "disease": {
+              "id": "MONDO_0032863",
+              "name": "spermatogenic failure 41"
+            },
+            "score": 0.05061026530052306
+          },
+          {
+            "disease": {
+              "id": "MONDO_0032859",
+              "name": "spermatogenic failure 40"
+            },
+            "score": 0.05061026530052306
+          },
+          {
+            "disease": {
+              "id": "MONDO_0859364",
+              "name": "spermatogenic failure 80"
+            },
+            "score": 0.050558524120867206
+          },
+          {
+            "disease": {
+              "id": "MONDO_0031077",
+              "name": "spermatogenic failure 76"
+            },
+            "score": 0.050558524120867206
+          },
+          {
+            "disease": {
+              "id": "MONDO_0970943",
+              "name": "spermatogenic failure, X-linked, 8"
+            },
+            "score": 0.05053634932958613
+          },
+          {
+            "disease": {
+              "id": "MONDO_0054615",
+              "name": "spermatogenic failure 18"
+            },
+            "score": 0.05052156613539874
+          },
+          {
+            "disease": {
+              "id": "MONDO_0054731",
+              "name": "spermatogenic failure 27"
+            },
+            "score": 0.05052156613539874
+          },
+          {
+            "disease": {
+              "id": "MONDO_0033673",
+              "name": "spermatogenic failure 46"
+            },
+            "score": 0.05052156613539874
+          },
+          {
+            "disease": {
+              "id": "MONDO_0859478",
+              "name": "spermatogenic failure, X-linked, 6"
+            },
+            "score": 0.0504550417615555
+          },
+          {
+            "disease": {
+              "id": "MONDO_0859477",
+              "name": "spermatogenic failure, X-linked, 5"
+            },
+            "score": 0.0504402585673681
+          },
+          {
+            "disease": {
+              "id": "MONDO_0957202",
+              "name": "spermatogenic failure, X-linked, 7"
+            },
+            "score": 0.0504402585673681
+          },
+          {
+            "disease": {
+              "id": "MONDO_0975842",
+              "name": "spermatogenic failure 96"
+            },
+            "score": 0.05027764343130683
+          },
+          {
+            "disease": {
+              "id": "MONDO_0030463",
+              "name": "spermatogenic failure 58"
+            },
+            "score": 0.04973805684346717
+          },
+          {
+            "disease": {
+              "id": "MONDO_0030844",
+              "name": "spermatogenic failure 47"
+            },
+            "score": 0.049723273649279774
+          },
+          {
+            "disease": {
+              "id": "MONDO_0033671",
+              "name": "spermatogenic failure 45"
+            },
+            "score": 0.04964935767834284
+          },
+          {
+            "disease": {
+              "id": "MONDO_0957249",
+              "name": "spermatogenic failure 82"
+            },
+            "score": 0.04964935767834284
+          },
+          {
+            "disease": {
+              "id": "MONDO_0030868",
+              "name": "spermatogenic failure 49"
+            },
+            "score": 0.04964935767834284
+          },
+          {
+            "disease": {
+              "id": "MONDO_0054723",
+              "name": "spermatogenic failure 19"
+            },
+            "score": 0.04964935767834284
+          },
+          {
+            "disease": {
+              "id": "MONDO_0032898",
+              "name": "spermatogenic failure 43"
+            },
+            "score": 0.04964935767834284
+          },
+          {
+            "disease": {
+              "id": "MONDO_0030522",
+              "name": "spermatogenic failure 64"
+            },
+            "score": 0.049471959348094195
+          },
+          {
+            "disease": {
+              "id": "MONDO_0054724",
+              "name": "spermatogenic failure 20"
+            },
+            "score": 0.049035855119566235
+          },
+          {
+            "disease": {
+              "id": "MONDO_0018800",
+              "name": "Kallmann syndrome"
+            },
+            "score": 0.04870138535107657
+          },
+          {
+            "disease": {
+              "id": "MONDO_0859352",
+              "name": "spermatogenic failure 79"
+            },
+            "score": 0.048651492070694136
+          },
+          {
+            "disease": {
+              "id": "MONDO_0014037",
+              "name": "spermatogenic failure 11"
+            },
+            "score": 0.04862192568231937
+          },
+          {
+            "disease": {
+              "id": "MONDO_0013901",
+              "name": "spermatogenic failure 10"
+            },
+            "score": 0.04862192568231937
+          },
+          {
+            "disease": {
+              "id": "MONDO_0030733",
+              "name": "spermatogenic failure 70"
+            },
+            "score": 0.04851105172591396
+          },
+          {
+            "disease": {
+              "id": "Orphanet_137893",
+              "name": "Male infertility due to large-headed multiflagellar polyploid spermatozoa"
+            },
+            "score": 0.04844452735207072
+          },
+          {
+            "disease": {
+              "id": "MONDO_0009461",
+              "name": "spermatogenic failure 5"
+            },
+            "score": 0.04844452735207072
+          },
+          {
+            "disease": {
+              "id": "MONDO_0054725",
+              "name": "spermatogenic failure 21"
+            },
+            "score": 0.04813408027413556
+          },
+          {
+            "disease": {
+              "id": "MONDO_0014961",
+              "name": "spermatogenic failure 16"
+            },
+            "score": 0.04813408027413556
+          },
+          {
+            "disease": {
+              "id": "MONDO_0014172",
+              "name": "spermatogenic failure 12"
+            },
+            "score": 0.04786059118166888
+          },
+          {
+            "disease": {
+              "id": "MONDO_0054733",
+              "name": "spermatogenic failure 29"
+            },
+            "score": 0.04767580125432653
+          },
+          {
+            "disease": {
+              "id": "MONDO_0957250",
+              "name": "spermatogenic failure 83"
+            },
+            "score": 0.04762406007467068
+          },
+          {
+            "disease": {
+              "id": "MONDO_0007060",
+              "name": "spermatogenic failure 6"
+            },
+            "score": 0.04750579452117156
+          },
+          {
+            "disease": {
+              "id": "MONDO_0016853",
+              "name": "ring chromosome Y"
+            },
+            "score": 0.04743927014732832
+          },
+          {
+            "disease": {
+              "id": "MONDO_0054726",
+              "name": "spermatogenic failure 22"
+            },
+            "score": 0.04727665501126705
+          },
+          {
+            "disease": {
+              "id": "MONDO_0054728",
+              "name": "spermatogenic failure 24"
+            },
+            "score": 0.04720273904033011
+          },
+          {
+            "disease": {
+              "id": "EFO_0000707",
+              "name": "squamous cell carcinoma"
+            },
+            "score": 0.047121431472299476
+          },
+          {
+            "disease": {
+              "id": "MONDO_0013070",
+              "name": "spermatogenic failure 7"
+            },
+            "score": 0.04695142473914452
+          },
+          {
+            "disease": {
+              "id": "MONDO_0054730",
+              "name": "spermatogenic failure 26"
+            },
+            "score": 0.04693664154495713
+          },
+          {
+            "disease": {
+              "id": "MONDO_0957594",
+              "name": "spermatogenic failure 87"
+            },
+            "score": 0.04693664154495713
+          },
+          {
+            "disease": {
+              "id": "MONDO_0020852",
+              "name": "spermatogenic failure 31"
+            },
+            "score": 0.04693664154495713
+          },
+          {
+            "disease": {
+              "id": "MONDO_0030989",
+              "name": "spermatogenic failure 53"
+            },
+            "score": 0.04693664154495713
+          },
+          {
+            "disease": {
+              "id": "MONDO_0031083",
+              "name": "spermatogenic failure 77"
+            },
+            "score": 0.04677402640889586
+          },
+          {
+            "disease": {
+              "id": "MONDO_0030984",
+              "name": "spermatogenic failure 75"
+            },
+            "score": 0.04655967009317873
+          },
+          {
+            "disease": {
+              "id": "MONDO_0009776",
+              "name": "spermatogenic failure 1"
+            },
+            "score": 0.04652271210771025
+          },
+          {
+            "disease": {
+              "id": "MONDO_0030938",
+              "name": "spermatogenic failure 52"
+            },
+            "score": 0.046042258296620155
+          },
+          {
+            "disease": {
+              "id": "MONDO_0054727",
+              "name": "spermatogenic failure 23"
+            },
+            "score": 0.046042258296620155
+          },
+          {
+            "disease": {
+              "id": "EFO_1000954",
+              "name": "habitual abortion"
+            },
+            "score": 0.046042258296620155
+          },
+          {
+            "disease": {
+              "id": "MONDO_0859522",
+              "name": "spermatogenic failure 81"
+            },
+            "score": 0.04574659441287239
+          },
+          {
+            "disease": {
+              "id": "MONDO_0019588",
+              "name": "hearing loss, autosomal recessive"
+            },
+            "score": 0.045450930529124633
+          },
+          {
+            "disease": {
+              "id": "MONDO_0013913",
+              "name": "hypogonadotropic hypogonadism 11 with or without anosmia"
+            },
+            "score": 0.04526614060178228
+          },
+          {
+            "disease": {
+              "id": "Orphanet_983",
+              "name": "Testicular regression syndrome"
+            },
+            "score": 0.04509613386862732
+          },
+          {
+            "disease": {
+              "id": "MONDO_0007309",
+              "name": "Charcot-Marie-Tooth disease type 1A"
+            },
+            "score": 0.04484481956744171
+          },
+          {
+            "disease": {
+              "id": "MONDO_0030732",
+              "name": "spermatogenic failure 69"
+            },
+            "score": 0.04470437922266153
+          },
+          {
+            "disease": {
+              "id": "MONDO_0030716",
+              "name": "spermatogenic failure 66"
+            },
+            "score": 0.04470437922266153
+          },
+          {
+            "disease": {
+              "id": "MONDO_0030721",
+              "name": "spermatogenic failure 68"
+            },
+            "score": 0.04470437922266153
+          },
+          {
+            "disease": {
+              "id": "MONDO_0015746",
+              "name": "male infertility due to globozoospermia"
+            },
+            "score": 0.04470437922266153
+          },
+          {
+            "disease": {
+              "id": "MONDO_0030718",
+              "name": "spermatogenic failure 67"
+            },
+            "score": 0.04470437922266153
+          },
+          {
+            "disease": {
+              "id": "MONDO_0010178",
+              "name": "congenital bilateral aplasia of vas deferens from CFTR mutation"
+            },
+            "score": 0.0434921572992957
+          },
+          {
+            "disease": {
+              "id": "MONDO_0010511",
+              "name": "vas deferens, congenital bilateral aplasia of, X-linked"
+            },
+            "score": 0.0434921572992957
+          },
+          {
+            "disease": {
+              "id": "MONDO_0025356",
+              "name": "azoospermia, obstructive, with nephrolithiasis"
+            },
+            "score": 0.04298952869692452
+          },
+          {
+            "disease": {
+              "id": "MONDO_0009857",
+              "name": "persistent Mullerian duct syndrome"
+            },
+            "score": 0.0428860463376128
+          },
+          {
+            "disease": {
+              "id": "Orphanet_2856",
+              "name": "Persistent Müllerian duct syndrome"
+            },
+            "score": 0.0428860463376128
+          },
+          {
+            "disease": {
+              "id": "MONDO_0014847",
+              "name": "spermatogenic failure 15"
+            },
+            "score": 0.04284169675505063
+          },
+          {
+            "disease": {
+              "id": "EFO_0004266",
+              "name": "primary ovarian insufficiency"
+            },
+            "score": 0.04275299758992631
+          },
+          {
+            "disease": {
+              "id": "MONDO_0054732",
+              "name": "spermatogenic failure 28"
+            },
+            "score": 0.042553424468396564
+          },
+          {
+            "disease": {
+              "id": "MONDO_0009239",
+              "name": "hypogonadotropic hypogonadism 24 without anosmia"
+            },
+            "score": 0.04234645974977313
+          },
+          {
+            "disease": {
+              "id": "MONDO_0010294",
+              "name": "X-linked severe congenital neutropenia"
+            },
+            "score": 0.04233167655558574
+          },
+          {
+            "disease": {
+              "id": "MONDO_0010220",
+              "name": "Young syndrome"
+            },
+            "score": 0.04230950176430466
+          },
+          {
+            "disease": {
+              "id": "MONDO_0957252",
+              "name": "ciliary dyskinesia, primary, 50"
+            },
+            "score": 0.042213411002086636
+          },
+          {
+            "disease": {
+              "id": "MONDO_0013504",
+              "name": "spermatogenic failure 8"
+            },
+            "score": 0.042206019404992946
+          },
+          {
+            "disease": {
+              "id": "MONDO_0007161",
+              "name": "spermatogenic failure 2"
+            },
+            "score": 0.04206557906021275
+          },
+          {
+            "disease": {
+              "id": "HP_0000737",
+              "name": "Irritability"
+            },
+            "score": 0.04153952554920475
+          },
+          {
+            "disease": {
+              "id": "MONDO_0958242",
+              "name": "spermatogenic failure 90"
+            },
+            "score": 0.04142251011306138
+          },
+          {
+            "disease": {
+              "id": "MONDO_0008303",
+              "name": "familial male-limited precocious puberty"
+            },
+            "score": 0.04108988824384515
+          },
+          {
+            "disease": {
+              "id": "EFO_0000763",
+              "name": "viral disease"
+            },
+            "score": 0.040468994087974844
+          },
+          {
+            "disease": {
+              "id": "Orphanet_325448",
+              "name": "Leydig cell hypoplasia due to LHB deficiency"
+            },
+            "score": 0.039766792364073905
+          },
+          {
+            "disease": {
+              "id": "MONDO_0009223",
+              "name": "hypogonadotropic hypogonadism 23 with or without anosmia"
+            },
+            "score": 0.039766792364073905
+          },
+          {
+            "disease": {
+              "id": "MONDO_0013910",
+              "name": "hypogonadotropic hypogonadism 8 with or without anosmia"
+            },
+            "score": 0.039397212509389205
+          },
+          {
+            "disease": {
+              "id": "MONDO_0014366",
+              "name": "spermatogenic failure 14"
+            },
+            "score": 0.039308513344264884
+          },
+          {
+            "disease": {
+              "id": "MONDO_0019155",
+              "name": "Leydig cell hypoplasia"
+            },
+            "score": 0.03926416376170272
+          },
+          {
+            "disease": {
+              "id": "MONDO_0042490",
+              "name": "neutropenia, severe congenital, 1, autosomal dominant"
+            },
+            "score": 0.03870979397967566
+          },
+          {
+            "disease": {
+              "id": "MONDO_0957396",
+              "name": "ciliary dyskinesia, primary, 51"
+            },
+            "score": 0.038598920023270256
+          },
+          {
+            "disease": {
+              "id": "MONDO_0011720",
+              "name": "spermatogenic failure 3"
+            },
+            "score": 0.03856196203780179
+          },
+          {
+            "disease": {
+              "id": "MONDO_0030307",
+              "name": "spermatogenic failure 55"
+            },
+            "score": 0.03856196203780179
+          },
+          {
+            "disease": {
+              "id": "EFO_0000616",
+              "name": "neoplasm"
+            },
+            "score": 0.03853657523878394
+          },
+          {
+            "disease": {
+              "id": "MONDO_0016281",
+              "name": "46,XX ovotesticular disorder of sex development"
+            },
+            "score": 0.03785976031390085
+          },
+          {
+            "disease": {
+              "id": "MONDO_0010735",
+              "name": "Kennedy disease"
+            },
+            "score": 0.03762322920690264
+          },
+          {
+            "disease": {
+              "id": "MONDO_0013139",
+              "name": "neutropenia, severe congenital, 2, autosomal dominant"
+            },
+            "score": 0.037586271221434174
+          },
+          {
+            "disease": {
+              "id": "MONDO_0016674",
+              "name": "46,XY partial gonadal dysgenesis"
+            },
+            "score": 0.03757148802724678
+          },
+          {
+            "disease": {
+              "id": "MONDO_0004992",
+              "name": "cancer"
+            },
+            "score": 0.03733548446794679
+          },
+          {
+            "disease": {
+              "id": "EFO_0009504",
+              "name": "crush injury"
+            },
+            "score": 0.03688348228352405
+          },
+          {
+            "disease": {
+              "id": "MONDO_0957809",
+              "name": "neutropenia, severe congenital, 10, autosomal recessive"
+            },
+            "score": 0.03641839888063052
+          },
+          {
+            "disease": {
+              "id": "Orphanet_124",
+              "name": "Blackfan-Diamond anemia"
+            },
+            "score": 0.03562010639451156
+          },
+          {
+            "disease": {
+              "id": "MONDO_0013607",
+              "name": "monocytopenia with susceptibility to infections"
+            },
+            "score": 0.035612714797417865
+          },
+          {
+            "disease": {
+              "id": "EFO_0005537",
+              "name": "triple-negative breast cancer"
+            },
+            "score": 0.03547966604973137
+          },
+          {
+            "disease": {
+              "id": "Orphanet_399786",
+              "name": "Male infertility with spermatogenesis disorder due to single gene mutation"
+            },
+            "score": 0.0354574912584503
+          },
+          {
+            "disease": {
+              "id": "MONDO_0014365",
+              "name": "spermatogenic failure 13"
+            },
+            "score": 0.035442708064262904
+          },
+          {
+            "disease": {
+              "id": "MONDO_0100249",
+              "name": "46,XX testicular disorder of sex development"
+            },
+            "score": 0.03528748452529533
+          },
+          {
+            "disease": {
+              "id": "HP_0003124",
+              "name": "Hypercholesterolemia"
+            },
+            "score": 0.035101871811926574
+          },
+          {
+            "disease": {
+              "id": "EFO_0001356",
+              "name": "familial amyotrophic lateral sclerosis"
+            },
+            "score": 0.03489572987932954
+          },
+          {
+            "disease": {
+              "id": "MONDO_0012945",
+              "name": "amyotrophic lateral sclerosis type 11"
+            },
+            "score": 0.03489572987932954
+          },
+          {
+            "disease": {
+              "id": "MONDO_0030483",
+              "name": "immunodeficiency 88"
+            },
+            "score": 0.03477746432583044
+          },
+          {
+            "disease": {
+              "id": "MONDO_0024773",
+              "name": "spermatogenic failure, X-linked, 4"
+            },
+            "score": 0.034673981966518726
+          },
+          {
+            "disease": {
+              "id": "MONDO_0009973",
+              "name": "reticular dysgenesis"
+            },
+            "score": 0.034570499607207004
+          },
+          {
+            "disease": {
+              "id": "MONDO_0014850",
+              "name": "retinitis pigmentosa and erythrocytic microcytosis"
+            },
+            "score": 0.03451875842755115
+          },
+          {
+            "disease": {
+              "id": "Orphanet_169142",
+              "name": "Recurrent infection due to specific granule deficiency"
+            },
+            "score": 0.03430440211183402
+          },
+          {
+            "disease": {
+              "id": "Orphanet_95702",
+              "name": "Cytomegalic congenital adrenal hypoplasia"
+            },
+            "score": 0.03416396176705384
+          },
+          {
+            "disease": {
+              "id": "MONDO_0010264",
+              "name": "X-linked adrenal hypoplasia congenita"
+            },
+            "score": 0.03416396176705384
+          },
+          {
+            "disease": {
+              "id": "MONDO_0018555",
+              "name": "hypogonadotropic hypogonadism"
+            },
+            "score": 0.03386829788330607
+          },
+          {
+            "disease": {
+              "id": "EFO_0002428",
+              "name": "chronic myeloproliferative disorder"
+            },
+            "score": 0.033358277683841184
+          },
+          {
+            "disease": {
+              "id": "EFO_0000729",
+              "name": "ulcerative colitis"
+            },
+            "score": 0.0328848067348116
+          },
+          {
+            "disease": {
+              "id": "MONDO_0010514",
+              "name": "combined immunodeficiency due to moesin deficiency"
+            },
+            "score": 0.03257476839190961
+          },
+          {
+            "disease": {
+              "id": "MONDO_0014865",
+              "name": "autosomal recessive severe congenital neutropenia due to CSF3R deficiency"
+            },
+            "score": 0.03215344735756906
+          },
+          {
+            "disease": {
+              "id": "MONDO_0014809",
+              "name": "DDX41-related hematologic malignancy predisposition syndrome"
+            },
+            "score": 0.03198344062441409
+          },
+          {
+            "disease": {
+              "id": "MONDO_0014083",
+              "name": "agammaglobulinemia 7, autosomal recessive"
+            },
+            "score": 0.03195387423603931
+          },
+          {
+            "disease": {
+              "id": "MONDO_0010635",
+              "name": "hypogonadotropic hypogonadism 1 with or without anosmia"
+            },
+            "score": 0.03180604229416544
+          },
+          {
+            "disease": {
+              "id": "EFO_0000223",
+              "name": "acute myelomonocytic leukemia"
+            },
+            "score": 0.0317247347261348
+          },
+          {
+            "disease": {
+              "id": "MONDO_0012089",
+              "name": "ichthyosis prematurity syndrome"
+            },
+            "score": 0.03144385403657443
+          }
+        ]
+      }
+    }
+  }
+}

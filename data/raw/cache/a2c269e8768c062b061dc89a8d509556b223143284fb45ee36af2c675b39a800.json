@@ -1,0 +1,1414 @@
+{
+  "data": {
+    "target": {
+      "id": "ENSG00000083799",
+      "approvedSymbol": "CYLD",
+      "approvedName": "CYLD lysine 63 deubiquitinase",
+      "associatedDiseases": {
+        "count": 732,
+        "rows": [
+          {
+            "disease": {
+              "id": "MONDO_0011512",
+              "name": "Brooke-Spiegler syndrome"
+            },
+            "score": 0.7260017420719439
+          },
+          {
+            "disease": {
+              "id": "MONDO_0007565",
+              "name": "familial cylindromatosis"
+            },
+            "score": 0.7235247432329788
+          },
+          {
+            "disease": {
+              "id": "MONDO_0030923",
+              "name": "frontotemporal dementia and/or amyotrophic lateral sclerosis"
+            },
+            "score": 0.6818540157543058
+          },
+          {
+            "disease": {
+              "id": "MONDO_0011114",
+              "name": "familial multiple trichoepithelioma"
+            },
+            "score": 0.5917859075226622
+          },
+          {
+            "disease": {
+              "id": "MONDO_0042977",
+              "name": "trichoepithelioma, multiple familial, 1"
+            },
+            "score": 0.5065185239758968
+          },
+          {
+            "disease": {
+              "id": "EFO_0001378",
+              "name": "multiple myeloma"
+            },
+            "score": 0.49491592129930395
+          },
+          {
+            "disease": {
+              "id": "MONDO_0021440",
+              "name": "benign neoplasm of skin"
+            },
+            "score": 0.4659608634219803
+          },
+          {
+            "disease": {
+              "id": "EFO_0003767",
+              "name": "inflammatory bowel disease"
+            },
+            "score": 0.40849711952509105
+          },
+          {
+            "disease": {
+              "id": "EFO_0000384",
+              "name": "Crohn's disease"
+            },
+            "score": 0.4080168386462141
+          },
+          {
+            "disease": {
+              "id": "MONDO_0021812",
+              "name": "adnexal spiradenoma/cylindroma of a sweat gland"
+            },
+            "score": 0.38405045586962117
+          },
+          {
+            "disease": {
+              "id": "MONDO_0003448",
+              "name": "benign spiradenoma"
+            },
+            "score": 0.37420585193757017
+          },
+          {
+            "disease": {
+              "id": "MONDO_0005341",
+              "name": "skin basal cell carcinoma"
+            },
+            "score": 0.37394330950514376
+          },
+          {
+            "disease": {
+              "id": "MONDO_0020593",
+              "name": "trichoblastoma"
+            },
+            "score": 0.37341307011824015
+          },
+          {
+            "disease": {
+              "id": "MONDO_0044785",
+              "name": "desmoplastic melanoma"
+            },
+            "score": 0.3695798546847018
+          },
+          {
+            "disease": {
+              "id": "EFO_0005540",
+              "name": "bile duct carcinoma"
+            },
+            "score": 0.3695798546847018
+          },
+          {
+            "disease": {
+              "id": "EFO_1000417",
+              "name": "Ovarian Endometrioid Adenocarcinoma with Squamous Differentiation"
+            },
+            "score": 0.3695798546847018
+          },
+          {
+            "disease": {
+              "id": "EFO_0004252",
+              "name": "nasopharyngeal neoplasm"
+            },
+            "score": 0.3695798546847018
+          },
+          {
+            "disease": {
+              "id": "EFO_0008515",
+              "name": "nodular melanoma"
+            },
+            "score": 0.3695798546847018
+          },
+          {
+            "disease": {
+              "id": "MONDO_0016748",
+              "name": "hemangioblastoma"
+            },
+            "score": 0.3695798546847018
+          },
+          {
+            "disease": {
+              "id": "MONDO_0018531",
+              "name": "carcinoma of liver and intrahepatic biliary tract"
+            },
+            "score": 0.3695798546847018
+          },
+          {
+            "disease": {
+              "id": "MONDO_0020638",
+              "name": "superficial spreading melanoma"
+            },
+            "score": 0.3695798546847018
+          },
+          {
+            "disease": {
+              "id": "EFO_1000233",
+              "name": "Endometrial Endometrioid Adenocarcinoma"
+            },
+            "score": 0.3695798546847018
+          },
+          {
+            "disease": {
+              "id": "EFO_1000579",
+              "name": "Thymic Squamous Cell Carcinoma"
+            },
+            "score": 0.3695798546847018
+          },
+          {
+            "disease": {
+              "id": "MONDO_0010478",
+              "name": "SLC35A2-congenital disorder of glycosylation"
+            },
+            "score": 0.3400134663099256
+          },
+          {
+            "disease": {
+              "id": "EFO_0003060",
+              "name": "non-small cell lung carcinoma"
+            },
+            "score": 0.3304498628934847
+          },
+          {
+            "disease": {
+              "id": "EFO_0007442",
+              "name": "placenta praevia"
+            },
+            "score": 0.32266260789097273
+          },
+          {
+            "disease": {
+              "id": "EFO_0000181",
+              "name": "head and neck squamous cell carcinoma"
+            },
+            "score": 0.3208491104017935
+          },
+          {
+            "disease": {
+              "id": "EFO_1000576",
+              "name": "Thymic Carcinoma"
+            },
+            "score": 0.31400622165633574
+          },
+          {
+            "disease": {
+              "id": "EFO_0000681",
+              "name": "renal cell carcinoma"
+            },
+            "score": 0.3129071796750253
+          },
+          {
+            "disease": {
+              "id": "EFO_0000365",
+              "name": "colorectal adenocarcinoma"
+            },
+            "score": 0.30621545515978377
+          },
+          {
+            "disease": {
+              "id": "EFO_0000756",
+              "name": "melanoma"
+            },
+            "score": 0.30512255422999623
+          },
+          {
+            "disease": {
+              "id": "EFO_0000199",
+              "name": "oral squamous cell carcinoma"
+            },
+            "score": 0.30201016268827374
+          },
+          {
+            "disease": {
+              "id": "EFO_0000403",
+              "name": "diffuse large B-cell lymphoma"
+            },
+            "score": 0.3005853183068956
+          },
+          {
+            "disease": {
+              "id": "EFO_0000182",
+              "name": "hepatocellular carcinoma"
+            },
+            "score": 0.3003291962448088
+          },
+          {
+            "disease": {
+              "id": "EFO_0000222",
+              "name": "acute myeloid leukemia"
+            },
+            "score": 0.2959359355852377
+          },
+          {
+            "disease": {
+              "id": "EFO_0000183",
+              "name": "Hodgkins lymphoma"
+            },
+            "score": 0.29048545401720427
+          },
+          {
+            "disease": {
+              "id": "EFO_0000095",
+              "name": "chronic lymphocytic leukemia"
+            },
+            "score": 0.28940571232886864
+          },
+          {
+            "disease": {
+              "id": "EFO_0000571",
+              "name": "lung adenocarcinoma"
+            },
+            "score": 0.2884032944976089
+          },
+          {
+            "disease": {
+              "id": "EFO_0004705",
+              "name": "hypothyroidism"
+            },
+            "score": 0.2878224818393332
+          },
+          {
+            "disease": {
+              "id": "EFO_0001071",
+              "name": "lung carcinoma"
+            },
+            "score": 0.2833291560976595
+          },
+          {
+            "disease": {
+              "id": "MONDO_0004986",
+              "name": "urinary bladder carcinoma"
+            },
+            "score": 0.28117195583726806
+          },
+          {
+            "disease": {
+              "id": "MONDO_0002038",
+              "name": "head and neck carcinoma"
+            },
+            "score": 0.2799567399236616
+          },
+          {
+            "disease": {
+              "id": "EFO_0000503",
+              "name": "gastric adenocarcinoma"
+            },
+            "score": 0.27985921190645313
+          },
+          {
+            "disease": {
+              "id": "EFO_0000641",
+              "name": "papillary thyroid carcinoma"
+            },
+            "score": 0.27958911062932107
+          },
+          {
+            "disease": {
+              "id": "EFO_0000305",
+              "name": "breast carcinoma"
+            },
+            "score": 0.27921758021429216
+          },
+          {
+            "disease": {
+              "id": "EFO_0000349",
+              "name": "clear cell renal carcinoma"
+            },
+            "score": 0.27830129006457216
+          },
+          {
+            "disease": {
+              "id": "EFO_0002892",
+              "name": "thyroid carcinoma"
+            },
+            "score": 0.27810884065023805
+          },
+          {
+            "disease": {
+              "id": "EFO_0005922",
+              "name": "esophageal squamous cell carcinoma"
+            },
+            "score": 0.27755447086821106
+          },
+          {
+            "disease": {
+              "id": "MONDO_0002529",
+              "name": "skin squamous cell carcinoma"
+            },
+            "score": 0.27755447086821106
+          },
+          {
+            "disease": {
+              "id": "EFO_0006545",
+              "name": "brain glioblastoma"
+            },
+            "score": 0.27718489101352634
+          },
+          {
+            "disease": {
+              "id": "EFO_1000172",
+              "name": "cervical squamous cell carcinoma"
+            },
+            "score": 0.27718489101352634
+          },
+          {
+            "disease": {
+              "id": "EFO_0002916",
+              "name": "esophageal carcinoma"
+            },
+            "score": 0.27718489101352634
+          },
+          {
+            "disease": {
+              "id": "EFO_0006352",
+              "name": "laryngeal squamous cell carcinoma"
+            },
+            "score": 0.27718489101352634
+          },
+          {
+            "disease": {
+              "id": "MONDO_0003219",
+              "name": "gastroesophageal junction adenocarcinoma"
+            },
+            "score": 0.27718489101352634
+          },
+          {
+            "disease": {
+              "id": "EFO_1000613",
+              "name": "Uterine Carcinosarcoma"
+            },
+            "score": 0.27718489101352634
+          },
+          {
+            "disease": {
+              "id": "EFO_1000058",
+              "name": "nasopharyngeal squamous cell carcinoma"
+            },
+            "score": 0.27718489101352634
+          },
+          {
+            "disease": {
+              "id": "EFO_0000702",
+              "name": "small cell lung carcinoma"
+            },
+            "score": 0.27718489101352634
+          },
+          {
+            "disease": {
+              "id": "EFO_0000504",
+              "name": "gastric intestinal type adenocarcinoma"
+            },
+            "score": 0.27718489101352634
+          },
+          {
+            "disease": {
+              "id": "EFO_0000478",
+              "name": "esophageal adenocarcinoma"
+            },
+            "score": 0.27718489101352634
+          },
+          {
+            "disease": {
+              "id": "EFO_1000101",
+              "name": "Atypical Meningioma"
+            },
+            "score": 0.27718489101352634
+          },
+          {
+            "disease": {
+              "id": "EFO_0006318",
+              "name": "breast ductal adenocarcinoma"
+            },
+            "score": 0.27718489101352634
+          },
+          {
+            "disease": {
+              "id": "EFO_0001642",
+              "name": "lymphoid neoplasm"
+            },
+            "score": 0.27718489101352634
+          },
+          {
+            "disease": {
+              "id": "EFO_1000223",
+              "name": "Duodenal Adenocarcinoma"
+            },
+            "score": 0.27718489101352634
+          },
+          {
+            "disease": {
+              "id": "MONDO_0003175",
+              "name": "salivary gland adenoid cystic carcinoma"
+            },
+            "score": 0.27718489101352634
+          },
+          {
+            "disease": {
+              "id": "EFO_1000616",
+              "name": "Uveal Melanoma"
+            },
+            "score": 0.27718489101352634
+          },
+          {
+            "disease": {
+              "id": "MONDO_0044925",
+              "name": "oral cavity carcinoma"
+            },
+            "score": 0.27718489101352634
+          },
+          {
+            "disease": {
+              "id": "EFO_1001949",
+              "name": "colon adenocarcinoma"
+            },
+            "score": 0.27718489101352634
+          },
+          {
+            "disease": {
+              "id": "MONDO_0000640",
+              "name": "central nervous system primitive neuroectodermal neoplasm"
+            },
+            "score": 0.27718489101352634
+          },
+          {
+            "disease": {
+              "id": "EFO_1001965",
+              "name": "pharyngeal squamous cell carcinoma"
+            },
+            "score": 0.27718489101352634
+          },
+          {
+            "disease": {
+              "id": "EFO_0000708",
+              "name": "squamous cell lung carcinoma"
+            },
+            "score": 0.27718489101352634
+          },
+          {
+            "disease": {
+              "id": "EFO_0008550",
+              "name": "Hepatobiliary Neoplasm"
+            },
+            "score": 0.27718489101352634
+          },
+          {
+            "disease": {
+              "id": "EFO_0006544",
+              "name": "bladder transitional cell carcinoma"
+            },
+            "score": 0.27718489101352634
+          },
+          {
+            "disease": {
+              "id": "EFO_0005631",
+              "name": "rectal adenocarcinoma"
+            },
+            "score": 0.27718489101352634
+          },
+          {
+            "disease": {
+              "id": "EFO_0000673",
+              "name": "prostate adenocarcinoma"
+            },
+            "score": 0.27718489101352634
+          },
+          {
+            "disease": {
+              "id": "EFO_1000597",
+              "name": "Tonsillar Squamous Cell Carcinoma"
+            },
+            "score": 0.27718489101352634
+          },
+          {
+            "disease": {
+              "id": "EFO_0009259",
+              "name": "skin carcinoma"
+            },
+            "score": 0.27718489101352634
+          },
+          {
+            "disease": {
+              "id": "MONDO_0003193",
+              "name": "bile duct adenocarcinoma"
+            },
+            "score": 0.27718489101352634
+          },
+          {
+            "disease": {
+              "id": "EFO_1000580",
+              "name": "Thymic Undifferentiated Carcinoma"
+            },
+            "score": 0.27718489101352634
+          },
+          {
+            "disease": {
+              "id": "EFO_0000094",
+              "name": "B-cell acute lymphoblastic leukemia"
+            },
+            "score": 0.27718489101352634
+          },
+          {
+            "disease": {
+              "id": "MONDO_0021489",
+              "name": "benign neoplasm of sweat gland"
+            },
+            "score": 0.27718489101352634
+          },
+          {
+            "disease": {
+              "id": "EFO_0000389",
+              "name": "cutaneous melanoma"
+            },
+            "score": 0.27718489101352634
+          },
+          {
+            "disease": {
+              "id": "EFO_1000129",
+              "name": "Bladder Small Cell Neuroendocrine Carcinoma"
+            },
+            "score": 0.27718489101352634
+          },
+          {
+            "disease": {
+              "id": "EFO_0001663",
+              "name": "prostate carcinoma"
+            },
+            "score": 0.27718489101352634
+          },
+          {
+            "disease": {
+              "id": "MONDO_0005184",
+              "name": "pancreatic ductal adenocarcinoma"
+            },
+            "score": 0.27718489101352634
+          },
+          {
+            "disease": {
+              "id": "EFO_1001471",
+              "name": "Merkel cell skin cancer"
+            },
+            "score": 0.27718489101352634
+          },
+          {
+            "disease": {
+              "id": "EFO_0002917",
+              "name": "ovarian serous adenocarcinoma"
+            },
+            "score": 0.27718489101352634
+          },
+          {
+            "disease": {
+              "id": "EFO_0003865",
+              "name": "kidney neoplasm"
+            },
+            "score": 0.27718489101352634
+          },
+          {
+            "disease": {
+              "id": "EFO_1000020",
+              "name": "cecum adenocarcinoma"
+            },
+            "score": 0.27718489101352634
+          },
+          {
+            "disease": {
+              "id": "MONDO_0016683",
+              "name": "gliomatosis cerebri"
+            },
+            "score": 0.27718489101352634
+          },
+          {
+            "disease": {
+              "id": "MONDO_0004379",
+              "name": "female breast carcinoma"
+            },
+            "score": 0.27718489101352634
+          },
+          {
+            "disease": {
+              "id": "MONDO_0019472",
+              "name": "extranodal nasal NK/T cell lymphoma"
+            },
+            "score": 0.27718489101352634
+          },
+          {
+            "disease": {
+              "id": "EFO_1000294",
+              "name": "HER2 Positive Breast Carcinoma"
+            },
+            "score": 0.27718489101352634
+          },
+          {
+            "disease": {
+              "id": "MONDO_0023619",
+              "name": "lentigo maligna melanoma"
+            },
+            "score": 0.27718489101352634
+          },
+          {
+            "disease": {
+              "id": "MONDO_0045068",
+              "name": "minor salivary gland adenoid cystic carcinoma"
+            },
+            "score": 0.27718489101352634
+          },
+          {
+            "disease": {
+              "id": "EFO_0000178",
+              "name": "gastric carcinoma"
+            },
+            "score": 0.27718489101352634
+          },
+          {
+            "disease": {
+              "id": "EFO_0000233",
+              "name": "adenosquamous lung carcinoma"
+            },
+            "score": 0.27718489101352634
+          },
+          {
+            "disease": {
+              "id": "MONDO_0015356",
+              "name": "hereditary neoplastic syndrome"
+            },
+            "score": 0.26609749537298527
+          },
+          {
+            "disease": {
+              "id": "Orphanet_140162",
+              "name": "Inherited cancer-predisposing syndrome"
+            },
+            "score": 0.26609749537298527
+          },
+          {
+            "disease": {
+              "id": "EFO_0000304",
+              "name": "breast adenocarcinoma"
+            },
+            "score": 0.23780248019566286
+          },
+          {
+            "disease": {
+              "id": "EFO_1001469",
+              "name": "Mantle cell lymphoma"
+            },
+            "score": 0.20301041950044818
+          },
+          {
+            "disease": {
+              "id": "EFO_0000508",
+              "name": "genetic disorder"
+            },
+            "score": 0.19103140583648417
+          },
+          {
+            "disease": {
+              "id": "MONDO_0011719",
+              "name": "gastrointestinal stromal tumor"
+            },
+            "score": 0.18793135610717085
+          },
+          {
+            "disease": {
+              "id": "EFO_0000209",
+              "name": "T-cell acute lymphoblastic leukemia"
+            },
+            "score": 0.1875688598663676
+          },
+          {
+            "disease": {
+              "id": "EFO_0002618",
+              "name": "pancreatic carcinoma"
+            },
+            "score": 0.18525190216070678
+          },
+          {
+            "disease": {
+              "id": "EFO_1000630",
+              "name": "marginal zone B-cell lymphoma"
+            },
+            "score": 0.18515950719703558
+          },
+          {
+            "disease": {
+              "id": "MONDO_0004301",
+              "name": "fibrosarcomatous osteosarcoma"
+            },
+            "score": 0.1847899273423509
+          },
+          {
+            "disease": {
+              "id": "MONDO_0045070",
+              "name": "digestive system melanoma"
+            },
+            "score": 0.1847899273423509
+          },
+          {
+            "disease": {
+              "id": "EFO_1000090",
+              "name": "Appendix Goblet Cell Carcinoid"
+            },
+            "score": 0.1847899273423509
+          },
+          {
+            "disease": {
+              "id": "EFO_1000226",
+              "name": "Dysplasia in Ulcerative Colitis"
+            },
+            "score": 0.1847899273423509
+          },
+          {
+            "disease": {
+              "id": "EFO_1000143",
+              "name": "Breast Carcinoma by Gene Expression Profile"
+            },
+            "score": 0.1847899273423509
+          },
+          {
+            "disease": {
+              "id": "MONDO_0002205",
+              "name": "vulvar melanoma"
+            },
+            "score": 0.1847899273423509
+          },
+          {
+            "disease": {
+              "id": "MONDO_0021123",
+              "name": "Ewing sarcoma/peripheral primitive neuroectodermal tumor of bone"
+            },
+            "score": 0.1847899273423509
+          },
+          {
+            "disease": {
+              "id": "EFO_0003104",
+              "name": "adrenocortical adenoma"
+            },
+            "score": 0.1847899273423509
+          },
+          {
+            "disease": {
+              "id": "MONDO_0003960",
+              "name": "pulmonary large cell neuroendocrine carcinoma"
+            },
+            "score": 0.1847899273423509
+          },
+          {
+            "disease": {
+              "id": "EFO_0003968",
+              "name": "angiosarcoma"
+            },
+            "score": 0.1847899273423509
+          },
+          {
+            "disease": {
+              "id": "MONDO_0044794",
+              "name": "benign melanocytic skin nevus"
+            },
+            "score": 0.1847899273423509
+          },
+          {
+            "disease": {
+              "id": "MONDO_0008978",
+              "name": "chordoma"
+            },
+            "score": 0.1847899273423509
+          },
+          {
+            "disease": {
+              "id": "EFO_0002499",
+              "name": "anaplastic astrocytoma"
+            },
+            "score": 0.1847899273423509
+          },
+          {
+            "disease": {
+              "id": "MONDO_0003410",
+              "name": "Wolffian duct adenocarcinoma"
+            },
+            "score": 0.1847899273423509
+          },
+          {
+            "disease": {
+              "id": "EFO_1000249",
+              "name": "Extramammary Paget Disease"
+            },
+            "score": 0.1847899273423509
+          },
+          {
+            "disease": {
+              "id": "EFO_1000368",
+              "name": "Medullomyoblastoma with Myogenic Differentiation"
+            },
+            "score": 0.1847899273423509
+          },
+          {
+            "disease": {
+              "id": "EFO_0003841",
+              "name": "thyroid neoplasm"
+            },
+            "score": 0.1847899273423509
+          },
+          {
+            "disease": {
+              "id": "EFO_1000534",
+              "name": "Small Intestinal Diffuse Large B-Cell Lymphoma"
+            },
+            "score": 0.1847899273423509
+          },
+          {
+            "disease": {
+              "id": "MONDO_0015686",
+              "name": "primary peritoneal carcinoma"
+            },
+            "score": 0.1847899273423509
+          },
+          {
+            "disease": {
+              "id": "MONDO_0003744",
+              "name": "spindle cell intraocular melanoma"
+            },
+            "score": 0.1847899273423509
+          },
+          {
+            "disease": {
+              "id": "EFO_1001968",
+              "name": "soft tissue sarcoma"
+            },
+            "score": 0.1847899273423509
+          },
+          {
+            "disease": {
+              "id": "EFO_1000539",
+              "name": "Small Intestinal Tubulovillous Adenoma"
+            },
+            "score": 0.1847899273423509
+          },
+          {
+            "disease": {
+              "id": "EFO_0000335",
+              "name": "chromophobe renal cell carcinoma"
+            },
+            "score": 0.1847899273423509
+          },
+          {
+            "disease": {
+              "id": "MONDO_0003438",
+              "name": "combined small cell lung carcinoma"
+            },
+            "score": 0.1847899273423509
+          },
+          {
+            "disease": {
+              "id": "EFO_1000511",
+              "name": "Rhabdoid Meningioma"
+            },
+            "score": 0.1847899273423509
+          },
+          {
+            "disease": {
+              "id": "EFO_0005406",
+              "name": "colorectal adenoma"
+            },
+            "score": 0.1847899273423509
+          },
+          {
+            "disease": {
+              "id": "MONDO_0002083",
+              "name": "Richter syndrome"
+            },
+            "score": 0.1847899273423509
+          },
+          {
+            "disease": {
+              "id": "EFO_1000262",
+              "name": "Gallbladder Adenocarcinoma"
+            },
+            "score": 0.1847899273423509
+          },
+          {
+            "disease": {
+              "id": "EFO_1000357",
+              "name": "Malignant Ovarian Brenner Tumor"
+            },
+            "score": 0.1847899273423509
+          },
+          {
+            "disease": {
+              "id": "EFO_0008509",
+              "name": "lobular breast carcinoma"
+            },
+            "score": 0.1847899273423509
+          },
+          {
+            "disease": {
+              "id": "EFO_0000309",
+              "name": "Burkitts lymphoma"
+            },
+            "score": 0.1847899273423509
+          },
+          {
+            "disease": {
+              "id": "EFO_0004198",
+              "name": "skin neoplasm"
+            },
+            "score": 0.16496460357777346
+          },
+          {
+            "disease": {
+              "id": "MONDO_0001187",
+              "name": "urinary bladder cancer"
+            },
+            "score": 0.15519884754782806
+          },
+          {
+            "disease": {
+              "id": "EFO_0000684",
+              "name": "respiratory system disease"
+            },
+            "score": 0.14960690234713825
+          },
+          {
+            "disease": {
+              "id": "EFO_0000616",
+              "name": "neoplasm"
+            },
+            "score": 0.11380226569458701
+          },
+          {
+            "disease": {
+              "id": "MONDO_0015459",
+              "name": "nasopharyngeal carcinoma"
+            },
+            "score": 0.10879891692366087
+          },
+          {
+            "disease": {
+              "id": "MONDO_0043579",
+              "name": "enteritis"
+            },
+            "score": 0.09618663738206432
+          },
+          {
+            "disease": {
+              "id": "EFO_1000675",
+              "name": "cholesteatoma"
+            },
+            "score": 0.09224097206505681
+          },
+          {
+            "disease": {
+              "id": "EFO_0001054",
+              "name": "leprosy"
+            },
+            "score": 0.08738291114285013
+          },
+          {
+            "disease": {
+              "id": "HP_0000155",
+              "name": "Oral ulcer"
+            },
+            "score": 0.08640370833285198
+          },
+          {
+            "disease": {
+              "id": "MONDO_0000334",
+              "name": "multinodular goiter"
+            },
+            "score": 0.0859446644573677
+          },
+          {
+            "disease": {
+              "id": "EFO_0000685",
+              "name": "rheumatoid arthritis"
+            },
+            "score": 0.08536551229903937
+          },
+          {
+            "disease": {
+              "id": "EFO_0000519",
+              "name": "glioblastoma multiforme"
+            },
+            "score": 0.08420729096523255
+          },
+          {
+            "disease": {
+              "id": "EFO_0009448",
+              "name": "pulmonary fibrosis"
+            },
+            "score": 0.08374185476941427
+          },
+          {
+            "disease": {
+              "id": "MONDO_0004979",
+              "name": "asthma"
+            },
+            "score": 0.08347301648351423
+          },
+          {
+            "disease": {
+              "id": "MONDO_0008170",
+              "name": "ovarian cancer"
+            },
+            "score": 0.08021689681503154
+          },
+          {
+            "disease": {
+              "id": "MONDO_0008903",
+              "name": "lung cancer"
+            },
+            "score": 0.0796194048587886
+          },
+          {
+            "disease": {
+              "id": "MONDO_0005180",
+              "name": "Parkinson disease"
+            },
+            "score": 0.07885973281562006
+          },
+          {
+            "disease": {
+              "id": "MONDO_0018899",
+              "name": "posterior cortical atrophy"
+            },
+            "score": 0.07801625410252563
+          },
+          {
+            "disease": {
+              "id": "EFO_0000565",
+              "name": "leukemia"
+            },
+            "score": 0.07604443034596867
+          },
+          {
+            "disease": {
+              "id": "MONDO_0007254",
+              "name": "breast cancer"
+            },
+            "score": 0.07135520255740846
+          },
+          {
+            "disease": {
+              "id": "MONDO_0004975",
+              "name": "Alzheimer disease"
+            },
+            "score": 0.07034168142817
+          },
+          {
+            "disease": {
+              "id": "MONDO_0002974",
+              "name": "cervical cancer"
+            },
+            "score": 0.06791728347504064
+          },
+          {
+            "disease": {
+              "id": "HP_0001977",
+              "name": "Abnormal thrombosis"
+            },
+            "score": 0.06785251289583655
+          },
+          {
+            "disease": {
+              "id": "MONDO_0005271",
+              "name": "allergic disease"
+            },
+            "score": 0.06785251289583655
+          },
+          {
+            "disease": {
+              "id": "MONDO_0018338",
+              "name": "activated PI3K-delta syndrome"
+            },
+            "score": 0.06723581506351438
+          },
+          {
+            "disease": {
+              "id": "MONDO_0016462",
+              "name": "isolated agammaglobulinemia"
+            },
+            "score": 0.06666440559696493
+          },
+          {
+            "disease": {
+              "id": "MONDO_0033555",
+              "name": "immunodeficiency 73c with defective neutrophil chemotaxis and hypogammaglobulinemia"
+            },
+            "score": 0.06578890993242377
+          },
+          {
+            "disease": {
+              "id": "MONDO_0030798",
+              "name": "immunodeficiency 99 with hypogammaglobulinemia and autoimmune cytopenias"
+            },
+            "score": 0.06577412673823638
+          },
+          {
+            "disease": {
+              "id": "MONDO_0800104",
+              "name": "immunodeficiency 105"
+            },
+            "score": 0.06558009731452691
+          },
+          {
+            "disease": {
+              "id": "MONDO_0004985",
+              "name": "bipolar disorder"
+            },
+            "score": 0.06527301552040918
+          },
+          {
+            "disease": {
+              "id": "MONDO_0015517",
+              "name": "common variable immunodeficiency"
+            },
+            "score": 0.0623360074789612
+          },
+          {
+            "disease": {
+              "id": "MONDO_0010023",
+              "name": "combined immunodeficiency due to ZAP70 deficiency"
+            },
+            "score": 0.062150190940911385
+          },
+          {
+            "disease": {
+              "id": "MONDO_0011086",
+              "name": "severe combined immunodeficiency, autosomal recessive, T cell-negative, B cell-negative, NK cell-positive"
+            },
+            "score": 0.061468316109018116
+          },
+          {
+            "disease": {
+              "id": "MONDO_0014278",
+              "name": "immunodeficiency 18"
+            },
+            "score": 0.06126155671253617
+          },
+          {
+            "disease": {
+              "id": "Orphanet_2268",
+              "name": "ICF syndrome"
+            },
+            "score": 0.06071047208477298
+          },
+          {
+            "disease": {
+              "id": "MONDO_0009306",
+              "name": "combined immunodeficiency with skin granulomas"
+            },
+            "score": 0.060587073477736605
+          },
+          {
+            "disease": {
+              "id": "MONDO_0010938",
+              "name": "T-B+ severe combined immunodeficiency due to JAK3 deficiency"
+            },
+            "score": 0.06047414629991626
+          },
+          {
+            "disease": {
+              "id": "MONDO_0044721",
+              "name": "severe combined immunodeficiency due to LAT deficiency"
+            },
+            "score": 0.06010477176737306
+          },
+          {
+            "disease": {
+              "id": "EFO_0009082",
+              "name": "Pilomatrixoma"
+            },
+            "score": 0.05976660620033656
+          },
+          {
+            "disease": {
+              "id": "MONDO_0014391",
+              "name": "combined immunodeficiency due to CTPS1 deficiency"
+            },
+            "score": 0.059668667538845095
+          },
+          {
+            "disease": {
+              "id": "Orphanet_2442",
+              "name": "X-linked lymphoproliferative disease"
+            },
+            "score": 0.05929888236201891
+          },
+          {
+            "disease": {
+              "id": "Orphanet_169150",
+              "name": "Immunodeficiency due to a late component of complements deficiency"
+            },
+            "score": 0.05914755994373967
+          },
+          {
+            "disease": {
+              "id": "EFO_0005140",
+              "name": "autoimmune disease"
+            },
+            "score": 0.05913811512523107
+          },
+          {
+            "disease": {
+              "id": "MONDO_0014645",
+              "name": "BENTA disease"
+            },
+            "score": 0.059044077584427965
+          },
+          {
+            "disease": {
+              "id": "MONDO_0013487",
+              "name": "recurrent Neisseria infections due to factor D deficiency"
+            },
+            "score": 0.05880754647742975
+          },
+          {
+            "disease": {
+              "id": "Orphanet_70592",
+              "name": "Immunodeficiency due to interleukin-1 receptor-associated kinase-4 deficiency"
+            },
+            "score": 0.05766184892790718
+          },
+          {
+            "disease": {
+              "id": "EFO_0005629",
+              "name": "small bowel Crohn's disease"
+            },
+            "score": 0.057430658187000994
+          },
+          {
+            "disease": {
+              "id": "Orphanet_1334",
+              "name": "Chronic mucocutaneous candidosis"
+            },
+            "score": 0.057379120339073386
+          },
+          {
+            "disease": {
+              "id": "Orphanet_319547",
+              "name": "Mendelian susceptibility to mycobacterial diseases due to complete IFNgammaR2 deficiency"
+            },
+            "score": 0.05716661192262969
+          },
+          {
+            "disease": {
+              "id": "MONDO_0013953",
+              "name": "immunodeficiency 28"
+            },
+            "score": 0.05716661192262969
+          },
+          {
+            "disease": {
+              "id": "MONDO_0004992",
+              "name": "cancer"
+            },
+            "score": 0.056409981415086664
+          },
+          {
+            "disease": {
+              "id": "MONDO_0009348",
+              "name": "classic Hodgkin lymphoma"
+            },
+            "score": 0.05603569756729449
+          },
+          {
+            "disease": {
+              "id": "Orphanet_277",
+              "name": "Severe combined immunodeficiency due to adenosine deaminase deficiency"
+            },
+            "score": 0.05581579755375709
+          },
+          {
+            "disease": {
+              "id": "MONDO_0019471",
+              "name": "adult T-cell leukemia/lymphoma"
+            },
+            "score": 0.055564881326111114
+          },
+          {
+            "disease": {
+              "id": "EFO_1001451",
+              "name": "X-Linked Combined Immunodeficiency Diseases"
+            },
+            "score": 0.05538708492232283
+          },
+          {
+            "disease": {
+              "id": "EFO_0005555",
+              "name": "gamma chain deficiency"
+            },
+            "score": 0.05533903954121382
+          },
+          {
+            "disease": {
+              "id": "MONDO_0957535",
+              "name": "immunodeficiency 112"
+            },
+            "score": 0.05525403617463633
+          },
+          {
+            "disease": {
+              "id": "MONDO_0014081",
+              "name": "severe combined immunodeficiency due to CARD11 deficiency"
+            },
+            "score": 0.05418964619314439
+          },
+          {
+            "disease": {
+              "id": "Orphanet_238569",
+              "name": "Autosomal recessive early-onset inflammatory bowel disease"
+            },
+            "score": 0.05417938008606983
+          },
+          {
+            "disease": {
+              "id": "MONDO_0032803",
+              "name": "immunodeficiency 64"
+            },
+            "score": 0.054076924337465554
+          },
+          {
+            "disease": {
+              "id": "MONDO_0033551",
+              "name": "immunodeficiency 72 with autoinflammation"
+            },
+            "score": 0.053973441978153854
+          },
+          {
+            "disease": {
+              "id": "EFO_0001066",
+              "name": "experimental autoimmune encephalomyelitis"
+            },
+            "score": 0.053897062141519014
+          },
+          {
+            "disease": {
+              "id": "MONDO_0859526",
+              "name": "immunodeficiency 109 with lymphoproliferation"
+            },
+            "score": 0.0532860234484403
+          },
+          {
+            "disease": {
+              "id": "MONDO_0034054",
+              "name": "severe combined immunodeficiency due to CD70 deficiency"
+            },
+            "score": 0.05308645032691056
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,1414 @@
+{
+  "data": {
+    "target": {
+      "id": "ENSG00000124164",
+      "approvedSymbol": "VAPB",
+      "approvedName": "VAMP associated protein B and C",
+      "associatedDiseases": {
+        "count": 313,
+        "rows": [
+          {
+            "disease": {
+              "id": "MONDO_0012077",
+              "name": "amyotrophic lateral sclerosis type 8"
+            },
+            "score": 0.7282213787361973
+          },
+          {
+            "disease": {
+              "id": "MONDO_0008453",
+              "name": "adult-onset proximal spinal muscular atrophy, autosomal dominant"
+            },
+            "score": 0.6522143147972859
+          },
+          {
+            "disease": {
+              "id": "EFO_0005772",
+              "name": "neurodegenerative disease"
+            },
+            "score": 0.4669708245480237
+          },
+          {
+            "disease": {
+              "id": "EFO_0022918",
+              "name": "amyotrophic lateral sclerosis, dominant"
+            },
+            "score": 0.41621781731829316
+          },
+          {
+            "disease": {
+              "id": "MONDO_0004976",
+              "name": "amyotrophic lateral sclerosis"
+            },
+            "score": 0.4016075620169975
+          },
+          {
+            "disease": {
+              "id": "EFO_0004329",
+              "name": "alcohol drinking"
+            },
+            "score": 0.3372777449790728
+          },
+          {
+            "disease": {
+              "id": "MONDO_0005148",
+              "name": "type 2 diabetes mellitus"
+            },
+            "score": 0.286247141334012
+          },
+          {
+            "disease": {
+              "id": "EFO_0008546",
+              "name": "poisoning"
+            },
+            "score": 0.277416610655893
+          },
+          {
+            "disease": {
+              "id": "EFO_0000384",
+              "name": "Crohn's disease"
+            },
+            "score": 0.2227120506827974
+          },
+          {
+            "disease": {
+              "id": "EFO_0000508",
+              "name": "genetic disorder"
+            },
+            "score": 0.19119470364426527
+          },
+          {
+            "disease": {
+              "id": "Orphanet_552",
+              "name": "MODY"
+            },
+            "score": 0.10654696204136618
+          },
+          {
+            "disease": {
+              "id": "MONDO_0005147",
+              "name": "type 1 diabetes mellitus"
+            },
+            "score": 0.0966360978258239
+          },
+          {
+            "disease": {
+              "id": "EFO_0000616",
+              "name": "neoplasm"
+            },
+            "score": 0.08180814341159065
+          },
+          {
+            "disease": {
+              "id": "EFO_0002939",
+              "name": "medulloblastoma"
+            },
+            "score": 0.07934674157939056
+          },
+          {
+            "disease": {
+              "id": "EFO_0000540",
+              "name": "immune system disease"
+            },
+            "score": 0.07931510138581024
+          },
+          {
+            "disease": {
+              "id": "MONDO_0007254",
+              "name": "breast cancer"
+            },
+            "score": 0.07396654746050338
+          },
+          {
+            "disease": {
+              "id": "MONDO_0011667",
+              "name": "maturity-onset diabetes of the young type 4"
+            },
+            "score": 0.07101846487621229
+          },
+          {
+            "disease": {
+              "id": "MONDO_0011668",
+              "name": "maturity-onset diabetes of the young type 6"
+            },
+            "score": 0.07101846487621229
+          },
+          {
+            "disease": {
+              "id": "MONDO_0007453",
+              "name": "maturity-onset diabetes of the young type 2"
+            },
+            "score": 0.07101846487621229
+          },
+          {
+            "disease": {
+              "id": "MONDO_0009061",
+              "name": "cystic fibrosis"
+            },
+            "score": 0.07022017239009334
+          },
+          {
+            "disease": {
+              "id": "MONDO_0002009",
+              "name": "major depressive disorder"
+            },
+            "score": 0.06942927150106809
+          },
+          {
+            "disease": {
+              "id": "MONDO_0012480",
+              "name": "diabetes mellitus, transient neonatal, 2"
+            },
+            "score": 0.06744093188286439
+          },
+          {
+            "disease": {
+              "id": "MONDO_0010404",
+              "name": "X-linked non progressive cerebellar ataxia"
+            },
+            "score": 0.06694015117976662
+          },
+          {
+            "disease": {
+              "id": "MONDO_0100352",
+              "name": "episodic kinesigenic dyskinesia 1"
+            },
+            "score": 0.0658221721193454
+          },
+          {
+            "disease": {
+              "id": "Orphanet_2828",
+              "name": "Young adult-onset Parkinsonism"
+            },
+            "score": 0.0636210126235801
+          },
+          {
+            "disease": {
+              "id": "MONDO_0010747",
+              "name": "X-linked dystonia-parkinsonism"
+            },
+            "score": 0.060969588627335265
+          },
+          {
+            "disease": {
+              "id": "EFO_0003888",
+              "name": "attention deficit hyperactivity disorder"
+            },
+            "score": 0.06095850123169471
+          },
+          {
+            "disease": {
+              "id": "EFO_0001356",
+              "name": "familial amyotrophic lateral sclerosis"
+            },
+            "score": 0.06083214227279572
+          },
+          {
+            "disease": {
+              "id": "EFO_0003108",
+              "name": "essential tremor"
+            },
+            "score": 0.06006801910404608
+          },
+          {
+            "disease": {
+              "id": "MONDO_0014627",
+              "name": "dystonia 27"
+            },
+            "score": 0.05884820026144507
+          },
+          {
+            "disease": {
+              "id": "MONDO_0044637",
+              "name": "infantile-onset generalized dyskinesia with orofacial involvement"
+            },
+            "score": 0.05862645234863425
+          },
+          {
+            "disease": {
+              "id": "Orphanet_411602",
+              "name": "Hereditary late-onset Parkinson disease"
+            },
+            "score": 0.058130496715861533
+          },
+          {
+            "disease": {
+              "id": "MONDO_0010894",
+              "name": "maturity-onset diabetes of the young type 3"
+            },
+            "score": 0.05797968760293602
+          },
+          {
+            "disease": {
+              "id": "MONDO_0011950",
+              "name": "infantile-onset autosomal recessive nonprogressive cerebellar ataxia"
+            },
+            "score": 0.05643114801180712
+          },
+          {
+            "disease": {
+              "id": "MONDO_0007309",
+              "name": "Charcot-Marie-Tooth disease type 1A"
+            },
+            "score": 0.05523001348408183
+          },
+          {
+            "disease": {
+              "id": "MONDO_0012098",
+              "name": "spinocerebellar ataxia type 20"
+            },
+            "score": 0.05499533027635705
+          },
+          {
+            "disease": {
+              "id": "MONDO_0004975",
+              "name": "Alzheimer disease"
+            },
+            "score": 0.054626608995803884
+          },
+          {
+            "disease": {
+              "id": "EFO_0009040",
+              "name": "Cranio-cervical dystonia with laryngeal and upper-limb involvement"
+            },
+            "score": 0.05461466302603181
+          },
+          {
+            "disease": {
+              "id": "MONDO_0011569",
+              "name": "Charcot-Marie-Tooth disease type 2B1"
+            },
+            "score": 0.053840393230467354
+          },
+          {
+            "disease": {
+              "id": "Orphanet_98807",
+              "name": "Primary dystonia, DYT13 type"
+            },
+            "score": 0.0529164435937556
+          },
+          {
+            "disease": {
+              "id": "MONDO_0011674",
+              "name": "Charcot-Marie-Tooth disease dominant intermediate B"
+            },
+            "score": 0.052060866230160506
+          },
+          {
+            "disease": {
+              "id": "Orphanet_100044",
+              "name": "Autosomal dominant intermediate Charcot-Marie-Tooth disease type B"
+            },
+            "score": 0.052060866230160506
+          },
+          {
+            "disease": {
+              "id": "Orphanet_101150",
+              "name": "Autosomal recessive dopa-responsive dystonia"
+            },
+            "score": 0.05179661663406095
+          },
+          {
+            "disease": {
+              "id": "MONDO_0011551",
+              "name": "TH-deficient dopa-responsive dystonia"
+            },
+            "score": 0.05179661663406095
+          },
+          {
+            "disease": {
+              "id": "MONDO_0010482",
+              "name": "X-linked parkinsonism-spasticity syndrome"
+            },
+            "score": 0.05179107293624068
+          },
+          {
+            "disease": {
+              "id": "EFO_0009057",
+              "name": "Spinocerebellar ataxia type 40"
+            },
+            "score": 0.05129768383023661
+          },
+          {
+            "disease": {
+              "id": "MONDO_0013548",
+              "name": "acetyl-CoA acetyltransferase-2 deficiency"
+            },
+            "score": 0.05096506196102037
+          },
+          {
+            "disease": {
+              "id": "MONDO_0859380",
+              "name": "episodic kinesigenic dyskinesia 3"
+            },
+            "score": 0.05084679640752127
+          },
+          {
+            "disease": {
+              "id": "MONDO_0013240",
+              "name": "maturity-onset diabetes of the young type 10"
+            },
+            "score": 0.05066200648017893
+          },
+          {
+            "disease": {
+              "id": "MONDO_0011223",
+              "name": "amyotrophic lateral sclerosis type 4"
+            },
+            "score": 0.050543740926679806
+          },
+          {
+            "disease": {
+              "id": "EFO_0000400",
+              "name": "diabetes mellitus"
+            },
+            "score": 0.05021111905746358
+          },
+          {
+            "disease": {
+              "id": "MONDO_0010056",
+              "name": "spinal muscular atrophy, type IV"
+            },
+            "score": 0.04968631566381131
+          },
+          {
+            "disease": {
+              "id": "Orphanet_324588",
+              "name": "Familial dyskinesia and facial myokymia"
+            },
+            "score": 0.049665988771803636
+          },
+          {
+            "disease": {
+              "id": "MONDO_0011694",
+              "name": "spinocerebellar ataxia type 15/16"
+            },
+            "score": 0.04965674927543653
+          },
+          {
+            "disease": {
+              "id": "Orphanet_101097",
+              "name": "Autosomal recessive Charcot-Marie-Tooth disease with hoarseness"
+            },
+            "score": 0.04964381398052256
+          },
+          {
+            "disease": {
+              "id": "MONDO_0009141",
+              "name": "torsion dystonia 2"
+            },
+            "score": 0.04937217278732931
+          },
+          {
+            "disease": {
+              "id": "Orphanet_401953",
+              "name": "Episodic ataxia with slurred speech"
+            },
+            "score": 0.04930380051421264
+          },
+          {
+            "disease": {
+              "id": "Orphanet_602",
+              "name": "Distal myopathy, Nonaka type"
+            },
+            "score": 0.04929825681639236
+          },
+          {
+            "disease": {
+              "id": "Orphanet_83420",
+              "name": "Proximal spinal muscular atrophy type 4"
+            },
+            "score": 0.04913194588178426
+          },
+          {
+            "disease": {
+              "id": "MONDO_0013753",
+              "name": "Charcot-Marie-Tooth disease axonal type 2P"
+            },
+            "score": 0.048803019811114866
+          },
+          {
+            "disease": {
+              "id": "MONDO_0032741",
+              "name": "neurodevelopmental disorder with impaired speech and hyperkinetic movements"
+            },
+            "score": 0.04851844332300766
+          },
+          {
+            "disease": {
+              "id": "Orphanet_308",
+              "name": "Unverricht-Lundborg disease"
+            },
+            "score": 0.04848887693463288
+          },
+          {
+            "disease": {
+              "id": "MONDO_0013485",
+              "name": "spinocerebellar ataxia type 35"
+            },
+            "score": 0.04820245254725223
+          },
+          {
+            "disease": {
+              "id": "MONDO_0012945",
+              "name": "amyotrophic lateral sclerosis type 11"
+            },
+            "score": 0.04773493403107608
+          },
+          {
+            "disease": {
+              "id": "MONDO_0011025",
+              "name": "Cayman type cerebellar ataxia"
+            },
+            "score": 0.047040123904268843
+          },
+          {
+            "disease": {
+              "id": "Orphanet_94122",
+              "name": "Cerebellar ataxia, Cayman type"
+            },
+            "score": 0.047040123904268843
+          },
+          {
+            "disease": {
+              "id": "Orphanet_98890",
+              "name": "Early-onset X-linked optic atrophy"
+            },
+            "score": 0.04651532051061657
+          },
+          {
+            "disease": {
+              "id": "MONDO_0010698",
+              "name": "optic atrophy 2"
+            },
+            "score": 0.04651532051061657
+          },
+          {
+            "disease": {
+              "id": "Orphanet_1766",
+              "name": "Dysequilibrium syndrome"
+            },
+            "score": 0.046241831418149894
+          },
+          {
+            "disease": {
+              "id": "Orphanet_183518",
+              "name": "Rare hereditary ataxia"
+            },
+            "score": 0.046241831418149894
+          },
+          {
+            "disease": {
+              "id": "MONDO_0012651",
+              "name": "spastic ataxia 2"
+            },
+            "score": 0.0459129053474805
+          },
+          {
+            "disease": {
+              "id": "MONDO_0011236",
+              "name": "hyperinsulinism due to glucokinase deficiency"
+            },
+            "score": 0.04567267844193545
+          },
+          {
+            "disease": {
+              "id": "Orphanet_284289",
+              "name": "Adult-onset autosomal recessive cerebellar ataxia"
+            },
+            "score": 0.0453936456516485
+          },
+          {
+            "disease": {
+              "id": "MONDO_0011439",
+              "name": "spinocerebellar ataxia type 12"
+            },
+            "score": 0.04473764140958315
+          },
+          {
+            "disease": {
+              "id": "MONDO_0000481",
+              "name": "cervical dystonia"
+            },
+            "score": 0.044290449785414666
+          },
+          {
+            "disease": {
+              "id": "EFO_1001050",
+              "name": "multiple system atrophy"
+            },
+            "score": 0.044051865457001536
+          },
+          {
+            "disease": {
+              "id": "Orphanet_319189",
+              "name": "Familial cortical myoclonus"
+            },
+            "score": 0.04386173715398041
+          },
+          {
+            "disease": {
+              "id": "MONDO_0008961",
+              "name": "Charcot-Marie-Tooth disease type 4A"
+            },
+            "score": 0.043859889254706984
+          },
+          {
+            "disease": {
+              "id": "MONDO_0008047",
+              "name": "episodic ataxia type 1"
+            },
+            "score": 0.043314758969047046
+          },
+          {
+            "disease": {
+              "id": "MONDO_0008939",
+              "name": "isolated cerebellar hypoplasia/agenesis"
+            },
+            "score": 0.043226059803922724
+          },
+          {
+            "disease": {
+              "id": "MONDO_0957273",
+              "name": "Charcot-Marie-Tooth disease, dominant intermediate A"
+            },
+            "score": 0.04321127660973534
+          },
+          {
+            "disease": {
+              "id": "MONDO_0007296",
+              "name": "spinocerebellar ataxia type 31"
+            },
+            "score": 0.042945179114362346
+          },
+          {
+            "disease": {
+              "id": "MONDO_0031068",
+              "name": "Charcot-Marie-Tooth disease, axonal, IIa 2II"
+            },
+            "score": 0.042582990856771336
+          },
+          {
+            "disease": {
+              "id": "MONDO_0011886",
+              "name": "torsion dystonia 13"
+            },
+            "score": 0.042553424468396564
+          },
+          {
+            "disease": {
+              "id": "MONDO_0014877",
+              "name": "myopathy, distal, 5"
+            },
+            "score": 0.04254972866984972
+          },
+          {
+            "disease": {
+              "id": "MONDO_0044202",
+              "name": "episodic kinesigenic dyskinesia"
+            },
+            "score": 0.042191236210805554
+          },
+          {
+            "disease": {
+              "id": "MONDO_0014836",
+              "name": "Charcot-Marie-Tooth disease axonal type 2CC"
+            },
+            "score": 0.042043404268931675
+          },
+          {
+            "disease": {
+              "id": "Orphanet_99946",
+              "name": "Autosomal dominant Charcot-Marie-Tooth disease type 2A1"
+            },
+            "score": 0.0418881807299641
+          },
+          {
+            "disease": {
+              "id": "MONDO_0007308",
+              "name": "Charcot-Marie-Tooth disease type 2A1"
+            },
+            "score": 0.0418881807299641
+          },
+          {
+            "disease": {
+              "id": "MONDO_0007495",
+              "name": "dystonia 5"
+            },
+            "score": 0.041644258025872204
+          },
+          {
+            "disease": {
+              "id": "MONDO_0016812",
+              "name": "dopa-responsive dystonia"
+            },
+            "score": 0.041644258025872204
+          },
+          {
+            "disease": {
+              "id": "EFO_0000544",
+              "name": "infection"
+            },
+            "score": 0.04162753765393248
+          },
+          {
+            "disease": {
+              "id": "MONDO_0000903",
+              "name": "myoclonus-dystonia syndrome"
+            },
+            "score": 0.041548167263654186
+          },
+          {
+            "disease": {
+              "id": "MONDO_0012614",
+              "name": "intellectual disability, autosomal recessive 6"
+            },
+            "score": 0.04129685296246858
+          },
+          {
+            "disease": {
+              "id": "MONDO_0005180",
+              "name": "Parkinson disease"
+            },
+            "score": 0.04101285966577885
+          },
+          {
+            "disease": {
+              "id": "Orphanet_100046",
+              "name": "Autosomal dominant intermediate Charcot-Marie-Tooth disease type D"
+            },
+            "score": 0.040698133597879355
+          },
+          {
+            "disease": {
+              "id": "MONDO_0011909",
+              "name": "Charcot-Marie-Tooth disease dominant intermediate D"
+            },
+            "score": 0.040698133597879355
+          },
+          {
+            "disease": {
+              "id": "MONDO_0018425",
+              "name": "Huntington disease-like syndrome due to C9ORF72 expansions"
+            },
+            "score": 0.040631609224036115
+          },
+          {
+            "disease": {
+              "id": "MONDO_0014476",
+              "name": "episodic ataxia type 8"
+            },
+            "score": 0.040269420966445105
+          },
+          {
+            "disease": {
+              "id": "MONDO_0012652",
+              "name": "autosomal recessive limb-girdle muscular dystrophy type 2L"
+            },
+            "score": 0.04022507138388294
+          },
+          {
+            "disease": {
+              "id": "MONDO_0030625",
+              "name": "dyskinesia with orofacial involvement, autosomal recessive"
+            },
+            "score": 0.04021767978678924
+          },
+          {
+            "disease": {
+              "id": "Orphanet_401849",
+              "name": "Autosomal recessive spastic paraplegia type 72"
+            },
+            "score": 0.04016593860713339
+          },
+          {
+            "disease": {
+              "id": "MONDO_0014181",
+              "name": "amyotrophic lateral sclerosis type 20"
+            },
+            "score": 0.04016593860713339
+          },
+          {
+            "disease": {
+              "id": "MONDO_0014282",
+              "name": "hereditary spastic paraplegia 72"
+            },
+            "score": 0.04016593860713339
+          },
+          {
+            "disease": {
+              "id": "MONDO_0800028",
+              "name": "dyskinesia with orofacial involvement, autosomal dominant"
+            },
+            "score": 0.04004767305363428
+          },
+          {
+            "disease": {
+              "id": "MONDO_0018696",
+              "name": "corticobasal syndrome"
+            },
+            "score": 0.04000332347107212
+          },
+          {
+            "disease": {
+              "id": "MONDO_0012012",
+              "name": "Charcot-Marie-Tooth disease dominant intermediate C"
+            },
+            "score": 0.039870274723385626
+          },
+          {
+            "disease": {
+              "id": "Orphanet_100045",
+              "name": "Autosomal dominant intermediate Charcot-Marie-Tooth disease type C"
+            },
+            "score": 0.039870274723385626
+          },
+          {
+            "disease": {
+              "id": "MONDO_0014410",
+              "name": "spinocerebellar ataxia type 37"
+            },
+            "score": 0.039864731025565356
+          },
+          {
+            "disease": {
+              "id": "MONDO_0011540",
+              "name": "spinocerebellar ataxia type 14"
+            },
+            "score": 0.039766792364073905
+          },
+          {
+            "disease": {
+              "id": "MONDO_0008026",
+              "name": "autosomal dominant childhood-onset proximal spinal muscular atrophy without contractures"
+            },
+            "score": 0.03972983437860544
+          },
+          {
+            "disease": {
+              "id": "MONDO_0011200",
+              "name": "torsion dystonia 7"
+            },
+            "score": 0.03927155535879641
+          },
+          {
+            "disease": {
+              "id": "MONDO_0054764",
+              "name": "neurodegeneration with brain iron accumulation 8"
+            },
+            "score": 0.03911633181982884
+          },
+          {
+            "disease": {
+              "id": "MONDO_0009698",
+              "name": "Unverricht-Lundborg syndrome"
+            },
+            "score": 0.03834760572208466
+          },
+          {
+            "disease": {
+              "id": "MONDO_0014503",
+              "name": "autosomal recessive spinocerebellar ataxia 17"
+            },
+            "score": 0.03825890655696033
+          },
+          {
+            "disease": {
+              "id": "MONDO_0009683",
+              "name": "autosomal recessive limb-girdle muscular dystrophy type 2H"
+            },
+            "score": 0.03824412336277294
+          },
+          {
+            "disease": {
+              "id": "MONDO_0010547",
+              "name": "X-linked progressive cerebellar ataxia"
+            },
+            "score": 0.03802237544996212
+          },
+          {
+            "disease": {
+              "id": "Orphanet_238455",
+              "name": "Infantile dystonia-parkinsonism"
+            },
+            "score": 0.03784497711971346
+          },
+          {
+            "disease": {
+              "id": "MONDO_0054835",
+              "name": "classic dopamine transporter deficiency syndrome"
+            },
+            "score": 0.03784497711971346
+          },
+          {
+            "disease": {
+              "id": "MONDO_0018423",
+              "name": "autosomal recessive spastic paraplegia type 71"
+            },
+            "score": 0.03772671156621436
+          },
+          {
+            "disease": {
+              "id": "MONDO_0030849",
+              "name": "intellectual developmental disorder with speech delay and axonal peripheral neuropathy"
+            },
+            "score": 0.037416264488279206
+          },
+          {
+            "disease": {
+              "id": "Orphanet_217055",
+              "name": "Autosomal recessive intermediate Charcot-Marie-Tooth disease type A"
+            },
+            "score": 0.03734974011443596
+          },
+          {
+            "disease": {
+              "id": "MONDO_0012014",
+              "name": "Charcot-Marie-Tooth disease recessive intermediate A"
+            },
+            "score": 0.03734974011443596
+          },
+          {
+            "disease": {
+              "id": "MONDO_0859363",
+              "name": "spastic paraplegia 79A, autosomal dominant, with ataxia"
+            },
+            "score": 0.03732017372606119
+          },
+          {
+            "disease": {
+              "id": "MONDO_0018614",
+              "name": "undetermined early-onset epileptic encephalopathy"
+            },
+            "score": 0.03711320900743776
+          },
+          {
+            "disease": {
+              "id": "MONDO_0100062",
+              "name": "genetic developmental and epileptic encephalopathy"
+            },
+            "score": 0.03711320900743776
+          },
+          {
+            "disease": {
+              "id": "MONDO_0030027",
+              "name": "tremor, hereditary essential, 6"
+            },
+            "score": 0.03694320227428279
+          },
+          {
+            "disease": {
+              "id": "Orphanet_2589",
+              "name": "Myoclonus - cerebellar ataxia - deafness"
+            },
+            "score": 0.0368101535265963
+          },
+          {
+            "disease": {
+              "id": "MONDO_0008043",
+              "name": "myoclonus-cerebellar ataxia-deafness syndrome"
+            },
+            "score": 0.0368101535265963
+          },
+          {
+            "disease": {
+              "id": "EFO_0009018",
+              "name": "Autosomal recessive spastic paraplegia type 75"
+            },
+            "score": 0.03661797200216026
+          },
+          {
+            "disease": {
+              "id": "MONDO_0032853",
+              "name": "myopathy, distal, 6, adult-onset, autosomal dominant"
+            },
+            "score": 0.03658840561378548
+          },
+          {
+            "disease": {
+              "id": "MONDO_0859530",
+              "name": "myopathy, sarcoplasmic body"
+            },
+            "score": 0.036403615686443125
+          },
+          {
+            "disease": {
+              "id": "Orphanet_228169",
+              "name": "Autosomal dominant striatal neurodegeneration"
+            },
+            "score": 0.03627056693875664
+          },
+          {
+            "disease": {
+              "id": "MONDO_0012205",
+              "name": "autosomal dominant striatal neurodegeneration type 1"
+            },
+            "score": 0.03627056693875664
+          },
+          {
+            "disease": {
+              "id": "MONDO_0009830",
+              "name": "parkinsonian-pyramidal syndrome"
+            },
+            "score": 0.03598968624919626
+          },
+          {
+            "disease": {
+              "id": "MONDO_0958009",
+              "name": "spastic ataxia 10, autosomal recessive"
+            },
+            "score": 0.0359453366666341
+          },
+          {
+            "disease": {
+              "id": "MONDO_0011603",
+              "name": "GNE myopathy"
+            },
+            "score": 0.0359379450695404
+          },
+          {
+            "disease": {
+              "id": "MONDO_0012789",
+              "name": "dystonia 16"
+            },
+            "score": 0.035775329933479136
+          },
+          {
+            "disease": {
+              "id": "MONDO_0014800",
+              "name": "progressive scapulohumeroperoneal distal myopathy"
+            },
+            "score": 0.03576793833638544
+          },
+          {
+            "disease": {
+              "id": "MONDO_0009908",
+              "name": "pterin-4 alpha-carbinolamine dehydratase 1 deficiency"
+            },
+            "score": 0.03576054673929175
+          },
+          {
+            "disease": {
+              "id": "Orphanet_238583",
+              "name": "Hyperphenylalaninemia"
+            },
+            "score": 0.03576054673929175
+          },
+          {
+            "disease": {
+              "id": "Orphanet_1578",
+              "name": "Dehydratase deficiency"
+            },
+            "score": 0.03576054673929175
+          },
+          {
+            "disease": {
+              "id": "MONDO_0013803",
+              "name": "leukoencephalopathy with calcifications and cysts"
+            },
+            "score": 0.03563488958869895
+          },
+          {
+            "disease": {
+              "id": "MONDO_0010534",
+              "name": "X-linked spinocerebellar ataxia type 4"
+            },
+            "score": 0.03547227445263768
+          },
+          {
+            "disease": {
+              "id": "MONDO_0014179",
+              "name": "inclusion body myopathy with early-onset Paget disease with or without frontotemporal dementia 3"
+            },
+            "score": 0.03545009966135659
+          },
+          {
+            "disease": {
+              "id": "MONDO_0014867",
+              "name": "spinocerebellar ataxia 43"
+            },
+            "score": 0.03522835174854577
+          },
+          {
+            "disease": {
+              "id": "EFO_0009060",
+              "name": "Spinocerebellar ataxia type 43"
+            },
+            "score": 0.03522835174854577
+          },
+          {
+            "disease": {
+              "id": "MONDO_0012450",
+              "name": "spinocerebellar ataxia type 28"
+            },
+            "score": 0.035220960151452076
+          },
+          {
+            "disease": {
+              "id": "Orphanet_71517",
+              "name": "Rapid-onset dystonia-parkinsonism"
+            },
+            "score": 0.03502138702992234
+          },
+          {
+            "disease": {
+              "id": "MONDO_0017222",
+              "name": "Pelizaeus-Merzbacher disease, classic form"
+            },
+            "score": 0.03488833828223585
+          },
+          {
+            "disease": {
+              "id": "MONDO_0957539",
+              "name": "dystonia 22, juvenile-onset"
+            },
+            "score": 0.034843988699673686
+          },
+          {
+            "disease": {
+              "id": "MONDO_0011170",
+              "name": "autosomal recessive limb-girdle muscular dystrophy type 2G"
+            },
+            "score": 0.03483659710257999
+          },
+          {
+            "disease": {
+              "id": "MONDO_0029136",
+              "name": "muscular dystrophy, limb-girdle, autosomal recessive 23"
+            },
+            "score": 0.034710939951987194
+          },
+          {
+            "disease": {
+              "id": "MONDO_0957576",
+              "name": "Parkinson disease 25, autosomal recessive early-onset, with impaired intellectual development"
+            },
+            "score": 0.0346961567577998
+          },
+          {
+            "disease": {
+              "id": "MONDO_0850514",
+              "name": "inclusion body myopathy and brain white matter abnormalities"
+            },
+            "score": 0.03444484245661421
+          },
+          {
+            "disease": {
+              "id": "MONDO_0012449",
+              "name": "spinocerebellar ataxia type 23"
+            },
+            "score": 0.03427483572345925
+          },
+          {
+            "disease": {
+              "id": "MONDO_0007435",
+              "name": "dentatorubral-pallidoluysian atrophy"
+            },
+            "score": 0.03426005252927186
+          },
+          {
+            "disease": {
+              "id": "Orphanet_101",
+              "name": "Dentatorubral pallidoluysian atrophy"
+            },
+            "score": 0.03426005252927186
+          },
+          {
+            "disease": {
+              "id": "MONDO_0014526",
+              "name": "polyglucosan body myopathy type 2"
+            },
+            "score": 0.03387568948039977
+          },
+          {
+            "disease": {
+              "id": "MONDO_0010878",
+              "name": "hereditary spastic paraplegia 6"
+            },
+            "score": 0.03381655670365022
+          },
+          {
+            "disease": {
+              "id": "Orphanet_100988",
+              "name": "Autosomal dominant spastic paraplegia type 6"
+            },
+            "score": 0.03381655670365022
+          },
+          {
+            "disease": {
+              "id": "MONDO_0008051",
+              "name": "tubular aggregate myopathy"
+            },
+            "score": 0.033786990315275434
+          },
+          {
+            "disease": {
+              "id": "MONDO_0012193",
+              "name": "autosomal dominant limb-girdle muscular dystrophy type 1G"
+            },
+            "score": 0.033720465941432194
+          },
+          {
+            "disease": {
+              "id": "MONDO_0007164",
+              "name": "spastic ataxia 1"
+            },
+            "score": 0.03364654997049526
+          },
+          {
+            "disease": {
+              "id": "MONDO_0054695",
+              "name": "myopathy, centronuclear, 6, with fiber-type disproportion"
+            },
+            "score": 0.03362437517921417
+          },
+          {
+            "disease": {
+              "id": "MONDO_0958233",
+              "name": "Bethlem myopathy 1B"
+            },
+            "score": 0.03361698358212047
+          },
+          {
+            "disease": {
+              "id": "MONDO_0018129",
+              "name": "autosomal recessive cerebellar ataxia with late-onset spasticity"
+            },
+            "score": 0.03300348102334387
+          },
+          {
+            "disease": {
+              "id": "MONDO_0012215",
+              "name": "myofibrillar myopathy 3"
+            },
+            "score": 0.032959131440781705
+          },
+          {
+            "disease": {
+              "id": "Orphanet_98911",
+              "name": "Distal myotilinopathy"
+            },
+            "score": 0.032959131440781705
+          },
+          {
+            "disease": {
+              "id": "EFO_0022988",
+              "name": "Parkinson disease 6"
+            },
+            "score": 0.03288521546984476
+          },
+          {
+            "disease": {
+              "id": "MONDO_0010870",
+              "name": "tibial muscular dystrophy"
+            },
+            "score": 0.032796516304720434
+          },
+          {
+            "disease": {
+              "id": "MONDO_0013928",
+              "name": "dystonia 23"
+            },
+            "score": 0.03277434151343936
+          },
+          {
+            "disease": {
+              "id": "Orphanet_95434",
+              "name": "Autosomal recessive cerebellar ataxia - saccadic intrusion"
+            },
+            "score": 0.032759558319251966
+          },
+          {
+            "disease": {
+              "id": "MONDO_0011811",
+              "name": "autosomal recessive cerebellar ataxia-saccadic intrusion syndrome"
+            },
+            "score": 0.032759558319251966
+          },
+          {
+            "disease": {
+              "id": "MONDO_0024771",
+              "name": "myopathy, distal, 7, adult-onset, X-linked"
+            },
+            "score": 0.032729991930877195
+          },
+          {
+            "disease": {
+              "id": "MONDO_0011638",
+              "name": "neuroferritinopathy"
+            },
+            "score": 0.0327226003337835
+          },
+          {
+            "disease": {
+              "id": "MONDO_0859158",
+              "name": "ataxia, intention tremor, and hypotonia syndrome, childhood-onset"
+            },
+            "score": 0.032656075959940245
+          },
+          {
+            "disease": {
+              "id": "MONDO_0030035",
+              "name": "leukoencephalopathy, developmental delay, and episodic neurologic regression syndrome"
+            },
+            "score": 0.032596943183190695
+          },
+          {
+            "disease": {
+              "id": "MONDO_0010662",
+              "name": "paraplegia-intellectual disability-hyperkeratosis syndrome"
+            },
+            "score": 0.03246389443550421
+          },
+          {
+            "disease": {
+              "id": "Orphanet_2824",
+              "name": "Paraplegia - intellectual disability - hyperkeratosis"
+            },
+            "score": 0.03246389443550421
+          },
+          {
+            "disease": {
+              "id": "MONDO_0014339",
+              "name": "autosomal recessive spinocerebellar ataxia 16"
+            },
+            "score": 0.032057356595351034
+          },
+          {
+            "disease": {
+              "id": "MONDO_0044326",
+              "name": "developmental delay and seizures with or without movement abnormalities"
+            },
+            "score": 0.03200561541569518
+          },
+          {
+            "disease": {
+              "id": "MONDO_0014633",
+              "name": "epilepsy with myoclonic atonic seizures"
+            },
+            "score": 0.03198344062441409
+          },
+          {
+            "disease": {
+              "id": "MONDO_0014864",
+              "name": "hypermanganesemia with dystonia 2"
+            },
+            "score": 0.031976049027320395
+          },
+          {
+            "disease": {
+              "id": "MONDO_0859255",
+              "name": "peripheral motor neuropathy, childhood-onset, biotin-responsive"
+            },
+            "score": 0.03195387423603931
+          },
+          {
+            "disease": {
+              "id": "MONDO_0008943",
+              "name": "autosomal recessive spinocerebellar ataxia 2"
+            },
+            "score": 0.03193909104185193
+          },
+          {
+            "disease": {
+              "id": "Orphanet_1170",
+              "name": "Autosomal recessive cerebelloparenchymal disorder type 3"
+            },
+            "score": 0.03193909104185193
+          },
+          {
+            "disease": {
+              "id": "MONDO_0011468",
+              "name": "hereditary motor and sensory neuropathy, Okinawa type"
+            },
+            "score": 0.03189474145928976
+          },
+          {
+            "disease": {
+              "id": "MONDO_0012034",
+              "name": "autosomal dominant limb-girdle muscular dystrophy type 1F"
+            },
+            "score": 0.03173212632322849
+          },
+          {
+            "disease": {
+              "id": "MONDO_0011834",
+              "name": "spinocerebellar ataxia type 18"
+            },
+            "score": 0.03151037841041768
+          },
+          {
+            "disease": {
+              "id": "Orphanet_597",
+              "name": "Central core disease"
+            },
+            "score": 0.03139211285691857
+          },
+          {
+            "disease": {
+              "id": "EFO_1000855",
+              "name": "central core myopathy"
+            },
+            "score": 0.03139211285691857
+          },
+          {
+            "disease": {
+              "id": "MONDO_0014025",
+              "name": "lower motor neuron syndrome with late-adult onset"
+            },
+            "score": 0.03137732966273119
+          },
+          {
+            "disease": {
+              "id": "MONDO_0030676",
+              "name": "parkinsonism-dystonia 3, childhood-onset"
+            },
+            "score": 0.03124428091504469
+          },
+          {
+            "disease": {
+              "id": "MONDO_0010167",
+              "name": "urocanic aciduria"
+            },
+            "score": 0.03120732292957622
+          },
+          {
+            "disease": {
+              "id": "MONDO_0011113",
+              "name": "Charcot-Marie-Tooth disease type 4C"
+            },
+            "score": 0.031103840570264503
+          },
+          {
+            "disease": {
+              "id": "MONDO_0054763",
+              "name": "neurodegeneration with brain iron accumulation 7"
+            },
+            "score": 0.03109644897317081
+          },
+          {
+            "disease": {
+              "id": "MONDO_0008407",
+              "name": "neurogenic scapuloperoneal syndrome, Kaeser type"
+            },
+            "score": 0.031052099390608646
+          },
+          {
+            "disease": {
+              "id": "Orphanet_85146",
+              "name": "Scapuloperoneal amyotrophy"
+            },
+            "score": 0.031052099390608646
+          },
+          {
+            "disease": {
+              "id": "MONDO_0013060",
+              "name": "autosomal recessive Parkinson disease 14"
+            },
+            "score": 0.0309855750167654
+          }
+        ]
+      }
+    }
+  }
+}

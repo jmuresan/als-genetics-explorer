@@ -1,0 +1,199 @@
+[
+  {
+    "dbId": 2565942,
+    "displayName": "Regulation of PLK1 Activity at G2/M Transition",
+    "stId": "R-HSA-2565942",
+    "stIdVersion": "R-HSA-2565942.5",
+    "isInDisease": false,
+    "isInferred": false,
+    "maxDepth": 2,
+    "name": [
+      "Regulation of PLK1 Activity at G2/M Transition"
+    ],
+    "releaseDate": "2013-03-12",
+    "speciesName": "Homo sapiens",
+    "doi": "10.3180/R-HSA-2565942.4",
+    "hasDiagram": false,
+    "hasEHLD": false,
+    "lastUpdatedDate": "2013-09-23",
+    "schemaClass": "Pathway",
+    "className": "Pathway"
+  },
+  {
+    "dbId": 5205685,
+    "displayName": "PINK1-PRKN Mediated Mitophagy",
+    "stId": "R-HSA-5205685",
+    "stIdVersion": "R-HSA-5205685.9",
+    "isInDisease": false,
+    "isInferred": false,
+    "maxDepth": 2,
+    "name": [
+      "PINK1-PRKN Mediated Mitophagy"
+    ],
+    "releaseDate": "2015-09-22",
+    "speciesName": "Homo sapiens",
+    "hasDiagram": false,
+    "hasEHLD": false,
+    "lastUpdatedDate": "2023-09-13",
+    "schemaClass": "Pathway",
+    "className": "Pathway"
+  },
+  {
+    "dbId": 5357786,
+    "displayName": "TNFR1-induced proapoptotic signaling",
+    "stId": "R-HSA-5357786",
+    "stIdVersion": "R-HSA-5357786.6",
+    "isInDisease": false,
+    "isInferred": false,
+    "maxDepth": 2,
+    "name": [
+      "TNFR1-induced proapoptotic signaling"
+    ],
+    "releaseDate": "2015-03-19",
+    "speciesName": "Homo sapiens",
+    "doi": "10.3180/R-HSA-5357786.4",
+    "hasDiagram": false,
+    "hasEHLD": false,
+    "lastUpdatedDate": "2023-03-29",
+    "schemaClass": "Pathway",
+    "className": "Pathway"
+  },
+  {
+    "dbId": 5357905,
+    "displayName": "Regulation of TNFR1 signaling",
+    "stId": "R-HSA-5357905",
+    "stIdVersion": "R-HSA-5357905.8",
+    "isInDisease": false,
+    "isInferred": false,
+    "maxDepth": 2,
+    "name": [
+      "Regulation of TNFR1 signaling"
+    ],
+    "releaseDate": "2015-09-22",
+    "speciesName": "Homo sapiens",
+    "doi": "10.3180/R-HSA-5357905.6",
+    "hasDiagram": false,
+    "hasEHLD": false,
+    "lastUpdatedDate": "2023-03-29",
+    "schemaClass": "Pathway",
+    "className": "Pathway"
+  },
+  {
+    "dbId": 5357956,
+    "displayName": "TNFR1-induced NF-kappa-B signaling pathway",
+    "stId": "R-HSA-5357956",
+    "stIdVersion": "R-HSA-5357956.5",
+    "isInDisease": false,
+    "isInferred": false,
+    "maxDepth": 2,
+    "name": [
+      "TNFR1-induced NF-kappa-B signaling pathway"
+    ],
+    "releaseDate": "2015-09-22",
+    "speciesName": "Homo sapiens",
+    "doi": "10.3180/R-HSA-5357956.3",
+    "hasDiagram": false,
+    "hasEHLD": false,
+    "lastUpdatedDate": "2023-03-29",
+    "schemaClass": "Pathway",
+    "className": "Pathway"
+  },
+  {
+    "dbId": 8854214,
+    "displayName": "TBC/RABGAPs",
+    "stId": "R-HSA-8854214",
+    "stIdVersion": "R-HSA-8854214.2",
+    "isInDisease": false,
+    "isInferred": false,
+    "maxDepth": 2,
+    "name": [
+      "TBC/RABGAPs"
+    ],
+    "releaseDate": "2016-12-12",
+    "speciesName": "Homo sapiens",
+    "hasDiagram": true,
+    "hasEHLD": false,
+    "schemaClass": "Pathway",
+    "className": "Pathway"
+  },
+  {
+    "dbId": 9013973,
+    "displayName": "TICAM1-dependent activation of IRF3/IRF7",
+    "stId": "R-HSA-9013973",
+    "stIdVersion": "R-HSA-9013973.6",
+    "isInDisease": false,
+    "isInferred": false,
+    "maxDepth": 3,
+    "name": [
+      "TICAM1-dependent activation of IRF3/IRF7",
+      "TLR3-mediated TICAM1-dependent activation of IRF3/IRF7",
+      "TLR3-mediated TRIF-dependent activation of IRF3/IRF7",
+      "Activation of IRF3/IRF7 mediated by TBK1/IKK epsilon"
+    ],
+    "releaseDate": "2010-12-14",
+    "speciesName": "Homo sapiens",
+    "doi": "10.3180/R-HSA-9013973.6",
+    "hasDiagram": false,
+    "hasEHLD": false,
+    "lastUpdatedDate": "2023-09-13",
+    "schemaClass": "Pathway",
+    "className": "Pathway"
+  },
+  {
+    "dbId": 936964,
+    "displayName": "Activation of IRF3, IRF7 mediated by TBK1, IKKε (IKBKE)",
+    "stId": "R-HSA-936964",
+    "stIdVersion": "R-HSA-936964.6",
+    "isInDisease": false,
+    "isInferred": false,
+    "maxDepth": 3,
+    "name": [
+      "Activation of IRF3, IRF7 mediated by TBK1, IKKε (IKBKE)"
+    ],
+    "releaseDate": "2010-12-14",
+    "speciesName": "Homo sapiens",
+    "doi": "10.3180/R-HSA-936964.6",
+    "hasDiagram": false,
+    "hasEHLD": false,
+    "lastUpdatedDate": "2023-09-13",
+    "schemaClass": "Pathway",
+    "className": "Pathway"
+  },
+  {
+    "dbId": 9824878,
+    "displayName": "Regulation of TBK1, IKKε (IKBKE)-mediated activation of IRF3, IRF7 ",
+    "stId": "R-HSA-9824878",
+    "stIdVersion": "R-HSA-9824878.1",
+    "isInDisease": false,
+    "isInferred": false,
+    "maxDepth": 2,
+    "name": [
+      "Regulation of TBK1, IKKε (IKBKE)-mediated activation of IRF3, IRF7 "
+    ],
+    "releaseDate": "2024-03-27",
+    "speciesName": "Homo sapiens",
+    "hasDiagram": false,
+    "hasEHLD": false,
+    "schemaClass": "Pathway",
+    "className": "Pathway"
+  },
+  {
+    "dbId": 9828211,
+    "displayName": "Regulation of TBK1, IKKε-mediated activation of IRF3, IRF7 upon TLR3 ligation",
+    "stId": "R-HSA-9828211",
+    "stIdVersion": "R-HSA-9828211.1",
+    "isInDisease": false,
+    "isInferred": false,
+    "maxDepth": 2,
+    "name": [
+      "Regulation of TBK1, IKKε-mediated activation of IRF3, IRF7 upon TLR3 ligation",
+      "Regulation of TBK1, IKBKE-mediated activation of IRF3, IRF7 upon TLR3 ligation"
+    ],
+    "releaseDate": "2024-03-27",
+    "speciesName": "Homo sapiens",
+    "hasDiagram": false,
+    "hasEHLD": false,
+    "schemaClass": "Pathway",
+    "className": "Pathway"
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "dbId": 1268020,
+    "displayName": "Mitochondrial protein import",
+    "stId": "R-HSA-1268020",
+    "stIdVersion": "R-HSA-1268020.6",
+    "isInDisease": false,
+    "isInferred": false,
+    "maxDepth": 2,
+    "name": [
+      "Mitochondrial protein import"
+    ],
+    "releaseDate": "2012-03-13",
+    "speciesName": "Homo sapiens",
+    "hasDiagram": true,
+    "hasEHLD": false,
+    "lastUpdatedDate": "2018-09-30",
+    "schemaClass": "Pathway",
+    "className": "Pathway"
+  }
+]

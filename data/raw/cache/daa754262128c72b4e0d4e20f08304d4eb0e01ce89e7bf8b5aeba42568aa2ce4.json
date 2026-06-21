@@ -1,0 +1,23 @@
+{
+  "header": {
+    "type": "esearch",
+    "version": "0.3"
+  },
+  "esearchresult": {
+    "count": "8",
+    "retmax": "8",
+    "retstart": "0",
+    "idlist": [
+      "35171694",
+      "31187092",
+      "25681989",
+      "21290295",
+      "19929729",
+      "19405049",
+      "17395433",
+      "16051700"
+    ],
+    "translationset": [],
+    "querytranslation": "(\"TRPM7\"[Title/Abstract] OR \"TRPM7\"[All Fields]) AND (\"amyotrophic lateral sclerosis\"[Title/Abstract] OR \"ALS\"[Title/Abstract])"
+  }
+}

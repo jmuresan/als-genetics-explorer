@@ -1,0 +1,61 @@
+[
+  {
+    "dbId": 1660514,
+    "displayName": "Synthesis of PIPs at the Golgi membrane",
+    "stId": "R-HSA-1660514",
+    "stIdVersion": "R-HSA-1660514.5",
+    "isInDisease": false,
+    "isInferred": false,
+    "maxDepth": 2,
+    "name": [
+      "Synthesis of PIPs at the Golgi membrane"
+    ],
+    "releaseDate": "2012-06-12",
+    "speciesName": "Homo sapiens",
+    "doi": "10.3180/R-HSA-1660514.4",
+    "hasDiagram": false,
+    "hasEHLD": false,
+    "schemaClass": "Pathway",
+    "className": "Pathway"
+  },
+  {
+    "dbId": 1660516,
+    "displayName": "Synthesis of PIPs at the early endosome membrane",
+    "stId": "R-HSA-1660516",
+    "stIdVersion": "R-HSA-1660516.9",
+    "isInDisease": false,
+    "isInferred": false,
+    "maxDepth": 2,
+    "name": [
+      "Synthesis of PIPs at the early endosome membrane"
+    ],
+    "releaseDate": "2012-06-12",
+    "speciesName": "Homo sapiens",
+    "doi": "10.3180/R-HSA-1660516.6",
+    "hasDiagram": false,
+    "hasEHLD": false,
+    "lastUpdatedDate": "2017-04-20",
+    "schemaClass": "Pathway",
+    "className": "Pathway"
+  },
+  {
+    "dbId": 1660517,
+    "displayName": "Synthesis of PIPs at the late endosome membrane",
+    "stId": "R-HSA-1660517",
+    "stIdVersion": "R-HSA-1660517.8",
+    "isInDisease": false,
+    "isInferred": false,
+    "maxDepth": 2,
+    "name": [
+      "Synthesis of PIPs at the late endosome membrane"
+    ],
+    "releaseDate": "2012-06-12",
+    "speciesName": "Homo sapiens",
+    "doi": "10.3180/R-HSA-1660517.5",
+    "hasDiagram": false,
+    "hasEHLD": false,
+    "lastUpdatedDate": "2017-04-20",
+    "schemaClass": "Pathway",
+    "className": "Pathway"
+  }
+]

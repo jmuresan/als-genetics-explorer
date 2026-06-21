@@ -1,0 +1,25 @@
+{
+  "header": {
+    "type": "esearch",
+    "version": "0.3"
+  },
+  "esearchresult": {
+    "count": "313",
+    "retmax": "10",
+    "retstart": "0",
+    "idlist": [
+      "42299014",
+      "42288493",
+      "42143042",
+      "42039423",
+      "41840875",
+      "41819100",
+      "41791136",
+      "41737544",
+      "41651252",
+      "41621017"
+    ],
+    "translationset": [],
+    "querytranslation": "(\"VCP\"[Title/Abstract] OR \"VCP\"[All Fields]) AND (\"amyotrophic lateral sclerosis\"[Title/Abstract] OR \"ALS\"[Title/Abstract])"
+  }
+}

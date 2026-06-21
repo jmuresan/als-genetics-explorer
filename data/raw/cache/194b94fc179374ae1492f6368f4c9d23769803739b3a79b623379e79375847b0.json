@@ -1,0 +1,16 @@
+{
+  "data": {
+    "search": {
+      "hits": [
+        {
+          "id": "ENSG00000092439",
+          "entity": "target"
+        },
+        {
+          "id": "ENSG00000259684",
+          "entity": "target"
+        }
+      ]
+    }
+  }
+}

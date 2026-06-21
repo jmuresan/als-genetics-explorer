@@ -1,0 +1,41 @@
+[
+  {
+    "dbId": 8951664,
+    "displayName": "Neddylation",
+    "stId": "R-HSA-8951664",
+    "stIdVersion": "R-HSA-8951664.7",
+    "isInDisease": false,
+    "isInferred": false,
+    "maxDepth": 2,
+    "name": [
+      "Neddylation"
+    ],
+    "releaseDate": "2017-03-27",
+    "speciesName": "Homo sapiens",
+    "doi": "10.3180/R-HSA-8951664.4",
+    "hasDiagram": true,
+    "hasEHLD": false,
+    "lastUpdatedDate": "2022-12-07",
+    "schemaClass": "Pathway",
+    "className": "Pathway"
+  },
+  {
+    "dbId": 983168,
+    "displayName": "Antigen processing: Ubiquitination & Proteasome degradation",
+    "stId": "R-HSA-983168",
+    "stIdVersion": "R-HSA-983168.4",
+    "isInDisease": false,
+    "isInferred": false,
+    "maxDepth": 2,
+    "name": [
+      "Antigen processing: Ubiquitination & Proteasome degradation"
+    ],
+    "releaseDate": "2011-06-14",
+    "speciesName": "Homo sapiens",
+    "hasDiagram": false,
+    "hasEHLD": false,
+    "lastUpdatedDate": "2017-04-20",
+    "schemaClass": "Pathway",
+    "className": "Pathway"
+  }
+]

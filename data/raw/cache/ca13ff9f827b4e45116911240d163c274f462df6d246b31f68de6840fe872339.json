@@ -1,0 +1,60 @@
+[
+  {
+    "dbId": 114608,
+    "displayName": "Platelet degranulation ",
+    "stId": "R-HSA-114608",
+    "stIdVersion": "R-HSA-114608.5",
+    "isInDisease": false,
+    "isInferred": false,
+    "maxDepth": 2,
+    "name": [
+      "Platelet degranulation "
+    ],
+    "releaseDate": "2004-10-27",
+    "speciesName": "Homo sapiens",
+    "hasDiagram": false,
+    "hasEHLD": false,
+    "lastUpdatedDate": "2021-06-14",
+    "schemaClass": "Pathway",
+    "className": "Pathway"
+  },
+  {
+    "dbId": 3299685,
+    "displayName": "Detoxification of Reactive Oxygen Species",
+    "stId": "R-HSA-3299685",
+    "stIdVersion": "R-HSA-3299685.7",
+    "isInDisease": false,
+    "isInferred": false,
+    "maxDepth": 2,
+    "name": [
+      "Detoxification of Reactive Oxygen Species"
+    ],
+    "releaseDate": "2013-12-04",
+    "speciesName": "Homo sapiens",
+    "doi": "10.3180/REACT_172715.1",
+    "hasDiagram": true,
+    "hasEHLD": false,
+    "lastUpdatedDate": "2021-06-14",
+    "schemaClass": "Pathway",
+    "className": "Pathway"
+  },
+  {
+    "dbId": 8950505,
+    "displayName": "Gene and protein expression by JAK-STAT signaling after Interleukin-12 stimulation",
+    "stId": "R-HSA-8950505",
+    "stIdVersion": "R-HSA-8950505.5",
+    "isInDisease": false,
+    "isInferred": false,
+    "maxDepth": 2,
+    "name": [
+      "Gene and protein expression by JAK-STAT signaling after Interleukin-12 stimulation"
+    ],
+    "releaseDate": "2017-06-12",
+    "speciesName": "Homo sapiens",
+    "hasDiagram": true,
+    "hasEHLD": false,
+    "lastUpdatedDate": "2021-12-08",
+    "schemaClass": "Pathway",
+    "className": "Pathway"
+  }
+]

@@ -1,0 +1,477 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "3067250",
+      "3891591",
+      "692233"
+    ],
+    "3067250": {
+      "uid": "3067250",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV003067250",
+      "accession_version": "VCV003067250.19",
+      "title": "NM_013437.5(LRP12):c.2384T>C (p.Leu795Pro)",
+      "variation_set": [
+        {
+          "measure_id": "3226546",
+          "variation_xrefs": [
+            {
+              "db_source": "ClinGen",
+              "db_id": "CA4838733"
+            },
+            {
+              "db_source": "dbSNP",
+              "db_id": "142053596"
+            }
+          ],
+          "variation_name": "NM_013437.5(LRP12):c.2384T>C (p.Leu795Pro)",
+          "cdna_change": "c.2384T>C",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "8",
+              "band": "8q22.3",
+              "start": "104490869",
+              "stop": "104490869",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "104490869",
+              "display_stop": "104490869",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "8",
+              "band": "8q22.3",
+              "start": "105503097",
+              "stop": "105503097",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "105503097",
+              "display_stop": "105503097",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [
+            {
+              "source": "The Genome Aggregation Database (gnomAD)",
+              "value": "0.00019",
+              "minor_allele": ""
+            },
+            {
+              "source": "Trans-Omics for Precision Medicine (TOPMed)",
+              "value": "0.00021",
+              "minor_allele": ""
+            },
+            {
+              "source": "Exome Aggregation Consortium (ExAC)",
+              "value": "0.00017",
+              "minor_allele": ""
+            },
+            {
+              "source": "The Genome Aggregation Database (gnomAD), exomes",
+              "value": "0.00019",
+              "minor_allele": ""
+            },
+            {
+              "source": "NHLBI Exome Sequencing Project (ESP) Exome Variant Server",
+              "value": "0.00038",
+              "minor_allele": ""
+            }
+          ],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000008.11:104490868:A:G",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV006057319",
+          "SCV004811082"
+        ],
+        "rcv": [
+          "RCV003992939",
+          "RCV005392762"
+        ]
+      },
+      "germline_classification": {
+        "description": "Conflicting classifications of pathogenicity",
+        "last_evaluated": "2024/03/01 00:00",
+        "review_status": "criteria provided, conflicting classifications",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "MedGen",
+                "db_id": "C5231388"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0020793"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "164310"
+              }
+            ],
+            "trait_name": "Oculopharyngodistal myopathy 1"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "MedGen",
+                "db_id": "C5830642"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0957538"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "620452"
+              }
+            ],
+            "trait_name": "Amyotrophic lateral sclerosis 28"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "MedGen",
+                "db_id": "C3661900"
+              }
+            ],
+            "trait_name": "not provided"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "LRP12",
+      "chr_sort": "08",
+      "location_sort": "00000000000104490869",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "LRP12",
+          "geneid": "29967",
+          "strand": "-",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "missense variant"
+      ],
+      "protein_change": "L776P, L795P",
+      "fda_recognized_database": ""
+    },
+    "3891591": {
+      "uid": "3891591",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV003891591",
+      "accession_version": "VCV003891591.1",
+      "title": "NM_013437.5(LRP12):c.2000C>T (p.Ala667Val)",
+      "variation_set": [
+        {
+          "measure_id": "4007484",
+          "variation_xrefs": [],
+          "variation_name": "NM_013437.5(LRP12):c.2000C>T (p.Ala667Val)",
+          "cdna_change": "c.2000C>T",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "8",
+              "band": "8q22.3",
+              "start": "104491253",
+              "stop": "104491253",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "104491253",
+              "display_stop": "104491253",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "8",
+              "band": "8q22.3",
+              "start": "105503481",
+              "stop": "105503481",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "105503481",
+              "display_stop": "105503481",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000008.11:104491252:G:A",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV006057318"
+        ],
+        "rcv": [
+          "RCV005398314"
+        ]
+      },
+      "germline_classification": {
+        "description": "Uncertain significance",
+        "last_evaluated": "2022/04/20 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "MedGen",
+                "db_id": "C5231388"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0020793"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "164310"
+              }
+            ],
+            "trait_name": "Oculopharyngodistal myopathy 1"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "MedGen",
+                "db_id": "C5830642"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0957538"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "620452"
+              }
+            ],
+            "trait_name": "Amyotrophic lateral sclerosis 28"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "LRP12",
+      "chr_sort": "08",
+      "location_sort": "00000000000104491253",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "LRP12",
+          "geneid": "29967",
+          "strand": "-",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "missense variant"
+      ],
+      "protein_change": "A648V, A667V",
+      "fda_recognized_database": ""
+    },
+    "692233": {
+      "uid": "692233",
+      "obj_type": "Microsatellite",
+      "accession": "VCV000692233",
+      "accession_version": "VCV000692233.7",
+      "title": "NM_013437.5:c.-102CGG[(90_?)]",
+      "variation_set": [
+        {
+          "measure_id": "680037",
+          "variation_xrefs": [
+            {
+              "db_source": "OMIM",
+              "db_id": "618299.0001"
+            }
+          ],
+          "variation_name": "NM_013437.5:c.-102CGG[(90_?)]",
+          "cdna_change": "NM_013437.5:c.-102CGG[(90_?)]",
+          "aliases": [
+            "LRP12, (CGG)n REPEAT EXPANSION, 5-PRIME UTR"
+          ],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "8",
+              "band": "8q22.3",
+              "start": "104588972",
+              "stop": "104588972",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "104588972",
+              "display_stop": "104588972",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "Microsatellite",
+          "canonical_spdi": "",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV000996538",
+          "SCV004023251"
+        ],
+        "rcv": [
+          "RCV001799711",
+          "RCV003319213"
+        ]
+      },
+      "germline_classification": {
+        "description": "Pathogenic",
+        "last_evaluated": "2023/08/02 00:00",
+        "review_status": "no assertion criteria provided",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "MedGen",
+                "db_id": "C5231388"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0020793"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "164310"
+              }
+            ],
+            "trait_name": "Oculopharyngodistal myopathy 1"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "MedGen",
+                "db_id": "C5830642"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0957538"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "620452"
+              }
+            ],
+            "trait_name": "Amyotrophic lateral sclerosis 28"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "LRP12",
+      "chr_sort": "08",
+      "location_sort": "00000000000104588972",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "LRP12",
+          "geneid": "29967",
+          "strand": "-",
+          "source": "submitted"
+        },
+        {
+          "symbol": "LOC130000954",
+          "geneid": "130000954",
+          "strand": "+",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [],
+      "protein_change": "",
+      "fda_recognized_database": ""
+    }
+  }
+}

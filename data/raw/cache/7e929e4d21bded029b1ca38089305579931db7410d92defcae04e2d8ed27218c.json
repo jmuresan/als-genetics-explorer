@@ -1,0 +1,25 @@
+{
+  "header": {
+    "type": "esearch",
+    "version": "0.3"
+  },
+  "esearchresult": {
+    "count": "96",
+    "retmax": "10",
+    "retstart": "0",
+    "idlist": [
+      "42260986",
+      "41917768",
+      "40473122",
+      "40458045",
+      "40413526",
+      "40409555",
+      "40063831",
+      "39508106",
+      "39271636",
+      "39066921"
+    ],
+    "translationset": [],
+    "querytranslation": "(\"PFN1\"[Title/Abstract] OR \"PFN1\"[All Fields]) AND (\"amyotrophic lateral sclerosis\"[Title/Abstract] OR \"ALS\"[Title/Abstract])"
+  }
+}

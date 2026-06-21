@@ -1,0 +1,25 @@
+{
+  "header": {
+    "type": "esearch",
+    "version": "0.3"
+  },
+  "esearchresult": {
+    "count": "272",
+    "retmax": "10",
+    "retstart": "0",
+    "idlist": [
+      "42145639",
+      "41799850",
+      "41756461",
+      "41737544",
+      "41716354",
+      "41592170",
+      "41513843",
+      "41294799",
+      "41283823",
+      "41259153"
+    ],
+    "translationset": [],
+    "querytranslation": "(\"OPTN\"[Title/Abstract] OR \"OPTN\"[All Fields]) AND (\"amyotrophic lateral sclerosis\"[Title/Abstract] OR \"ALS\"[Title/Abstract])"
+  }
+}

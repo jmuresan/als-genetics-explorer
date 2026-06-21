@@ -1,0 +1,85 @@
+{
+  "header": {
+    "type": "esearch",
+    "version": "0.3"
+  },
+  "esearchresult": {
+    "count": "40",
+    "retmax": "40",
+    "retstart": "0",
+    "idlist": [
+      "4796512",
+      "4737635",
+      "4709542",
+      "3896893",
+      "3721627",
+      "3713291",
+      "3705373",
+      "3372319",
+      "2730164",
+      "2181708",
+      "2152154",
+      "2142859",
+      "1693310",
+      "1515963",
+      "1503447",
+      "1501315",
+      "1497382",
+      "1476961",
+      "1458651",
+      "1410143",
+      "1384538",
+      "1343264",
+      "969427",
+      "884000",
+      "882059",
+      "873195",
+      "836624",
+      "701212",
+      "640046",
+      "504479",
+      "504478",
+      "504477",
+      "504476",
+      "500790",
+      "409669",
+      "409668",
+      "409667",
+      "309950",
+      "240087",
+      "215507"
+    ],
+    "translationset": [],
+    "translationstack": [
+      {
+        "term": "KIF5A[gene]",
+        "field": "gene",
+        "count": "1528",
+        "explode": "N"
+      },
+      {
+        "term": "amyotrophic[All Fields]",
+        "field": "All Fields",
+        "count": "10881",
+        "explode": "N"
+      },
+      {
+        "term": "lateral[All Fields]",
+        "field": "All Fields",
+        "count": "23718",
+        "explode": "N"
+      },
+      "AND",
+      {
+        "term": "sclerosis[All Fields]",
+        "field": "All Fields",
+        "count": "32827",
+        "explode": "N"
+      },
+      "AND",
+      "GROUP",
+      "AND"
+    ],
+    "querytranslation": "KIF5A[gene] AND (amyotrophic[All Fields] AND lateral[All Fields] AND sclerosis[All Fields])"
+  }
+}

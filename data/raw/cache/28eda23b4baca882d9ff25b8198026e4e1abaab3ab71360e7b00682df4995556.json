@@ -1,0 +1,1537 @@
+{
+  "data": {
+    "target": {
+      "drugAndClinicalCandidates": {
+        "count": 86,
+        "rows": [
+          {
+            "id": "0236edc201f4d07f0724d771bdc57dd15c96c7db46b9226841a12bbe626da20f",
+            "maxClinicalStage": "APPROVAL",
+            "drug": {
+              "id": "CHEMBL501867",
+              "name": "VINCRISTINE SULFATE",
+              "maximumClinicalStage": "APPROVAL",
+              "mechanismsOfAction": {
+                "rows": [
+                  {
+                    "mechanismOfAction": "Tubulin inhibitor"
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "id": "02c9c34c71dfd56ec08ff7dc33c0eecbd01c89b12be7927084a66b9c7d0513b2",
+            "maxClinicalStage": "PHASE_1_2",
+            "drug": {
+              "id": "CHEMBL4297987",
+              "name": "ENAPOTAMAB VEDOTIN",
+              "maximumClinicalStage": "PHASE_1_2",
+              "mechanismsOfAction": {
+                "rows": [
+                  {
+                    "mechanismOfAction": "Tyrosine-protein kinase receptor UFO binding agent"
+                  },
+                  {
+                    "mechanismOfAction": "Tubulin inhibitor"
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "id": "0561579acbc1db7c5afdd90b7cc67d92fb589cdf2f777c300611c9d478c8cd94",
+            "maxClinicalStage": "PHASE_1",
+            "drug": {
+              "id": "CHEMBL2109575",
+              "name": "BIIB-015",
+              "maximumClinicalStage": "PHASE_1",
+              "mechanismsOfAction": {
+                "rows": [
+                  {
+                    "mechanismOfAction": "Teratocarcinoma-derived growth factor 1 binding agent"
+                  },
+                  {
+                    "mechanismOfAction": "Tubulin inhibitor"
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "id": "06f049a75c638b9b3084ab0b385997bb5ecadf3228c1e1274d063bdc5b9771d8",
+            "maxClinicalStage": "APPROVAL",
+            "drug": {
+              "id": "CHEMBL1201752",
+              "name": "IXABEPILONE",
+              "maximumClinicalStage": "APPROVAL",
+              "mechanismsOfAction": {
+                "rows": [
+                  {
+                    "mechanismOfAction": "Tubulin inhibitor"
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "id": "0a9e6b0c7a9145c8c56f9a64fa34a07e4196fe31bb7a4b3f562b4ead77d90ce0",
+            "maxClinicalStage": "PHASE_3",
+            "drug": {
+              "id": "CHEMBL94657",
+              "name": "PATUPILONE",
+              "maximumClinicalStage": "PHASE_3",
+              "mechanismsOfAction": {
+                "rows": [
+                  {
+                    "mechanismOfAction": "Tubulin stabiliser"
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "id": "0e476dbc73837ac0588ab7f659182163f068cab90bd1f1275a51cf63cb89f1d4",
+            "maxClinicalStage": "PHASE_1",
+            "drug": {
+              "id": "CHEMBL2109266",
+              "name": "AVE-9633",
+              "maximumClinicalStage": "PHASE_1",
+              "mechanismsOfAction": {
+                "rows": [
+                  {
+                    "mechanismOfAction": "Myeloid cell surface antigen CD33 binding agent"
+                  },
+                  {
+                    "mechanismOfAction": "Tubulin inhibitor"
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "id": "0f51b080c0dd42041fe2d46f62e03cdf6cadd36926f9bda55e441d42a0490cc9",
+            "maxClinicalStage": "PHASE_2",
+            "drug": {
+              "id": "CHEMBL552212",
+              "name": "LEXIBULIN",
+              "maximumClinicalStage": "PHASE_2",
+              "mechanismsOfAction": {
+                "rows": [
+                  {
+                    "mechanismOfAction": "Tubulin inhibitor"
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "id": "105ae125b769fe24561d7e59fb293619fce6c2dae2560b2d0e42c9d07a4ddb9e",
+            "maxClinicalStage": "PHASE_2",
+            "drug": {
+              "id": "CHEMBL492399",
+              "name": "VERUBULIN",
+              "maximumClinicalStage": "PHASE_2",
+              "mechanismsOfAction": {
+                "rows": [
+                  {
+                    "mechanismOfAction": "Tubulin disrupting agent"
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "id": "11409ae834bf41d9c96260fc3e5ac97796cea369d6baf2bdbb1e93d57f9408bc",
+            "maxClinicalStage": "PHASE_2",
+            "drug": {
+              "id": "CHEMBL4298101",
+              "name": "LADIRATUZUMAB VEDOTIN",
+              "maximumClinicalStage": "PHASE_2",
+              "mechanismsOfAction": {
+                "rows": [
+                  {
+                    "mechanismOfAction": "Zinc transporter ZIP6 binding agent"
+                  },
+                  {
+                    "mechanismOfAction": "Tubulin inhibitor"
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "id": "17264146439d1f04789d25f5c8e814b4765655075b0dcc94389880ef2ef4f0ba",
+            "maxClinicalStage": "PHASE_3",
+            "drug": {
+              "id": "CHEMBL5095273",
+              "name": "DISITAMAB VEDOTIN",
+              "maximumClinicalStage": "PHASE_3",
+              "mechanismsOfAction": {
+                "rows": [
+                  {
+                    "mechanismOfAction": "Receptor tyrosine-protein kinase erbB-2 binding agent"
+                  },
+                  {
+                    "mechanismOfAction": "Tubulin disrupting agent"
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "id": "1780ca233729b496c97d00c38788754a73f7adbc090c759e0fe5b7b8f0de7f80",
+            "maxClinicalStage": "APPROVAL",
+            "drug": {
+              "id": "CHEMBL1201748",
+              "name": "CABAZITAXEL",
+              "maximumClinicalStage": "APPROVAL",
+              "mechanismsOfAction": {
+                "rows": [
+                  {
+                    "mechanismOfAction": "Tubulin inhibitor"
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "id": "19efd28d9d84edb6836a739ea904b3fb991fa853487c75312914569ee0ceda4d",
+            "maxClinicalStage": "PHASE_1",
+            "drug": {
+              "id": "CHEMBL3833306",
+              "name": "VANDORTUZUMAB VEDOTIN",
+              "maximumClinicalStage": "PHASE_1",
+              "mechanismsOfAction": {
+                "rows": [
+                  {
+                    "mechanismOfAction": "Metalloreductase STEAP1 binding agent"
+                  },
+                  {
+                    "mechanismOfAction": "Tubulin inhibitor"
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "id": "1e3bc5edd45643aecf712cfbe868d23c21f8d345da892f33eab274db0888cead",
+            "maxClinicalStage": "PHASE_2_3",
+            "drug": {
+              "id": "CHEMBL4297892",
+              "name": "ANVATABART OPADOTIN",
+              "maximumClinicalStage": "PHASE_2_3",
+              "mechanismsOfAction": {
+                "rows": [
+                  {
+                    "mechanismOfAction": "Tubulin inhibitor"
+                  },
+                  {
+                    "mechanismOfAction": "Receptor protein-tyrosine kinase erbB-2 binding agent"
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "id": "1eb2755cd53f578b5ab8ef11f1ef5bd4ff308b6f9ba0c4110002c1f208c5065f",
+            "maxClinicalStage": "PHASE_2",
+            "drug": {
+              "id": "CHEMBL49642",
+              "name": "INDIBULIN",
+              "maximumClinicalStage": "PHASE_2",
+              "mechanismsOfAction": {
+                "rows": [
+                  {
+                    "mechanismOfAction": "Tubulin inhibitor"
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "id": "25470c582afd51d7e1cb85f64e4ac384bcb207065491d0e4a6c63bbdfd5e77a1",
+            "maxClinicalStage": "PHASE_1",
+            "drug": {
+              "id": "CHEMBL2108672",
+              "name": "VORSETUZUMAB MAFODOTIN",
+              "maximumClinicalStage": "PHASE_1",
+              "mechanismsOfAction": {
+                "rows": [
+                  {
+                    "mechanismOfAction": "Tubulin inhibitor"
+                  },
+                  {
+                    "mechanismOfAction": "CD70 antigen binding agent"
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "id": "2a5c19d1e3b767d2a241b81ec5d6326636205573493a8d9eb926450cdda575af",
+            "maxClinicalStage": "PHASE_1",
+            "drug": {
+              "id": "CHEMBL4650293",
+              "name": "APRUTUMAB IXADOTIN",
+              "maximumClinicalStage": "PHASE_1",
+              "mechanismsOfAction": {
+                "rows": [
+                  {
+                    "mechanismOfAction": "Fibroblast growth factor receptor 2 binding agent"
+                  },
+                  {
+                    "mechanismOfAction": "Tubulin inhibitor"
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "id": "2cf7eb26925b99ed58df13954ac7b88929252d2122926703cffab8852fa1a2e6",
+            "maxClinicalStage": "UNKNOWN",
+            "drug": {
+              "id": "CHEMBL2109288",
+              "name": "BIVATUZUMAB MERTANSINE",
+              "maximumClinicalStage": "UNKNOWN",
+              "mechanismsOfAction": {
+                "rows": [
+                  {
+                    "mechanismOfAction": "Tubulin inhibitor"
+                  },
+                  {
+                    "mechanismOfAction": "CD44 antigen binding agent"
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "id": "2da581fec2c5572d655ee2fc6512cd19c4ff88e95e619c023c082e8afd90f176",
+            "maxClinicalStage": "PHASE_3",
+            "drug": {
+              "id": "CHEMBL4298098",
+              "name": "TUSAMITAMAB RAVTANSINE",
+              "maximumClinicalStage": "PHASE_3",
+              "mechanismsOfAction": {
+                "rows": [
+                  {
+                    "mechanismOfAction": "Carcinoembryonic antigen-related cell adhesion molecule 5 binding agent"
+                  },
+                  {
+                    "mechanismOfAction": "Tubulin inhibitor"
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "id": "2efb7da42e1d976f4098ec3064dad05a43f148684bbcf9d2cfa29c98ef43bce7",
+            "maxClinicalStage": "PHASE_2",
+            "drug": {
+              "id": "CHEMBL4297296",
+              "name": "KOS-1584",
+              "maximumClinicalStage": "PHASE_2",
+              "mechanismsOfAction": {
+                "rows": [
+                  {
+                    "mechanismOfAction": "Tubulin stabiliser"
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "id": "30295feeb3a6f40398d3f14d1a6c841bd6c69e831a792562f0508b5146e75f01",
+            "maxClinicalStage": "APPROVAL",
+            "drug": {
+              "id": "CHEMBL2108628",
+              "name": "PACLITAXEL POLIGLUMEX",
+              "maximumClinicalStage": "APPROVAL",
+              "mechanismsOfAction": {
+                "rows": [
+                  {
+                    "mechanismOfAction": "Tubulin stabiliser"
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "id": "3407e0d3ce1b4c294249c7f5ab3bd35444605ed19d7b1f11b2e1b76bfaf7295e",
+            "maxClinicalStage": "APPROVAL",
+            "drug": {
+              "id": "CHEMBL3301589",
+              "name": "ENFORTUMAB VEDOTIN",
+              "maximumClinicalStage": "APPROVAL",
+              "mechanismsOfAction": {
+                "rows": [
+                  {
+                    "mechanismOfAction": "Nectin-4 binding agent"
+                  },
+                  {
+                    "mechanismOfAction": "Tubulin inhibitor"
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "id": "35bbf921251575843b7886ee96befe07d60386fa69669bc812de15126ee9b7f3",
+            "maxClinicalStage": "PHASE_2",
+            "drug": {
+              "id": "CHEMBL3545371",
+              "name": "DENINTUZUMAB MAFODOTIN",
+              "maximumClinicalStage": "PHASE_2",
+              "mechanismsOfAction": {
+                "rows": [
+                  {
+                    "mechanismOfAction": "B-lymphocyte antigen CD19 binding agent"
+                  },
+                  {
+                    "mechanismOfAction": "Tubulin inhibitor"
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "id": "3a0cc8042af98bf13423d3acd42ed668f619916814c6277be289daef6e6e7aa6",
+            "maxClinicalStage": "PHASE_1",
+            "drug": {
+              "id": "CHEMBL2109633",
+              "name": "IMGN-388",
+              "maximumClinicalStage": "PHASE_1",
+              "mechanismsOfAction": {
+                "rows": [
+                  {
+                    "mechanismOfAction": "Vitronectin receptor alpha binding agent"
+                  },
+                  {
+                    "mechanismOfAction": "Tubulin inhibitor"
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "id": "3a9c31303b68280e1e6828c98e522e792dd8aa3343b748ea6f28c5ecf507cc24",
+            "maxClinicalStage": "APPROVAL",
+            "drug": {
+              "id": "CHEMBL1743028",
+              "name": "GLEMBATUMUMAB VEDOTIN",
+              "maximumClinicalStage": "APPROVAL",
+              "mechanismsOfAction": {
+                "rows": [
+                  {
+                    "mechanismOfAction": "Transmembrane glycoprotein NMB binding agent"
+                  },
+                  {
+                    "mechanismOfAction": "Tubulin inhibitor"
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "id": "3ebe348942ac7f1ffc55911ef4be97da34be35809d8a6acf8e4c89b8554a016a",
+            "maxClinicalStage": "PHASE_3",
+            "drug": {
+              "id": "CHEMBL4279455",
+              "name": "LAROTAXEL",
+              "maximumClinicalStage": "PHASE_3",
+              "mechanismsOfAction": {
+                "rows": [
+                  {
+                    "mechanismOfAction": "Tubulin stabiliser"
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "id": "3f90d755e92fe3bc3f90dc27c764a5d5ed83227e8d93e057c4997cb13cfa36c8",
+            "maxClinicalStage": "APPROVAL",
+            "drug": {
+              "id": "CHEMBL107",
+              "name": "COLCHICINE",
+              "maximumClinicalStage": "APPROVAL",
+              "mechanismsOfAction": {
+                "rows": [
+                  {
+                    "mechanismOfAction": "Tubulin inhibitor"
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "id": "4a0777716e6793dac0f627f1a96dd5da0db97a885fc16c0c6f8f438c8e06b859",
+            "maxClinicalStage": "PHASE_2",
+            "drug": {
+              "id": "CHEMBL2304041",
+              "name": "SAGOPILONE",
+              "maximumClinicalStage": "PHASE_2",
+              "mechanismsOfAction": {
+                "rows": [
+                  {
+                    "mechanismOfAction": "Tubulin stabiliser"
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "id": "4a2c2818722384aa1de573a4293a897aebdeb1830f2271bd9834fc1659496bb0",
+            "maxClinicalStage": "APPROVAL",
+            "drug": {
+              "id": "CHEMBL2105629",
+              "name": "VINFLUNINE DITARTRATE",
+              "maximumClinicalStage": "APPROVAL",
+              "mechanismsOfAction": {
+                "rows": [
+                  {
+                    "mechanismOfAction": "Tubulin inhibitor"
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "id": "4bd80cf7cfe886509dd9bee502f74c05533b94eec4ddbef94053de9517dab8fe",
+            "maxClinicalStage": "PHASE_2",
+            "drug": {
+              "id": "CHEMBL4297440",
+              "name": "T-900607",
+              "maximumClinicalStage": "PHASE_2",
+              "mechanismsOfAction": {
+                "rows": [
+                  {
+                    "mechanismOfAction": "Tubulin disrupting agent"
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "id": "50933c2aa5ab406b3de9deaa4f4dc2074b71e264a994e08167502faa58d019c4",
+            "maxClinicalStage": "PHASE_3",
+            "drug": {
+              "id": "CHEMBL2103826",
+              "name": "DAVUNETIDE",
+              "maximumClinicalStage": "PHASE_3",
+              "mechanismsOfAction": {
+                "rows": [
+                  {
+                    "mechanismOfAction": "Tubulin stabiliser"
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "id": "53a6cc83f6d06cc6236c5fe624948583305f3961a64ad139fb0b335d964fcd22",
+            "maxClinicalStage": "PHASE_2",
+            "drug": {
+              "id": "CHEMBL1743031",
+              "name": "INDATUXIMAB RAVTANSINE",
+              "maximumClinicalStage": "PHASE_2",
+              "mechanismsOfAction": {
+                "rows": [
+                  {
+                    "mechanismOfAction": "Syndecan-1 binding agent"
+                  },
+                  {
+                    "mechanismOfAction": "Tubulin inhibitor"
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "id": "56c5ed97f45ace68a84229700bb5d78897dc5bba3e12bbbfb814f22f07e1fd04",
+            "maxClinicalStage": "PHASE_1",
+            "drug": {
+              "id": "CHEMBL2109279",
+              "name": "RG-7598",
+              "maximumClinicalStage": "PHASE_1",
+              "mechanismsOfAction": {
+                "rows": [
+                  {
+                    "mechanismOfAction": "Fc receptor-like protein 5 binding agent"
+                  },
+                  {
+                    "mechanismOfAction": "Tubulin inhibitor"
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "id": "5833ddabb7cfcebcdc22f47bce1fc8d5ae5707efa27880dc566ff822e69f899b",
+            "maxClinicalStage": "PHASE_3",
+            "drug": {
+              "id": "CHEMBL4297441",
+              "name": "PACLITAXEL DOCOSAHEXAENOIC ACID",
+              "maximumClinicalStage": "PHASE_3",
+              "mechanismsOfAction": {
+                "rows": [
+                  {
+                    "mechanismOfAction": "Tubulin stabiliser"
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "id": "58bd501bd996b03ef93cf65b766990512610f323cabff4f61fce6e98929db92f",
+            "maxClinicalStage": "APPROVAL",
+            "drug": {
+              "id": "CHEMBL3301582",
+              "name": "POLATUZUMAB VEDOTIN",
+              "maximumClinicalStage": "APPROVAL",
+              "mechanismsOfAction": {
+                "rows": [
+                  {
+                    "mechanismOfAction": "Tubulin inhibitor"
+                  },
+                  {
+                    "mechanismOfAction": "B-cell antigen receptor complex-associated protein beta chain binding agent"
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "id": "598416d3486ea85ef1ffa7fa2aa8a12a3ba71ac8fd54a7458041273c4bb6abbd",
+            "maxClinicalStage": "PHASE_2",
+            "drug": {
+              "id": "CHEMBL289351",
+              "name": "FOSBRETABULIN DISODIUM",
+              "maximumClinicalStage": "PHASE_2",
+              "mechanismsOfAction": {
+                "rows": [
+                  {
+                    "mechanismOfAction": "Tubulin inhibitor"
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "id": "5e946b93a795449b9fa9755df543eb4c4d805c4f9377986b729935c36105d35f",
+            "maxClinicalStage": "PHASE_2_3",
+            "drug": {
+              "id": "CHEMBL2105643",
+              "name": "FOSBRETABULIN TROMETHAMINE",
+              "maximumClinicalStage": "PHASE_2_3",
+              "mechanismsOfAction": {
+                "rows": [
+                  {
+                    "mechanismOfAction": "Tubulin disrupting agent"
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "id": "65545471993fd3a89edfe9118f1f25a411751d48351c4ce257bf09809f631eb7",
+            "maxClinicalStage": "APPROVAL",
+            "drug": {
+              "id": "CHEMBL1683590",
+              "name": "ERIBULIN",
+              "maximumClinicalStage": "APPROVAL",
+              "mechanismsOfAction": {
+                "rows": [
+                  {
+                    "mechanismOfAction": "Tubulin inhibitor"
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "id": "6c77e3adda9f094c7d41555a5026e8ede143b1b56f977968aed083331cd878b6",
+            "maxClinicalStage": "PHASE_1",
+            "drug": {
+              "id": "CHEMBL4297935",
+              "name": "RG-7841",
+              "maximumClinicalStage": "PHASE_1",
+              "mechanismsOfAction": {
+                "rows": [
+                  {
+                    "mechanismOfAction": "Lymphocyte antigen 6E binding agent"
+                  },
+                  {
+                    "mechanismOfAction": "Tubulin inhibitor"
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "id": "6cf022f8df55589492eefcd0a529f8f07f087e58c1ee7a2cbd0e10f38bae17d1",
+            "maxClinicalStage": "PHASE_3",
+            "drug": {
+              "id": "CHEMBL3990032",
+              "name": "TELISOTUZUMAB VEDOTIN",
+              "maximumClinicalStage": "PHASE_3",
+              "mechanismsOfAction": {
+                "rows": [
+                  {
+                    "mechanismOfAction": "Hepatocyte growth factor receptor binding agent"
+                  },
+                  {
+                    "mechanismOfAction": "Tubulin inhibitor"
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "id": "74d0e4a64cff0c1ff4dfe1d71660779414f3c543f48451141b11901c57e08a46",
+            "maxClinicalStage": "PHASE_2",
+            "drug": {
+              "id": "CHEMBL1742997",
+              "name": "CANTUZUMAB MERTANSINE",
+              "maximumClinicalStage": "PHASE_2",
+              "mechanismsOfAction": {
+                "rows": [
+                  {
+                    "mechanismOfAction": "Tubulin inhibitor"
+                  },
+                  {
+                    "mechanismOfAction": "Mucin-1 binding agent"
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "id": "751bd57be5239a8986c75b38956fbac1a93c68d0494b11a3ab9d42c7862b0e2d",
+            "maxClinicalStage": "PHASE_2",
+            "drug": {
+              "id": "CHEMBL4594455",
+              "name": "AGS-16C3F",
+              "maximumClinicalStage": "PHASE_2",
+              "mechanismsOfAction": {
+                "rows": [
+                  {
+                    "mechanismOfAction": "Tubulin disrupting agent"
+                  },
+                  {
+                    "mechanismOfAction": "Ectonucleotide pyrophosphatase/phosphodiesterase family member 3 binding agent"
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "id": "76478bd07d2bf5dc42a45f4292b2712f637bd44dc8173942e0a40a7ee6805634",
+            "maxClinicalStage": "PHASE_2",
+            "drug": {
+              "id": "CHEMBL39541",
+              "name": "DOLASTATIN-10",
+              "maximumClinicalStage": "PHASE_2",
+              "mechanismsOfAction": {
+                "rows": [
+                  {
+                    "mechanismOfAction": "Tubulin inhibitor"
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "id": "76e51646747275b1f7c34df007e656989e447854e54b74cb6f32a3ae16b571da",
+            "maxClinicalStage": "APPROVAL",
+            "drug": {
+              "id": "CHEMBL4298209",
+              "name": "BELANTAMAB MAFODOTIN",
+              "maximumClinicalStage": "APPROVAL",
+              "mechanismsOfAction": {
+                "rows": [
+                  {
+                    "mechanismOfAction": "Tumor necrosis factor receptor superfamily member 17 binding agent"
+                  },
+                  {
+                    "mechanismOfAction": "Tubulin inhibitor"
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "id": "8302b6f6e24b9d36f7dbec554ce49ac32cf6db4eacbea4d9fa7c38b9a57df651",
+            "maxClinicalStage": "APPROVAL",
+            "drug": {
+              "id": "CHEMBL3545132",
+              "name": "MIRVETUXIMAB SORAVTANSINE",
+              "maximumClinicalStage": "APPROVAL",
+              "mechanismsOfAction": {
+                "rows": [
+                  {
+                    "mechanismOfAction": "Folate receptor alpha binding agent"
+                  },
+                  {
+                    "mechanismOfAction": "Tubulin inhibitor"
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "id": "86d4018c6cba8c9c6087eff147b81fd34c5907ec5ea78541f95942d15a93373b",
+            "maxClinicalStage": "APPROVAL",
+            "drug": {
+              "id": "CHEMBL1683544",
+              "name": "ERIBULIN MESYLATE",
+              "maximumClinicalStage": "APPROVAL",
+              "mechanismsOfAction": {
+                "rows": [
+                  {
+                    "mechanismOfAction": "Tubulin inhibitor"
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "id": "873fd9bfab506b6b570dbc7a55bf96d46fbed34daaaa06000081fb49a6c73c9f",
+            "maxClinicalStage": "PHASE_3",
+            "drug": {
+              "id": "CHEMBL572284",
+              "name": "OMBRABULIN",
+              "maximumClinicalStage": "PHASE_3",
+              "mechanismsOfAction": {
+                "rows": [
+                  {
+                    "mechanismOfAction": "Tubulin inhibitor"
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "id": "8b2d0849457b8473dafa3d5599fd072947ca7a9962139183f6e09202c8189986",
+            "maxClinicalStage": "PHASE_1",
+            "drug": {
+              "id": "CHEMBL2109574",
+              "name": "ASG-5ME",
+              "maximumClinicalStage": "PHASE_1",
+              "mechanismsOfAction": {
+                "rows": [
+                  {
+                    "mechanismOfAction": "Choline transporter-like protein 4 binding agent"
+                  },
+                  {
+                    "mechanismOfAction": "Tubulin inhibitor"
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "id": "8f4dec9c07e22c471626e07aab5f0f0d6796fa03419b39e88dc3f504811d4910",
+            "maxClinicalStage": "APPROVAL",
+            "drug": {
+              "id": "CHEMBL3545252",
+              "name": "DOCETAXEL",
+              "maximumClinicalStage": "APPROVAL",
+              "mechanismsOfAction": {
+                "rows": [
+                  {
+                    "mechanismOfAction": "Tubulin inhibitor"
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "id": "9510b961f538e0e64d5f228166732beac1c7778f93edf3dfe16bf69da6f0c236",
+            "maxClinicalStage": "APPROVAL",
+            "drug": {
+              "id": "CHEMBL538943",
+              "name": "VINORELBINE TARTRATE",
+              "maximumClinicalStage": "APPROVAL",
+              "mechanismsOfAction": {
+                "rows": [
+                  {
+                    "mechanismOfAction": "Tubulin inhibitor"
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "id": "98d7c884b255f750b23100a3006ab1e9cc377375b3ba9e4ef24504d507bf14f1",
+            "maxClinicalStage": "APPROVAL",
+            "drug": {
+              "id": "CHEMBL4297841",
+              "name": "TISOTUMAB VEDOTIN",
+              "maximumClinicalStage": "APPROVAL",
+              "mechanismsOfAction": {
+                "rows": [
+                  {
+                    "mechanismOfAction": "Coagulation factor III binding agent"
+                  },
+                  {
+                    "mechanismOfAction": "Tubulin inhibitor"
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "id": "99c45e687e3e05c447d5df4a84f507aaa9b9d606e8cb6a4250804606bde0531e",
+            "maxClinicalStage": "PHASE_2",
+            "drug": {
+              "id": "CHEMBL2109635",
+              "name": "SAR-566658",
+              "maximumClinicalStage": "PHASE_2",
+              "mechanismsOfAction": {
+                "rows": [
+                  {
+                    "mechanismOfAction": "Tubulin inhibitor"
+                  },
+                  {
+                    "mechanismOfAction": "Mucin-1 binding agent"
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "id": "9ae9b2ef61e59141b2e9f147482f745f54921e2732a20186452620c08bdf3253",
+            "maxClinicalStage": "APPROVAL",
+            "drug": {
+              "id": "CHEMBL428647",
+              "name": "PACLITAXEL",
+              "maximumClinicalStage": "APPROVAL",
+              "mechanismsOfAction": {
+                "rows": [
+                  {
+                    "mechanismOfAction": "Tubulin inhibitor"
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "id": "9c168c15b6448110c260e36d3bbf4f098354e181d0534a815e6c003259cbb4da",
+            "maxClinicalStage": "PHASE_2",
+            "drug": {
+              "id": "CHEMBL96172",
+              "name": "EPOTHILONE D",
+              "maximumClinicalStage": "PHASE_2",
+              "mechanismsOfAction": {
+                "rows": [
+                  {
+                    "mechanismOfAction": "Tubulin stabiliser"
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "id": "9e33fe6a80f9ad729424cb317598889cfc5a011d44a095e354c17fcd0b79b55e",
+            "maxClinicalStage": "PHASE_2",
+            "drug": {
+              "id": "CHEMBL3989512",
+              "name": "SOBLIDOTIN",
+              "maximumClinicalStage": "PHASE_2",
+              "mechanismsOfAction": {
+                "rows": [
+                  {
+                    "mechanismOfAction": "Tubulin inhibitor"
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "id": "ab4c95ed049c6f2a2618dc356d980b9ceb8afb661b187bf9db832455223c2a6a",
+            "maxClinicalStage": "PHASE_2",
+            "drug": {
+              "id": "CHEMBL2109629",
+              "name": "ANETUMAB RAVTANSINE",
+              "maximumClinicalStage": "PHASE_2",
+              "mechanismsOfAction": {
+                "rows": [
+                  {
+                    "mechanismOfAction": "Tubulin inhibitor"
+                  },
+                  {
+                    "mechanismOfAction": "Mesothelin binding agent"
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "id": "aeed5330d38d6903ac3b49972230d4d2e0cbe14eeeb7d2d30622488ab2b6ca34",
+            "maxClinicalStage": "APPROVAL",
+            "drug": {
+              "id": "CHEMBL1743082",
+              "name": "TRASTUZUMAB EMTANSINE",
+              "maximumClinicalStage": "APPROVAL",
+              "mechanismsOfAction": {
+                "rows": [
+                  {
+                    "mechanismOfAction": "Receptor protein-tyrosine kinase erbB-2 binding agent"
+                  },
+                  {
+                    "mechanismOfAction": "Tubulin inhibitor"
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "id": "af73ec12916046a8224631c926b09b0e88996673221a9ec49612c5bc6091d816",
+            "maxClinicalStage": "PHASE_1_2",
+            "drug": {
+              "id": "CHEMBL2103852",
+              "name": "CROLIBULIN",
+              "maximumClinicalStage": "PHASE_1_2",
+              "mechanismsOfAction": {
+                "rows": [
+                  {
+                    "mechanismOfAction": "Tubulin inhibitor"
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "id": "b276a3b8e7d208b65d7054d842a3421b91915e8e8cb2921a8ed7cb5e98f40df8",
+            "maxClinicalStage": "PHASE_2",
+            "drug": {
+              "id": "CHEMBL1089636",
+              "name": "ANG1005",
+              "maximumClinicalStage": "PHASE_2",
+              "mechanismsOfAction": {
+                "rows": [
+                  {
+                    "mechanismOfAction": "Tubulin inhibitor"
+                  },
+                  {
+                    "mechanismOfAction": "Prolow-density lipoprotein receptor-related protein 1 binding agent"
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "id": "b3381b1ef1a842692f464071e67af7360b824d6d4cbe5755f1a1ff8ed2146bab",
+            "maxClinicalStage": "PHASE_3",
+            "drug": {
+              "id": "CHEMBL3707277",
+              "name": "DEPATUXIZUMAB MAFODOTIN",
+              "maximumClinicalStage": "PHASE_3",
+              "mechanismsOfAction": {
+                "rows": [
+                  {
+                    "mechanismOfAction": "Epidermal growth factor receptor erbB1 binding agent"
+                  },
+                  {
+                    "mechanismOfAction": "Tubulin inhibitor"
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "id": "b50570b8957d08ea6a0d63e5797a5ea08caa8b6ba928f5c389ed8e1a1bef874a",
+            "maxClinicalStage": "PHASE_3",
+            "drug": {
+              "id": "CHEMBL5314782",
+              "name": "TRASTUZUMAB BOTIDOTIN",
+              "maximumClinicalStage": "PHASE_3",
+              "mechanismsOfAction": {
+                "rows": [
+                  {
+                    "mechanismOfAction": "Tubulin inhibitor"
+                  },
+                  {
+                    "mechanismOfAction": "Receptor tyrosine-protein kinase erbB-2 binding agent"
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "id": "b7385ff8125912859682c0892917d907b4739387cfa37a34783d8ddf2d402ff6",
+            "maxClinicalStage": "PHASE_1",
+            "drug": {
+              "id": "CHEMBL4297859",
+              "name": "AZINTUXIZUMAB VEDOTIN",
+              "maximumClinicalStage": "PHASE_1",
+              "mechanismsOfAction": {
+                "rows": [
+                  {
+                    "mechanismOfAction": "SLAM family member 7 binding agent"
+                  },
+                  {
+                    "mechanismOfAction": "Tubulin inhibitor"
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "id": "b7b737c3e95defb9c24015376c53fb15e7d054457986d67f3d109f58f400c851",
+            "maxClinicalStage": "PHASE_2",
+            "drug": {
+              "id": "CHEMBL5095312",
+              "name": "MECBOTAMAB VEDOTIN",
+              "maximumClinicalStage": "PHASE_2",
+              "mechanismsOfAction": {
+                "rows": [
+                  {
+                    "mechanismOfAction": "Tyrosine-protein kinase receptor UFO binding agent"
+                  },
+                  {
+                    "mechanismOfAction": "Tubulin inhibitor"
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "id": "bec75375952444a35e790adf4de3faee2265e5744530d66f5db13b22bd7684ed",
+            "maxClinicalStage": "PHASE_2",
+            "drug": {
+              "id": "CHEMBL4297636",
+              "name": "PLOCABULIN",
+              "maximumClinicalStage": "PHASE_2",
+              "mechanismsOfAction": {
+                "rows": [
+                  {
+                    "mechanismOfAction": "Tubulin inhibitor"
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "id": "bfcea83ebd07fe6fcd87a3c127331dbb3d43fb21be4c9a70408c18f43b5aa359",
+            "maxClinicalStage": "PHASE_2",
+            "drug": {
+              "id": "CHEMBL2109286",
+              "name": "COLTUXIMAB RAVTANSINE",
+              "maximumClinicalStage": "PHASE_2",
+              "mechanismsOfAction": {
+                "rows": [
+                  {
+                    "mechanismOfAction": "Tubulin inhibitor"
+                  },
+                  {
+                    "mechanismOfAction": "B-lymphocyte antigen CD19 binding agent"
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "id": "c584fe5205e88d8d67c9269daff0c4af37e0961084972af39461f081ed9fd2a6",
+            "maxClinicalStage": "PHASE_1_2",
+            "drug": {
+              "id": "CHEMBL2109556",
+              "name": "MLN-2704",
+              "maximumClinicalStage": "PHASE_1_2",
+              "mechanismsOfAction": {
+                "rows": [
+                  {
+                    "mechanismOfAction": "Glutamate carboxypeptidase II binding agent"
+                  },
+                  {
+                    "mechanismOfAction": "Tubulin inhibitor"
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "id": "ca88b6b2f8146d60fb2b3cda4a323d7ac1ec81f14e1b4855e1a4c27e8e6a1176",
+            "maxClinicalStage": "PHASE_1",
+            "drug": {
+              "id": "CHEMBL4297804",
+              "name": "PF-06263507",
+              "maximumClinicalStage": "PHASE_1",
+              "mechanismsOfAction": {
+                "rows": [
+                  {
+                    "mechanismOfAction": "Tubulin inhibitor"
+                  },
+                  {
+                    "mechanismOfAction": "Trophoblast glycoprotein binding agent"
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "id": "ceff13f83e8f19fa45864401ba90e5becdd9874ae49fd189d0af07b05e000445",
+            "maxClinicalStage": "PHASE_2",
+            "drug": {
+              "id": "CHEMBL4297938",
+              "name": "LIFASTUZUMAB VEDOTIN",
+              "maximumClinicalStage": "PHASE_2",
+              "mechanismsOfAction": {
+                "rows": [
+                  {
+                    "mechanismOfAction": "Sodium-dependent phosphate transport protein 2B binding agent"
+                  },
+                  {
+                    "mechanismOfAction": "Tubulin inhibitor"
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "id": "cfa10fcaca3c2d00b4752f00ca674a96a89cfeac75247970067b108b2c8538ab",
+            "maxClinicalStage": "APPROVAL",
+            "drug": {
+              "id": "CHEMBL1742994",
+              "name": "BRENTUXIMAB VEDOTIN",
+              "maximumClinicalStage": "APPROVAL",
+              "mechanismsOfAction": {
+                "rows": [
+                  {
+                    "mechanismOfAction": "Tubulin inhibitor"
+                  },
+                  {
+                    "mechanismOfAction": "Tumor necrosis factor receptor superfamily member 8 binding agent"
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "id": "cfb910c51d7794fb8e3d315a7d22174a4a0769aceca0c84958a9a4254846ec07",
+            "maxClinicalStage": "APPROVAL",
+            "drug": {
+              "id": "CHEMBL2110725",
+              "name": "VINFLUNINE",
+              "maximumClinicalStage": "APPROVAL",
+              "mechanismsOfAction": {
+                "rows": [
+                  {
+                    "mechanismOfAction": "Tubulin inhibitor"
+                  },
+                  {
+                    "mechanismOfAction": "Tubulin inhibitor"
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "id": "d047a435cf9ea8937cbb29fe6987dfe7c59b0cf892b893abdbc35a9a0784d074",
+            "maxClinicalStage": "PHASE_2",
+            "drug": {
+              "id": "CHEMBL4298045",
+              "name": "INDUSATUMAB VEDOTIN",
+              "maximumClinicalStage": "PHASE_2",
+              "mechanismsOfAction": {
+                "rows": [
+                  {
+                    "mechanismOfAction": "Heat-stable enterotoxin receptor binding agent"
+                  },
+                  {
+                    "mechanismOfAction": "Tubulin inhibitor"
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "id": "d3b6eba683344a050999f9e14ddb51bdfbf70c174428ac76d0a97597d07f41e2",
+            "maxClinicalStage": "PHASE_1",
+            "drug": {
+              "id": "CHEMBL2109281",
+              "name": "RG-7600",
+              "maximumClinicalStage": "PHASE_1",
+              "mechanismsOfAction": {
+                "rows": [
+                  {
+                    "mechanismOfAction": "Tubulin inhibitor"
+                  },
+                  {
+                    "mechanismOfAction": "Mesothelin binding agent"
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "id": "d3fc59de7d53da4996f6e9c49be74e24751bc39a75e680f062a35f6fdf4241b2",
+            "maxClinicalStage": "PHASE_1",
+            "drug": {
+              "id": "CHEMBL3545372",
+              "name": "SOFITUZUMAB VEDOTIN",
+              "maximumClinicalStage": "PHASE_1",
+              "mechanismsOfAction": {
+                "rows": [
+                  {
+                    "mechanismOfAction": "Mucin-16 binding agent"
+                  },
+                  {
+                    "mechanismOfAction": "Tubulin inhibitor"
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "id": "db3d4cdb71078c8ef67033e775955f7a18ecc7a0854334f10c1046f7bf1ac5b8",
+            "maxClinicalStage": "PHASE_1",
+            "drug": {
+              "id": "CHEMBL2109282",
+              "name": "RG-7636",
+              "maximumClinicalStage": "PHASE_1",
+              "mechanismsOfAction": {
+                "rows": [
+                  {
+                    "mechanismOfAction": "Tubulin inhibitor"
+                  },
+                  {
+                    "mechanismOfAction": "Endothelin receptor ET-B binding agent"
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "id": "ddc2f17eee6799d99c42a7e0f3d7d7938bb8a3d227e703c59a4aba8832e14149",
+            "maxClinicalStage": "PHASE_2",
+            "drug": {
+              "id": "CHEMBL2107759",
+              "name": "MILATAXEL",
+              "maximumClinicalStage": "PHASE_2",
+              "mechanismsOfAction": {
+                "rows": [
+                  {
+                    "mechanismOfAction": "Tubulin inhibitor"
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "id": "ddfabd6d0eae6f401bac80e8b6d0c337b409b983d5cf8cc63e7817cd3812c256",
+            "maxClinicalStage": "PHASE_3",
+            "drug": {
+              "id": "CHEMBL1206232",
+              "name": "FOSBRETABULIN",
+              "maximumClinicalStage": "PHASE_3",
+              "mechanismsOfAction": {
+                "rows": [
+                  {
+                    "mechanismOfAction": "Tubulin disrupting agent"
+                  },
+                  {
+                    "mechanismOfAction": "Tubulin inhibitor"
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "id": "de56f6b0d357ae1b763b4809daefd426f2b56d687d6491341e2bc3902fdea77c",
+            "maxClinicalStage": "PHASE_2",
+            "drug": {
+              "id": "CHEMBL1743037",
+              "name": "LORVOTUZUMAB MERTANSINE",
+              "maximumClinicalStage": "PHASE_2",
+              "mechanismsOfAction": {
+                "rows": [
+                  {
+                    "mechanismOfAction": "Neural cell adhesion molecule 1 binding agent"
+                  },
+                  {
+                    "mechanismOfAction": "Tubulin inhibitor"
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "id": "dfdfc60848ba2dda2d20bf3d2a4405a7b99f71d0cc5195518b400f4062a5bc8f",
+            "maxClinicalStage": "PHASE_2",
+            "drug": {
+              "id": "CHEMBL4297268",
+              "name": "BMS-275183",
+              "maximumClinicalStage": "PHASE_2",
+              "mechanismsOfAction": {
+                "rows": [
+                  {
+                    "mechanismOfAction": "Tubulin stabiliser"
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "id": "e056231c4fe6a97900b4b19304b366d6dd9d5c280226e742ac452c6cd9cfc82c",
+            "maxClinicalStage": "PHASE_2",
+            "drug": {
+              "id": "CHEMBL1742998",
+              "name": "CANTUZUMAB RAVTANSINE",
+              "maximumClinicalStage": "PHASE_2",
+              "mechanismsOfAction": {
+                "rows": [
+                  {
+                    "mechanismOfAction": "Mucin-1 binding agent"
+                  },
+                  {
+                    "mechanismOfAction": "Tubulin inhibitor"
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "id": "e25a8e31711c141aef7ae24db71ce8f8ac432275783ab510ac9e84ce88146422",
+            "maxClinicalStage": "APPROVAL",
+            "drug": {
+              "id": "CHEMBL92",
+              "name": "DOCETAXEL ANHYDROUS",
+              "maximumClinicalStage": "APPROVAL",
+              "mechanismsOfAction": {
+                "rows": [
+                  {
+                    "mechanismOfAction": "Tubulin stabiliser"
+                  },
+                  {
+                    "mechanismOfAction": "Tubulin inhibitor"
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "id": "e5792905600c9909b4ecc2b16d0b9b52dbb54791d9e6885a3922d911563446e4",
+            "maxClinicalStage": "APPROVAL",
+            "drug": {
+              "id": "CHEMBL378544",
+              "name": "VINBLASTINE SULFATE",
+              "maximumClinicalStage": "APPROVAL",
+              "mechanismsOfAction": {
+                "rows": [
+                  {
+                    "mechanismOfAction": "Tubulin inhibitor"
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "id": "e8d3a543919dffeb5a20d2680a8d7833896349bd94d5807a1f5b5c6f517a3edc",
+            "maxClinicalStage": "APPROVAL",
+            "drug": {
+              "id": "CHEMBL90555",
+              "name": "VINCRISTINE",
+              "maximumClinicalStage": "APPROVAL",
+              "mechanismsOfAction": {
+                "rows": [
+                  {
+                    "mechanismOfAction": "Tubulin inhibitor"
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "id": "ea0a5739f61de585318abdd093fd1234173c814bbd35a228d546b951f92c7608",
+            "maxClinicalStage": "PHASE_3",
+            "drug": {
+              "id": "CHEMBL1096380",
+              "name": "PLINABULIN",
+              "maximumClinicalStage": "PHASE_3",
+              "mechanismsOfAction": {
+                "rows": [
+                  {
+                    "mechanismOfAction": "Tubulin inhibitor"
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "id": "ed933bd87d2a5f1f74f989ac3a952a580d228f272679ee80b6d29c54d73c72bd",
+            "maxClinicalStage": "PHASE_2",
+            "drug": {
+              "id": "CHEMBL4297736",
+              "name": "PRALUZATAMAB RAVTANSINE",
+              "maximumClinicalStage": "PHASE_2",
+              "mechanismsOfAction": {
+                "rows": [
+                  {
+                    "mechanismOfAction": "Tubulin inhibitor"
+                  },
+                  {
+                    "mechanismOfAction": "CD166 antigen binding agent"
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "id": "f04daa5349e6fe37acd9db51927be676cb54e97cb3afde9928c9dddb97eb2f62",
+            "maxClinicalStage": "APPROVAL",
+            "drug": {
+              "id": "CHEMBL553025",
+              "name": "VINORELBINE",
+              "maximumClinicalStage": "APPROVAL",
+              "mechanismsOfAction": {
+                "rows": [
+                  {
+                    "mechanismOfAction": "Tubulin inhibitor"
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "id": "f56e6a088397a51c98db1bd4ff80b77a5e5ac9014cb7e60fc5eb2844e70e749e",
+            "maxClinicalStage": "PHASE_2",
+            "drug": {
+              "id": "CHEMBL3301585",
+              "name": "PINATUZUMAB VEDOTIN",
+              "maximumClinicalStage": "PHASE_2",
+              "mechanismsOfAction": {
+                "rows": [
+                  {
+                    "mechanismOfAction": "CD22 binding agent"
+                  },
+                  {
+                    "mechanismOfAction": "Tubulin inhibitor"
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "id": "f9688c42913ec32a3ed458dbeb5acb5aad2e015b9b7c75458a6e3e1ef6a59c06",
+            "maxClinicalStage": "APPROVAL",
+            "drug": {
+              "id": "CHEMBL159",
+              "name": "VINBLASTINE",
+              "maximumClinicalStage": "APPROVAL",
+              "mechanismsOfAction": {
+                "rows": [
+                  {
+                    "mechanismOfAction": "Tubulin inhibitor"
+                  }
+                ]
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

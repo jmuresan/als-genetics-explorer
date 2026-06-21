@@ -1,0 +1,62 @@
+[
+  {
+    "stringId_A": "9606.ENSP00000360262",
+    "stringId_B": "9606.ENSP00000225519",
+    "preferredName_A": "FGGY",
+    "preferredName_B": "SHPK",
+    "ncbiTaxonId": 9606,
+    "score": 0.879,
+    "nscore": 0,
+    "fscore": 0,
+    "pscore": 0,
+    "ascore": 0.049,
+    "escore": 0,
+    "dscore": 0,
+    "tscore": 0.878
+  },
+  {
+    "stringId_A": "9606.ENSP00000360262",
+    "stringId_B": "9606.ENSP00000308610",
+    "preferredName_A": "FGGY",
+    "preferredName_B": "GPD2",
+    "ncbiTaxonId": 9606,
+    "score": 0.786,
+    "nscore": 0.071,
+    "fscore": 0,
+    "pscore": 0,
+    "ascore": 0.533,
+    "escore": 0.097,
+    "dscore": 0.405,
+    "tscore": 0.225
+  },
+  {
+    "stringId_A": "9606.ENSP00000360262",
+    "stringId_B": "9606.ENSP00000371294",
+    "preferredName_A": "FGGY",
+    "preferredName_B": "CTNS",
+    "ncbiTaxonId": 9606,
+    "score": 0.719,
+    "nscore": 0,
+    "fscore": 0,
+    "pscore": 0,
+    "ascore": 0.067,
+    "escore": 0,
+    "dscore": 0,
+    "tscore": 0.711
+  },
+  {
+    "stringId_A": "9606.ENSP00000360262",
+    "stringId_B": "9606.ENSP00000256398",
+    "preferredName_A": "FGGY",
+    "preferredName_B": "ELP3",
+    "ncbiTaxonId": 9606,
+    "score": 0.703,
+    "nscore": 0,
+    "fscore": 0,
+    "pscore": 0,
+    "ascore": 0.074,
+    "escore": 0,
+    "dscore": 0,
+    "tscore": 0.693
+  }
+]

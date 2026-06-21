@@ -1,0 +1,10409 @@
+# Generated Hypotheses
+
+## HYP-001: Shared pathway convergence of CCNF and SQSTM1 in Neddylation
+- **Mechanism:** Both CCNF and SQSTM1 participate in the pathway Neddylation (R-HSA-8951664), indicating a potential converged pathological mechanism.
+- **Genes involved:** CCNF, SQSTM1
+- **Pathways involved:** Neddylation (R-HSA-8951664)
+- **Why this might matter in ALS:** Participating in the same biochemical pathway indicates that mutations or dysregulation in these distinct genes could lead to converged downstream pathological outcomes in ALS motor neurons.
+- **Supporting evidence:** Citations in the database link these entities (genes: CCNF, SQSTM1) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Knockdown or mutation of CCNF, SQSTM1 in human motor neurons will result in shared, quantifiable disruption of the pathway phenotypic assays.
+- **Computational validation:** Pathway membership and enrichment validated via Reactome database annotations.
+- **High-level wet-lab concept:** Assay downstream pathway activity or target markers in human motor neuron models.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 37243816
+  - PMID: 37250416
+  - PMID: 37872794
+  - PMID: 37993492
+  - PMID: 38474336
+  - PMID: 38879591
+## HYP-002: Shared pathway convergence of CHMP2B and TUBA4A in Sealing of the nuclear envelope (NE) by ESCRT-III
+- **Mechanism:** Both CHMP2B and TUBA4A participate in the pathway Sealing of the nuclear envelope (NE) by ESCRT-III (R-HSA-9668328), indicating a potential converged pathological mechanism.
+- **Genes involved:** CHMP2B, TUBA4A
+- **Pathways involved:** Sealing of the nuclear envelope (NE) by ESCRT-III (R-HSA-9668328)
+- **Why this might matter in ALS:** Participating in the same biochemical pathway indicates that mutations or dysregulation in these distinct genes could lead to converged downstream pathological outcomes in ALS motor neurons.
+- **Supporting evidence:** Citations in the database link these entities (genes: CHMP2B, TUBA4A) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Knockdown or mutation of CHMP2B, TUBA4A in human motor neurons will result in shared, quantifiable disruption of the pathway phenotypic assays.
+- **Computational validation:** Pathway membership and enrichment validated via Reactome database annotations.
+- **High-level wet-lab concept:** Assay downstream pathway activity or target markers in human motor neuron models.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 20301378
+  - PMID: 20301623
+  - PMID: 37606396
+  - PMID: 37635943
+  - PMID: 38102515
+  - PMID: 38177100
+## HYP-003: Shared pathway convergence of CYLD and OPTN in TNFR1-induced proapoptotic signaling
+- **Mechanism:** Both CYLD and OPTN participate in the pathway TNFR1-induced proapoptotic signaling (R-HSA-5357786), indicating a potential converged pathological mechanism.
+- **Genes involved:** CYLD, OPTN
+- **Pathways involved:** TNFR1-induced proapoptotic signaling (R-HSA-5357786)
+- **Why this might matter in ALS:** Participating in the same biochemical pathway indicates that mutations or dysregulation in these distinct genes could lead to converged downstream pathological outcomes in ALS motor neurons.
+- **Supporting evidence:** Citations in the database link these entities (genes: CYLD, OPTN) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Knockdown or mutation of CYLD, OPTN in human motor neurons will result in shared, quantifiable disruption of the pathway phenotypic assays.
+- **Computational validation:** Pathway membership and enrichment validated via Reactome database annotations.
+- **High-level wet-lab concept:** Assay downstream pathway activity or target markers in human motor neuron models.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 21408173
+  - PMID: 29951055
+  - PMID: 32185393
+  - PMID: 33134918
+  - PMID: 33333804
+  - PMID: 34290285
+## HYP-004: Shared pathway convergence of CYLD and OPTN in Regulation of TNFR1 signaling
+- **Mechanism:** Both CYLD and OPTN participate in the pathway Regulation of TNFR1 signaling (R-HSA-5357905), indicating a potential converged pathological mechanism.
+- **Genes involved:** CYLD, OPTN
+- **Pathways involved:** Regulation of TNFR1 signaling (R-HSA-5357905)
+- **Why this might matter in ALS:** Participating in the same biochemical pathway indicates that mutations or dysregulation in these distinct genes could lead to converged downstream pathological outcomes in ALS motor neurons.
+- **Supporting evidence:** Citations in the database link these entities (genes: CYLD, OPTN) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Knockdown or mutation of CYLD, OPTN in human motor neurons will result in shared, quantifiable disruption of the pathway phenotypic assays.
+- **Computational validation:** Pathway membership and enrichment validated via Reactome database annotations.
+- **High-level wet-lab concept:** Assay downstream pathway activity or target markers in human motor neuron models.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 21408173
+  - PMID: 29951055
+  - PMID: 32185393
+  - PMID: 33134918
+  - PMID: 33333804
+  - PMID: 34290285
+## HYP-005: Shared pathway convergence of CYLD and OPTN in TNFR1-induced NF-kappa-B signaling pathway
+- **Mechanism:** Both CYLD and OPTN participate in the pathway TNFR1-induced NF-kappa-B signaling pathway (R-HSA-5357956), indicating a potential converged pathological mechanism.
+- **Genes involved:** CYLD, OPTN
+- **Pathways involved:** TNFR1-induced NF-kappa-B signaling pathway (R-HSA-5357956)
+- **Why this might matter in ALS:** Participating in the same biochemical pathway indicates that mutations or dysregulation in these distinct genes could lead to converged downstream pathological outcomes in ALS motor neurons.
+- **Supporting evidence:** Citations in the database link these entities (genes: CYLD, OPTN) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Knockdown or mutation of CYLD, OPTN in human motor neurons will result in shared, quantifiable disruption of the pathway phenotypic assays.
+- **Computational validation:** Pathway membership and enrichment validated via Reactome database annotations.
+- **High-level wet-lab concept:** Assay downstream pathway activity or target markers in human motor neuron models.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 21408173
+  - PMID: 29951055
+  - PMID: 32185393
+  - PMID: 33134918
+  - PMID: 33333804
+  - PMID: 34290285
+## HYP-006: Shared pathway convergence of CYLD and TBK1 in Negative regulators of DDX58/IFIH1 signaling
+- **Mechanism:** Both CYLD and TBK1 participate in the pathway Negative regulators of DDX58/IFIH1 signaling (R-HSA-936440), indicating a potential converged pathological mechanism.
+- **Genes involved:** CYLD, TBK1
+- **Pathways involved:** Negative regulators of DDX58/IFIH1 signaling (R-HSA-936440)
+- **Why this might matter in ALS:** Participating in the same biochemical pathway indicates that mutations or dysregulation in these distinct genes could lead to converged downstream pathological outcomes in ALS motor neurons.
+- **Supporting evidence:** Citations in the database link these entities (genes: CYLD, TBK1) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Knockdown or mutation of CYLD, TBK1 in human motor neurons will result in shared, quantifiable disruption of the pathway phenotypic assays.
+- **Computational validation:** Pathway membership and enrichment validated via Reactome database annotations.
+- **High-level wet-lab concept:** Assay downstream pathway activity or target markers in human motor neuron models.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 21408173
+  - PMID: 29951055
+  - PMID: 32185393
+  - PMID: 33134918
+  - PMID: 33333804
+  - PMID: 34290285
+## HYP-007: Shared pathway convergence of DCTN1 and KIF5A in MHC class II antigen presentation
+- **Mechanism:** Both DCTN1 and KIF5A participate in the pathway MHC class II antigen presentation (R-HSA-2132295), indicating a potential converged pathological mechanism.
+- **Genes involved:** DCTN1, KIF5A
+- **Pathways involved:** MHC class II antigen presentation (R-HSA-2132295)
+- **Why this might matter in ALS:** Participating in the same biochemical pathway indicates that mutations or dysregulation in these distinct genes could lead to converged downstream pathological outcomes in ALS motor neurons.
+- **Supporting evidence:** Citations in the database link these entities (genes: DCTN1, KIF5A) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Knockdown or mutation of DCTN1, KIF5A in human motor neurons will result in shared, quantifiable disruption of the pathway phenotypic assays.
+- **Computational validation:** Pathway membership and enrichment validated via Reactome database annotations.
+- **High-level wet-lab concept:** Assay downstream pathway activity or target markers in human motor neuron models.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 38239833
+  - PMID: 38267040
+  - PMID: 38311779
+  - PMID: 38702287
+  - PMID: 39440303
+  - PMID: 40424855
+## HYP-008: Shared pathway convergence of DCTN1 and OPTN in Regulation of PLK1 Activity at G2/M Transition
+- **Mechanism:** Both DCTN1 and OPTN participate in the pathway Regulation of PLK1 Activity at G2/M Transition (R-HSA-2565942), indicating a potential converged pathological mechanism.
+- **Genes involved:** DCTN1, OPTN, PLK1
+- **Pathways involved:** Regulation of PLK1 Activity at G2/M Transition (R-HSA-2565942)
+- **Why this might matter in ALS:** Participating in the same biochemical pathway indicates that mutations or dysregulation in these distinct genes could lead to converged downstream pathological outcomes in ALS motor neurons.
+- **Supporting evidence:** Citations in the database link these entities (genes: DCTN1, OPTN, PLK1) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Knockdown or mutation of DCTN1, OPTN, PLK1 in human motor neurons will result in shared, quantifiable disruption of the pathway phenotypic assays.
+- **Computational validation:** Pathway membership and enrichment validated via Reactome database annotations.
+- **High-level wet-lab concept:** Assay downstream pathway activity or target markers in human motor neuron models.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 38239833
+  - PMID: 38267040
+  - PMID: 38311779
+  - PMID: 38702287
+  - PMID: 39440303
+  - PMID: 40424855
+## HYP-009: Shared pathway convergence of DCTN1 and TUBA4A in HSP90 chaperone cycle for steroid hormone receptors (SHR) in the presence of ligand
+- **Mechanism:** Both DCTN1 and TUBA4A participate in the pathway HSP90 chaperone cycle for steroid hormone receptors (SHR) in the presence of ligand (R-HSA-3371497), indicating a potential converged pathological mechanism.
+- **Genes involved:** DCTN1, TUBA4A
+- **Pathways involved:** HSP90 chaperone cycle for steroid hormone receptors (SHR) in the presence of ligand (R-HSA-3371497)
+- **Why this might matter in ALS:** Participating in the same biochemical pathway indicates that mutations or dysregulation in these distinct genes could lead to converged downstream pathological outcomes in ALS motor neurons.
+- **Supporting evidence:** Citations in the database link these entities (genes: DCTN1, TUBA4A) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Knockdown or mutation of DCTN1, TUBA4A in human motor neurons will result in shared, quantifiable disruption of the pathway phenotypic assays.
+- **Computational validation:** Pathway membership and enrichment validated via Reactome database annotations.
+- **High-level wet-lab concept:** Assay downstream pathway activity or target markers in human motor neuron models.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 20301623
+  - PMID: 38102515
+  - PMID: 38177100
+  - PMID: 38239833
+  - PMID: 38267040
+  - PMID: 38311779
+## HYP-010: Shared pathway convergence of DCTN1 and TUBA4A in Loss of Nlp from mitotic centrosomes
+- **Mechanism:** Both DCTN1 and TUBA4A participate in the pathway Loss of Nlp from mitotic centrosomes (R-HSA-380259), indicating a potential converged pathological mechanism.
+- **Genes involved:** DCTN1, TUBA4A
+- **Pathways involved:** Loss of Nlp from mitotic centrosomes (R-HSA-380259)
+- **Why this might matter in ALS:** Participating in the same biochemical pathway indicates that mutations or dysregulation in these distinct genes could lead to converged downstream pathological outcomes in ALS motor neurons.
+- **Supporting evidence:** Citations in the database link these entities (genes: DCTN1, TUBA4A) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Knockdown or mutation of DCTN1, TUBA4A in human motor neurons will result in shared, quantifiable disruption of the pathway phenotypic assays.
+- **Computational validation:** Pathway membership and enrichment validated via Reactome database annotations.
+- **High-level wet-lab concept:** Assay downstream pathway activity or target markers in human motor neuron models.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 20301623
+  - PMID: 38102515
+  - PMID: 38177100
+  - PMID: 38239833
+  - PMID: 38267040
+  - PMID: 38311779
+## HYP-011: Shared pathway convergence of DCTN1 and TUBA4A in Recruitment of mitotic centrosome proteins and complexes
+- **Mechanism:** Both DCTN1 and TUBA4A participate in the pathway Recruitment of mitotic centrosome proteins and complexes (R-HSA-380270), indicating a potential converged pathological mechanism.
+- **Genes involved:** DCTN1, TUBA4A
+- **Pathways involved:** Recruitment of mitotic centrosome proteins and complexes (R-HSA-380270)
+- **Why this might matter in ALS:** Participating in the same biochemical pathway indicates that mutations or dysregulation in these distinct genes could lead to converged downstream pathological outcomes in ALS motor neurons.
+- **Supporting evidence:** Citations in the database link these entities (genes: DCTN1, TUBA4A) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Knockdown or mutation of DCTN1, TUBA4A in human motor neurons will result in shared, quantifiable disruption of the pathway phenotypic assays.
+- **Computational validation:** Pathway membership and enrichment validated via Reactome database annotations.
+- **High-level wet-lab concept:** Assay downstream pathway activity or target markers in human motor neuron models.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 20301623
+  - PMID: 38102515
+  - PMID: 38177100
+  - PMID: 38239833
+  - PMID: 38267040
+  - PMID: 38311779
+## HYP-012: Shared pathway convergence of DCTN1 and TUBA4A in Loss of proteins required for interphase microtubule organization from the centrosome
+- **Mechanism:** Both DCTN1 and TUBA4A participate in the pathway Loss of proteins required for interphase microtubule organization from the centrosome (R-HSA-380284), indicating a potential converged pathological mechanism.
+- **Genes involved:** DCTN1, TUBA4A
+- **Pathways involved:** Loss of proteins required for interphase microtubule organization from the centrosome (R-HSA-380284)
+- **Why this might matter in ALS:** Participating in the same biochemical pathway indicates that mutations or dysregulation in these distinct genes could lead to converged downstream pathological outcomes in ALS motor neurons.
+- **Supporting evidence:** Citations in the database link these entities (genes: DCTN1, TUBA4A) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Knockdown or mutation of DCTN1, TUBA4A in human motor neurons will result in shared, quantifiable disruption of the pathway phenotypic assays.
+- **Computational validation:** Pathway membership and enrichment validated via Reactome database annotations.
+- **High-level wet-lab concept:** Assay downstream pathway activity or target markers in human motor neuron models.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 20301623
+  - PMID: 38102515
+  - PMID: 38177100
+  - PMID: 38239833
+  - PMID: 38267040
+  - PMID: 38311779
+## HYP-013: Shared pathway convergence of DCTN1 and TUBA4A in Recruitment of NuMA to mitotic centrosomes
+- **Mechanism:** Both DCTN1 and TUBA4A participate in the pathway Recruitment of NuMA to mitotic centrosomes (R-HSA-380320), indicating a potential converged pathological mechanism.
+- **Genes involved:** DCTN1, TUBA4A
+- **Pathways involved:** Recruitment of NuMA to mitotic centrosomes (R-HSA-380320)
+- **Why this might matter in ALS:** Participating in the same biochemical pathway indicates that mutations or dysregulation in these distinct genes could lead to converged downstream pathological outcomes in ALS motor neurons.
+- **Supporting evidence:** Citations in the database link these entities (genes: DCTN1, TUBA4A) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Knockdown or mutation of DCTN1, TUBA4A in human motor neurons will result in shared, quantifiable disruption of the pathway phenotypic assays.
+- **Computational validation:** Pathway membership and enrichment validated via Reactome database annotations.
+- **High-level wet-lab concept:** Assay downstream pathway activity or target markers in human motor neuron models.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 20301623
+  - PMID: 38102515
+  - PMID: 38177100
+  - PMID: 38239833
+  - PMID: 38267040
+  - PMID: 38311779
+## HYP-014: Shared pathway convergence of DCTN1 and TUBA4A in Anchoring of the basal body to the plasma membrane
+- **Mechanism:** Both DCTN1 and TUBA4A participate in the pathway Anchoring of the basal body to the plasma membrane (R-HSA-5620912), indicating a potential converged pathological mechanism.
+- **Genes involved:** DCTN1, TUBA4A
+- **Pathways involved:** Anchoring of the basal body to the plasma membrane (R-HSA-5620912)
+- **Why this might matter in ALS:** Participating in the same biochemical pathway indicates that mutations or dysregulation in these distinct genes could lead to converged downstream pathological outcomes in ALS motor neurons.
+- **Supporting evidence:** Citations in the database link these entities (genes: DCTN1, TUBA4A) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Knockdown or mutation of DCTN1, TUBA4A in human motor neurons will result in shared, quantifiable disruption of the pathway phenotypic assays.
+- **Computational validation:** Pathway membership and enrichment validated via Reactome database annotations.
+- **High-level wet-lab concept:** Assay downstream pathway activity or target markers in human motor neuron models.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 20301623
+  - PMID: 38102515
+  - PMID: 38177100
+  - PMID: 38239833
+  - PMID: 38267040
+  - PMID: 38311779
+## HYP-015: Shared pathway convergence of DCTN1 and TUBA4A in COPI-mediated anterograde transport
+- **Mechanism:** Both DCTN1 and TUBA4A participate in the pathway COPI-mediated anterograde transport (R-HSA-6807878), indicating a potential converged pathological mechanism.
+- **Genes involved:** DCTN1, TUBA4A
+- **Pathways involved:** COPI-mediated anterograde transport (R-HSA-6807878)
+- **Why this might matter in ALS:** Participating in the same biochemical pathway indicates that mutations or dysregulation in these distinct genes could lead to converged downstream pathological outcomes in ALS motor neurons.
+- **Supporting evidence:** Citations in the database link these entities (genes: DCTN1, TUBA4A) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Knockdown or mutation of DCTN1, TUBA4A in human motor neurons will result in shared, quantifiable disruption of the pathway phenotypic assays.
+- **Computational validation:** Pathway membership and enrichment validated via Reactome database annotations.
+- **High-level wet-lab concept:** Assay downstream pathway activity or target markers in human motor neuron models.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 20301623
+  - PMID: 38102515
+  - PMID: 38177100
+  - PMID: 38239833
+  - PMID: 38267040
+  - PMID: 38311779
+## HYP-016: Shared pathway convergence of DCTN1 and TUBA4A in COPI-independent Golgi-to-ER retrograde traffic
+- **Mechanism:** Both DCTN1 and TUBA4A participate in the pathway COPI-independent Golgi-to-ER retrograde traffic (R-HSA-6811436), indicating a potential converged pathological mechanism.
+- **Genes involved:** DCTN1, TUBA4A
+- **Pathways involved:** COPI-independent Golgi-to-ER retrograde traffic (R-HSA-6811436)
+- **Why this might matter in ALS:** Participating in the same biochemical pathway indicates that mutations or dysregulation in these distinct genes could lead to converged downstream pathological outcomes in ALS motor neurons.
+- **Supporting evidence:** Citations in the database link these entities (genes: DCTN1, TUBA4A) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Knockdown or mutation of DCTN1, TUBA4A in human motor neurons will result in shared, quantifiable disruption of the pathway phenotypic assays.
+- **Computational validation:** Pathway membership and enrichment validated via Reactome database annotations.
+- **High-level wet-lab concept:** Assay downstream pathway activity or target markers in human motor neuron models.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 20301623
+  - PMID: 38102515
+  - PMID: 38177100
+  - PMID: 38239833
+  - PMID: 38267040
+  - PMID: 38311779
+## HYP-017: Shared pathway convergence of DCTN1 and TUBA4A in AURKA Activation by TPX2
+- **Mechanism:** Both DCTN1 and TUBA4A participate in the pathway AURKA Activation by TPX2 (R-HSA-8854518), indicating a potential converged pathological mechanism.
+- **Genes involved:** DCTN1, TUBA4A
+- **Pathways involved:** AURKA Activation by TPX2 (R-HSA-8854518)
+- **Why this might matter in ALS:** Participating in the same biochemical pathway indicates that mutations or dysregulation in these distinct genes could lead to converged downstream pathological outcomes in ALS motor neurons.
+- **Supporting evidence:** Citations in the database link these entities (genes: DCTN1, TUBA4A) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Knockdown or mutation of DCTN1, TUBA4A in human motor neurons will result in shared, quantifiable disruption of the pathway phenotypic assays.
+- **Computational validation:** Pathway membership and enrichment validated via Reactome database annotations.
+- **High-level wet-lab concept:** Assay downstream pathway activity or target markers in human motor neuron models.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 20301623
+  - PMID: 38102515
+  - PMID: 38177100
+  - PMID: 38239833
+  - PMID: 38267040
+  - PMID: 38311779
+## HYP-018: Shared pathway convergence of DCTN1 and SQSTM1 in Signaling by ALK fusions and activated point mutants
+- **Mechanism:** Both DCTN1 and SQSTM1 participate in the pathway Signaling by ALK fusions and activated point mutants (R-HSA-9725370), indicating a potential converged pathological mechanism.
+- **Genes involved:** DCTN1, SQSTM1
+- **Pathways involved:** Signaling by ALK fusions and activated point mutants (R-HSA-9725370)
+- **Why this might matter in ALS:** Participating in the same biochemical pathway indicates that mutations or dysregulation in these distinct genes could lead to converged downstream pathological outcomes in ALS motor neurons.
+- **Supporting evidence:** Citations in the database link these entities (genes: DCTN1, SQSTM1) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Knockdown or mutation of DCTN1, SQSTM1 in human motor neurons will result in shared, quantifiable disruption of the pathway phenotypic assays.
+- **Computational validation:** Pathway membership and enrichment validated via Reactome database annotations.
+- **High-level wet-lab concept:** Assay downstream pathway activity or target markers in human motor neuron models.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 38239833
+  - PMID: 38267040
+  - PMID: 38311779
+  - PMID: 38702287
+  - PMID: 39440303
+  - PMID: 40424855
+## HYP-019: Shared pathway convergence of FUS and HNRNPA1 in mRNA Splicing - Major Pathway
+- **Mechanism:** Both FUS and HNRNPA1 participate in the pathway mRNA Splicing - Major Pathway (R-HSA-72163), indicating a potential converged pathological mechanism.
+- **Genes involved:** FUS, HNRNPA1
+- **Pathways involved:** mRNA Splicing - Major Pathway (R-HSA-72163)
+- **Why this might matter in ALS:** Participating in the same biochemical pathway indicates that mutations or dysregulation in these distinct genes could lead to converged downstream pathological outcomes in ALS motor neurons.
+- **Supporting evidence:** Citations in the database link these entities (genes: FUS, HNRNPA1) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** The supporting studies are animal-only models (lacking human/patient validation).
+- **Falsifiable prediction:** Knockdown or mutation of FUS, HNRNPA1 in human motor neurons will result in shared, quantifiable disruption of the pathway phenotypic assays.
+- **Computational validation:** Pathway membership and enrichment validated via Reactome database annotations.
+- **High-level wet-lab concept:** Assay downstream pathway activity or target markers in human motor neuron models.
+- **Confidence:** Low
+- **Uncertainty:** Potential lack of human/patient clinical validation, conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 40441157
+  - PMID: 40687373
+  - PMID: 40707625
+  - PMID: 40737092
+  - PMID: 40766389
+  - PMID: 40778857
+## HYP-020: Shared pathway convergence of FUS and HNRNPA1 in Processing of Capped Intron-Containing Pre-mRNA
+- **Mechanism:** Both FUS and HNRNPA1 participate in the pathway Processing of Capped Intron-Containing Pre-mRNA (R-HSA-72203), indicating a potential converged pathological mechanism.
+- **Genes involved:** FUS, HNRNPA1
+- **Pathways involved:** Processing of Capped Intron-Containing Pre-mRNA (R-HSA-72203)
+- **Why this might matter in ALS:** Participating in the same biochemical pathway indicates that mutations or dysregulation in these distinct genes could lead to converged downstream pathological outcomes in ALS motor neurons.
+- **Supporting evidence:** Citations in the database link these entities (genes: FUS, HNRNPA1) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** The supporting studies are animal-only models (lacking human/patient validation).
+- **Falsifiable prediction:** Knockdown or mutation of FUS, HNRNPA1 in human motor neurons will result in shared, quantifiable disruption of the pathway phenotypic assays.
+- **Computational validation:** Pathway membership and enrichment validated via Reactome database annotations.
+- **High-level wet-lab concept:** Assay downstream pathway activity or target markers in human motor neuron models.
+- **Confidence:** Low
+- **Uncertainty:** Potential lack of human/patient clinical validation, conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 40441157
+  - PMID: 40687373
+  - PMID: 40707625
+  - PMID: 40737092
+  - PMID: 40766389
+  - PMID: 40778857
+## HYP-021: Shared pathway convergence of FUS and HNRNPA1 in mRNA Polyadenylation
+- **Mechanism:** Both FUS and HNRNPA1 participate in the pathway mRNA Polyadenylation (R-HSA-9770562), indicating a potential converged pathological mechanism.
+- **Genes involved:** FUS, HNRNPA1
+- **Pathways involved:** mRNA Polyadenylation (R-HSA-9770562)
+- **Why this might matter in ALS:** Participating in the same biochemical pathway indicates that mutations or dysregulation in these distinct genes could lead to converged downstream pathological outcomes in ALS motor neurons.
+- **Supporting evidence:** Citations in the database link these entities (genes: FUS, HNRNPA1) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** The supporting studies are animal-only models (lacking human/patient validation).
+- **Falsifiable prediction:** Knockdown or mutation of FUS, HNRNPA1 in human motor neurons will result in shared, quantifiable disruption of the pathway phenotypic assays.
+- **Computational validation:** Pathway membership and enrichment validated via Reactome database annotations.
+- **High-level wet-lab concept:** Assay downstream pathway activity or target markers in human motor neuron models.
+- **Confidence:** Low
+- **Uncertainty:** Potential lack of human/patient clinical validation, conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 40441157
+  - PMID: 40687373
+  - PMID: 40707625
+  - PMID: 40737092
+  - PMID: 40766389
+  - PMID: 40778857
+## HYP-022: Shared pathway convergence of FUS and HNRNPA1 in Dengue Virus-Host Interactions
+- **Mechanism:** Both FUS and HNRNPA1 participate in the pathway Dengue Virus-Host Interactions (R-HSA-9918481), indicating a potential converged pathological mechanism.
+- **Genes involved:** FUS, HNRNPA1
+- **Pathways involved:** Dengue Virus-Host Interactions (R-HSA-9918481)
+- **Why this might matter in ALS:** Participating in the same biochemical pathway indicates that mutations or dysregulation in these distinct genes could lead to converged downstream pathological outcomes in ALS motor neurons.
+- **Supporting evidence:** Citations in the database link these entities (genes: FUS, HNRNPA1) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** The supporting studies are animal-only models (lacking human/patient validation).
+- **Falsifiable prediction:** Knockdown or mutation of FUS, HNRNPA1 in human motor neurons will result in shared, quantifiable disruption of the pathway phenotypic assays.
+- **Computational validation:** Pathway membership and enrichment validated via Reactome database annotations.
+- **High-level wet-lab concept:** Assay downstream pathway activity or target markers in human motor neuron models.
+- **Confidence:** Low
+- **Uncertainty:** Potential lack of human/patient clinical validation, conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 40441157
+  - PMID: 40687373
+  - PMID: 40707625
+  - PMID: 40737092
+  - PMID: 40766389
+  - PMID: 40778857
+## HYP-023: Shared pathway convergence of HNRNPA1 and TIA1 in FGFR2 alternative splicing
+- **Mechanism:** Both HNRNPA1 and TIA1 participate in the pathway FGFR2 alternative splicing (R-HSA-6803529), indicating a potential converged pathological mechanism.
+- **Genes involved:** HNRNPA1, TIA1
+- **Pathways involved:** FGFR2 alternative splicing (R-HSA-6803529)
+- **Why this might matter in ALS:** Participating in the same biochemical pathway indicates that mutations or dysregulation in these distinct genes could lead to converged downstream pathological outcomes in ALS motor neurons.
+- **Supporting evidence:** Citations in the database link these entities (genes: HNRNPA1, TIA1) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** None
+- **Falsifiable prediction:** Knockdown or mutation of HNRNPA1, TIA1 in human motor neurons will result in shared, quantifiable disruption of the pathway phenotypic assays.
+- **Computational validation:** Pathway membership and enrichment validated via Reactome database annotations.
+- **High-level wet-lab concept:** Assay downstream pathway activity or target markers in human motor neuron models.
+- **Confidence:** Medium
+- **Uncertainty:** Minimal outstanding uncertainty identified.
+- **Sources**:
+  - PMID: 36499097
+  - PMID: 36747652
+  - PMID: 37250416
+  - PMID: 38193795
+  - PMID: 38239833
+  - PMID: 38638178
+## HYP-024: Shared pathway convergence of KIF5A and TUBA4A in COPI-dependent Golgi-to-ER retrograde traffic
+- **Mechanism:** Both KIF5A and TUBA4A participate in the pathway COPI-dependent Golgi-to-ER retrograde traffic (R-HSA-6811434), indicating a potential converged pathological mechanism.
+- **Genes involved:** KIF5A, TUBA4A
+- **Pathways involved:** COPI-dependent Golgi-to-ER retrograde traffic (R-HSA-6811434)
+- **Why this might matter in ALS:** Participating in the same biochemical pathway indicates that mutations or dysregulation in these distinct genes could lead to converged downstream pathological outcomes in ALS motor neurons.
+- **Supporting evidence:** Citations in the database link these entities (genes: KIF5A, TUBA4A) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Knockdown or mutation of KIF5A, TUBA4A in human motor neurons will result in shared, quantifiable disruption of the pathway phenotypic assays.
+- **Computational validation:** Pathway membership and enrichment validated via Reactome database annotations.
+- **High-level wet-lab concept:** Assay downstream pathway activity or target markers in human motor neuron models.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 20301623
+  - PMID: 38102515
+  - PMID: 38177100
+  - PMID: 38239833
+  - PMID: 38463699
+  - PMID: 38884572
+## HYP-025: Shared pathway convergence of KIF5A and TUBA4A in Kinesins
+- **Mechanism:** Both KIF5A and TUBA4A participate in the pathway Kinesins (R-HSA-983189), indicating a potential converged pathological mechanism.
+- **Genes involved:** KIF5A, TUBA4A
+- **Pathways involved:** Kinesins (R-HSA-983189)
+- **Why this might matter in ALS:** Participating in the same biochemical pathway indicates that mutations or dysregulation in these distinct genes could lead to converged downstream pathological outcomes in ALS motor neurons.
+- **Supporting evidence:** Citations in the database link these entities (genes: KIF5A, TUBA4A) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Knockdown or mutation of KIF5A, TUBA4A in human motor neurons will result in shared, quantifiable disruption of the pathway phenotypic assays.
+- **Computational validation:** Pathway membership and enrichment validated via Reactome database annotations.
+- **High-level wet-lab concept:** Assay downstream pathway activity or target markers in human motor neuron models.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 20301623
+  - PMID: 38102515
+  - PMID: 38177100
+  - PMID: 38239833
+  - PMID: 38463699
+  - PMID: 38884572
+## HYP-026: Shared pathway convergence of OPTN and SQSTM1 in PINK1-PRKN Mediated Mitophagy
+- **Mechanism:** Both OPTN and SQSTM1 participate in the pathway PINK1-PRKN Mediated Mitophagy (R-HSA-5205685), indicating a potential converged pathological mechanism.
+- **Genes involved:** OPTN, SQSTM1
+- **Pathways involved:** PINK1-PRKN Mediated Mitophagy (R-HSA-5205685)
+- **Why this might matter in ALS:** Participating in the same biochemical pathway indicates that mutations or dysregulation in these distinct genes could lead to converged downstream pathological outcomes in ALS motor neurons.
+- **Supporting evidence:** Citations in the database link these entities (genes: OPTN, SQSTM1) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Knockdown or mutation of OPTN, SQSTM1 in human motor neurons will result in shared, quantifiable disruption of the pathway phenotypic assays.
+- **Computational validation:** Pathway membership and enrichment validated via Reactome database annotations.
+- **High-level wet-lab concept:** Assay downstream pathway activity or target markers in human motor neuron models.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 41171761
+  - PMID: 41196070
+  - PMID: 41259153
+  - PMID: 41283823
+  - PMID: 41294799
+  - PMID: 41387380
+## HYP-027: Shared pathway convergence of OPTN and TBK1 in TICAM1-dependent activation of IRF3/IRF7
+- **Mechanism:** Both OPTN and TBK1 participate in the pathway TICAM1-dependent activation of IRF3/IRF7 (R-HSA-9013973), indicating a potential converged pathological mechanism.
+- **Genes involved:** IRF3, OPTN, TBK1
+- **Pathways involved:** TICAM1-dependent activation of IRF3/IRF7 (R-HSA-9013973)
+- **Why this might matter in ALS:** Participating in the same biochemical pathway indicates that mutations or dysregulation in these distinct genes could lead to converged downstream pathological outcomes in ALS motor neurons.
+- **Supporting evidence:** Citations in the database link these entities (genes: IRF3, OPTN, TBK1) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Knockdown or mutation of IRF3, OPTN, TBK1 in human motor neurons will result in shared, quantifiable disruption of the pathway phenotypic assays.
+- **Computational validation:** Pathway membership and enrichment validated via Reactome database annotations.
+- **High-level wet-lab concept:** Assay downstream pathway activity or target markers in human motor neuron models.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 41259153
+  - PMID: 41269363
+  - PMID: 41283823
+  - PMID: 41294799
+  - PMID: 41302089
+  - PMID: 41337593
+## HYP-028: Shared pathway convergence of OPTN and TBK1 in Activation of IRF3, IRF7 mediated by TBK1, IKKε (IKBKE)
+- **Mechanism:** Both OPTN and TBK1 participate in the pathway Activation of IRF3, IRF7 mediated by TBK1, IKKε (IKBKE) (R-HSA-936964), indicating a potential converged pathological mechanism.
+- **Genes involved:** IKBKE, IRF3, OPTN, TBK1
+- **Pathways involved:** Activation of IRF3, IRF7 mediated by TBK1, IKKε (IKBKE) (R-HSA-936964)
+- **Why this might matter in ALS:** Participating in the same biochemical pathway indicates that mutations or dysregulation in these distinct genes could lead to converged downstream pathological outcomes in ALS motor neurons.
+- **Supporting evidence:** Citations in the database link these entities (genes: IKBKE, IRF3, OPTN, TBK1) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Knockdown or mutation of IKBKE, IRF3, OPTN, TBK1 in human motor neurons will result in shared, quantifiable disruption of the pathway phenotypic assays.
+- **Computational validation:** Pathway membership and enrichment validated via Reactome database annotations.
+- **High-level wet-lab concept:** Assay downstream pathway activity or target markers in human motor neuron models.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 41259153
+  - PMID: 41269363
+  - PMID: 41283823
+  - PMID: 41294799
+  - PMID: 41302089
+  - PMID: 41337593
+## HYP-029: Shared pathway convergence of OPTN and TBK1 in Regulation of TBK1, IKKε (IKBKE)-mediated activation of IRF3, IRF7 
+- **Mechanism:** Both OPTN and TBK1 participate in the pathway Regulation of TBK1, IKKε (IKBKE)-mediated activation of IRF3, IRF7  (R-HSA-9824878), indicating a potential converged pathological mechanism.
+- **Genes involved:** IKBKE, IRF3, OPTN, TBK1
+- **Pathways involved:** Regulation of TBK1, IKKε (IKBKE)-mediated activation of IRF3, IRF7  (R-HSA-9824878)
+- **Why this might matter in ALS:** Participating in the same biochemical pathway indicates that mutations or dysregulation in these distinct genes could lead to converged downstream pathological outcomes in ALS motor neurons.
+- **Supporting evidence:** Citations in the database link these entities (genes: IKBKE, IRF3, OPTN, TBK1) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Knockdown or mutation of IKBKE, IRF3, OPTN, TBK1 in human motor neurons will result in shared, quantifiable disruption of the pathway phenotypic assays.
+- **Computational validation:** Pathway membership and enrichment validated via Reactome database annotations.
+- **High-level wet-lab concept:** Assay downstream pathway activity or target markers in human motor neuron models.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 41259153
+  - PMID: 41269363
+  - PMID: 41283823
+  - PMID: 41294799
+  - PMID: 41302089
+  - PMID: 41337593
+## HYP-030: Shared pathway convergence of OPTN and TBK1 in Regulation of TBK1, IKKε-mediated activation of IRF3, IRF7 upon TLR3 ligation
+- **Mechanism:** Both OPTN and TBK1 participate in the pathway Regulation of TBK1, IKKε-mediated activation of IRF3, IRF7 upon TLR3 ligation (R-HSA-9828211), indicating a potential converged pathological mechanism.
+- **Genes involved:** IRF3, OPTN, TBK1
+- **Pathways involved:** Regulation of TBK1, IKKε-mediated activation of IRF3, IRF7 upon TLR3 ligation (R-HSA-9828211)
+- **Why this might matter in ALS:** Participating in the same biochemical pathway indicates that mutations or dysregulation in these distinct genes could lead to converged downstream pathological outcomes in ALS motor neurons.
+- **Supporting evidence:** Citations in the database link these entities (genes: IRF3, OPTN, TBK1) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Knockdown or mutation of IRF3, OPTN, TBK1 in human motor neurons will result in shared, quantifiable disruption of the pathway phenotypic assays.
+- **Computational validation:** Pathway membership and enrichment validated via Reactome database annotations.
+- **High-level wet-lab concept:** Assay downstream pathway activity or target markers in human motor neuron models.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 41259153
+  - PMID: 41269363
+  - PMID: 41283823
+  - PMID: 41294799
+  - PMID: 41302089
+  - PMID: 41337593
+## HYP-031: Shared pathway convergence of PFN1 and SOD1 in Platelet degranulation 
+- **Mechanism:** Both PFN1 and SOD1 participate in the pathway Platelet degranulation  (R-HSA-114608), indicating a potential converged pathological mechanism.
+- **Genes involved:** PFN1, SOD1
+- **Pathways involved:** Platelet degranulation  (R-HSA-114608)
+- **Why this might matter in ALS:** Participating in the same biochemical pathway indicates that mutations or dysregulation in these distinct genes could lead to converged downstream pathological outcomes in ALS motor neurons.
+- **Supporting evidence:** Citations in the database link these entities (genes: PFN1, SOD1) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Knockdown or mutation of PFN1, SOD1 in human motor neurons will result in shared, quantifiable disruption of the pathway phenotypic assays.
+- **Computational validation:** Pathway membership and enrichment validated via Reactome database annotations.
+- **High-level wet-lab concept:** Assay downstream pathway activity or target markers in human motor neuron models.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 39066921
+  - PMID: 39271636
+  - PMID: 39508106
+  - PMID: 40063831
+  - PMID: 40409555
+  - PMID: 40413526
+## HYP-032: Shared pathway convergence of PFN1 and TUBA4A in RHO GTPases Activate Formins
+- **Mechanism:** Both PFN1 and TUBA4A participate in the pathway RHO GTPases Activate Formins (R-HSA-5663220), indicating a potential converged pathological mechanism.
+- **Genes involved:** PFN1, TUBA4A
+- **Pathways involved:** RHO GTPases Activate Formins (R-HSA-5663220)
+- **Why this might matter in ALS:** Participating in the same biochemical pathway indicates that mutations or dysregulation in these distinct genes could lead to converged downstream pathological outcomes in ALS motor neurons.
+- **Supporting evidence:** Citations in the database link these entities (genes: PFN1, TUBA4A) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Knockdown or mutation of PFN1, TUBA4A in human motor neurons will result in shared, quantifiable disruption of the pathway phenotypic assays.
+- **Computational validation:** Pathway membership and enrichment validated via Reactome database annotations.
+- **High-level wet-lab concept:** Assay downstream pathway activity or target markers in human motor neuron models.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 20301623
+  - PMID: 38102515
+  - PMID: 38177100
+  - PMID: 38239833
+  - PMID: 38463699
+  - PMID: 38884572
+## HYP-033: Shared pathway convergence of SIGMAR1 and TBK1 in Potential therapeutics for SARS
+- **Mechanism:** Both SIGMAR1 and TBK1 participate in the pathway Potential therapeutics for SARS (R-HSA-9679191), indicating a potential converged pathological mechanism.
+- **Genes involved:** SIGMAR1, TBK1
+- **Pathways involved:** Potential therapeutics for SARS (R-HSA-9679191)
+- **Why this might matter in ALS:** Participating in the same biochemical pathway indicates that mutations or dysregulation in these distinct genes could lead to converged downstream pathological outcomes in ALS motor neurons.
+- **Supporting evidence:** Citations in the database link these entities (genes: SIGMAR1, TBK1) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Knockdown or mutation of SIGMAR1, TBK1 in human motor neurons will result in shared, quantifiable disruption of the pathway phenotypic assays.
+- **Computational validation:** Pathway membership and enrichment validated via Reactome database annotations.
+- **High-level wet-lab concept:** Assay downstream pathway activity or target markers in human motor neuron models.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 34143516
+  - PMID: 35507432
+  - PMID: 36982902
+  - PMID: 37780700
+  - PMID: 38450645
+  - PMID: 38702287
+## HYP-034: Shared pathway convergence of SPTLC1 and VAPB in Sphingolipid de novo biosynthesis
+- **Mechanism:** Both SPTLC1 and VAPB participate in the pathway Sphingolipid de novo biosynthesis (R-HSA-1660661), indicating a potential converged pathological mechanism.
+- **Genes involved:** SPTLC1, VAPB
+- **Pathways involved:** Sphingolipid de novo biosynthesis (R-HSA-1660661)
+- **Why this might matter in ALS:** Participating in the same biochemical pathway indicates that mutations or dysregulation in these distinct genes could lead to converged downstream pathological outcomes in ALS motor neurons.
+- **Supporting evidence:** Citations in the database link these entities (genes: SPTLC1, VAPB) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Knockdown or mutation of SPTLC1, VAPB in human motor neurons will result in shared, quantifiable disruption of the pathway phenotypic assays.
+- **Computational validation:** Pathway membership and enrichment validated via Reactome database annotations.
+- **High-level wet-lab concept:** Assay downstream pathway activity or target markers in human motor neuron models.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 37308477
+  - PMID: 37348646
+  - PMID: 37497262
+  - PMID: 38041669
+  - PMID: 38041679
+  - PMID: 38041684
+## HYP-035: Shared pathway convergence of SQSTM1 and VCP in KEAP1-NFE2L2 pathway
+- **Mechanism:** Both SQSTM1 and VCP participate in the pathway KEAP1-NFE2L2 pathway (R-HSA-9755511), indicating a potential converged pathological mechanism.
+- **Genes involved:** SQSTM1, VCP
+- **Pathways involved:** KEAP1-NFE2L2 pathway (R-HSA-9755511)
+- **Why this might matter in ALS:** Participating in the same biochemical pathway indicates that mutations or dysregulation in these distinct genes could lead to converged downstream pathological outcomes in ALS motor neurons.
+- **Supporting evidence:** Citations in the database link these entities (genes: SQSTM1, VCP) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Knockdown or mutation of SQSTM1, VCP in human motor neurons will result in shared, quantifiable disruption of the pathway phenotypic assays.
+- **Computational validation:** Pathway membership and enrichment validated via Reactome database annotations.
+- **High-level wet-lab concept:** Assay downstream pathway activity or target markers in human motor neuron models.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 41171761
+  - PMID: 41196070
+  - PMID: 41387380
+  - PMID: 41404692
+  - PMID: 41485128
+  - PMID: 41621017
+## HYP-036: Shared pathway convergence of TUBA4A and VCP in Aggrephagy
+- **Mechanism:** Both TUBA4A and VCP participate in the pathway Aggrephagy (R-HSA-9646399), indicating a potential converged pathological mechanism.
+- **Genes involved:** TUBA4A, VCP
+- **Pathways involved:** Aggrephagy (R-HSA-9646399)
+- **Why this might matter in ALS:** Participating in the same biochemical pathway indicates that mutations or dysregulation in these distinct genes could lead to converged downstream pathological outcomes in ALS motor neurons.
+- **Supporting evidence:** Citations in the database link these entities (genes: TUBA4A, VCP) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Knockdown or mutation of TUBA4A, VCP in human motor neurons will result in shared, quantifiable disruption of the pathway phenotypic assays.
+- **Computational validation:** Pathway membership and enrichment validated via Reactome database annotations.
+- **High-level wet-lab concept:** Assay downstream pathway activity or target markers in human motor neuron models.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 20301623
+  - PMID: 38102515
+  - PMID: 38177100
+  - PMID: 38239833
+  - PMID: 38463699
+  - PMID: 38884572
+## HYP-037: Shared pathway convergence of SQSTM1 and VCP in Neddylation
+- **Mechanism:** Both SQSTM1 and VCP participate in the pathway Neddylation (R-HSA-8951664), indicating a potential converged pathological mechanism.
+- **Genes involved:** SQSTM1, VCP
+- **Pathways involved:** Neddylation (R-HSA-8951664)
+- **Why this might matter in ALS:** Participating in the same biochemical pathway indicates that mutations or dysregulation in these distinct genes could lead to converged downstream pathological outcomes in ALS motor neurons.
+- **Supporting evidence:** Citations in the database link these entities (genes: SQSTM1, VCP) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Knockdown or mutation of SQSTM1, VCP in human motor neurons will result in shared, quantifiable disruption of the pathway phenotypic assays.
+- **Computational validation:** Pathway membership and enrichment validated via Reactome database annotations.
+- **High-level wet-lab concept:** Assay downstream pathway activity or target markers in human motor neuron models.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 41171761
+  - PMID: 41196070
+  - PMID: 41387380
+  - PMID: 41404692
+  - PMID: 41485128
+  - PMID: 41621017
+## HYP-038: Shared pathway convergence of OPTN and TBK1 in TNFR1-induced proapoptotic signaling
+- **Mechanism:** Both OPTN and TBK1 participate in the pathway TNFR1-induced proapoptotic signaling (R-HSA-5357786), indicating a potential converged pathological mechanism.
+- **Genes involved:** OPTN, TBK1
+- **Pathways involved:** TNFR1-induced proapoptotic signaling (R-HSA-5357786)
+- **Why this might matter in ALS:** Participating in the same biochemical pathway indicates that mutations or dysregulation in these distinct genes could lead to converged downstream pathological outcomes in ALS motor neurons.
+- **Supporting evidence:** Citations in the database link these entities (genes: OPTN, TBK1) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Knockdown or mutation of OPTN, TBK1 in human motor neurons will result in shared, quantifiable disruption of the pathway phenotypic assays.
+- **Computational validation:** Pathway membership and enrichment validated via Reactome database annotations.
+- **High-level wet-lab concept:** Assay downstream pathway activity or target markers in human motor neuron models.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 41259153
+  - PMID: 41269363
+  - PMID: 41283823
+  - PMID: 41294799
+  - PMID: 41302089
+  - PMID: 41337593
+## HYP-039: Shared pathway convergence of OPTN and TBK1 in Regulation of TNFR1 signaling
+- **Mechanism:** Both OPTN and TBK1 participate in the pathway Regulation of TNFR1 signaling (R-HSA-5357905), indicating a potential converged pathological mechanism.
+- **Genes involved:** OPTN, TBK1
+- **Pathways involved:** Regulation of TNFR1 signaling (R-HSA-5357905)
+- **Why this might matter in ALS:** Participating in the same biochemical pathway indicates that mutations or dysregulation in these distinct genes could lead to converged downstream pathological outcomes in ALS motor neurons.
+- **Supporting evidence:** Citations in the database link these entities (genes: OPTN, TBK1) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Knockdown or mutation of OPTN, TBK1 in human motor neurons will result in shared, quantifiable disruption of the pathway phenotypic assays.
+- **Computational validation:** Pathway membership and enrichment validated via Reactome database annotations.
+- **High-level wet-lab concept:** Assay downstream pathway activity or target markers in human motor neuron models.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 41259153
+  - PMID: 41269363
+  - PMID: 41283823
+  - PMID: 41294799
+  - PMID: 41302089
+  - PMID: 41337593
+## HYP-040: Shared pathway convergence of KIF5A and TUBA4A in MHC class II antigen presentation
+- **Mechanism:** Both KIF5A and TUBA4A participate in the pathway MHC class II antigen presentation (R-HSA-2132295), indicating a potential converged pathological mechanism.
+- **Genes involved:** KIF5A, TUBA4A
+- **Pathways involved:** MHC class II antigen presentation (R-HSA-2132295)
+- **Why this might matter in ALS:** Participating in the same biochemical pathway indicates that mutations or dysregulation in these distinct genes could lead to converged downstream pathological outcomes in ALS motor neurons.
+- **Supporting evidence:** Citations in the database link these entities (genes: KIF5A, TUBA4A) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Knockdown or mutation of KIF5A, TUBA4A in human motor neurons will result in shared, quantifiable disruption of the pathway phenotypic assays.
+- **Computational validation:** Pathway membership and enrichment validated via Reactome database annotations.
+- **High-level wet-lab concept:** Assay downstream pathway activity or target markers in human motor neuron models.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 20301623
+  - PMID: 38102515
+  - PMID: 38177100
+  - PMID: 38239833
+  - PMID: 38463699
+  - PMID: 38884572
+## HYP-041: Shared pathway convergence of OPTN and TUBA4A in Regulation of PLK1 Activity at G2/M Transition
+- **Mechanism:** Both OPTN and TUBA4A participate in the pathway Regulation of PLK1 Activity at G2/M Transition (R-HSA-2565942), indicating a potential converged pathological mechanism.
+- **Genes involved:** OPTN, PLK1, TUBA4A
+- **Pathways involved:** Regulation of PLK1 Activity at G2/M Transition (R-HSA-2565942)
+- **Why this might matter in ALS:** Participating in the same biochemical pathway indicates that mutations or dysregulation in these distinct genes could lead to converged downstream pathological outcomes in ALS motor neurons.
+- **Supporting evidence:** Citations in the database link these entities (genes: OPTN, PLK1, TUBA4A) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Knockdown or mutation of OPTN, PLK1, TUBA4A in human motor neurons will result in shared, quantifiable disruption of the pathway phenotypic assays.
+- **Computational validation:** Pathway membership and enrichment validated via Reactome database annotations.
+- **High-level wet-lab concept:** Assay downstream pathway activity or target markers in human motor neuron models.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 20301623
+  - PMID: 38102515
+  - PMID: 38177100
+  - PMID: 38239833
+  - PMID: 38463699
+  - PMID: 38884572
+## HYP-042: Shared pathway convergence of SQSTM1 and TBK1 in PINK1-PRKN Mediated Mitophagy
+- **Mechanism:** Both SQSTM1 and TBK1 participate in the pathway PINK1-PRKN Mediated Mitophagy (R-HSA-5205685), indicating a potential converged pathological mechanism.
+- **Genes involved:** SQSTM1, TBK1
+- **Pathways involved:** PINK1-PRKN Mediated Mitophagy (R-HSA-5205685)
+- **Why this might matter in ALS:** Participating in the same biochemical pathway indicates that mutations or dysregulation in these distinct genes could lead to converged downstream pathological outcomes in ALS motor neurons.
+- **Supporting evidence:** Citations in the database link these entities (genes: SQSTM1, TBK1) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Knockdown or mutation of SQSTM1, TBK1 in human motor neurons will result in shared, quantifiable disruption of the pathway phenotypic assays.
+- **Computational validation:** Pathway membership and enrichment validated via Reactome database annotations.
+- **High-level wet-lab concept:** Assay downstream pathway activity or target markers in human motor neuron models.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 41171761
+  - PMID: 41196070
+  - PMID: 41269363
+  - PMID: 41302089
+  - PMID: 41337593
+  - PMID: 41387380
+## HYP-043: Shared pathway convergence of SOD1 and TUBA4A in Platelet degranulation 
+- **Mechanism:** Both SOD1 and TUBA4A participate in the pathway Platelet degranulation  (R-HSA-114608), indicating a potential converged pathological mechanism.
+- **Genes involved:** SOD1, TUBA4A
+- **Pathways involved:** Platelet degranulation  (R-HSA-114608)
+- **Why this might matter in ALS:** Participating in the same biochemical pathway indicates that mutations or dysregulation in these distinct genes could lead to converged downstream pathological outcomes in ALS motor neurons.
+- **Supporting evidence:** Citations in the database link these entities (genes: SOD1, TUBA4A) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Knockdown or mutation of SOD1, TUBA4A in human motor neurons will result in shared, quantifiable disruption of the pathway phenotypic assays.
+- **Computational validation:** Pathway membership and enrichment validated via Reactome database annotations.
+- **High-level wet-lab concept:** Assay downstream pathway activity or target markers in human motor neuron models.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 20301623
+  - PMID: 38102515
+  - PMID: 38177100
+  - PMID: 38239833
+  - PMID: 38463699
+  - PMID: 38884572
+## HYP-044: Shared pathway convergence of CCNF and VCP in Neddylation
+- **Mechanism:** Both CCNF and VCP participate in the pathway Neddylation (R-HSA-8951664), indicating a potential converged pathological mechanism.
+- **Genes involved:** CCNF, VCP
+- **Pathways involved:** Neddylation (R-HSA-8951664)
+- **Why this might matter in ALS:** Participating in the same biochemical pathway indicates that mutations or dysregulation in these distinct genes could lead to converged downstream pathological outcomes in ALS motor neurons.
+- **Supporting evidence:** Citations in the database link these entities (genes: CCNF, VCP) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Knockdown or mutation of CCNF, VCP in human motor neurons will result in shared, quantifiable disruption of the pathway phenotypic assays.
+- **Computational validation:** Pathway membership and enrichment validated via Reactome database annotations.
+- **High-level wet-lab concept:** Assay downstream pathway activity or target markers in human motor neuron models.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 37243816
+  - PMID: 37250416
+  - PMID: 37872794
+  - PMID: 37993492
+  - PMID: 38474336
+  - PMID: 38879591
+## HYP-045: Shared pathway convergence of CYLD and TBK1 in TNFR1-induced proapoptotic signaling
+- **Mechanism:** Both CYLD and TBK1 participate in the pathway TNFR1-induced proapoptotic signaling (R-HSA-5357786), indicating a potential converged pathological mechanism.
+- **Genes involved:** CYLD, TBK1
+- **Pathways involved:** TNFR1-induced proapoptotic signaling (R-HSA-5357786)
+- **Why this might matter in ALS:** Participating in the same biochemical pathway indicates that mutations or dysregulation in these distinct genes could lead to converged downstream pathological outcomes in ALS motor neurons.
+- **Supporting evidence:** Citations in the database link these entities (genes: CYLD, TBK1) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Knockdown or mutation of CYLD, TBK1 in human motor neurons will result in shared, quantifiable disruption of the pathway phenotypic assays.
+- **Computational validation:** Pathway membership and enrichment validated via Reactome database annotations.
+- **High-level wet-lab concept:** Assay downstream pathway activity or target markers in human motor neuron models.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 21408173
+  - PMID: 29951055
+  - PMID: 32185393
+  - PMID: 33134918
+  - PMID: 33333804
+  - PMID: 34290285
+## HYP-046: Shared pathway convergence of CYLD and TBK1 in Regulation of TNFR1 signaling
+- **Mechanism:** Both CYLD and TBK1 participate in the pathway Regulation of TNFR1 signaling (R-HSA-5357905), indicating a potential converged pathological mechanism.
+- **Genes involved:** CYLD, TBK1
+- **Pathways involved:** Regulation of TNFR1 signaling (R-HSA-5357905)
+- **Why this might matter in ALS:** Participating in the same biochemical pathway indicates that mutations or dysregulation in these distinct genes could lead to converged downstream pathological outcomes in ALS motor neurons.
+- **Supporting evidence:** Citations in the database link these entities (genes: CYLD, TBK1) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Knockdown or mutation of CYLD, TBK1 in human motor neurons will result in shared, quantifiable disruption of the pathway phenotypic assays.
+- **Computational validation:** Pathway membership and enrichment validated via Reactome database annotations.
+- **High-level wet-lab concept:** Assay downstream pathway activity or target markers in human motor neuron models.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 21408173
+  - PMID: 29951055
+  - PMID: 32185393
+  - PMID: 33134918
+  - PMID: 33333804
+  - PMID: 34290285
+## HYP-047: Shared pathway convergence of DCTN1 and TUBA4A in MHC class II antigen presentation
+- **Mechanism:** Both DCTN1 and TUBA4A participate in the pathway MHC class II antigen presentation (R-HSA-2132295), indicating a potential converged pathological mechanism.
+- **Genes involved:** DCTN1, TUBA4A
+- **Pathways involved:** MHC class II antigen presentation (R-HSA-2132295)
+- **Why this might matter in ALS:** Participating in the same biochemical pathway indicates that mutations or dysregulation in these distinct genes could lead to converged downstream pathological outcomes in ALS motor neurons.
+- **Supporting evidence:** Citations in the database link these entities (genes: DCTN1, TUBA4A) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Knockdown or mutation of DCTN1, TUBA4A in human motor neurons will result in shared, quantifiable disruption of the pathway phenotypic assays.
+- **Computational validation:** Pathway membership and enrichment validated via Reactome database annotations.
+- **High-level wet-lab concept:** Assay downstream pathway activity or target markers in human motor neuron models.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 20301623
+  - PMID: 38102515
+  - PMID: 38177100
+  - PMID: 38239833
+  - PMID: 38267040
+  - PMID: 38311779
+## HYP-048: Shared pathway convergence of DCTN1 and TUBA4A in Regulation of PLK1 Activity at G2/M Transition
+- **Mechanism:** Both DCTN1 and TUBA4A participate in the pathway Regulation of PLK1 Activity at G2/M Transition (R-HSA-2565942), indicating a potential converged pathological mechanism.
+- **Genes involved:** DCTN1, PLK1, TUBA4A
+- **Pathways involved:** Regulation of PLK1 Activity at G2/M Transition (R-HSA-2565942)
+- **Why this might matter in ALS:** Participating in the same biochemical pathway indicates that mutations or dysregulation in these distinct genes could lead to converged downstream pathological outcomes in ALS motor neurons.
+- **Supporting evidence:** Citations in the database link these entities (genes: DCTN1, PLK1, TUBA4A) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Knockdown or mutation of DCTN1, PLK1, TUBA4A in human motor neurons will result in shared, quantifiable disruption of the pathway phenotypic assays.
+- **Computational validation:** Pathway membership and enrichment validated via Reactome database annotations.
+- **High-level wet-lab concept:** Assay downstream pathway activity or target markers in human motor neuron models.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 20301623
+  - PMID: 38102515
+  - PMID: 38177100
+  - PMID: 38239833
+  - PMID: 38267040
+  - PMID: 38311779
+## HYP-049: Shared pathway convergence of OPTN and TBK1 in PINK1-PRKN Mediated Mitophagy
+- **Mechanism:** Both OPTN and TBK1 participate in the pathway PINK1-PRKN Mediated Mitophagy (R-HSA-5205685), indicating a potential converged pathological mechanism.
+- **Genes involved:** OPTN, TBK1
+- **Pathways involved:** PINK1-PRKN Mediated Mitophagy (R-HSA-5205685)
+- **Why this might matter in ALS:** Participating in the same biochemical pathway indicates that mutations or dysregulation in these distinct genes could lead to converged downstream pathological outcomes in ALS motor neurons.
+- **Supporting evidence:** Citations in the database link these entities (genes: OPTN, TBK1) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Knockdown or mutation of OPTN, TBK1 in human motor neurons will result in shared, quantifiable disruption of the pathway phenotypic assays.
+- **Computational validation:** Pathway membership and enrichment validated via Reactome database annotations.
+- **High-level wet-lab concept:** Assay downstream pathway activity or target markers in human motor neuron models.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 41259153
+  - PMID: 41269363
+  - PMID: 41283823
+  - PMID: 41294799
+  - PMID: 41302089
+  - PMID: 41337593
+## HYP-050: Shared pathway convergence of PFN1 and TUBA4A in Platelet degranulation 
+- **Mechanism:** Both PFN1 and TUBA4A participate in the pathway Platelet degranulation  (R-HSA-114608), indicating a potential converged pathological mechanism.
+- **Genes involved:** PFN1, TUBA4A
+- **Pathways involved:** Platelet degranulation  (R-HSA-114608)
+- **Why this might matter in ALS:** Participating in the same biochemical pathway indicates that mutations or dysregulation in these distinct genes could lead to converged downstream pathological outcomes in ALS motor neurons.
+- **Supporting evidence:** Citations in the database link these entities (genes: PFN1, TUBA4A) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Knockdown or mutation of PFN1, TUBA4A in human motor neurons will result in shared, quantifiable disruption of the pathway phenotypic assays.
+- **Computational validation:** Pathway membership and enrichment validated via Reactome database annotations.
+- **High-level wet-lab concept:** Assay downstream pathway activity or target markers in human motor neuron models.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 20301623
+  - PMID: 38102515
+  - PMID: 38177100
+  - PMID: 38239833
+  - PMID: 38463699
+  - PMID: 38884572
+## HYP-051: Network-proximity association of candidate gene ATXN3
+- **Mechanism:** Candidate gene ATXN3 directly interacts with multiple ALS seed genes (ATXN2, VCP) with an average interaction confidence score of 0.996.
+- **Genes involved:** ATXN2, ATXN3, VCP
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: ATXN2, ATXN3, VCP) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between ATXN2, ATXN3, VCP will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 41359433
+  - PMID: 41426430
+  - PMID: 41462986
+  - PMID: 41621017
+  - PMID: 41630926
+  - PMID: 41651252
+## HYP-052: Network-proximity association of candidate gene CFAP410
+- **Mechanism:** Candidate gene CFAP410 directly interacts with multiple ALS seed genes (ALS2, NEK1) with an average interaction confidence score of 0.928.
+- **Genes involved:** ALS2, CFAP410, NEK1
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: ALS2, CFAP410, NEK1) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between ALS2, CFAP410, NEK1 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 39654963
+  - PMID: 39687198
+  - PMID: 39730482
+  - PMID: 40015855
+  - PMID: 40383620
+  - PMID: 40633079
+## HYP-053: Network-proximity association of candidate gene DERL1
+- **Mechanism:** Candidate gene DERL1 directly interacts with multiple ALS seed genes (SOD1, VCP) with an average interaction confidence score of 0.982.
+- **Genes involved:** DERL1, SOD1, VCP
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: DERL1, SOD1, VCP) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between DERL1, SOD1, VCP will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 41621017
+  - PMID: 41651252
+  - PMID: 41737544
+  - PMID: 41791136
+  - PMID: 41819100
+  - PMID: 41840875
+## HYP-054: Network-proximity association of candidate gene DESI1
+- **Mechanism:** Candidate gene DESI1 directly interacts with multiple ALS seed genes (UBQLN2, UBQLN4) with an average interaction confidence score of 0.996.
+- **Genes involved:** DESI1, UBQLN2, UBQLN4
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: DESI1, UBQLN2, UBQLN4) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between DESI1, UBQLN2, UBQLN4 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 28463112
+  - PMID: 30528257
+  - PMID: 30804504
+  - PMID: 32558493
+  - PMID: 35029765
+  - PMID: 35247097
+## HYP-055: Network-proximity association of candidate gene DROSHA
+- **Mechanism:** Candidate gene DROSHA directly interacts with multiple ALS seed genes (FUS, TARDBP) with an average interaction confidence score of 0.992.
+- **Genes involved:** DROSHA, FUS, TARDBP
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: DROSHA, FUS, TARDBP) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between DROSHA, FUS, TARDBP will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 42141322
+  - PMID: 42171508
+  - PMID: 42171861
+  - PMID: 42195033
+  - PMID: 42207631
+  - PMID: 42227825
+## HYP-056: Network-proximity association of candidate gene GABARAP
+- **Mechanism:** Candidate gene GABARAP directly interacts with multiple ALS seed genes (OPTN, SQSTM1) with an average interaction confidence score of 0.999.
+- **Genes involved:** GABARAP, OPTN, SQSTM1
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: GABARAP, OPTN, SQSTM1) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between GABARAP, OPTN, SQSTM1 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 41171761
+  - PMID: 41196070
+  - PMID: 41259153
+  - PMID: 41283823
+  - PMID: 41294799
+  - PMID: 41387380
+## HYP-057: Network-proximity association of candidate gene GABARAPL1
+- **Mechanism:** Candidate gene GABARAPL1 directly interacts with multiple ALS seed genes (OPTN, SQSTM1) with an average interaction confidence score of 0.998.
+- **Genes involved:** GABARAPL1, OPTN, SQSTM1
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: GABARAPL1, OPTN, SQSTM1) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between GABARAPL1, OPTN, SQSTM1 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 41171761
+  - PMID: 41196070
+  - PMID: 41259153
+  - PMID: 41283823
+  - PMID: 41294799
+  - PMID: 41387380
+## HYP-058: Network-proximity association of candidate gene GABARAPL2
+- **Mechanism:** Candidate gene GABARAPL2 directly interacts with multiple ALS seed genes (OPTN, SQSTM1) with an average interaction confidence score of 0.998.
+- **Genes involved:** GABARAPL2, OPTN, SQSTM1
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: GABARAPL2, OPTN, SQSTM1) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between GABARAPL2, OPTN, SQSTM1 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 41171761
+  - PMID: 41196070
+  - PMID: 41259153
+  - PMID: 41283823
+  - PMID: 41294799
+  - PMID: 41387380
+## HYP-059: Network-proximity association of candidate gene HNRNPA2B1
+- **Mechanism:** Candidate gene HNRNPA2B1 directly interacts with multiple ALS seed genes (FUS, HNRNPA1, TARDBP) with an average interaction confidence score of 0.995.
+- **Genes involved:** FUS, HNRNPA1, HNRNPA2B1, TARDBP
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: FUS, HNRNPA1, HNRNPA2B1, TARDBP) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** The supporting studies are animal-only models (lacking human/patient validation).
+- **Falsifiable prediction:** Disrupting the physical interaction between FUS, HNRNPA1, HNRNPA2B1, TARDBP will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential lack of human/patient clinical validation, conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 40441157
+  - PMID: 40687373
+  - PMID: 40707625
+  - PMID: 40737092
+  - PMID: 40766389
+  - PMID: 40778857
+## HYP-060: Network-proximity association of candidate gene HNRNPC
+- **Mechanism:** Candidate gene HNRNPC directly interacts with multiple ALS seed genes (FUS, HNRNPA1, MATR3) with an average interaction confidence score of 0.974.
+- **Genes involved:** FUS, HNRNPA1, HNRNPC, MATR3
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: FUS, HNRNPA1, HNRNPC, MATR3) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between FUS, HNRNPA1, HNRNPC, MATR3 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 38891112
+  - PMID: 39192891
+  - PMID: 39323783
+  - PMID: 40441157
+  - PMID: 40667180
+  - PMID: 40687373
+## HYP-061: Network-proximity association of candidate gene HNRNPH1
+- **Mechanism:** Candidate gene HNRNPH1 directly interacts with multiple ALS seed genes (HNRNPA1, MATR3) with an average interaction confidence score of 0.955.
+- **Genes involved:** HNRNPA1, HNRNPH1, MATR3
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: HNRNPA1, HNRNPH1, MATR3) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** None
+- **Falsifiable prediction:** Disrupting the physical interaction between HNRNPA1, HNRNPH1, MATR3 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** High
+- **Uncertainty:** Minimal outstanding uncertainty identified.
+- **Sources**:
+  - PMID: 38891112
+  - PMID: 39192891
+  - PMID: 39323783
+  - PMID: 40441157
+  - PMID: 40667180
+  - PMID: 40687373
+## HYP-062: Network-proximity association of candidate gene HNRNPK
+- **Mechanism:** Candidate gene HNRNPK directly interacts with multiple ALS seed genes (HNRNPA1, MATR3) with an average interaction confidence score of 0.959.
+- **Genes involved:** HNRNPA1, HNRNPK, MATR3
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: HNRNPA1, HNRNPK, MATR3) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** None
+- **Falsifiable prediction:** Disrupting the physical interaction between HNRNPA1, HNRNPK, MATR3 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** High
+- **Uncertainty:** Minimal outstanding uncertainty identified.
+- **Sources**:
+  - PMID: 38891112
+  - PMID: 39192891
+  - PMID: 39323783
+  - PMID: 40441157
+  - PMID: 40667180
+  - PMID: 40687373
+## HYP-063: Network-proximity association of candidate gene HNRNPM
+- **Mechanism:** Candidate gene HNRNPM directly interacts with multiple ALS seed genes (HNRNPA1, MATR3) with an average interaction confidence score of 0.961.
+- **Genes involved:** HNRNPA1, HNRNPM, MATR3
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: HNRNPA1, HNRNPM, MATR3) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** None
+- **Falsifiable prediction:** Disrupting the physical interaction between HNRNPA1, HNRNPM, MATR3 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** High
+- **Uncertainty:** Minimal outstanding uncertainty identified.
+- **Sources**:
+  - PMID: 38891112
+  - PMID: 39192891
+  - PMID: 39323783
+  - PMID: 40441157
+  - PMID: 40667180
+  - PMID: 40687373
+## HYP-064: Network-proximity association of candidate gene HSPA5
+- **Mechanism:** Candidate gene HSPA5 directly interacts with multiple ALS seed genes (SIGMAR1, SOD1) with an average interaction confidence score of 0.984.
+- **Genes involved:** HSPA5, SIGMAR1, SOD1
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: HSPA5, SIGMAR1, SOD1) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between HSPA5, SIGMAR1, SOD1 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 34143516
+  - PMID: 35507432
+  - PMID: 36982902
+  - PMID: 37780700
+  - PMID: 38450645
+  - PMID: 38702287
+## HYP-065: Network-proximity association of candidate gene IKBKE
+- **Mechanism:** Candidate gene IKBKE directly interacts with multiple ALS seed genes (CYLD, TBK1) with an average interaction confidence score of 0.996.
+- **Genes involved:** CYLD, IKBKE, TBK1
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: CYLD, IKBKE, TBK1) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between CYLD, IKBKE, TBK1 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 21408173
+  - PMID: 29951055
+  - PMID: 32185393
+  - PMID: 33134918
+  - PMID: 33333804
+  - PMID: 34290285
+## HYP-066: Network-proximity association of candidate gene ITPR1
+- **Mechanism:** Candidate gene ITPR1 directly interacts with multiple ALS seed genes (ATXN2, SIGMAR1) with an average interaction confidence score of 0.967.
+- **Genes involved:** ATXN2, ITPR1, SIGMAR1
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: ATXN2, ITPR1, SIGMAR1) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between ATXN2, ITPR1, SIGMAR1 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 34143516
+  - PMID: 35507432
+  - PMID: 36982902
+  - PMID: 37780700
+  - PMID: 38450645
+  - PMID: 38702287
+## HYP-067: Network-proximity association of candidate gene KIF5B
+- **Mechanism:** Candidate gene KIF5B directly interacts with multiple ALS seed genes (KIF5A, NEFH) with an average interaction confidence score of 0.944.
+- **Genes involved:** KIF5A, KIF5B, NEFH
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: KIF5A, KIF5B, NEFH) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between KIF5A, KIF5B, NEFH will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 39386447
+  - PMID: 39913612
+  - PMID: 39985110
+  - PMID: 40313273
+  - PMID: 40607881
+  - PMID: 41279899
+## HYP-068: Network-proximity association of candidate gene KIF5C
+- **Mechanism:** Candidate gene KIF5C directly interacts with multiple ALS seed genes (KIF5A, NEFH) with an average interaction confidence score of 0.946.
+- **Genes involved:** KIF5A, KIF5C, NEFH
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: KIF5A, KIF5C, NEFH) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between KIF5A, KIF5C, NEFH will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 39386447
+  - PMID: 39913612
+  - PMID: 39985110
+  - PMID: 40313273
+  - PMID: 40607881
+  - PMID: 41279899
+## HYP-069: Network-proximity association of candidate gene KLC1
+- **Mechanism:** Candidate gene KLC1 directly interacts with multiple ALS seed genes (KIF5A, NEFH) with an average interaction confidence score of 0.961.
+- **Genes involved:** KIF5A, KLC1, NEFH
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: KIF5A, KLC1, NEFH) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between KIF5A, KLC1, NEFH will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 39386447
+  - PMID: 39913612
+  - PMID: 39985110
+  - PMID: 40313273
+  - PMID: 40607881
+  - PMID: 41279899
+## HYP-070: Network-proximity association of candidate gene KLC2
+- **Mechanism:** Candidate gene KLC2 directly interacts with multiple ALS seed genes (KIF5A, NEFH) with an average interaction confidence score of 0.961.
+- **Genes involved:** KIF5A, KLC2, NEFH
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: KIF5A, KLC2, NEFH) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between KIF5A, KLC2, NEFH will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 39386447
+  - PMID: 39913612
+  - PMID: 39985110
+  - PMID: 40313273
+  - PMID: 40607881
+  - PMID: 41279899
+## HYP-071: Network-proximity association of candidate gene KLC3
+- **Mechanism:** Candidate gene KLC3 directly interacts with multiple ALS seed genes (KIF5A, NEFH) with an average interaction confidence score of 0.959.
+- **Genes involved:** KIF5A, KLC3, NEFH
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: KIF5A, KLC3, NEFH) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between KIF5A, KLC3, NEFH will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 39386447
+  - PMID: 39913612
+  - PMID: 39985110
+  - PMID: 40313273
+  - PMID: 40607881
+  - PMID: 41279899
+## HYP-072: Network-proximity association of candidate gene KLC4
+- **Mechanism:** Candidate gene KLC4 directly interacts with multiple ALS seed genes (KIF5A, NEFH) with an average interaction confidence score of 0.957.
+- **Genes involved:** KIF5A, KLC4, NEFH
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: KIF5A, KLC4, NEFH) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between KIF5A, KLC4, NEFH will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 39386447
+  - PMID: 39913612
+  - PMID: 39985110
+  - PMID: 40313273
+  - PMID: 40607881
+  - PMID: 41279899
+## HYP-073: Network-proximity association of candidate gene MAP1LC3B
+- **Mechanism:** Candidate gene MAP1LC3B directly interacts with multiple ALS seed genes (OPTN, SQSTM1) with an average interaction confidence score of 0.998.
+- **Genes involved:** MAP1LC3B, OPTN, SQSTM1
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: MAP1LC3B, OPTN, SQSTM1) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between MAP1LC3B, OPTN, SQSTM1 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 41171761
+  - PMID: 41196070
+  - PMID: 41259153
+  - PMID: 41283823
+  - PMID: 41294799
+  - PMID: 41387380
+## HYP-074: Network-proximity association of candidate gene MAPT
+- **Mechanism:** Candidate gene MAPT directly interacts with multiple ALS seed genes (TMEM106B, TUBA4A) with an average interaction confidence score of 0.865.
+- **Genes involved:** MAPT, TMEM106B, TUBA4A
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: MAPT, TMEM106B, TUBA4A) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between MAPT, TMEM106B, TUBA4A will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 20301623
+  - PMID: 38102515
+  - PMID: 38177100
+  - PMID: 38239833
+  - PMID: 38463699
+  - PMID: 38884572
+## HYP-075: Network-proximity association of candidate gene NEFL
+- **Mechanism:** Candidate gene NEFL directly interacts with multiple ALS seed genes (KIF5A, NEFH, PRPH, SOD1) with an average interaction confidence score of 0.956.
+- **Genes involved:** KIF5A, NEFH, NEFL, PRPH, SOD1
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: KIF5A, NEFH, NEFL, PRPH, SOD1) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between KIF5A, NEFH, NEFL, PRPH, SOD1 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar, contradictory terms detected in supporting literature
+- **Sources**:
+  - PMID: 29063394
+  - PMID: 30385300
+  - PMID: 32638105
+  - PMID: 33281562
+  - PMID: 34264016
+  - PMID: 35714755
+## HYP-076: Network-proximity association of candidate gene NEFM
+- **Mechanism:** Candidate gene NEFM directly interacts with multiple ALS seed genes (KIF5A, NEFH, PRPH) with an average interaction confidence score of 0.944.
+- **Genes involved:** KIF5A, NEFH, NEFM, PRPH
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: KIF5A, NEFH, NEFM, PRPH) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between KIF5A, NEFH, NEFM, PRPH will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar, contradictory terms detected in supporting literature
+- **Sources**:
+  - PMID: 29063394
+  - PMID: 30385300
+  - PMID: 32638105
+  - PMID: 33281562
+  - PMID: 34264016
+  - PMID: 35714755
+## HYP-077: Network-proximity association of candidate gene PABPC1
+- **Mechanism:** Candidate gene PABPC1 directly interacts with multiple ALS seed genes (ATXN2, TIA1) with an average interaction confidence score of 0.966.
+- **Genes involved:** ATXN2, PABPC1, TIA1
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: ATXN2, PABPC1, TIA1) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** None
+- **Falsifiable prediction:** Disrupting the physical interaction between ATXN2, PABPC1, TIA1 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** High
+- **Uncertainty:** Minimal outstanding uncertainty identified.
+- **Sources**:
+  - PMID: 36499097
+  - PMID: 36747652
+  - PMID: 37250416
+  - PMID: 38193795
+  - PMID: 38239833
+  - PMID: 38638178
+## HYP-078: Network-proximity association of candidate gene PSMD4
+- **Mechanism:** Candidate gene PSMD4 directly interacts with multiple ALS seed genes (UBQLN2, UBQLN4) with an average interaction confidence score of 0.990.
+- **Genes involved:** PSMD4, UBQLN2, UBQLN4
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: PSMD4, UBQLN2, UBQLN4) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between PSMD4, UBQLN2, UBQLN4 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 28463112
+  - PMID: 30528257
+  - PMID: 30804504
+  - PMID: 32558493
+  - PMID: 35029765
+  - PMID: 35247097
+## HYP-079: Network-proximity association of candidate gene RAB8A
+- **Mechanism:** Candidate gene RAB8A directly interacts with multiple ALS seed genes (C9orf72, OPTN) with an average interaction confidence score of 0.990.
+- **Genes involved:** C9orf72, OPTN, RAB8A
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: C9orf72, OPTN, RAB8A) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between C9orf72, OPTN, RAB8A will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 41259153
+  - PMID: 41283823
+  - PMID: 41294799
+  - PMID: 41513843
+  - PMID: 41592170
+  - PMID: 41716354
+## HYP-080: Network-proximity association of candidate gene RIPK1
+- **Mechanism:** Candidate gene RIPK1 directly interacts with multiple ALS seed genes (CYLD, SQSTM1) with an average interaction confidence score of 0.998.
+- **Genes involved:** CYLD, RIPK1, SQSTM1
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: CYLD, RIPK1, SQSTM1) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between CYLD, RIPK1, SQSTM1 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 21408173
+  - PMID: 29951055
+  - PMID: 32185393
+  - PMID: 33134918
+  - PMID: 33333804
+  - PMID: 34290285
+## HYP-081: Network-proximity association of candidate gene SFPQ
+- **Mechanism:** Candidate gene SFPQ directly interacts with multiple ALS seed genes (FUS, MATR3) with an average interaction confidence score of 0.980.
+- **Genes involved:** FUS, MATR3, SFPQ
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: FUS, MATR3, SFPQ) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between FUS, MATR3, SFPQ will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 38891112
+  - PMID: 39192891
+  - PMID: 39323783
+  - PMID: 40667180
+  - PMID: 40707625
+  - PMID: 40806220
+## HYP-082: Network-proximity association of candidate gene SNCA
+- **Mechanism:** Candidate gene SNCA directly interacts with multiple ALS seed genes (KIF5A, TARDBP) with an average interaction confidence score of 0.959.
+- **Genes involved:** KIF5A, SNCA, TARDBP
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: KIF5A, SNCA, TARDBP) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between KIF5A, SNCA, TARDBP will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 41279899
+  - PMID: 41466038
+  - PMID: 41621017
+  - PMID: 41629112
+  - PMID: 41750144
+  - PMID: 41760955
+## HYP-083: Network-proximity association of candidate gene TNPO1
+- **Mechanism:** Candidate gene TNPO1 directly interacts with multiple ALS seed genes (FUS, HNRNPA1) with an average interaction confidence score of 0.996.
+- **Genes involved:** FUS, HNRNPA1, TNPO1
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: FUS, HNRNPA1, TNPO1) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** The supporting studies are animal-only models (lacking human/patient validation).
+- **Falsifiable prediction:** Disrupting the physical interaction between FUS, HNRNPA1, TNPO1 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential lack of human/patient clinical validation, conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 40441157
+  - PMID: 40687373
+  - PMID: 40707625
+  - PMID: 40737092
+  - PMID: 40766389
+  - PMID: 40778857
+## HYP-084: Network-proximity association of candidate gene TRAF6
+- **Mechanism:** Candidate gene TRAF6 directly interacts with multiple ALS seed genes (CYLD, SQSTM1) with an average interaction confidence score of 0.999.
+- **Genes involved:** CYLD, SQSTM1, TRAF6
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: CYLD, SQSTM1, TRAF6) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between CYLD, SQSTM1, TRAF6 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 21408173
+  - PMID: 29951055
+  - PMID: 32185393
+  - PMID: 33134918
+  - PMID: 33333804
+  - PMID: 34290285
+## HYP-085: Network-proximity association of candidate gene UBC
+- **Mechanism:** Candidate gene UBC directly interacts with multiple ALS seed genes (CYLD, OPTN, SQSTM1, UBQLN2) with an average interaction confidence score of 0.997.
+- **Genes involved:** CYLD, OPTN, SQSTM1, UBC, UBQLN2
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: CYLD, OPTN, SQSTM1, UBC, UBQLN2) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between CYLD, OPTN, SQSTM1, UBC, UBQLN2 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 21408173
+  - PMID: 29951055
+  - PMID: 32185393
+  - PMID: 33134918
+  - PMID: 33333804
+  - PMID: 34290285
+## HYP-086: Network-proximity association between ALS2 and RAB5A
+- **Mechanism:** ALS2 interacts directly with RAB5A with a confidence score of 0.991, suggesting functional coregulation or shared cascade.
+- **Genes involved:** ALS2, RAB5A
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: ALS2, RAB5A) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between ALS2, RAB5A will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 39654963
+  - PMID: 39687198
+  - PMID: 39730482
+  - PMID: 40015855
+  - PMID: 40383620
+  - PMID: 40633079
+## HYP-087: Network-proximity association between ALS2 and NEK1
+- **Mechanism:** ALS2 interacts directly with NEK1 with a confidence score of 0.942, suggesting functional coregulation or shared cascade.
+- **Genes involved:** ALS2, NEK1
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: ALS2, NEK1) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between ALS2, NEK1 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 39654963
+  - PMID: 39687198
+  - PMID: 39730482
+  - PMID: 40015855
+  - PMID: 40383620
+  - PMID: 40633079
+## HYP-088: Network-proximity association between ALS2 and SETX
+- **Mechanism:** ALS2 interacts directly with SETX with a confidence score of 0.909, suggesting functional coregulation or shared cascade.
+- **Genes involved:** ALS2, SETX
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: ALS2, SETX) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between ALS2, SETX will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 39070547
+  - PMID: 39416141
+  - PMID: 39654963
+  - PMID: 39687198
+  - PMID: 39730482
+  - PMID: 40015855
+## HYP-089: Network-proximity association between ALS2 and SOD1
+- **Mechanism:** ALS2 interacts directly with SOD1 with a confidence score of 0.891, suggesting functional coregulation or shared cascade.
+- **Genes involved:** ALS2, SOD1
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: ALS2, SOD1) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between ALS2, SOD1 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 39654963
+  - PMID: 39687198
+  - PMID: 39730482
+  - PMID: 40015855
+  - PMID: 40383620
+  - PMID: 40633079
+## HYP-090: Network-proximity association between ALS2 and GAPVD1
+- **Mechanism:** ALS2 interacts directly with GAPVD1 with a confidence score of 0.886, suggesting functional coregulation or shared cascade.
+- **Genes involved:** ALS2, GAPVD1
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: ALS2, GAPVD1) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between ALS2, GAPVD1 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 39654963
+  - PMID: 39687198
+  - PMID: 39730482
+  - PMID: 40015855
+  - PMID: 40383620
+  - PMID: 40633079
+## HYP-091: Network-proximity association between ALS2 and VAPB
+- **Mechanism:** ALS2 interacts directly with VAPB with a confidence score of 0.879, suggesting functional coregulation or shared cascade.
+- **Genes involved:** ALS2, VAPB
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: ALS2, VAPB) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between ALS2, VAPB will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 39654963
+  - PMID: 39687198
+  - PMID: 39730482
+  - PMID: 40015855
+  - PMID: 40383620
+  - PMID: 40633079
+## HYP-092: Network-proximity association between ALS2 and CFAP410
+- **Mechanism:** ALS2 interacts directly with CFAP410 with a confidence score of 0.875, suggesting functional coregulation or shared cascade.
+- **Genes involved:** ALS2, CFAP410
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: ALS2, CFAP410) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between ALS2, CFAP410 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 39654963
+  - PMID: 39687198
+  - PMID: 39730482
+  - PMID: 40015855
+  - PMID: 40383620
+  - PMID: 40633079
+## HYP-093: Network-proximity association between ALS2 and FIG4
+- **Mechanism:** ALS2 interacts directly with FIG4 with a confidence score of 0.854, suggesting functional coregulation or shared cascade.
+- **Genes involved:** ALS2, FIG4
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: ALS2, FIG4) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between ALS2, FIG4 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 39457468
+  - PMID: 39654963
+  - PMID: 39669591
+  - PMID: 39687198
+  - PMID: 39730482
+  - PMID: 39973992
+## HYP-094: Network-proximity association between ALS2 and TARDBP
+- **Mechanism:** ALS2 interacts directly with TARDBP with a confidence score of 0.828, suggesting functional coregulation or shared cascade.
+- **Genes involved:** ALS2, TARDBP
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: ALS2, TARDBP) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between ALS2, TARDBP will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 39654963
+  - PMID: 39687198
+  - PMID: 39730482
+  - PMID: 40015855
+  - PMID: 40383620
+  - PMID: 40633079
+## HYP-095: Network-proximity association between ALS2 and FUS
+- **Mechanism:** ALS2 interacts directly with FUS with a confidence score of 0.822, suggesting functional coregulation or shared cascade.
+- **Genes involved:** ALS2, FUS
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: ALS2, FUS) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between ALS2, FUS will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 39654963
+  - PMID: 39687198
+  - PMID: 39730482
+  - PMID: 40015855
+  - PMID: 40383620
+  - PMID: 40633079
+## HYP-096: Network-proximity association between ANG and RNH1
+- **Mechanism:** ANG interacts directly with RNH1 with a confidence score of 0.999, suggesting functional coregulation or shared cascade.
+- **Genes involved:** ANG, RNH1
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: ANG, RNH1) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between ANG, RNH1 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 39752797
+  - PMID: 39901566
+  - PMID: 40247229
+  - PMID: 40960392
+  - PMID: 41117127
+  - PMID: 41359433
+## HYP-097: Network-proximity association between ANG and RNASE4
+- **Mechanism:** ANG interacts directly with RNASE4 with a confidence score of 0.988, suggesting functional coregulation or shared cascade.
+- **Genes involved:** ANG, RNASE4
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: ANG, RNASE4) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between ANG, RNASE4 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 39752797
+  - PMID: 39901566
+  - PMID: 40247229
+  - PMID: 40960392
+  - PMID: 41117127
+  - PMID: 41359433
+## HYP-098: Network-proximity association between ANG and RNASE2
+- **Mechanism:** ANG interacts directly with RNASE2 with a confidence score of 0.926, suggesting functional coregulation or shared cascade.
+- **Genes involved:** ANG, RNASE2
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: ANG, RNASE2) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between ANG, RNASE2 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 39752797
+  - PMID: 39901566
+  - PMID: 40247229
+  - PMID: 40960392
+  - PMID: 41117127
+  - PMID: 41359433
+## HYP-099: Network-proximity association between ANG and RNASE8
+- **Mechanism:** ANG interacts directly with RNASE8 with a confidence score of 0.901, suggesting functional coregulation or shared cascade.
+- **Genes involved:** ANG, RNASE8
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: ANG, RNASE8) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between ANG, RNASE8 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 39752797
+  - PMID: 39901566
+  - PMID: 40247229
+  - PMID: 40960392
+  - PMID: 41117127
+  - PMID: 41359433
+## HYP-100: Network-proximity association between ANG and RNASE3
+- **Mechanism:** ANG interacts directly with RNASE3 with a confidence score of 0.879, suggesting functional coregulation or shared cascade.
+- **Genes involved:** ANG, RNASE3
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: ANG, RNASE3) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between ANG, RNASE3 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 39752797
+  - PMID: 39901566
+  - PMID: 40247229
+  - PMID: 40960392
+  - PMID: 41117127
+  - PMID: 41359433
+## HYP-101: Network-proximity association between ANG and RNASET2
+- **Mechanism:** ANG interacts directly with RNASET2 with a confidence score of 0.829, suggesting functional coregulation or shared cascade.
+- **Genes involved:** ANG, RNASET2
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: ANG, RNASET2) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between ANG, RNASET2 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 39752797
+  - PMID: 39901566
+  - PMID: 40247229
+  - PMID: 40960392
+  - PMID: 41117127
+  - PMID: 41359433
+## HYP-102: Network-proximity association between ANG and PLXNB2
+- **Mechanism:** ANG interacts directly with PLXNB2 with a confidence score of 0.806, suggesting functional coregulation or shared cascade.
+- **Genes involved:** ANG, PLXNB2
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: ANG, PLXNB2) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between ANG, PLXNB2 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 39752797
+  - PMID: 39901566
+  - PMID: 40247229
+  - PMID: 40960392
+  - PMID: 41117127
+  - PMID: 41359433
+## HYP-103: Network-proximity association between ANG and CXCL8
+- **Mechanism:** ANG interacts directly with CXCL8 with a confidence score of 0.767, suggesting functional coregulation or shared cascade.
+- **Genes involved:** ANG, CXCL8
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: ANG, CXCL8) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between ANG, CXCL8 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 39752797
+  - PMID: 39901566
+  - PMID: 40247229
+  - PMID: 40960392
+  - PMID: 41117127
+  - PMID: 41359433
+## HYP-104: Network-proximity association between ANG and RNASEL
+- **Mechanism:** ANG interacts directly with RNASEL with a confidence score of 0.74, suggesting functional coregulation or shared cascade.
+- **Genes involved:** ANG, RNASEL
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: ANG, RNASEL) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between ANG, RNASEL will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 39752797
+  - PMID: 39901566
+  - PMID: 40247229
+  - PMID: 40960392
+  - PMID: 41117127
+  - PMID: 41359433
+## HYP-105: Network-proximity association between ANG and FST
+- **Mechanism:** ANG interacts directly with FST with a confidence score of 0.711, suggesting functional coregulation or shared cascade.
+- **Genes involved:** ANG, FST
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: ANG, FST) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between ANG, FST will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 39752797
+  - PMID: 39901566
+  - PMID: 40247229
+  - PMID: 40960392
+  - PMID: 41117127
+  - PMID: 41359433
+## HYP-106: Network-proximity association between ANXA11 and S100A6
+- **Mechanism:** ANXA11 interacts directly with S100A6 with a confidence score of 0.985, suggesting functional coregulation or shared cascade.
+- **Genes involved:** ANXA11, S100A6
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: ANXA11, S100A6) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between ANXA11, S100A6 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 40345169
+  - PMID: 40667260
+  - PMID: 40690048
+  - PMID: 40730020
+  - PMID: 41486180
+  - PMID: 41727138
+## HYP-107: Network-proximity association between ANXA11 and ANXA7
+- **Mechanism:** ANXA11 interacts directly with ANXA7 with a confidence score of 0.92, suggesting functional coregulation or shared cascade.
+- **Genes involved:** ANXA11, ANXA7
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: ANXA11, ANXA7) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between ANXA11, ANXA7 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 40345169
+  - PMID: 40667260
+  - PMID: 40690048
+  - PMID: 40730020
+  - PMID: 41486180
+  - PMID: 41727138
+## HYP-108: Network-proximity association between ANXA11 and PDCD6
+- **Mechanism:** ANXA11 interacts directly with PDCD6 with a confidence score of 0.889, suggesting functional coregulation or shared cascade.
+- **Genes involved:** ANXA11, PDCD6
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: ANXA11, PDCD6) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between ANXA11, PDCD6 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 40345169
+  - PMID: 40667260
+  - PMID: 40690048
+  - PMID: 40730020
+  - PMID: 41486180
+  - PMID: 41727138
+## HYP-109: Network-proximity association between ANXA11 and BTNL2
+- **Mechanism:** ANXA11 interacts directly with BTNL2 with a confidence score of 0.841, suggesting functional coregulation or shared cascade.
+- **Genes involved:** ANXA11, BTNL2
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: ANXA11, BTNL2) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between ANXA11, BTNL2 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 40345169
+  - PMID: 40667260
+  - PMID: 40690048
+  - PMID: 40730020
+  - PMID: 41486180
+  - PMID: 41727138
+## HYP-110: Network-proximity association between ANXA11 and TFG
+- **Mechanism:** ANXA11 interacts directly with TFG with a confidence score of 0.7, suggesting functional coregulation or shared cascade.
+- **Genes involved:** ANXA11, TFG
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: ANXA11, TFG) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between ANXA11, TFG will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 40345169
+  - PMID: 40667260
+  - PMID: 40690048
+  - PMID: 40730020
+  - PMID: 41486180
+  - PMID: 41727138
+## HYP-111: Network-proximity association between ATXN2 and PABPC1
+- **Mechanism:** ATXN2 interacts directly with PABPC1 with a confidence score of 0.998, suggesting functional coregulation or shared cascade.
+- **Genes involved:** ATXN2, PABPC1
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: ATXN2, PABPC1) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** None
+- **Falsifiable prediction:** Disrupting the physical interaction between ATXN2, PABPC1 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** High
+- **Uncertainty:** Minimal outstanding uncertainty identified.
+- **Sources**:
+  - PMID: 41359433
+  - PMID: 41426430
+  - PMID: 41462986
+  - PMID: 41630926
+  - PMID: 41683920
+  - PMID: 41728197
+## HYP-112: Network-proximity association between ATXN2 and ITPR1
+- **Mechanism:** ATXN2 interacts directly with ITPR1 with a confidence score of 0.996, suggesting functional coregulation or shared cascade.
+- **Genes involved:** ATXN2, ITPR1
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: ATXN2, ITPR1) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** None
+- **Falsifiable prediction:** Disrupting the physical interaction between ATXN2, ITPR1 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** High
+- **Uncertainty:** Minimal outstanding uncertainty identified.
+- **Sources**:
+  - PMID: 41359433
+  - PMID: 41426430
+  - PMID: 41462986
+  - PMID: 41630926
+  - PMID: 41683920
+  - PMID: 41728197
+## HYP-113: Network-proximity association between ATXN2 and RBFOX1
+- **Mechanism:** ATXN2 interacts directly with RBFOX1 with a confidence score of 0.995, suggesting functional coregulation or shared cascade.
+- **Genes involved:** ATXN2, RBFOX1
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: ATXN2, RBFOX1) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** None
+- **Falsifiable prediction:** Disrupting the physical interaction between ATXN2, RBFOX1 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** High
+- **Uncertainty:** Minimal outstanding uncertainty identified.
+- **Sources**:
+  - PMID: 41359433
+  - PMID: 41426430
+  - PMID: 41462986
+  - PMID: 41630926
+  - PMID: 41683920
+  - PMID: 41728197
+## HYP-114: Network-proximity association between ATXN2 and ATXN3
+- **Mechanism:** ATXN2 interacts directly with ATXN3 with a confidence score of 0.993, suggesting functional coregulation or shared cascade.
+- **Genes involved:** ATXN2, ATXN3
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: ATXN2, ATXN3) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** None
+- **Falsifiable prediction:** Disrupting the physical interaction between ATXN2, ATXN3 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** High
+- **Uncertainty:** Minimal outstanding uncertainty identified.
+- **Sources**:
+  - PMID: 41359433
+  - PMID: 41426430
+  - PMID: 41462986
+  - PMID: 41630926
+  - PMID: 41683920
+  - PMID: 41728197
+## HYP-115: Network-proximity association between ATXN2 and DDX6
+- **Mechanism:** ATXN2 interacts directly with DDX6 with a confidence score of 0.993, suggesting functional coregulation or shared cascade.
+- **Genes involved:** ATXN2, DDX6
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: ATXN2, DDX6) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** None
+- **Falsifiable prediction:** Disrupting the physical interaction between ATXN2, DDX6 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** High
+- **Uncertainty:** Minimal outstanding uncertainty identified.
+- **Sources**:
+  - PMID: 41359433
+  - PMID: 41426430
+  - PMID: 41462986
+  - PMID: 41630926
+  - PMID: 41683920
+  - PMID: 41728197
+## HYP-116: Network-proximity association between ATXN2 and TARDBP
+- **Mechanism:** ATXN2 interacts directly with TARDBP with a confidence score of 0.992, suggesting functional coregulation or shared cascade.
+- **Genes involved:** ATXN2, TARDBP
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: ATXN2, TARDBP) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between ATXN2, TARDBP will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 41359433
+  - PMID: 41426430
+  - PMID: 41462986
+  - PMID: 41630926
+  - PMID: 41683920
+  - PMID: 41728197
+## HYP-117: Network-proximity association between ATXN2 and LSM12
+- **Mechanism:** ATXN2 interacts directly with LSM12 with a confidence score of 0.985, suggesting functional coregulation or shared cascade.
+- **Genes involved:** ATXN2, LSM12
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: ATXN2, LSM12) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** None
+- **Falsifiable prediction:** Disrupting the physical interaction between ATXN2, LSM12 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** High
+- **Uncertainty:** Minimal outstanding uncertainty identified.
+- **Sources**:
+  - PMID: 41359433
+  - PMID: 41426430
+  - PMID: 41462986
+  - PMID: 41630926
+  - PMID: 41683920
+  - PMID: 41728197
+## HYP-118: Network-proximity association between ATXN1 and ATXN2
+- **Mechanism:** ATXN1 interacts directly with ATXN2 with a confidence score of 0.969, suggesting functional coregulation or shared cascade.
+- **Genes involved:** ATXN1, ATXN2
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: ATXN1, ATXN2) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** None
+- **Falsifiable prediction:** Disrupting the physical interaction between ATXN1, ATXN2 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** High
+- **Uncertainty:** Minimal outstanding uncertainty identified.
+- **Sources**:
+  - PMID: 41359433
+  - PMID: 41426430
+  - PMID: 41462986
+  - PMID: 41630926
+  - PMID: 41683920
+  - PMID: 41728197
+## HYP-119: Network-proximity association between ATXN2 and ATXN3L
+- **Mechanism:** ATXN2 interacts directly with ATXN3L with a confidence score of 0.961, suggesting functional coregulation or shared cascade.
+- **Genes involved:** ATXN2, ATXN3L
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: ATXN2, ATXN3L) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** None
+- **Falsifiable prediction:** Disrupting the physical interaction between ATXN2, ATXN3L will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** High
+- **Uncertainty:** Minimal outstanding uncertainty identified.
+- **Sources**:
+  - PMID: 41359433
+  - PMID: 41426430
+  - PMID: 41462986
+  - PMID: 41630926
+  - PMID: 41683920
+  - PMID: 41728197
+## HYP-120: Network-proximity association between ATXN2 and ATXN2L
+- **Mechanism:** ATXN2 interacts directly with ATXN2L with a confidence score of 0.953, suggesting functional coregulation or shared cascade.
+- **Genes involved:** ATXN2, ATXN2L
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: ATXN2, ATXN2L) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** None
+- **Falsifiable prediction:** Disrupting the physical interaction between ATXN2, ATXN2L will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** High
+- **Uncertainty:** Minimal outstanding uncertainty identified.
+- **Sources**:
+  - PMID: 41359433
+  - PMID: 41426430
+  - PMID: 41462986
+  - PMID: 41630926
+  - PMID: 41683920
+  - PMID: 41728197
+## HYP-121: Network-proximity association between C9orf72 and WDR41
+- **Mechanism:** C9orf72 interacts directly with WDR41 with a confidence score of 0.999, suggesting functional coregulation or shared cascade.
+- **Genes involved:** C9orf72, WDR41
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: C9orf72, WDR41) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between C9orf72, WDR41 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 42222887
+  - PMID: 42243993
+  - PMID: 42251349
+  - PMID: 42255926
+  - PMID: 42268660
+  - PMID: 42296226
+## HYP-122: Network-proximity association between C9orf72 and SMCR8
+- **Mechanism:** C9orf72 interacts directly with SMCR8 with a confidence score of 0.999, suggesting functional coregulation or shared cascade.
+- **Genes involved:** C9orf72, SMCR8
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: C9orf72, SMCR8) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between C9orf72, SMCR8 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 42222887
+  - PMID: 42243993
+  - PMID: 42251349
+  - PMID: 42255926
+  - PMID: 42268660
+  - PMID: 42296226
+## HYP-123: Network-proximity association between C9orf72 and ULK1
+- **Mechanism:** C9orf72 interacts directly with ULK1 with a confidence score of 0.989, suggesting functional coregulation or shared cascade.
+- **Genes involved:** C9orf72, ULK1
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: C9orf72, ULK1) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between C9orf72, ULK1 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 42222887
+  - PMID: 42243993
+  - PMID: 42251349
+  - PMID: 42255926
+  - PMID: 42268660
+  - PMID: 42296226
+## HYP-124: Network-proximity association between C9orf72 and RAB1A
+- **Mechanism:** C9orf72 interacts directly with RAB1A with a confidence score of 0.989, suggesting functional coregulation or shared cascade.
+- **Genes involved:** C9orf72, RAB1A
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: C9orf72, RAB1A) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between C9orf72, RAB1A will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 42222887
+  - PMID: 42243993
+  - PMID: 42251349
+  - PMID: 42255926
+  - PMID: 42268660
+  - PMID: 42296226
+## HYP-125: Network-proximity association between C9orf72 and RB1CC1
+- **Mechanism:** C9orf72 interacts directly with RB1CC1 with a confidence score of 0.983, suggesting functional coregulation or shared cascade.
+- **Genes involved:** C9orf72, RB1CC1
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: C9orf72, RB1CC1) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between C9orf72, RB1CC1 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 42222887
+  - PMID: 42243993
+  - PMID: 42251349
+  - PMID: 42255926
+  - PMID: 42268660
+  - PMID: 42296226
+## HYP-126: Network-proximity association between C9orf72 and RAB39B
+- **Mechanism:** C9orf72 interacts directly with RAB39B with a confidence score of 0.983, suggesting functional coregulation or shared cascade.
+- **Genes involved:** C9orf72, RAB39B
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: C9orf72, RAB39B) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between C9orf72, RAB39B will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 42222887
+  - PMID: 42243993
+  - PMID: 42251349
+  - PMID: 42255926
+  - PMID: 42268660
+  - PMID: 42296226
+## HYP-127: Network-proximity association between C9orf72 and RAB8A
+- **Mechanism:** C9orf72 interacts directly with RAB8A with a confidence score of 0.98, suggesting functional coregulation or shared cascade.
+- **Genes involved:** C9orf72, RAB8A
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: C9orf72, RAB8A) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between C9orf72, RAB8A will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 42222887
+  - PMID: 42243993
+  - PMID: 42251349
+  - PMID: 42255926
+  - PMID: 42268660
+  - PMID: 42296226
+## HYP-128: Network-proximity association between ATG101 and C9orf72
+- **Mechanism:** ATG101 interacts directly with C9orf72 with a confidence score of 0.979, suggesting functional coregulation or shared cascade.
+- **Genes involved:** ATG101, C9orf72
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: ATG101, C9orf72) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between ATG101, C9orf72 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 42222887
+  - PMID: 42243993
+  - PMID: 42251349
+  - PMID: 42255926
+  - PMID: 42268660
+  - PMID: 42296226
+## HYP-129: Network-proximity association between C9orf72 and TARDBP
+- **Mechanism:** C9orf72 interacts directly with TARDBP with a confidence score of 0.943, suggesting functional coregulation or shared cascade.
+- **Genes involved:** C9orf72, TARDBP
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: C9orf72, TARDBP) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between C9orf72, TARDBP will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 42141322
+  - PMID: 42171508
+  - PMID: 42171861
+  - PMID: 42195033
+  - PMID: 42222887
+  - PMID: 42227825
+## HYP-130: Network-proximity association between C9orf72 and FUS
+- **Mechanism:** C9orf72 interacts directly with FUS with a confidence score of 0.929, suggesting functional coregulation or shared cascade.
+- **Genes involved:** C9orf72, FUS
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: C9orf72, FUS) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between C9orf72, FUS will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 42207631
+  - PMID: 42222887
+  - PMID: 42228326
+  - PMID: 42243993
+  - PMID: 42251349
+  - PMID: 42255926
+## HYP-131: Network-proximity association between CCNF and SKP1
+- **Mechanism:** CCNF interacts directly with SKP1 with a confidence score of 0.999, suggesting functional coregulation or shared cascade.
+- **Genes involved:** CCNF, SKP1
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: CCNF, SKP1) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** None
+- **Falsifiable prediction:** Disrupting the physical interaction between CCNF, SKP1 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** High
+- **Uncertainty:** Minimal outstanding uncertainty identified.
+- **Sources**:
+  - PMID: 37243816
+  - PMID: 37250416
+  - PMID: 37872794
+  - PMID: 37993492
+  - PMID: 38474336
+  - PMID: 38879591
+## HYP-132: Network-proximity association between CCNF and CUL1
+- **Mechanism:** CCNF interacts directly with CUL1 with a confidence score of 0.986, suggesting functional coregulation or shared cascade.
+- **Genes involved:** CCNF, CUL1
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: CCNF, CUL1) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** None
+- **Falsifiable prediction:** Disrupting the physical interaction between CCNF, CUL1 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** High
+- **Uncertainty:** Minimal outstanding uncertainty identified.
+- **Sources**:
+  - PMID: 37243816
+  - PMID: 37250416
+  - PMID: 37872794
+  - PMID: 37993492
+  - PMID: 38474336
+  - PMID: 38879591
+## HYP-133: Network-proximity association between CCNF and CCP110
+- **Mechanism:** CCNF interacts directly with CCP110 with a confidence score of 0.984, suggesting functional coregulation or shared cascade.
+- **Genes involved:** CCNF, CCP110
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: CCNF, CCP110) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** None
+- **Falsifiable prediction:** Disrupting the physical interaction between CCNF, CCP110 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** High
+- **Uncertainty:** Minimal outstanding uncertainty identified.
+- **Sources**:
+  - PMID: 37243816
+  - PMID: 37250416
+  - PMID: 37872794
+  - PMID: 37993492
+  - PMID: 38474336
+  - PMID: 38879591
+## HYP-134: Network-proximity association between CCNF and SKP2
+- **Mechanism:** CCNF interacts directly with SKP2 with a confidence score of 0.946, suggesting functional coregulation or shared cascade.
+- **Genes involved:** CCNF, SKP2
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: CCNF, SKP2) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** None
+- **Falsifiable prediction:** Disrupting the physical interaction between CCNF, SKP2 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** High
+- **Uncertainty:** Minimal outstanding uncertainty identified.
+- **Sources**:
+  - PMID: 37243816
+  - PMID: 37250416
+  - PMID: 37872794
+  - PMID: 37993492
+  - PMID: 38474336
+  - PMID: 38879591
+## HYP-135: Network-proximity association between BTRC and CCNF
+- **Mechanism:** BTRC interacts directly with CCNF with a confidence score of 0.921, suggesting functional coregulation or shared cascade.
+- **Genes involved:** BTRC, CCNF
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: BTRC, CCNF) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** None
+- **Falsifiable prediction:** Disrupting the physical interaction between BTRC, CCNF will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** High
+- **Uncertainty:** Minimal outstanding uncertainty identified.
+- **Sources**:
+  - PMID: 37243816
+  - PMID: 37250416
+  - PMID: 37872794
+  - PMID: 37993492
+  - PMID: 38474336
+  - PMID: 38879591
+## HYP-136: Network-proximity association between CCNF and PLK1
+- **Mechanism:** CCNF interacts directly with PLK1 with a confidence score of 0.918, suggesting functional coregulation or shared cascade.
+- **Genes involved:** CCNF, PLK1
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: CCNF, PLK1) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** None
+- **Falsifiable prediction:** Disrupting the physical interaction between CCNF, PLK1 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** High
+- **Uncertainty:** Minimal outstanding uncertainty identified.
+- **Sources**:
+  - PMID: 37243816
+  - PMID: 37250416
+  - PMID: 37872794
+  - PMID: 37993492
+  - PMID: 38474336
+  - PMID: 38879591
+## HYP-137: Network-proximity association between CCNF and RBX1
+- **Mechanism:** CCNF interacts directly with RBX1 with a confidence score of 0.917, suggesting functional coregulation or shared cascade.
+- **Genes involved:** CCNF, RBX1
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: CCNF, RBX1) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** None
+- **Falsifiable prediction:** Disrupting the physical interaction between CCNF, RBX1 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** High
+- **Uncertainty:** Minimal outstanding uncertainty identified.
+- **Sources**:
+  - PMID: 37243816
+  - PMID: 37250416
+  - PMID: 37872794
+  - PMID: 37993492
+  - PMID: 38474336
+  - PMID: 38879591
+## HYP-138: Network-proximity association between CCNF and CDK1
+- **Mechanism:** CCNF interacts directly with CDK1 with a confidence score of 0.911, suggesting functional coregulation or shared cascade.
+- **Genes involved:** CCNF, CDK1
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: CCNF, CDK1) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** None
+- **Falsifiable prediction:** Disrupting the physical interaction between CCNF, CDK1 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** High
+- **Uncertainty:** Minimal outstanding uncertainty identified.
+- **Sources**:
+  - PMID: 37243816
+  - PMID: 37250416
+  - PMID: 37872794
+  - PMID: 37993492
+  - PMID: 38474336
+  - PMID: 38879591
+## HYP-139: Network-proximity association between CCNF and CDC20
+- **Mechanism:** CCNF interacts directly with CDC20 with a confidence score of 0.91, suggesting functional coregulation or shared cascade.
+- **Genes involved:** CCNF, CDC20
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: CCNF, CDC20) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** None
+- **Falsifiable prediction:** Disrupting the physical interaction between CCNF, CDC20 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** High
+- **Uncertainty:** Minimal outstanding uncertainty identified.
+- **Sources**:
+  - PMID: 37243816
+  - PMID: 37250416
+  - PMID: 37872794
+  - PMID: 37993492
+  - PMID: 38474336
+  - PMID: 38879591
+## HYP-140: Network-proximity association between CCNF and RRM2
+- **Mechanism:** CCNF interacts directly with RRM2 with a confidence score of 0.893, suggesting functional coregulation or shared cascade.
+- **Genes involved:** CCNF, RRM2
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: CCNF, RRM2) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** None
+- **Falsifiable prediction:** Disrupting the physical interaction between CCNF, RRM2 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** High
+- **Uncertainty:** Minimal outstanding uncertainty identified.
+- **Sources**:
+  - PMID: 37243816
+  - PMID: 37250416
+  - PMID: 37872794
+  - PMID: 37993492
+  - PMID: 38474336
+  - PMID: 38879591
+## HYP-141: Network-proximity association between CHCHD10 and CHCHD6
+- **Mechanism:** CHCHD10 interacts directly with CHCHD6 with a confidence score of 0.985, suggesting functional coregulation or shared cascade.
+- **Genes involved:** CHCHD10, CHCHD6
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: CHCHD10, CHCHD6) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** None
+- **Falsifiable prediction:** Disrupting the physical interaction between CHCHD10, CHCHD6 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** High
+- **Uncertainty:** Minimal outstanding uncertainty identified.
+- **Sources**:
+  - PMID: 41053020
+  - PMID: 41271630
+  - PMID: 41303337
+  - PMID: 41420107
+  - PMID: 41509469
+  - PMID: 41570741
+## HYP-142: Network-proximity association between CHCHD10 and CHCHD3
+- **Mechanism:** CHCHD10 interacts directly with CHCHD3 with a confidence score of 0.985, suggesting functional coregulation or shared cascade.
+- **Genes involved:** CHCHD10, CHCHD3
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: CHCHD10, CHCHD3) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** None
+- **Falsifiable prediction:** Disrupting the physical interaction between CHCHD10, CHCHD3 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** High
+- **Uncertainty:** Minimal outstanding uncertainty identified.
+- **Sources**:
+  - PMID: 41053020
+  - PMID: 41271630
+  - PMID: 41303337
+  - PMID: 41420107
+  - PMID: 41509469
+  - PMID: 41570741
+## HYP-143: Network-proximity association between CHCHD10 and IMMT
+- **Mechanism:** CHCHD10 interacts directly with IMMT with a confidence score of 0.979, suggesting functional coregulation or shared cascade.
+- **Genes involved:** CHCHD10, IMMT
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: CHCHD10, IMMT) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** None
+- **Falsifiable prediction:** Disrupting the physical interaction between CHCHD10, IMMT will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** High
+- **Uncertainty:** Minimal outstanding uncertainty identified.
+- **Sources**:
+  - PMID: 41053020
+  - PMID: 41271630
+  - PMID: 41303337
+  - PMID: 41420107
+  - PMID: 41509469
+  - PMID: 41570741
+## HYP-144: Network-proximity association between CHCHD10 and MICOS13
+- **Mechanism:** CHCHD10 interacts directly with MICOS13 with a confidence score of 0.978, suggesting functional coregulation or shared cascade.
+- **Genes involved:** CHCHD10, MICOS13
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: CHCHD10, MICOS13) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** None
+- **Falsifiable prediction:** Disrupting the physical interaction between CHCHD10, MICOS13 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** High
+- **Uncertainty:** Minimal outstanding uncertainty identified.
+- **Sources**:
+  - PMID: 41053020
+  - PMID: 41271630
+  - PMID: 41303337
+  - PMID: 41420107
+  - PMID: 41509469
+  - PMID: 41570741
+## HYP-145: Network-proximity association between APOO and CHCHD10
+- **Mechanism:** APOO interacts directly with CHCHD10 with a confidence score of 0.967, suggesting functional coregulation or shared cascade.
+- **Genes involved:** APOO, CHCHD10
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: APOO, CHCHD10) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** None
+- **Falsifiable prediction:** Disrupting the physical interaction between APOO, CHCHD10 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** High
+- **Uncertainty:** Minimal outstanding uncertainty identified.
+- **Sources**:
+  - PMID: 41053020
+  - PMID: 41271630
+  - PMID: 41303337
+  - PMID: 41420107
+  - PMID: 41509469
+  - PMID: 41570741
+## HYP-146: Network-proximity association between APOOL and CHCHD10
+- **Mechanism:** APOOL interacts directly with CHCHD10 with a confidence score of 0.965, suggesting functional coregulation or shared cascade.
+- **Genes involved:** APOOL, CHCHD10
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: APOOL, CHCHD10) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** None
+- **Falsifiable prediction:** Disrupting the physical interaction between APOOL, CHCHD10 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** High
+- **Uncertainty:** Minimal outstanding uncertainty identified.
+- **Sources**:
+  - PMID: 41053020
+  - PMID: 41271630
+  - PMID: 41303337
+  - PMID: 41420107
+  - PMID: 41509469
+  - PMID: 41570741
+## HYP-147: Network-proximity association between CHCHD10 and CHCHD2
+- **Mechanism:** CHCHD10 interacts directly with CHCHD2 with a confidence score of 0.888, suggesting functional coregulation or shared cascade.
+- **Genes involved:** CHCHD10, CHCHD2
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: CHCHD10, CHCHD2) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** None
+- **Falsifiable prediction:** Disrupting the physical interaction between CHCHD10, CHCHD2 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** High
+- **Uncertainty:** Minimal outstanding uncertainty identified.
+- **Sources**:
+  - PMID: 41053020
+  - PMID: 41271630
+  - PMID: 41303337
+  - PMID: 41420107
+  - PMID: 41509469
+  - PMID: 41570741
+## HYP-148: Network-proximity association between CHCHD10 and MICOS10
+- **Mechanism:** CHCHD10 interacts directly with MICOS10 with a confidence score of 0.875, suggesting functional coregulation or shared cascade.
+- **Genes involved:** CHCHD10, MICOS10
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: CHCHD10, MICOS10) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** None
+- **Falsifiable prediction:** Disrupting the physical interaction between CHCHD10, MICOS10 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** High
+- **Uncertainty:** Minimal outstanding uncertainty identified.
+- **Sources**:
+  - PMID: 41053020
+  - PMID: 41271630
+  - PMID: 41303337
+  - PMID: 41420107
+  - PMID: 41509469
+  - PMID: 41570741
+## HYP-149: Network-proximity association between CHCHD10 and CHCHD4
+- **Mechanism:** CHCHD10 interacts directly with CHCHD4 with a confidence score of 0.816, suggesting functional coregulation or shared cascade.
+- **Genes involved:** CHCHD10, CHCHD4
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: CHCHD10, CHCHD4) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** None
+- **Falsifiable prediction:** Disrupting the physical interaction between CHCHD10, CHCHD4 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Medium
+- **Uncertainty:** Minimal outstanding uncertainty identified.
+- **Sources**:
+  - PMID: 41053020
+  - PMID: 41271630
+  - PMID: 41303337
+  - PMID: 41420107
+  - PMID: 41509469
+  - PMID: 41570741
+## HYP-150: Network-proximity association between CHCHD10 and MATR3
+- **Mechanism:** CHCHD10 interacts directly with MATR3 with a confidence score of 0.736, suggesting functional coregulation or shared cascade.
+- **Genes involved:** CHCHD10, MATR3
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: CHCHD10, MATR3) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** None
+- **Falsifiable prediction:** Disrupting the physical interaction between CHCHD10, MATR3 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Medium
+- **Uncertainty:** Minimal outstanding uncertainty identified.
+- **Sources**:
+  - PMID: 38891112
+  - PMID: 39192891
+  - PMID: 39323783
+  - PMID: 40667180
+  - PMID: 40707625
+  - PMID: 40806220
+## HYP-151: Network-proximity association between CHMP2B and VPS4B
+- **Mechanism:** CHMP2B interacts directly with VPS4B with a confidence score of 0.998, suggesting functional coregulation or shared cascade.
+- **Genes involved:** CHMP2B, VPS4B
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: CHMP2B, VPS4B) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between CHMP2B, VPS4B will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 20301378
+  - PMID: 20301623
+  - PMID: 37606396
+  - PMID: 37635943
+  - PMID: 38392208
+  - PMID: 39709457
+## HYP-152: Network-proximity association between CHMP2B and CHMP3
+- **Mechanism:** CHMP2B interacts directly with CHMP3 with a confidence score of 0.996, suggesting functional coregulation or shared cascade.
+- **Genes involved:** CHMP2B, CHMP3
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: CHMP2B, CHMP3) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between CHMP2B, CHMP3 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 20301378
+  - PMID: 20301623
+  - PMID: 37606396
+  - PMID: 37635943
+  - PMID: 38392208
+  - PMID: 39709457
+## HYP-153: Network-proximity association between CHMP1A and CHMP2B
+- **Mechanism:** CHMP1A interacts directly with CHMP2B with a confidence score of 0.996, suggesting functional coregulation or shared cascade.
+- **Genes involved:** CHMP1A, CHMP2B
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: CHMP1A, CHMP2B) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between CHMP1A, CHMP2B will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 20301378
+  - PMID: 20301623
+  - PMID: 37606396
+  - PMID: 37635943
+  - PMID: 38392208
+  - PMID: 39709457
+## HYP-154: Network-proximity association between CHMP1B and CHMP2B
+- **Mechanism:** CHMP1B interacts directly with CHMP2B with a confidence score of 0.994, suggesting functional coregulation or shared cascade.
+- **Genes involved:** CHMP1B, CHMP2B
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: CHMP1B, CHMP2B) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between CHMP1B, CHMP2B will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 20301378
+  - PMID: 20301623
+  - PMID: 37606396
+  - PMID: 37635943
+  - PMID: 38392208
+  - PMID: 39709457
+## HYP-155: Network-proximity association between CHMP2B and CHMP4A
+- **Mechanism:** CHMP2B interacts directly with CHMP4A with a confidence score of 0.991, suggesting functional coregulation or shared cascade.
+- **Genes involved:** CHMP2B, CHMP4A
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: CHMP2B, CHMP4A) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between CHMP2B, CHMP4A will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 20301378
+  - PMID: 20301623
+  - PMID: 37606396
+  - PMID: 37635943
+  - PMID: 38392208
+  - PMID: 39709457
+## HYP-156: Network-proximity association between CHMP2B and CHMP4B
+- **Mechanism:** CHMP2B interacts directly with CHMP4B with a confidence score of 0.989, suggesting functional coregulation or shared cascade.
+- **Genes involved:** CHMP2B, CHMP4B
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: CHMP2B, CHMP4B) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between CHMP2B, CHMP4B will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 20301378
+  - PMID: 20301623
+  - PMID: 37606396
+  - PMID: 37635943
+  - PMID: 38392208
+  - PMID: 39709457
+## HYP-157: Network-proximity association between CHMP2A and CHMP2B
+- **Mechanism:** CHMP2A interacts directly with CHMP2B with a confidence score of 0.987, suggesting functional coregulation or shared cascade.
+- **Genes involved:** CHMP2A, CHMP2B
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: CHMP2A, CHMP2B) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between CHMP2A, CHMP2B will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 20301378
+  - PMID: 20301623
+  - PMID: 37606396
+  - PMID: 37635943
+  - PMID: 38392208
+  - PMID: 39709457
+## HYP-158: Network-proximity association between CHMP2B and VPS4A
+- **Mechanism:** CHMP2B interacts directly with VPS4A with a confidence score of 0.986, suggesting functional coregulation or shared cascade.
+- **Genes involved:** CHMP2B, VPS4A
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: CHMP2B, VPS4A) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between CHMP2B, VPS4A will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 20301378
+  - PMID: 20301623
+  - PMID: 37606396
+  - PMID: 37635943
+  - PMID: 38392208
+  - PMID: 39709457
+## HYP-159: Network-proximity association between CHMP2B and CHMP6
+- **Mechanism:** CHMP2B interacts directly with CHMP6 with a confidence score of 0.978, suggesting functional coregulation or shared cascade.
+- **Genes involved:** CHMP2B, CHMP6
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: CHMP2B, CHMP6) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between CHMP2B, CHMP6 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 20301378
+  - PMID: 20301623
+  - PMID: 37606396
+  - PMID: 37635943
+  - PMID: 38392208
+  - PMID: 39709457
+## HYP-160: Network-proximity association between CHMP2B and CHMP7
+- **Mechanism:** CHMP2B interacts directly with CHMP7 with a confidence score of 0.973, suggesting functional coregulation or shared cascade.
+- **Genes involved:** CHMP2B, CHMP7
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: CHMP2B, CHMP7) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between CHMP2B, CHMP7 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 20301378
+  - PMID: 20301623
+  - PMID: 37606396
+  - PMID: 37635943
+  - PMID: 38392208
+  - PMID: 39709457
+## HYP-161: Network-proximity association between CYLD and TRAF6
+- **Mechanism:** CYLD interacts directly with TRAF6 with a confidence score of 0.999, suggesting functional coregulation or shared cascade.
+- **Genes involved:** CYLD, TRAF6
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: CYLD, TRAF6) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** None
+- **Falsifiable prediction:** Disrupting the physical interaction between CYLD, TRAF6 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** High
+- **Uncertainty:** Minimal outstanding uncertainty identified.
+- **Sources**:
+  - PMID: 21408173
+  - PMID: 29951055
+  - PMID: 32185393
+  - PMID: 33134918
+  - PMID: 33333804
+  - PMID: 34290285
+## HYP-162: Network-proximity association between CYLD and RIPK1
+- **Mechanism:** CYLD interacts directly with RIPK1 with a confidence score of 0.999, suggesting functional coregulation or shared cascade.
+- **Genes involved:** CYLD, RIPK1
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: CYLD, RIPK1) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** None
+- **Falsifiable prediction:** Disrupting the physical interaction between CYLD, RIPK1 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** High
+- **Uncertainty:** Minimal outstanding uncertainty identified.
+- **Sources**:
+  - PMID: 21408173
+  - PMID: 29951055
+  - PMID: 32185393
+  - PMID: 33134918
+  - PMID: 33333804
+  - PMID: 34290285
+## HYP-163: Network-proximity association between CYLD and TNFRSF1A
+- **Mechanism:** CYLD interacts directly with TNFRSF1A with a confidence score of 0.999, suggesting functional coregulation or shared cascade.
+- **Genes involved:** CYLD, TNFRSF1A
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: CYLD, TNFRSF1A) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** None
+- **Falsifiable prediction:** Disrupting the physical interaction between CYLD, TNFRSF1A will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** High
+- **Uncertainty:** Minimal outstanding uncertainty identified.
+- **Sources**:
+  - PMID: 21408173
+  - PMID: 29951055
+  - PMID: 32185393
+  - PMID: 33134918
+  - PMID: 33333804
+  - PMID: 34290285
+## HYP-164: Network-proximity association between CYLD and IKBKG
+- **Mechanism:** CYLD interacts directly with IKBKG with a confidence score of 0.999, suggesting functional coregulation or shared cascade.
+- **Genes involved:** CYLD, IKBKG
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: CYLD, IKBKG) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** None
+- **Falsifiable prediction:** Disrupting the physical interaction between CYLD, IKBKG will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** High
+- **Uncertainty:** Minimal outstanding uncertainty identified.
+- **Sources**:
+  - PMID: 21408173
+  - PMID: 29951055
+  - PMID: 32185393
+  - PMID: 33134918
+  - PMID: 33333804
+  - PMID: 34290285
+## HYP-165: Network-proximity association between CYLD and SPATA2
+- **Mechanism:** CYLD interacts directly with SPATA2 with a confidence score of 0.997, suggesting functional coregulation or shared cascade.
+- **Genes involved:** CYLD, SPATA2
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: CYLD, SPATA2) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** None
+- **Falsifiable prediction:** Disrupting the physical interaction between CYLD, SPATA2 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** High
+- **Uncertainty:** Minimal outstanding uncertainty identified.
+- **Sources**:
+  - PMID: 21408173
+  - PMID: 29951055
+  - PMID: 32185393
+  - PMID: 33134918
+  - PMID: 33333804
+  - PMID: 34290285
+## HYP-166: Network-proximity association between CYLD and TRADD
+- **Mechanism:** CYLD interacts directly with TRADD with a confidence score of 0.995, suggesting functional coregulation or shared cascade.
+- **Genes involved:** CYLD, TRADD
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: CYLD, TRADD) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** None
+- **Falsifiable prediction:** Disrupting the physical interaction between CYLD, TRADD will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** High
+- **Uncertainty:** Minimal outstanding uncertainty identified.
+- **Sources**:
+  - PMID: 21408173
+  - PMID: 29951055
+  - PMID: 32185393
+  - PMID: 33134918
+  - PMID: 33333804
+  - PMID: 34290285
+## HYP-167: Network-proximity association between CYLD and UBC
+- **Mechanism:** CYLD interacts directly with UBC with a confidence score of 0.995, suggesting functional coregulation or shared cascade.
+- **Genes involved:** CYLD, UBC
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: CYLD, UBC) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** None
+- **Falsifiable prediction:** Disrupting the physical interaction between CYLD, UBC will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** High
+- **Uncertainty:** Minimal outstanding uncertainty identified.
+- **Sources**:
+  - PMID: 21408173
+  - PMID: 29951055
+  - PMID: 32185393
+  - PMID: 33134918
+  - PMID: 33333804
+  - PMID: 34290285
+## HYP-168: Network-proximity association between CYLD and IKBKE
+- **Mechanism:** CYLD interacts directly with IKBKE with a confidence score of 0.994, suggesting functional coregulation or shared cascade.
+- **Genes involved:** CYLD, IKBKE
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: CYLD, IKBKE) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** None
+- **Falsifiable prediction:** Disrupting the physical interaction between CYLD, IKBKE will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** High
+- **Uncertainty:** Minimal outstanding uncertainty identified.
+- **Sources**:
+  - PMID: 21408173
+  - PMID: 29951055
+  - PMID: 32185393
+  - PMID: 33134918
+  - PMID: 33333804
+  - PMID: 34290285
+## HYP-169: Network-proximity association between CYLD and RNF31
+- **Mechanism:** CYLD interacts directly with RNF31 with a confidence score of 0.993, suggesting functional coregulation or shared cascade.
+- **Genes involved:** CYLD, RNF31
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: CYLD, RNF31) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** None
+- **Falsifiable prediction:** Disrupting the physical interaction between CYLD, RNF31 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** High
+- **Uncertainty:** Minimal outstanding uncertainty identified.
+- **Sources**:
+  - PMID: 21408173
+  - PMID: 29951055
+  - PMID: 32185393
+  - PMID: 33134918
+  - PMID: 33333804
+  - PMID: 34290285
+## HYP-170: Network-proximity association between CYLD and TRAF2
+- **Mechanism:** CYLD interacts directly with TRAF2 with a confidence score of 0.992, suggesting functional coregulation or shared cascade.
+- **Genes involved:** CYLD, TRAF2
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: CYLD, TRAF2) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** None
+- **Falsifiable prediction:** Disrupting the physical interaction between CYLD, TRAF2 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** High
+- **Uncertainty:** Minimal outstanding uncertainty identified.
+- **Sources**:
+  - PMID: 21408173
+  - PMID: 29951055
+  - PMID: 32185393
+  - PMID: 33134918
+  - PMID: 33333804
+  - PMID: 34290285
+## HYP-171: Network-proximity association between DAO and DAOA
+- **Mechanism:** DAO interacts directly with DAOA with a confidence score of 0.987, suggesting functional coregulation or shared cascade.
+- **Genes involved:** DAO, DAOA
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: DAO, DAOA) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** None
+- **Falsifiable prediction:** Disrupting the physical interaction between DAO, DAOA will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** High
+- **Uncertainty:** Minimal outstanding uncertainty identified.
+- **Sources**:
+  - PMID: 20301623
+  - PMID: 33982369
+  - PMID: 36549973
+  - PMID: 37558109
+  - PMID: 37697342
+  - PMID: 38035964
+## HYP-172: Network-proximity association between DAO and GLDC
+- **Mechanism:** DAO interacts directly with GLDC with a confidence score of 0.967, suggesting functional coregulation or shared cascade.
+- **Genes involved:** DAO, GLDC
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: DAO, GLDC) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** None
+- **Falsifiable prediction:** Disrupting the physical interaction between DAO, GLDC will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** High
+- **Uncertainty:** Minimal outstanding uncertainty identified.
+- **Sources**:
+  - PMID: 20301623
+  - PMID: 33982369
+  - PMID: 36549973
+  - PMID: 37558109
+  - PMID: 37697342
+  - PMID: 38035964
+## HYP-173: Network-proximity association between DAO and SARDH
+- **Mechanism:** DAO interacts directly with SARDH with a confidence score of 0.966, suggesting functional coregulation or shared cascade.
+- **Genes involved:** DAO, SARDH
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: DAO, SARDH) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** None
+- **Falsifiable prediction:** Disrupting the physical interaction between DAO, SARDH will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** High
+- **Uncertainty:** Minimal outstanding uncertainty identified.
+- **Sources**:
+  - PMID: 20301623
+  - PMID: 33982369
+  - PMID: 36549973
+  - PMID: 37558109
+  - PMID: 37697342
+  - PMID: 38035964
+## HYP-174: Network-proximity association between AGXT and DAO
+- **Mechanism:** AGXT interacts directly with DAO with a confidence score of 0.964, suggesting functional coregulation or shared cascade.
+- **Genes involved:** AGXT, DAO
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: AGXT, DAO) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** None
+- **Falsifiable prediction:** Disrupting the physical interaction between AGXT, DAO will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** High
+- **Uncertainty:** Minimal outstanding uncertainty identified.
+- **Sources**:
+  - PMID: 20301623
+  - PMID: 33982369
+  - PMID: 36549973
+  - PMID: 37558109
+  - PMID: 37697342
+  - PMID: 38035964
+## HYP-175: Network-proximity association between DAO and SHMT1
+- **Mechanism:** DAO interacts directly with SHMT1 with a confidence score of 0.962, suggesting functional coregulation or shared cascade.
+- **Genes involved:** DAO, SHMT1
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: DAO, SHMT1) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** None
+- **Falsifiable prediction:** Disrupting the physical interaction between DAO, SHMT1 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** High
+- **Uncertainty:** Minimal outstanding uncertainty identified.
+- **Sources**:
+  - PMID: 20301623
+  - PMID: 33982369
+  - PMID: 36549973
+  - PMID: 37558109
+  - PMID: 37697342
+  - PMID: 38035964
+## HYP-176: Network-proximity association between DAO and SHMT2
+- **Mechanism:** DAO interacts directly with SHMT2 with a confidence score of 0.96, suggesting functional coregulation or shared cascade.
+- **Genes involved:** DAO, SHMT2
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: DAO, SHMT2) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** None
+- **Falsifiable prediction:** Disrupting the physical interaction between DAO, SHMT2 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** High
+- **Uncertainty:** Minimal outstanding uncertainty identified.
+- **Sources**:
+  - PMID: 20301623
+  - PMID: 33982369
+  - PMID: 36549973
+  - PMID: 37558109
+  - PMID: 37697342
+  - PMID: 38035964
+## HYP-177: Network-proximity association between DAO and PIPOX
+- **Mechanism:** DAO interacts directly with PIPOX with a confidence score of 0.952, suggesting functional coregulation or shared cascade.
+- **Genes involved:** DAO, PIPOX
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: DAO, PIPOX) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** None
+- **Falsifiable prediction:** Disrupting the physical interaction between DAO, PIPOX will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** High
+- **Uncertainty:** Minimal outstanding uncertainty identified.
+- **Sources**:
+  - PMID: 20301623
+  - PMID: 33982369
+  - PMID: 36549973
+  - PMID: 37558109
+  - PMID: 37697342
+  - PMID: 38035964
+## HYP-178: Network-proximity association between AGXT2 and DAO
+- **Mechanism:** AGXT2 interacts directly with DAO with a confidence score of 0.952, suggesting functional coregulation or shared cascade.
+- **Genes involved:** AGXT2, DAO
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: AGXT2, DAO) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** None
+- **Falsifiable prediction:** Disrupting the physical interaction between AGXT2, DAO will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** High
+- **Uncertainty:** Minimal outstanding uncertainty identified.
+- **Sources**:
+  - PMID: 20301623
+  - PMID: 33982369
+  - PMID: 36549973
+  - PMID: 37558109
+  - PMID: 37697342
+  - PMID: 38035964
+## HYP-179: Network-proximity association between DAO and L3HYPDH
+- **Mechanism:** DAO interacts directly with L3HYPDH with a confidence score of 0.943, suggesting functional coregulation or shared cascade.
+- **Genes involved:** DAO, L3HYPDH
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: DAO, L3HYPDH) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** None
+- **Falsifiable prediction:** Disrupting the physical interaction between DAO, L3HYPDH will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** High
+- **Uncertainty:** Minimal outstanding uncertainty identified.
+- **Sources**:
+  - PMID: 20301623
+  - PMID: 33982369
+  - PMID: 36549973
+  - PMID: 37558109
+  - PMID: 37697342
+  - PMID: 38035964
+## HYP-180: Network-proximity association between ALAS1 and DAO
+- **Mechanism:** ALAS1 interacts directly with DAO with a confidence score of 0.918, suggesting functional coregulation or shared cascade.
+- **Genes involved:** ALAS1, DAO
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: ALAS1, DAO) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** None
+- **Falsifiable prediction:** Disrupting the physical interaction between ALAS1, DAO will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** High
+- **Uncertainty:** Minimal outstanding uncertainty identified.
+- **Sources**:
+  - PMID: 20301623
+  - PMID: 33982369
+  - PMID: 36549973
+  - PMID: 37558109
+  - PMID: 37697342
+  - PMID: 38035964
+## HYP-181: Network-proximity association between DCTN1 and DCTN6
+- **Mechanism:** DCTN1 interacts directly with DCTN6 with a confidence score of 0.999, suggesting functional coregulation or shared cascade.
+- **Genes involved:** DCTN1, DCTN6
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: DCTN1, DCTN6) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** None
+- **Falsifiable prediction:** Disrupting the physical interaction between DCTN1, DCTN6 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** High
+- **Uncertainty:** Minimal outstanding uncertainty identified.
+- **Sources**:
+  - PMID: 38239833
+  - PMID: 38267040
+  - PMID: 38311779
+  - PMID: 38702287
+  - PMID: 39440303
+  - PMID: 40424855
+## HYP-182: Network-proximity association between DCTN1 and DCTN5
+- **Mechanism:** DCTN1 interacts directly with DCTN5 with a confidence score of 0.999, suggesting functional coregulation or shared cascade.
+- **Genes involved:** DCTN1, DCTN5
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: DCTN1, DCTN5) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** None
+- **Falsifiable prediction:** Disrupting the physical interaction between DCTN1, DCTN5 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** High
+- **Uncertainty:** Minimal outstanding uncertainty identified.
+- **Sources**:
+  - PMID: 38239833
+  - PMID: 38267040
+  - PMID: 38311779
+  - PMID: 38702287
+  - PMID: 39440303
+  - PMID: 40424855
+## HYP-183: Network-proximity association between ACTR10 and DCTN1
+- **Mechanism:** ACTR10 interacts directly with DCTN1 with a confidence score of 0.999, suggesting functional coregulation or shared cascade.
+- **Genes involved:** ACTR10, DCTN1
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: ACTR10, DCTN1) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** None
+- **Falsifiable prediction:** Disrupting the physical interaction between ACTR10, DCTN1 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** High
+- **Uncertainty:** Minimal outstanding uncertainty identified.
+- **Sources**:
+  - PMID: 38239833
+  - PMID: 38267040
+  - PMID: 38311779
+  - PMID: 38702287
+  - PMID: 39440303
+  - PMID: 40424855
+## HYP-184: Network-proximity association between DCTN1 and DCTN2
+- **Mechanism:** DCTN1 interacts directly with DCTN2 with a confidence score of 0.999, suggesting functional coregulation or shared cascade.
+- **Genes involved:** DCTN1, DCTN2
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: DCTN1, DCTN2) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** None
+- **Falsifiable prediction:** Disrupting the physical interaction between DCTN1, DCTN2 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** High
+- **Uncertainty:** Minimal outstanding uncertainty identified.
+- **Sources**:
+  - PMID: 38239833
+  - PMID: 38267040
+  - PMID: 38311779
+  - PMID: 38702287
+  - PMID: 39440303
+  - PMID: 40424855
+## HYP-185: Network-proximity association between CLIP1 and DCTN1
+- **Mechanism:** CLIP1 interacts directly with DCTN1 with a confidence score of 0.999, suggesting functional coregulation or shared cascade.
+- **Genes involved:** CLIP1, DCTN1
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: CLIP1, DCTN1) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** None
+- **Falsifiable prediction:** Disrupting the physical interaction between CLIP1, DCTN1 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** High
+- **Uncertainty:** Minimal outstanding uncertainty identified.
+- **Sources**:
+  - PMID: 38239833
+  - PMID: 38267040
+  - PMID: 38311779
+  - PMID: 38702287
+  - PMID: 39440303
+  - PMID: 40424855
+## HYP-186: Network-proximity association between DCTN1 and DYNC1H1
+- **Mechanism:** DCTN1 interacts directly with DYNC1H1 with a confidence score of 0.999, suggesting functional coregulation or shared cascade.
+- **Genes involved:** DCTN1, DYNC1H1
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: DCTN1, DYNC1H1) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** None
+- **Falsifiable prediction:** Disrupting the physical interaction between DCTN1, DYNC1H1 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** High
+- **Uncertainty:** Minimal outstanding uncertainty identified.
+- **Sources**:
+  - PMID: 38239833
+  - PMID: 38267040
+  - PMID: 38311779
+  - PMID: 38702287
+  - PMID: 39440303
+  - PMID: 40424855
+## HYP-187: Network-proximity association between ACTR1A and DCTN1
+- **Mechanism:** ACTR1A interacts directly with DCTN1 with a confidence score of 0.999, suggesting functional coregulation or shared cascade.
+- **Genes involved:** ACTR1A, DCTN1
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: ACTR1A, DCTN1) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** None
+- **Falsifiable prediction:** Disrupting the physical interaction between ACTR1A, DCTN1 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** High
+- **Uncertainty:** Minimal outstanding uncertainty identified.
+- **Sources**:
+  - PMID: 38239833
+  - PMID: 38267040
+  - PMID: 38311779
+  - PMID: 38702287
+  - PMID: 39440303
+  - PMID: 40424855
+## HYP-188: Network-proximity association between DCTN1 and DCTN3
+- **Mechanism:** DCTN1 interacts directly with DCTN3 with a confidence score of 0.999, suggesting functional coregulation or shared cascade.
+- **Genes involved:** DCTN1, DCTN3
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: DCTN1, DCTN3) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** None
+- **Falsifiable prediction:** Disrupting the physical interaction between DCTN1, DCTN3 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** High
+- **Uncertainty:** Minimal outstanding uncertainty identified.
+- **Sources**:
+  - PMID: 38239833
+  - PMID: 38267040
+  - PMID: 38311779
+  - PMID: 38702287
+  - PMID: 39440303
+  - PMID: 40424855
+## HYP-189: Network-proximity association between DCTN1 and DCTN4
+- **Mechanism:** DCTN1 interacts directly with DCTN4 with a confidence score of 0.999, suggesting functional coregulation or shared cascade.
+- **Genes involved:** DCTN1, DCTN4
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: DCTN1, DCTN4) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** None
+- **Falsifiable prediction:** Disrupting the physical interaction between DCTN1, DCTN4 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** High
+- **Uncertainty:** Minimal outstanding uncertainty identified.
+- **Sources**:
+  - PMID: 38239833
+  - PMID: 38267040
+  - PMID: 38311779
+  - PMID: 38702287
+  - PMID: 39440303
+  - PMID: 40424855
+## HYP-190: Network-proximity association between BICD2 and DCTN1
+- **Mechanism:** BICD2 interacts directly with DCTN1 with a confidence score of 0.998, suggesting functional coregulation or shared cascade.
+- **Genes involved:** BICD2, DCTN1
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: BICD2, DCTN1) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** None
+- **Falsifiable prediction:** Disrupting the physical interaction between BICD2, DCTN1 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** High
+- **Uncertainty:** Minimal outstanding uncertainty identified.
+- **Sources**:
+  - PMID: 38239833
+  - PMID: 38267040
+  - PMID: 38311779
+  - PMID: 38702287
+  - PMID: 39440303
+  - PMID: 40424855
+## HYP-191: Network-proximity association between ELP3 and ELP4
+- **Mechanism:** ELP3 interacts directly with ELP4 with a confidence score of 0.999, suggesting functional coregulation or shared cascade.
+- **Genes involved:** ELP3, ELP4
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: ELP3, ELP4) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** None
+- **Falsifiable prediction:** Disrupting the physical interaction between ELP3, ELP4 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** High
+- **Uncertainty:** Minimal outstanding uncertainty identified.
+- **Sources**:
+  - PMID: 18996918
+  - PMID: 20107598
+  - PMID: 20349096
+  - PMID: 20626565
+  - PMID: 22470424
+  - PMID: 23969236
+## HYP-192: Network-proximity association between ELP3 and ELP5
+- **Mechanism:** ELP3 interacts directly with ELP5 with a confidence score of 0.999, suggesting functional coregulation or shared cascade.
+- **Genes involved:** ELP3, ELP5
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: ELP3, ELP5) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** None
+- **Falsifiable prediction:** Disrupting the physical interaction between ELP3, ELP5 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** High
+- **Uncertainty:** Minimal outstanding uncertainty identified.
+- **Sources**:
+  - PMID: 18996918
+  - PMID: 20107598
+  - PMID: 20349096
+  - PMID: 20626565
+  - PMID: 22470424
+  - PMID: 23969236
+## HYP-193: Network-proximity association between ELP1 and ELP3
+- **Mechanism:** ELP1 interacts directly with ELP3 with a confidence score of 0.999, suggesting functional coregulation or shared cascade.
+- **Genes involved:** ELP1, ELP3
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: ELP1, ELP3) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** None
+- **Falsifiable prediction:** Disrupting the physical interaction between ELP1, ELP3 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** High
+- **Uncertainty:** Minimal outstanding uncertainty identified.
+- **Sources**:
+  - PMID: 18996918
+  - PMID: 20107598
+  - PMID: 20349096
+  - PMID: 20626565
+  - PMID: 22470424
+  - PMID: 23969236
+## HYP-194: Network-proximity association between ELP2 and ELP3
+- **Mechanism:** ELP2 interacts directly with ELP3 with a confidence score of 0.999, suggesting functional coregulation or shared cascade.
+- **Genes involved:** ELP2, ELP3
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: ELP2, ELP3) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** None
+- **Falsifiable prediction:** Disrupting the physical interaction between ELP2, ELP3 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** High
+- **Uncertainty:** Minimal outstanding uncertainty identified.
+- **Sources**:
+  - PMID: 18996918
+  - PMID: 20107598
+  - PMID: 20349096
+  - PMID: 20626565
+  - PMID: 22470424
+  - PMID: 23969236
+## HYP-195: Network-proximity association between ELP3 and ELP6
+- **Mechanism:** ELP3 interacts directly with ELP6 with a confidence score of 0.996, suggesting functional coregulation or shared cascade.
+- **Genes involved:** ELP3, ELP6
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: ELP3, ELP6) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** None
+- **Falsifiable prediction:** Disrupting the physical interaction between ELP3, ELP6 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** High
+- **Uncertainty:** Minimal outstanding uncertainty identified.
+- **Sources**:
+  - PMID: 18996918
+  - PMID: 20107598
+  - PMID: 20349096
+  - PMID: 20626565
+  - PMID: 22470424
+  - PMID: 23969236
+## HYP-196: Network-proximity association between DPH3 and ELP3
+- **Mechanism:** DPH3 interacts directly with ELP3 with a confidence score of 0.927, suggesting functional coregulation or shared cascade.
+- **Genes involved:** DPH3, ELP3
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: DPH3, ELP3) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** None
+- **Falsifiable prediction:** Disrupting the physical interaction between DPH3, ELP3 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** High
+- **Uncertainty:** Minimal outstanding uncertainty identified.
+- **Sources**:
+  - PMID: 18996918
+  - PMID: 20107598
+  - PMID: 20349096
+  - PMID: 20626565
+  - PMID: 22470424
+  - PMID: 23969236
+## HYP-197: Network-proximity association between ELP3 and KTI12
+- **Mechanism:** ELP3 interacts directly with KTI12 with a confidence score of 0.926, suggesting functional coregulation or shared cascade.
+- **Genes involved:** ELP3, KTI12
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: ELP3, KTI12) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** None
+- **Falsifiable prediction:** Disrupting the physical interaction between ELP3, KTI12 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** High
+- **Uncertainty:** Minimal outstanding uncertainty identified.
+- **Sources**:
+  - PMID: 18996918
+  - PMID: 20107598
+  - PMID: 20349096
+  - PMID: 20626565
+  - PMID: 22470424
+  - PMID: 23969236
+## HYP-198: Network-proximity association between CTU1 and ELP3
+- **Mechanism:** CTU1 interacts directly with ELP3 with a confidence score of 0.926, suggesting functional coregulation or shared cascade.
+- **Genes involved:** CTU1, ELP3
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: CTU1, ELP3) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** None
+- **Falsifiable prediction:** Disrupting the physical interaction between CTU1, ELP3 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** High
+- **Uncertainty:** Minimal outstanding uncertainty identified.
+- **Sources**:
+  - PMID: 18996918
+  - PMID: 20107598
+  - PMID: 20349096
+  - PMID: 20626565
+  - PMID: 22470424
+  - PMID: 23969236
+## HYP-199: Network-proximity association between ELP3 and KAT2A
+- **Mechanism:** ELP3 interacts directly with KAT2A with a confidence score of 0.843, suggesting functional coregulation or shared cascade.
+- **Genes involved:** ELP3, KAT2A
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: ELP3, KAT2A) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** None
+- **Falsifiable prediction:** Disrupting the physical interaction between ELP3, KAT2A will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Medium
+- **Uncertainty:** Minimal outstanding uncertainty identified.
+- **Sources**:
+  - PMID: 18996918
+  - PMID: 20107598
+  - PMID: 20349096
+  - PMID: 20626565
+  - PMID: 22470424
+  - PMID: 23969236
+## HYP-200: Network-proximity association between ELP3 and KAT2B
+- **Mechanism:** ELP3 interacts directly with KAT2B with a confidence score of 0.834, suggesting functional coregulation or shared cascade.
+- **Genes involved:** ELP3, KAT2B
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: ELP3, KAT2B) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** None
+- **Falsifiable prediction:** Disrupting the physical interaction between ELP3, KAT2B will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Medium
+- **Uncertainty:** Minimal outstanding uncertainty identified.
+- **Sources**:
+  - PMID: 18996918
+  - PMID: 20107598
+  - PMID: 20349096
+  - PMID: 20626565
+  - PMID: 22470424
+  - PMID: 23969236
+## HYP-201: Network-proximity association between ERBB3 and ERBB4
+- **Mechanism:** ERBB3 interacts directly with ERBB4 with a confidence score of 0.999, suggesting functional coregulation or shared cascade.
+- **Genes involved:** ERBB3, ERBB4
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: ERBB3, ERBB4) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between ERBB3, ERBB4 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 39113457
+  - PMID: 39451396
+  - PMID: 40254133
+  - PMID: 40320052
+  - PMID: 40385899
+  - PMID: 40469844
+## HYP-202: Network-proximity association between ERBB4 and SHC1
+- **Mechanism:** ERBB4 interacts directly with SHC1 with a confidence score of 0.999, suggesting functional coregulation or shared cascade.
+- **Genes involved:** ERBB4, SHC1
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: ERBB4, SHC1) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between ERBB4, SHC1 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 39113457
+  - PMID: 39451396
+  - PMID: 40254133
+  - PMID: 40320052
+  - PMID: 40385899
+  - PMID: 40469844
+## HYP-203: Network-proximity association between BTC and ERBB4
+- **Mechanism:** BTC interacts directly with ERBB4 with a confidence score of 0.999, suggesting functional coregulation or shared cascade.
+- **Genes involved:** BTC, ERBB4
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: BTC, ERBB4) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between BTC, ERBB4 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 39113457
+  - PMID: 39451396
+  - PMID: 40254133
+  - PMID: 40320052
+  - PMID: 40385899
+  - PMID: 40469844
+## HYP-204: Network-proximity association between ERBB4 and NRG3
+- **Mechanism:** ERBB4 interacts directly with NRG3 with a confidence score of 0.999, suggesting functional coregulation or shared cascade.
+- **Genes involved:** ERBB4, NRG3
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: ERBB4, NRG3) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between ERBB4, NRG3 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 39113457
+  - PMID: 39451396
+  - PMID: 40254133
+  - PMID: 40320052
+  - PMID: 40385899
+  - PMID: 40469844
+## HYP-205: Network-proximity association between ERBB4 and NRG2
+- **Mechanism:** ERBB4 interacts directly with NRG2 with a confidence score of 0.999, suggesting functional coregulation or shared cascade.
+- **Genes involved:** ERBB4, NRG2
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: ERBB4, NRG2) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between ERBB4, NRG2 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 39113457
+  - PMID: 39451396
+  - PMID: 40254133
+  - PMID: 40320052
+  - PMID: 40385899
+  - PMID: 40469844
+## HYP-206: Network-proximity association between ERBB4 and GRB2
+- **Mechanism:** ERBB4 interacts directly with GRB2 with a confidence score of 0.999, suggesting functional coregulation or shared cascade.
+- **Genes involved:** ERBB4, GRB2
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: ERBB4, GRB2) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between ERBB4, GRB2 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 39113457
+  - PMID: 39451396
+  - PMID: 40254133
+  - PMID: 40320052
+  - PMID: 40385899
+  - PMID: 40469844
+## HYP-207: Network-proximity association between EGF and ERBB4
+- **Mechanism:** EGF interacts directly with ERBB4 with a confidence score of 0.999, suggesting functional coregulation or shared cascade.
+- **Genes involved:** EGF, ERBB4
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: EGF, ERBB4) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between EGF, ERBB4 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 39113457
+  - PMID: 39451396
+  - PMID: 40254133
+  - PMID: 40320052
+  - PMID: 40385899
+  - PMID: 40469844
+## HYP-208: Network-proximity association between ERBB4 and EREG
+- **Mechanism:** ERBB4 interacts directly with EREG with a confidence score of 0.999, suggesting functional coregulation or shared cascade.
+- **Genes involved:** ERBB4, EREG
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: ERBB4, EREG) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between ERBB4, EREG will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 39113457
+  - PMID: 39451396
+  - PMID: 40254133
+  - PMID: 40320052
+  - PMID: 40385899
+  - PMID: 40469844
+## HYP-209: Network-proximity association between ERBB4 and HBEGF
+- **Mechanism:** ERBB4 interacts directly with HBEGF with a confidence score of 0.999, suggesting functional coregulation or shared cascade.
+- **Genes involved:** ERBB4, HBEGF
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: ERBB4, HBEGF) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between ERBB4, HBEGF will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 39113457
+  - PMID: 39451396
+  - PMID: 40254133
+  - PMID: 40320052
+  - PMID: 40385899
+  - PMID: 40469844
+## HYP-210: Network-proximity association between ERBB4 and NRG1
+- **Mechanism:** ERBB4 interacts directly with NRG1 with a confidence score of 0.999, suggesting functional coregulation or shared cascade.
+- **Genes involved:** ERBB4, NRG1
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: ERBB4, NRG1) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between ERBB4, NRG1 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 39113457
+  - PMID: 39451396
+  - PMID: 40254133
+  - PMID: 40320052
+  - PMID: 40385899
+  - PMID: 40469844
+## HYP-211: Network-proximity association between FGGY and SHPK
+- **Mechanism:** FGGY interacts directly with SHPK with a confidence score of 0.879, suggesting functional coregulation or shared cascade.
+- **Genes involved:** FGGY, SHPK
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: FGGY, SHPK) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between FGGY, SHPK will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential contradictory terms detected in supporting literature
+- **Sources**:
+  - PMID: 19193627
+  - PMID: 19464757
+  - PMID: 19922138
+  - PMID: 20001489
+  - PMID: 24439956
+## HYP-212: Network-proximity association between FGGY and GPD2
+- **Mechanism:** FGGY interacts directly with GPD2 with a confidence score of 0.786, suggesting functional coregulation or shared cascade.
+- **Genes involved:** FGGY, GPD2
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: FGGY, GPD2) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between FGGY, GPD2 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential contradictory terms detected in supporting literature
+- **Sources**:
+  - PMID: 19193627
+  - PMID: 19464757
+  - PMID: 19922138
+  - PMID: 20001489
+  - PMID: 24439956
+## HYP-213: Network-proximity association between CTNS and FGGY
+- **Mechanism:** CTNS interacts directly with FGGY with a confidence score of 0.719, suggesting functional coregulation or shared cascade.
+- **Genes involved:** CTNS, FGGY
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: CTNS, FGGY) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between CTNS, FGGY will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential contradictory terms detected in supporting literature
+- **Sources**:
+  - PMID: 19193627
+  - PMID: 19464757
+  - PMID: 19922138
+  - PMID: 20001489
+  - PMID: 24439956
+## HYP-214: Network-proximity association between ELP3 and FGGY
+- **Mechanism:** ELP3 interacts directly with FGGY with a confidence score of 0.703, suggesting functional coregulation or shared cascade.
+- **Genes involved:** ELP3, FGGY
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: ELP3, FGGY) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between ELP3, FGGY will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential contradictory terms detected in supporting literature
+- **Sources**:
+  - PMID: 18996918
+  - PMID: 19193627
+  - PMID: 19464757
+  - PMID: 19922138
+  - PMID: 20001489
+  - PMID: 20107598
+## HYP-215: Network-proximity association between FIG4 and PIKFYVE
+- **Mechanism:** FIG4 interacts directly with PIKFYVE with a confidence score of 0.999, suggesting functional coregulation or shared cascade.
+- **Genes involved:** FIG4, PIKFYVE
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: FIG4, PIKFYVE) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between FIG4, PIKFYVE will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 39457468
+  - PMID: 39669591
+  - PMID: 39730482
+  - PMID: 39973992
+  - PMID: 41196070
+  - PMID: 41359433
+## HYP-216: Network-proximity association between FIG4 and VAC14
+- **Mechanism:** FIG4 interacts directly with VAC14 with a confidence score of 0.999, suggesting functional coregulation or shared cascade.
+- **Genes involved:** FIG4, VAC14
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: FIG4, VAC14) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between FIG4, VAC14 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 39457468
+  - PMID: 39669591
+  - PMID: 39730482
+  - PMID: 39973992
+  - PMID: 41196070
+  - PMID: 41359433
+## HYP-217: Network-proximity association between FIG4 and MTMR2
+- **Mechanism:** FIG4 interacts directly with MTMR2 with a confidence score of 0.976, suggesting functional coregulation or shared cascade.
+- **Genes involved:** FIG4, MTMR2
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: FIG4, MTMR2) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between FIG4, MTMR2 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 39457468
+  - PMID: 39669591
+  - PMID: 39730482
+  - PMID: 39973992
+  - PMID: 41196070
+  - PMID: 41359433
+## HYP-218: Network-proximity association between FIG4 and MTM1
+- **Mechanism:** FIG4 interacts directly with MTM1 with a confidence score of 0.959, suggesting functional coregulation or shared cascade.
+- **Genes involved:** FIG4, MTM1
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: FIG4, MTM1) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between FIG4, MTM1 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 39457468
+  - PMID: 39669591
+  - PMID: 39730482
+  - PMID: 39973992
+  - PMID: 41196070
+  - PMID: 41359433
+## HYP-219: Network-proximity association between FIG4 and PIK3C3
+- **Mechanism:** FIG4 interacts directly with PIK3C3 with a confidence score of 0.951, suggesting functional coregulation or shared cascade.
+- **Genes involved:** FIG4, PIK3C3
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: FIG4, PIK3C3) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between FIG4, PIK3C3 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 39457468
+  - PMID: 39669591
+  - PMID: 39730482
+  - PMID: 39973992
+  - PMID: 41196070
+  - PMID: 41359433
+## HYP-220: Network-proximity association between FIG4 and MTMR1
+- **Mechanism:** FIG4 interacts directly with MTMR1 with a confidence score of 0.943, suggesting functional coregulation or shared cascade.
+- **Genes involved:** FIG4, MTMR1
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: FIG4, MTMR1) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between FIG4, MTMR1 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 39457468
+  - PMID: 39669591
+  - PMID: 39730482
+  - PMID: 39973992
+  - PMID: 41196070
+  - PMID: 41359433
+## HYP-221: Network-proximity association between FIG4 and MTMR14
+- **Mechanism:** FIG4 interacts directly with MTMR14 with a confidence score of 0.937, suggesting functional coregulation or shared cascade.
+- **Genes involved:** FIG4, MTMR14
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: FIG4, MTMR14) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between FIG4, MTMR14 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 39457468
+  - PMID: 39669591
+  - PMID: 39730482
+  - PMID: 39973992
+  - PMID: 41196070
+  - PMID: 41359433
+## HYP-222: Network-proximity association between FIG4 and MTMR6
+- **Mechanism:** FIG4 interacts directly with MTMR6 with a confidence score of 0.936, suggesting functional coregulation or shared cascade.
+- **Genes involved:** FIG4, MTMR6
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: FIG4, MTMR6) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between FIG4, MTMR6 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 39457468
+  - PMID: 39669591
+  - PMID: 39730482
+  - PMID: 39973992
+  - PMID: 41196070
+  - PMID: 41359433
+## HYP-223: Network-proximity association between FIG4 and INPP4A
+- **Mechanism:** FIG4 interacts directly with INPP4A with a confidence score of 0.934, suggesting functional coregulation or shared cascade.
+- **Genes involved:** FIG4, INPP4A
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: FIG4, INPP4A) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between FIG4, INPP4A will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 39457468
+  - PMID: 39669591
+  - PMID: 39730482
+  - PMID: 39973992
+  - PMID: 41196070
+  - PMID: 41359433
+## HYP-224: Network-proximity association between FIG4 and MTMR7
+- **Mechanism:** FIG4 interacts directly with MTMR7 with a confidence score of 0.933, suggesting functional coregulation or shared cascade.
+- **Genes involved:** FIG4, MTMR7
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: FIG4, MTMR7) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between FIG4, MTMR7 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 39457468
+  - PMID: 39669591
+  - PMID: 39730482
+  - PMID: 39973992
+  - PMID: 41196070
+  - PMID: 41359433
+## HYP-225: Network-proximity association between FUS and TARDBP
+- **Mechanism:** FUS interacts directly with TARDBP with a confidence score of 0.999, suggesting functional coregulation or shared cascade.
+- **Genes involved:** FUS, TARDBP
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: FUS, TARDBP) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between FUS, TARDBP will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 42141322
+  - PMID: 42171508
+  - PMID: 42171861
+  - PMID: 42195033
+  - PMID: 42207631
+  - PMID: 42227825
+## HYP-226: Network-proximity association between FUS and TNPO1
+- **Mechanism:** FUS interacts directly with TNPO1 with a confidence score of 0.994, suggesting functional coregulation or shared cascade.
+- **Genes involved:** FUS, TNPO1
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: FUS, TNPO1) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between FUS, TNPO1 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 42207631
+  - PMID: 42228326
+  - PMID: 42261159
+  - PMID: 42262924
+  - PMID: 42268433
+  - PMID: 42268660
+## HYP-227: Network-proximity association between FUS and SOD1
+- **Mechanism:** FUS interacts directly with SOD1 with a confidence score of 0.992, suggesting functional coregulation or shared cascade.
+- **Genes involved:** FUS, SOD1
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: FUS, SOD1) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between FUS, SOD1 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 42207631
+  - PMID: 42228326
+  - PMID: 42239283
+  - PMID: 42240799
+  - PMID: 42250707
+  - PMID: 42261159
+## HYP-228: Network-proximity association between DROSHA and FUS
+- **Mechanism:** DROSHA interacts directly with FUS with a confidence score of 0.992, suggesting functional coregulation or shared cascade.
+- **Genes involved:** DROSHA, FUS
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: DROSHA, FUS) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between DROSHA, FUS will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 42207631
+  - PMID: 42228326
+  - PMID: 42261159
+  - PMID: 42262924
+  - PMID: 42268433
+  - PMID: 42268660
+## HYP-229: Network-proximity association between FUS and HNRNPA2B1
+- **Mechanism:** FUS interacts directly with HNRNPA2B1 with a confidence score of 0.99, suggesting functional coregulation or shared cascade.
+- **Genes involved:** FUS, HNRNPA2B1
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: FUS, HNRNPA2B1) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between FUS, HNRNPA2B1 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 42207631
+  - PMID: 42228326
+  - PMID: 42261159
+  - PMID: 42262924
+  - PMID: 42268433
+  - PMID: 42268660
+## HYP-230: Network-proximity association between ENSP00000478249 and FUS
+- **Mechanism:** ENSP00000478249 interacts directly with FUS with a confidence score of 0.987, suggesting functional coregulation or shared cascade.
+- **Genes involved:** ENSP00000478249, FUS
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: ENSP00000478249, FUS) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between ENSP00000478249, FUS will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 42207631
+  - PMID: 42228326
+  - PMID: 42261159
+  - PMID: 42262924
+  - PMID: 42268433
+  - PMID: 42268660
+## HYP-231: Network-proximity association between FUS and SFPQ
+- **Mechanism:** FUS interacts directly with SFPQ with a confidence score of 0.985, suggesting functional coregulation or shared cascade.
+- **Genes involved:** FUS, SFPQ
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: FUS, SFPQ) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between FUS, SFPQ will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 42207631
+  - PMID: 42228326
+  - PMID: 42261159
+  - PMID: 42262924
+  - PMID: 42268433
+  - PMID: 42268660
+## HYP-232: Network-proximity association between FUS and SRSF10
+- **Mechanism:** FUS interacts directly with SRSF10 with a confidence score of 0.985, suggesting functional coregulation or shared cascade.
+- **Genes involved:** FUS, SRSF10
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: FUS, SRSF10) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between FUS, SRSF10 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 42207631
+  - PMID: 42228326
+  - PMID: 42261159
+  - PMID: 42262924
+  - PMID: 42268433
+  - PMID: 42268660
+## HYP-233: Network-proximity association between FUS and ILF3
+- **Mechanism:** FUS interacts directly with ILF3 with a confidence score of 0.982, suggesting functional coregulation or shared cascade.
+- **Genes involved:** FUS, ILF3
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: FUS, ILF3) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between FUS, ILF3 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 42207631
+  - PMID: 42228326
+  - PMID: 42261159
+  - PMID: 42262924
+  - PMID: 42268433
+  - PMID: 42268660
+## HYP-234: Network-proximity association between FUS and HNRNPC
+- **Mechanism:** FUS interacts directly with HNRNPC with a confidence score of 0.976, suggesting functional coregulation or shared cascade.
+- **Genes involved:** FUS, HNRNPC
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: FUS, HNRNPC) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between FUS, HNRNPC will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 42207631
+  - PMID: 42228326
+  - PMID: 42261159
+  - PMID: 42262924
+  - PMID: 42268433
+  - PMID: 42268660
+## HYP-235: Network-proximity association between HNRNPA1 and HNRNPC
+- **Mechanism:** HNRNPA1 interacts directly with HNRNPC with a confidence score of 0.999, suggesting functional coregulation or shared cascade.
+- **Genes involved:** HNRNPA1, HNRNPC
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: HNRNPA1, HNRNPC) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** The supporting studies are animal-only models (lacking human/patient validation).
+- **Falsifiable prediction:** Disrupting the physical interaction between HNRNPA1, HNRNPC will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential lack of human/patient clinical validation
+- **Sources**:
+  - PMID: 40441157
+  - PMID: 40687373
+  - PMID: 40707625
+  - PMID: 40737092
+  - PMID: 40766389
+  - PMID: 40778857
+## HYP-236: Network-proximity association between HNRNPA1 and TNPO1
+- **Mechanism:** HNRNPA1 interacts directly with TNPO1 with a confidence score of 0.998, suggesting functional coregulation or shared cascade.
+- **Genes involved:** HNRNPA1, TNPO1
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: HNRNPA1, TNPO1) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** The supporting studies are animal-only models (lacking human/patient validation).
+- **Falsifiable prediction:** Disrupting the physical interaction between HNRNPA1, TNPO1 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential lack of human/patient clinical validation
+- **Sources**:
+  - PMID: 40441157
+  - PMID: 40687373
+  - PMID: 40707625
+  - PMID: 40737092
+  - PMID: 40766389
+  - PMID: 40778857
+## HYP-237: Network-proximity association between HNRNPA1 and HNRNPH1
+- **Mechanism:** HNRNPA1 interacts directly with HNRNPH1 with a confidence score of 0.998, suggesting functional coregulation or shared cascade.
+- **Genes involved:** HNRNPA1, HNRNPH1
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: HNRNPA1, HNRNPH1) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** The supporting studies are animal-only models (lacking human/patient validation).
+- **Falsifiable prediction:** Disrupting the physical interaction between HNRNPA1, HNRNPH1 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential lack of human/patient clinical validation
+- **Sources**:
+  - PMID: 40441157
+  - PMID: 40687373
+  - PMID: 40707625
+  - PMID: 40737092
+  - PMID: 40766389
+  - PMID: 40778857
+## HYP-238: Network-proximity association between HNRNPA1 and HNRNPA2B1
+- **Mechanism:** HNRNPA1 interacts directly with HNRNPA2B1 with a confidence score of 0.998, suggesting functional coregulation or shared cascade.
+- **Genes involved:** HNRNPA1, HNRNPA2B1
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: HNRNPA1, HNRNPA2B1) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** The supporting studies are animal-only models (lacking human/patient validation).
+- **Falsifiable prediction:** Disrupting the physical interaction between HNRNPA1, HNRNPA2B1 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential lack of human/patient clinical validation
+- **Sources**:
+  - PMID: 40441157
+  - PMID: 40687373
+  - PMID: 40707625
+  - PMID: 40737092
+  - PMID: 40766389
+  - PMID: 40778857
+## HYP-239: Network-proximity association between HNRNPA1 and PTBP1
+- **Mechanism:** HNRNPA1 interacts directly with PTBP1 with a confidence score of 0.998, suggesting functional coregulation or shared cascade.
+- **Genes involved:** HNRNPA1, PTBP1
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: HNRNPA1, PTBP1) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** The supporting studies are animal-only models (lacking human/patient validation).
+- **Falsifiable prediction:** Disrupting the physical interaction between HNRNPA1, PTBP1 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential lack of human/patient clinical validation
+- **Sources**:
+  - PMID: 40441157
+  - PMID: 40687373
+  - PMID: 40707625
+  - PMID: 40737092
+  - PMID: 40766389
+  - PMID: 40778857
+## HYP-240: Network-proximity association between HNRNPA1 and TARDBP
+- **Mechanism:** HNRNPA1 interacts directly with TARDBP with a confidence score of 0.997, suggesting functional coregulation or shared cascade.
+- **Genes involved:** HNRNPA1, TARDBP
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: HNRNPA1, TARDBP) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** The supporting studies are animal-only models (lacking human/patient validation).
+- **Falsifiable prediction:** Disrupting the physical interaction between HNRNPA1, TARDBP will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential lack of human/patient clinical validation, conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 40441157
+  - PMID: 40687373
+  - PMID: 40707625
+  - PMID: 40737092
+  - PMID: 40766389
+  - PMID: 40778857
+## HYP-241: Network-proximity association between HNRNPA1 and HNRNPK
+- **Mechanism:** HNRNPA1 interacts directly with HNRNPK with a confidence score of 0.995, suggesting functional coregulation or shared cascade.
+- **Genes involved:** HNRNPA1, HNRNPK
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: HNRNPA1, HNRNPK) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** The supporting studies are animal-only models (lacking human/patient validation).
+- **Falsifiable prediction:** Disrupting the physical interaction between HNRNPA1, HNRNPK will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential lack of human/patient clinical validation
+- **Sources**:
+  - PMID: 40441157
+  - PMID: 40687373
+  - PMID: 40707625
+  - PMID: 40737092
+  - PMID: 40766389
+  - PMID: 40778857
+## HYP-242: Network-proximity association between HNRNPA1 and HNRNPL
+- **Mechanism:** HNRNPA1 interacts directly with HNRNPL with a confidence score of 0.993, suggesting functional coregulation or shared cascade.
+- **Genes involved:** HNRNPA1, HNRNPL
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: HNRNPA1, HNRNPL) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** The supporting studies are animal-only models (lacking human/patient validation).
+- **Falsifiable prediction:** Disrupting the physical interaction between HNRNPA1, HNRNPL will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential lack of human/patient clinical validation
+- **Sources**:
+  - PMID: 40441157
+  - PMID: 40687373
+  - PMID: 40707625
+  - PMID: 40737092
+  - PMID: 40766389
+  - PMID: 40778857
+## HYP-243: Network-proximity association between HNRNPA1 and SRSF1
+- **Mechanism:** HNRNPA1 interacts directly with SRSF1 with a confidence score of 0.993, suggesting functional coregulation or shared cascade.
+- **Genes involved:** HNRNPA1, SRSF1
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: HNRNPA1, SRSF1) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** The supporting studies are animal-only models (lacking human/patient validation).
+- **Falsifiable prediction:** Disrupting the physical interaction between HNRNPA1, SRSF1 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential lack of human/patient clinical validation
+- **Sources**:
+  - PMID: 40441157
+  - PMID: 40687373
+  - PMID: 40707625
+  - PMID: 40737092
+  - PMID: 40766389
+  - PMID: 40778857
+## HYP-244: Network-proximity association between HNRNPA1 and HNRNPM
+- **Mechanism:** HNRNPA1 interacts directly with HNRNPM with a confidence score of 0.993, suggesting functional coregulation or shared cascade.
+- **Genes involved:** HNRNPA1, HNRNPM
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: HNRNPA1, HNRNPM) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** The supporting studies are animal-only models (lacking human/patient validation).
+- **Falsifiable prediction:** Disrupting the physical interaction between HNRNPA1, HNRNPM will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential lack of human/patient clinical validation
+- **Sources**:
+  - PMID: 40441157
+  - PMID: 40687373
+  - PMID: 40707625
+  - PMID: 40737092
+  - PMID: 40766389
+  - PMID: 40778857
+## HYP-245: Network-proximity association between KIF5A and KLC2
+- **Mechanism:** KIF5A interacts directly with KLC2 with a confidence score of 0.999, suggesting functional coregulation or shared cascade.
+- **Genes involved:** KIF5A, KLC2
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: KIF5A, KLC2) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between KIF5A, KLC2 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 41279899
+  - PMID: 41466038
+  - PMID: 41621017
+  - PMID: 41629112
+  - PMID: 41750144
+  - PMID: 41760955
+## HYP-246: Network-proximity association between KIF5A and KLC1
+- **Mechanism:** KIF5A interacts directly with KLC1 with a confidence score of 0.999, suggesting functional coregulation or shared cascade.
+- **Genes involved:** KIF5A, KLC1
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: KIF5A, KLC1) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between KIF5A, KLC1 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 41279899
+  - PMID: 41466038
+  - PMID: 41621017
+  - PMID: 41629112
+  - PMID: 41750144
+  - PMID: 41760955
+## HYP-247: Network-proximity association between KIF5A and KLC4
+- **Mechanism:** KIF5A interacts directly with KLC4 with a confidence score of 0.998, suggesting functional coregulation or shared cascade.
+- **Genes involved:** KIF5A, KLC4
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: KIF5A, KLC4) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between KIF5A, KLC4 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 41279899
+  - PMID: 41466038
+  - PMID: 41621017
+  - PMID: 41629112
+  - PMID: 41750144
+  - PMID: 41760955
+## HYP-248: Network-proximity association between KIF5A and KLC3
+- **Mechanism:** KIF5A interacts directly with KLC3 with a confidence score of 0.998, suggesting functional coregulation or shared cascade.
+- **Genes involved:** KIF5A, KLC3
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: KIF5A, KLC3) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between KIF5A, KLC3 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 41279899
+  - PMID: 41466038
+  - PMID: 41621017
+  - PMID: 41629112
+  - PMID: 41750144
+  - PMID: 41760955
+## HYP-249: Network-proximity association between KIF5A and KIF5B
+- **Mechanism:** KIF5A interacts directly with KIF5B with a confidence score of 0.97, suggesting functional coregulation or shared cascade.
+- **Genes involved:** KIF5A, KIF5B
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: KIF5A, KIF5B) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between KIF5A, KIF5B will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 41279899
+  - PMID: 41466038
+  - PMID: 41621017
+  - PMID: 41629112
+  - PMID: 41750144
+  - PMID: 41760955
+## HYP-250: Network-proximity association between KIF5A and KIF5C
+- **Mechanism:** KIF5A interacts directly with KIF5C with a confidence score of 0.965, suggesting functional coregulation or shared cascade.
+- **Genes involved:** KIF5A, KIF5C
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: KIF5A, KIF5C) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between KIF5A, KIF5C will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 41279899
+  - PMID: 41466038
+  - PMID: 41621017
+  - PMID: 41629112
+  - PMID: 41750144
+  - PMID: 41760955
+## HYP-251: Network-proximity association between KIF5A and NEFL
+- **Mechanism:** KIF5A interacts directly with NEFL with a confidence score of 0.95, suggesting functional coregulation or shared cascade.
+- **Genes involved:** KIF5A, NEFL
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: KIF5A, NEFL) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between KIF5A, NEFL will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 41279899
+  - PMID: 41466038
+  - PMID: 41621017
+  - PMID: 41629112
+  - PMID: 41750144
+  - PMID: 41760955
+## HYP-252: Network-proximity association between KIF5A and NEFH
+- **Mechanism:** KIF5A interacts directly with NEFH with a confidence score of 0.947, suggesting functional coregulation or shared cascade.
+- **Genes involved:** KIF5A, NEFH
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: KIF5A, NEFH) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between KIF5A, NEFH will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 39386447
+  - PMID: 39913612
+  - PMID: 39985110
+  - PMID: 40313273
+  - PMID: 40607881
+  - PMID: 41279899
+## HYP-253: Network-proximity association between KIF5A and NEFM
+- **Mechanism:** KIF5A interacts directly with NEFM with a confidence score of 0.936, suggesting functional coregulation or shared cascade.
+- **Genes involved:** KIF5A, NEFM
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: KIF5A, NEFM) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between KIF5A, NEFM will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 41279899
+  - PMID: 41466038
+  - PMID: 41621017
+  - PMID: 41629112
+  - PMID: 41750144
+  - PMID: 41760955
+## HYP-254: Network-proximity association between KIF5A and SNCA
+- **Mechanism:** KIF5A interacts directly with SNCA with a confidence score of 0.924, suggesting functional coregulation or shared cascade.
+- **Genes involved:** KIF5A, SNCA
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: KIF5A, SNCA) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between KIF5A, SNCA will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 41279899
+  - PMID: 41466038
+  - PMID: 41621017
+  - PMID: 41629112
+  - PMID: 41750144
+  - PMID: 41760955
+## HYP-255: Network-proximity association between LRP12 and NOTCH2NLC
+- **Mechanism:** LRP12 interacts directly with NOTCH2NLC with a confidence score of 0.722, suggesting functional coregulation or shared cascade.
+- **Genes involved:** LRP12, NOTCH2NLC
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: LRP12, NOTCH2NLC) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** None
+- **Falsifiable prediction:** Disrupting the physical interaction between LRP12, NOTCH2NLC will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Medium
+- **Uncertainty:** Minimal outstanding uncertainty identified.
+- **Sources**:
+  - PMID: 31332380
+  - PMID: 34675123
+  - PMID: 37339631
+  - PMID: 38726482
+## HYP-256: Network-proximity association between MATR3 and TARDBP
+- **Mechanism:** MATR3 interacts directly with TARDBP with a confidence score of 0.995, suggesting functional coregulation or shared cascade.
+- **Genes involved:** MATR3, TARDBP
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: MATR3, TARDBP) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between MATR3, TARDBP will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 38891112
+  - PMID: 39192891
+  - PMID: 39323783
+  - PMID: 40667180
+  - PMID: 40707625
+  - PMID: 40806220
+## HYP-257: Network-proximity association between MATR3 and NONO
+- **Mechanism:** MATR3 interacts directly with NONO with a confidence score of 0.993, suggesting functional coregulation or shared cascade.
+- **Genes involved:** MATR3, NONO
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: MATR3, NONO) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** None
+- **Falsifiable prediction:** Disrupting the physical interaction between MATR3, NONO will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** High
+- **Uncertainty:** Minimal outstanding uncertainty identified.
+- **Sources**:
+  - PMID: 38891112
+  - PMID: 39192891
+  - PMID: 39323783
+  - PMID: 40667180
+  - PMID: 40707625
+  - PMID: 40806220
+## HYP-258: Network-proximity association between MATR3 and SFPQ
+- **Mechanism:** MATR3 interacts directly with SFPQ with a confidence score of 0.974, suggesting functional coregulation or shared cascade.
+- **Genes involved:** MATR3, SFPQ
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: MATR3, SFPQ) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** None
+- **Falsifiable prediction:** Disrupting the physical interaction between MATR3, SFPQ will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** High
+- **Uncertainty:** Minimal outstanding uncertainty identified.
+- **Sources**:
+  - PMID: 38891112
+  - PMID: 39192891
+  - PMID: 39323783
+  - PMID: 40667180
+  - PMID: 40707625
+  - PMID: 40806220
+## HYP-259: Network-proximity association between HNRNPA1 and MATR3
+- **Mechanism:** HNRNPA1 interacts directly with MATR3 with a confidence score of 0.95, suggesting functional coregulation or shared cascade.
+- **Genes involved:** HNRNPA1, MATR3
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: HNRNPA1, MATR3) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** None
+- **Falsifiable prediction:** Disrupting the physical interaction between HNRNPA1, MATR3 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** High
+- **Uncertainty:** Minimal outstanding uncertainty identified.
+- **Sources**:
+  - PMID: 38891112
+  - PMID: 39192891
+  - PMID: 39323783
+  - PMID: 40441157
+  - PMID: 40667180
+  - PMID: 40687373
+## HYP-260: Network-proximity association between MATR3 and RBM14
+- **Mechanism:** MATR3 interacts directly with RBM14 with a confidence score of 0.949, suggesting functional coregulation or shared cascade.
+- **Genes involved:** MATR3, RBM14
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: MATR3, RBM14) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** None
+- **Falsifiable prediction:** Disrupting the physical interaction between MATR3, RBM14 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** High
+- **Uncertainty:** Minimal outstanding uncertainty identified.
+- **Sources**:
+  - PMID: 38891112
+  - PMID: 39192891
+  - PMID: 39323783
+  - PMID: 40667180
+  - PMID: 40707625
+  - PMID: 40806220
+## HYP-261: Network-proximity association between HNRNPC and MATR3
+- **Mechanism:** HNRNPC interacts directly with MATR3 with a confidence score of 0.946, suggesting functional coregulation or shared cascade.
+- **Genes involved:** HNRNPC, MATR3
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: HNRNPC, MATR3) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** None
+- **Falsifiable prediction:** Disrupting the physical interaction between HNRNPC, MATR3 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** High
+- **Uncertainty:** Minimal outstanding uncertainty identified.
+- **Sources**:
+  - PMID: 38891112
+  - PMID: 39192891
+  - PMID: 39323783
+  - PMID: 40667180
+  - PMID: 40707625
+  - PMID: 40806220
+## HYP-262: Network-proximity association between HNRNPM and MATR3
+- **Mechanism:** HNRNPM interacts directly with MATR3 with a confidence score of 0.928, suggesting functional coregulation or shared cascade.
+- **Genes involved:** HNRNPM, MATR3
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: HNRNPM, MATR3) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** None
+- **Falsifiable prediction:** Disrupting the physical interaction between HNRNPM, MATR3 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** High
+- **Uncertainty:** Minimal outstanding uncertainty identified.
+- **Sources**:
+  - PMID: 38891112
+  - PMID: 39192891
+  - PMID: 39323783
+  - PMID: 40667180
+  - PMID: 40707625
+  - PMID: 40806220
+## HYP-263: Network-proximity association between MATR3 and PSPC1
+- **Mechanism:** MATR3 interacts directly with PSPC1 with a confidence score of 0.923, suggesting functional coregulation or shared cascade.
+- **Genes involved:** MATR3, PSPC1
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: MATR3, PSPC1) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** None
+- **Falsifiable prediction:** Disrupting the physical interaction between MATR3, PSPC1 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** High
+- **Uncertainty:** Minimal outstanding uncertainty identified.
+- **Sources**:
+  - PMID: 38891112
+  - PMID: 39192891
+  - PMID: 39323783
+  - PMID: 40667180
+  - PMID: 40707625
+  - PMID: 40806220
+## HYP-264: Network-proximity association between HNRNPK and MATR3
+- **Mechanism:** HNRNPK interacts directly with MATR3 with a confidence score of 0.923, suggesting functional coregulation or shared cascade.
+- **Genes involved:** HNRNPK, MATR3
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: HNRNPK, MATR3) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** None
+- **Falsifiable prediction:** Disrupting the physical interaction between HNRNPK, MATR3 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** High
+- **Uncertainty:** Minimal outstanding uncertainty identified.
+- **Sources**:
+  - PMID: 38891112
+  - PMID: 39192891
+  - PMID: 39323783
+  - PMID: 40667180
+  - PMID: 40707625
+  - PMID: 40806220
+## HYP-265: Network-proximity association between HNRNPH1 and MATR3
+- **Mechanism:** HNRNPH1 interacts directly with MATR3 with a confidence score of 0.911, suggesting functional coregulation or shared cascade.
+- **Genes involved:** HNRNPH1, MATR3
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: HNRNPH1, MATR3) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** None
+- **Falsifiable prediction:** Disrupting the physical interaction between HNRNPH1, MATR3 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** High
+- **Uncertainty:** Minimal outstanding uncertainty identified.
+- **Sources**:
+  - PMID: 38891112
+  - PMID: 39192891
+  - PMID: 39323783
+  - PMID: 40667180
+  - PMID: 40707625
+  - PMID: 40806220
+## HYP-266: Network-proximity association between NEFH and NEFL
+- **Mechanism:** NEFH interacts directly with NEFL with a confidence score of 0.996, suggesting functional coregulation or shared cascade.
+- **Genes involved:** NEFH, NEFL
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: NEFH, NEFL) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** None
+- **Falsifiable prediction:** Disrupting the physical interaction between NEFH, NEFL will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** High
+- **Uncertainty:** Minimal outstanding uncertainty identified.
+- **Sources**:
+  - PMID: 39386447
+  - PMID: 39913612
+  - PMID: 39985110
+  - PMID: 40313273
+  - PMID: 40607881
+  - PMID: 41387380
+## HYP-267: Network-proximity association between NEFH and NEFM
+- **Mechanism:** NEFH interacts directly with NEFM with a confidence score of 0.993, suggesting functional coregulation or shared cascade.
+- **Genes involved:** NEFH, NEFM
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: NEFH, NEFM) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** None
+- **Falsifiable prediction:** Disrupting the physical interaction between NEFH, NEFM will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** High
+- **Uncertainty:** Minimal outstanding uncertainty identified.
+- **Sources**:
+  - PMID: 39386447
+  - PMID: 39913612
+  - PMID: 39985110
+  - PMID: 40313273
+  - PMID: 40607881
+  - PMID: 41387380
+## HYP-268: Network-proximity association between INA and NEFH
+- **Mechanism:** INA interacts directly with NEFH with a confidence score of 0.988, suggesting functional coregulation or shared cascade.
+- **Genes involved:** INA, NEFH
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: INA, NEFH) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** None
+- **Falsifiable prediction:** Disrupting the physical interaction between INA, NEFH will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** High
+- **Uncertainty:** Minimal outstanding uncertainty identified.
+- **Sources**:
+  - PMID: 39386447
+  - PMID: 39913612
+  - PMID: 39985110
+  - PMID: 40313273
+  - PMID: 40607881
+  - PMID: 41387380
+## HYP-269: Network-proximity association between KIF5C and NEFH
+- **Mechanism:** KIF5C interacts directly with NEFH with a confidence score of 0.926, suggesting functional coregulation or shared cascade.
+- **Genes involved:** KIF5C, NEFH
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: KIF5C, NEFH) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** None
+- **Falsifiable prediction:** Disrupting the physical interaction between KIF5C, NEFH will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** High
+- **Uncertainty:** Minimal outstanding uncertainty identified.
+- **Sources**:
+  - PMID: 39386447
+  - PMID: 39913612
+  - PMID: 39985110
+  - PMID: 40313273
+  - PMID: 40607881
+  - PMID: 41387380
+## HYP-270: Network-proximity association between KLC1 and NEFH
+- **Mechanism:** KLC1 interacts directly with NEFH with a confidence score of 0.923, suggesting functional coregulation or shared cascade.
+- **Genes involved:** KLC1, NEFH
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: KLC1, NEFH) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** None
+- **Falsifiable prediction:** Disrupting the physical interaction between KLC1, NEFH will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** High
+- **Uncertainty:** Minimal outstanding uncertainty identified.
+- **Sources**:
+  - PMID: 39386447
+  - PMID: 39913612
+  - PMID: 39985110
+  - PMID: 40313273
+  - PMID: 40607881
+  - PMID: 41387380
+## HYP-271: Network-proximity association between KLC2 and NEFH
+- **Mechanism:** KLC2 interacts directly with NEFH with a confidence score of 0.922, suggesting functional coregulation or shared cascade.
+- **Genes involved:** KLC2, NEFH
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: KLC2, NEFH) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** None
+- **Falsifiable prediction:** Disrupting the physical interaction between KLC2, NEFH will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** High
+- **Uncertainty:** Minimal outstanding uncertainty identified.
+- **Sources**:
+  - PMID: 39386447
+  - PMID: 39913612
+  - PMID: 39985110
+  - PMID: 40313273
+  - PMID: 40607881
+  - PMID: 41387380
+## HYP-272: Network-proximity association between KLC3 and NEFH
+- **Mechanism:** KLC3 interacts directly with NEFH with a confidence score of 0.919, suggesting functional coregulation or shared cascade.
+- **Genes involved:** KLC3, NEFH
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: KLC3, NEFH) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** None
+- **Falsifiable prediction:** Disrupting the physical interaction between KLC3, NEFH will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** High
+- **Uncertainty:** Minimal outstanding uncertainty identified.
+- **Sources**:
+  - PMID: 39386447
+  - PMID: 39913612
+  - PMID: 39985110
+  - PMID: 40313273
+  - PMID: 40607881
+  - PMID: 41387380
+## HYP-273: Network-proximity association between KIF5B and NEFH
+- **Mechanism:** KIF5B interacts directly with NEFH with a confidence score of 0.918, suggesting functional coregulation or shared cascade.
+- **Genes involved:** KIF5B, NEFH
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: KIF5B, NEFH) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** None
+- **Falsifiable prediction:** Disrupting the physical interaction between KIF5B, NEFH will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** High
+- **Uncertainty:** Minimal outstanding uncertainty identified.
+- **Sources**:
+  - PMID: 39386447
+  - PMID: 39913612
+  - PMID: 39985110
+  - PMID: 40313273
+  - PMID: 40607881
+  - PMID: 41387380
+## HYP-274: Network-proximity association between KLC4 and NEFH
+- **Mechanism:** KLC4 interacts directly with NEFH with a confidence score of 0.915, suggesting functional coregulation or shared cascade.
+- **Genes involved:** KLC4, NEFH
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: KLC4, NEFH) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** None
+- **Falsifiable prediction:** Disrupting the physical interaction between KLC4, NEFH will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** High
+- **Uncertainty:** Minimal outstanding uncertainty identified.
+- **Sources**:
+  - PMID: 39386447
+  - PMID: 39913612
+  - PMID: 39985110
+  - PMID: 40313273
+  - PMID: 40607881
+  - PMID: 41387380
+## HYP-275: Network-proximity association between CFAP410 and NEK1
+- **Mechanism:** CFAP410 interacts directly with NEK1 with a confidence score of 0.982, suggesting functional coregulation or shared cascade.
+- **Genes involved:** CFAP410, NEK1
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: CFAP410, NEK1) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between CFAP410, NEK1 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 41137727
+  - PMID: 41144030
+  - PMID: 41196070
+  - PMID: 41359433
+  - PMID: 41583004
+  - PMID: 41804597
+## HYP-276: Network-proximity association between DYNC2H1 and NEK1
+- **Mechanism:** DYNC2H1 interacts directly with NEK1 with a confidence score of 0.972, suggesting functional coregulation or shared cascade.
+- **Genes involved:** DYNC2H1, NEK1
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: DYNC2H1, NEK1) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between DYNC2H1, NEK1 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 41137727
+  - PMID: 41144030
+  - PMID: 41196070
+  - PMID: 41359433
+  - PMID: 41583004
+  - PMID: 41804597
+## HYP-277: Network-proximity association between KIF3A and NEK1
+- **Mechanism:** KIF3A interacts directly with NEK1 with a confidence score of 0.802, suggesting functional coregulation or shared cascade.
+- **Genes involved:** KIF3A, NEK1
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: KIF3A, NEK1) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between KIF3A, NEK1 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 41137727
+  - PMID: 41144030
+  - PMID: 41196070
+  - PMID: 41359433
+  - PMID: 41583004
+  - PMID: 41804597
+## HYP-278: Network-proximity association between CHCHD10 and NEK1
+- **Mechanism:** CHCHD10 interacts directly with NEK1 with a confidence score of 0.733, suggesting functional coregulation or shared cascade.
+- **Genes involved:** CHCHD10, NEK1
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: CHCHD10, NEK1) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between CHCHD10, NEK1 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 41053020
+  - PMID: 41137727
+  - PMID: 41144030
+  - PMID: 41196070
+  - PMID: 41271630
+  - PMID: 41303337
+## HYP-279: Network-proximity association between NEK1 and VAPB
+- **Mechanism:** NEK1 interacts directly with VAPB with a confidence score of 0.717, suggesting functional coregulation or shared cascade.
+- **Genes involved:** NEK1, VAPB
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: NEK1, VAPB) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between NEK1, VAPB will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 40905788
+  - PMID: 41137727
+  - PMID: 41144030
+  - PMID: 41187939
+  - PMID: 41196070
+  - PMID: 41337593
+## HYP-280: Network-proximity association between OPTN and TBK1
+- **Mechanism:** OPTN interacts directly with TBK1 with a confidence score of 0.999, suggesting functional coregulation or shared cascade.
+- **Genes involved:** OPTN, TBK1
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: OPTN, TBK1) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between OPTN, TBK1 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 41259153
+  - PMID: 41269363
+  - PMID: 41283823
+  - PMID: 41294799
+  - PMID: 41302089
+  - PMID: 41337593
+## HYP-281: Network-proximity association between OPTN and RAB8A
+- **Mechanism:** OPTN interacts directly with RAB8A with a confidence score of 0.999, suggesting functional coregulation or shared cascade.
+- **Genes involved:** OPTN, RAB8A
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: OPTN, RAB8A) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between OPTN, RAB8A will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 41259153
+  - PMID: 41283823
+  - PMID: 41294799
+  - PMID: 41513843
+  - PMID: 41592170
+  - PMID: 41716354
+## HYP-282: Network-proximity association between GABARAP and OPTN
+- **Mechanism:** GABARAP interacts directly with OPTN with a confidence score of 0.999, suggesting functional coregulation or shared cascade.
+- **Genes involved:** GABARAP, OPTN
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: GABARAP, OPTN) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between GABARAP, OPTN will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 41259153
+  - PMID: 41283823
+  - PMID: 41294799
+  - PMID: 41513843
+  - PMID: 41592170
+  - PMID: 41716354
+## HYP-283: Network-proximity association between GABARAPL1 and OPTN
+- **Mechanism:** GABARAPL1 interacts directly with OPTN with a confidence score of 0.998, suggesting functional coregulation or shared cascade.
+- **Genes involved:** GABARAPL1, OPTN
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: GABARAPL1, OPTN) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between GABARAPL1, OPTN will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 41259153
+  - PMID: 41283823
+  - PMID: 41294799
+  - PMID: 41513843
+  - PMID: 41592170
+  - PMID: 41716354
+## HYP-284: Network-proximity association between GABARAPL2 and OPTN
+- **Mechanism:** GABARAPL2 interacts directly with OPTN with a confidence score of 0.998, suggesting functional coregulation or shared cascade.
+- **Genes involved:** GABARAPL2, OPTN
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: GABARAPL2, OPTN) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between GABARAPL2, OPTN will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 41259153
+  - PMID: 41283823
+  - PMID: 41294799
+  - PMID: 41513843
+  - PMID: 41592170
+  - PMID: 41716354
+## HYP-285: Network-proximity association between MAP1LC3B and OPTN
+- **Mechanism:** MAP1LC3B interacts directly with OPTN with a confidence score of 0.998, suggesting functional coregulation or shared cascade.
+- **Genes involved:** MAP1LC3B, OPTN
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: MAP1LC3B, OPTN) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between MAP1LC3B, OPTN will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 41259153
+  - PMID: 41283823
+  - PMID: 41294799
+  - PMID: 41513843
+  - PMID: 41592170
+  - PMID: 41716354
+## HYP-286: Network-proximity association between HTT and OPTN
+- **Mechanism:** HTT interacts directly with OPTN with a confidence score of 0.997, suggesting functional coregulation or shared cascade.
+- **Genes involved:** HTT, OPTN
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: HTT, OPTN) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between HTT, OPTN will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 41259153
+  - PMID: 41283823
+  - PMID: 41294799
+  - PMID: 41513843
+  - PMID: 41592170
+  - PMID: 41716354
+## HYP-287: Network-proximity association between OPTN and UBC
+- **Mechanism:** OPTN interacts directly with UBC with a confidence score of 0.996, suggesting functional coregulation or shared cascade.
+- **Genes involved:** OPTN, UBC
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: OPTN, UBC) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between OPTN, UBC will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 41259153
+  - PMID: 41283823
+  - PMID: 41294799
+  - PMID: 41513843
+  - PMID: 41592170
+  - PMID: 41716354
+## HYP-288: Network-proximity association between OPTN and SQSTM1
+- **Mechanism:** OPTN interacts directly with SQSTM1 with a confidence score of 0.994, suggesting functional coregulation or shared cascade.
+- **Genes involved:** OPTN, SQSTM1
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: OPTN, SQSTM1) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between OPTN, SQSTM1 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 41171761
+  - PMID: 41196070
+  - PMID: 41259153
+  - PMID: 41283823
+  - PMID: 41294799
+  - PMID: 41387380
+## HYP-289: Network-proximity association between OPTN and RAB11A
+- **Mechanism:** OPTN interacts directly with RAB11A with a confidence score of 0.993, suggesting functional coregulation or shared cascade.
+- **Genes involved:** OPTN, RAB11A
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: OPTN, RAB11A) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between OPTN, RAB11A will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 41259153
+  - PMID: 41283823
+  - PMID: 41294799
+  - PMID: 41513843
+  - PMID: 41592170
+  - PMID: 41716354
+## HYP-290: Network-proximity association between PFN1 and VASP
+- **Mechanism:** PFN1 interacts directly with VASP with a confidence score of 0.999, suggesting functional coregulation or shared cascade.
+- **Genes involved:** PFN1, VASP
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: PFN1, VASP) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between PFN1, VASP will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 39066921
+  - PMID: 39271636
+  - PMID: 39508106
+  - PMID: 40063831
+  - PMID: 40409555
+  - PMID: 40413526
+## HYP-291: Network-proximity association between ACTB and PFN1
+- **Mechanism:** ACTB interacts directly with PFN1 with a confidence score of 0.999, suggesting functional coregulation or shared cascade.
+- **Genes involved:** ACTB, PFN1
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: ACTB, PFN1) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between ACTB, PFN1 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 39066921
+  - PMID: 39271636
+  - PMID: 39508106
+  - PMID: 40063831
+  - PMID: 40409555
+  - PMID: 40413526
+## HYP-292: Network-proximity association between CFL1 and PFN1
+- **Mechanism:** CFL1 interacts directly with PFN1 with a confidence score of 0.994, suggesting functional coregulation or shared cascade.
+- **Genes involved:** CFL1, PFN1
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: CFL1, PFN1) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between CFL1, PFN1 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 39066921
+  - PMID: 39271636
+  - PMID: 39508106
+  - PMID: 40063831
+  - PMID: 40409555
+  - PMID: 40413526
+## HYP-293: Network-proximity association between APBB1IP and PFN1
+- **Mechanism:** APBB1IP interacts directly with PFN1 with a confidence score of 0.994, suggesting functional coregulation or shared cascade.
+- **Genes involved:** APBB1IP, PFN1
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: APBB1IP, PFN1) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between APBB1IP, PFN1 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 39066921
+  - PMID: 39271636
+  - PMID: 39508106
+  - PMID: 40063831
+  - PMID: 40409555
+  - PMID: 40413526
+## HYP-294: Network-proximity association between PFN1 and XPO6
+- **Mechanism:** PFN1 interacts directly with XPO6 with a confidence score of 0.992, suggesting functional coregulation or shared cascade.
+- **Genes involved:** PFN1, XPO6
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: PFN1, XPO6) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between PFN1, XPO6 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 39066921
+  - PMID: 39271636
+  - PMID: 39508106
+  - PMID: 40063831
+  - PMID: 40409555
+  - PMID: 40413526
+## HYP-295: Network-proximity association between ACTG1 and PFN1
+- **Mechanism:** ACTG1 interacts directly with PFN1 with a confidence score of 0.992, suggesting functional coregulation or shared cascade.
+- **Genes involved:** ACTG1, PFN1
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: ACTG1, PFN1) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between ACTG1, PFN1 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 39066921
+  - PMID: 39271636
+  - PMID: 39508106
+  - PMID: 40063831
+  - PMID: 40409555
+  - PMID: 40413526
+## HYP-296: Network-proximity association between PFN1 and WAS
+- **Mechanism:** PFN1 interacts directly with WAS with a confidence score of 0.991, suggesting functional coregulation or shared cascade.
+- **Genes involved:** PFN1, WAS
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: PFN1, WAS) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between PFN1, WAS will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 39066921
+  - PMID: 39271636
+  - PMID: 39508106
+  - PMID: 40063831
+  - PMID: 40409555
+  - PMID: 40413526
+## HYP-297: Network-proximity association between PFN1 and VCL
+- **Mechanism:** PFN1 interacts directly with VCL with a confidence score of 0.978, suggesting functional coregulation or shared cascade.
+- **Genes involved:** PFN1, VCL
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: PFN1, VCL) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between PFN1, VCL will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 39066921
+  - PMID: 39271636
+  - PMID: 39508106
+  - PMID: 40063831
+  - PMID: 40409555
+  - PMID: 40413526
+## HYP-298: Network-proximity association between ACTA1 and PFN1
+- **Mechanism:** ACTA1 interacts directly with PFN1 with a confidence score of 0.976, suggesting functional coregulation or shared cascade.
+- **Genes involved:** ACTA1, PFN1
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: ACTA1, PFN1) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between ACTA1, PFN1 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 39066921
+  - PMID: 39271636
+  - PMID: 39508106
+  - PMID: 40063831
+  - PMID: 40409555
+  - PMID: 40413526
+## HYP-299: Network-proximity association between DIAPH1 and PFN1
+- **Mechanism:** DIAPH1 interacts directly with PFN1 with a confidence score of 0.97, suggesting functional coregulation or shared cascade.
+- **Genes involved:** DIAPH1, PFN1
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: DIAPH1, PFN1) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between DIAPH1, PFN1 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 39066921
+  - PMID: 39271636
+  - PMID: 39508106
+  - PMID: 40063831
+  - PMID: 40409555
+  - PMID: 40413526
+## HYP-300: Network-proximity association between NEFM and PRPH
+- **Mechanism:** NEFM interacts directly with PRPH with a confidence score of 0.904, suggesting functional coregulation or shared cascade.
+- **Genes involved:** NEFM, PRPH
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: NEFM, PRPH) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between NEFM, PRPH will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential contradictory terms detected in supporting literature
+- **Sources**:
+  - PMID: 29063394
+  - PMID: 30385300
+  - PMID: 32638105
+  - PMID: 33281562
+  - PMID: 34264016
+  - PMID: 35714755
+## HYP-301: Network-proximity association between NEFH and PRPH
+- **Mechanism:** NEFH interacts directly with PRPH with a confidence score of 0.904, suggesting functional coregulation or shared cascade.
+- **Genes involved:** NEFH, PRPH
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: NEFH, PRPH) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between NEFH, PRPH will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential contradictory terms detected in supporting literature
+- **Sources**:
+  - PMID: 29063394
+  - PMID: 30385300
+  - PMID: 32638105
+  - PMID: 33281562
+  - PMID: 34264016
+  - PMID: 35714755
+## HYP-302: Network-proximity association between NEFL and PRPH
+- **Mechanism:** NEFL interacts directly with PRPH with a confidence score of 0.902, suggesting functional coregulation or shared cascade.
+- **Genes involved:** NEFL, PRPH
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: NEFL, PRPH) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between NEFL, PRPH will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential contradictory terms detected in supporting literature
+- **Sources**:
+  - PMID: 29063394
+  - PMID: 30385300
+  - PMID: 32638105
+  - PMID: 33281562
+  - PMID: 34264016
+  - PMID: 35714755
+## HYP-303: Network-proximity association between BRCA1 and SETX
+- **Mechanism:** BRCA1 interacts directly with SETX with a confidence score of 0.99, suggesting functional coregulation or shared cascade.
+- **Genes involved:** BRCA1, SETX
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: BRCA1, SETX) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between BRCA1, SETX will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 39070547
+  - PMID: 39416141
+  - PMID: 40338003
+  - PMID: 40830689
+  - PMID: 41064708
+  - PMID: 41137727
+## HYP-304: Network-proximity association between NRDC and SETX
+- **Mechanism:** NRDC interacts directly with SETX with a confidence score of 0.956, suggesting functional coregulation or shared cascade.
+- **Genes involved:** NRDC, SETX
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: NRDC, SETX) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between NRDC, SETX will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 39070547
+  - PMID: 39416141
+  - PMID: 40338003
+  - PMID: 40830689
+  - PMID: 41064708
+  - PMID: 41137727
+## HYP-305: Network-proximity association between SCAF8 and SETX
+- **Mechanism:** SCAF8 interacts directly with SETX with a confidence score of 0.948, suggesting functional coregulation or shared cascade.
+- **Genes involved:** SCAF8, SETX
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: SCAF8, SETX) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between SCAF8, SETX will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 39070547
+  - PMID: 39416141
+  - PMID: 40338003
+  - PMID: 40830689
+  - PMID: 41064708
+  - PMID: 41137727
+## HYP-306: Network-proximity association between APTX and SETX
+- **Mechanism:** APTX interacts directly with SETX with a confidence score of 0.945, suggesting functional coregulation or shared cascade.
+- **Genes involved:** APTX, SETX
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: APTX, SETX) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between APTX, SETX will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 39070547
+  - PMID: 39416141
+  - PMID: 40338003
+  - PMID: 40830689
+  - PMID: 41064708
+  - PMID: 41137727
+## HYP-307: Network-proximity association between POLR2A and SETX
+- **Mechanism:** POLR2A interacts directly with SETX with a confidence score of 0.93, suggesting functional coregulation or shared cascade.
+- **Genes involved:** POLR2A, SETX
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: POLR2A, SETX) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between POLR2A, SETX will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 39070547
+  - PMID: 39416141
+  - PMID: 40338003
+  - PMID: 40830689
+  - PMID: 41064708
+  - PMID: 41137727
+## HYP-308: Network-proximity association between SCAF4 and SETX
+- **Mechanism:** SCAF4 interacts directly with SETX with a confidence score of 0.926, suggesting functional coregulation or shared cascade.
+- **Genes involved:** SCAF4, SETX
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: SCAF4, SETX) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between SCAF4, SETX will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 39070547
+  - PMID: 39416141
+  - PMID: 40338003
+  - PMID: 40830689
+  - PMID: 41064708
+  - PMID: 41137727
+## HYP-309: Network-proximity association between FUS and SETX
+- **Mechanism:** FUS interacts directly with SETX with a confidence score of 0.887, suggesting functional coregulation or shared cascade.
+- **Genes involved:** FUS, SETX
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: FUS, SETX) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between FUS, SETX will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 39070547
+  - PMID: 39416141
+  - PMID: 40338003
+  - PMID: 40830689
+  - PMID: 41064708
+  - PMID: 41137727
+## HYP-310: Network-proximity association between SETX and XRN2
+- **Mechanism:** SETX interacts directly with XRN2 with a confidence score of 0.874, suggesting functional coregulation or shared cascade.
+- **Genes involved:** SETX, XRN2
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: SETX, XRN2) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between SETX, XRN2 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 39070547
+  - PMID: 39416141
+  - PMID: 40338003
+  - PMID: 40830689
+  - PMID: 41064708
+  - PMID: 41137727
+## HYP-311: Network-proximity association between SETX and VAPB
+- **Mechanism:** SETX interacts directly with VAPB with a confidence score of 0.865, suggesting functional coregulation or shared cascade.
+- **Genes involved:** SETX, VAPB
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: SETX, VAPB) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between SETX, VAPB will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 39070547
+  - PMID: 39416141
+  - PMID: 40338003
+  - PMID: 40830689
+  - PMID: 40905788
+  - PMID: 41064708
+## HYP-312: Network-proximity association between HSPA5 and SIGMAR1
+- **Mechanism:** HSPA5 interacts directly with SIGMAR1 with a confidence score of 0.992, suggesting functional coregulation or shared cascade.
+- **Genes involved:** HSPA5, SIGMAR1
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: HSPA5, SIGMAR1) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between HSPA5, SIGMAR1 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 34143516
+  - PMID: 35507432
+  - PMID: 36982902
+  - PMID: 37780700
+  - PMID: 38450645
+  - PMID: 38702287
+## HYP-313: Network-proximity association between CYP51A1 and SIGMAR1
+- **Mechanism:** CYP51A1 interacts directly with SIGMAR1 with a confidence score of 0.985, suggesting functional coregulation or shared cascade.
+- **Genes involved:** CYP51A1, SIGMAR1
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: CYP51A1, SIGMAR1) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between CYP51A1, SIGMAR1 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 34143516
+  - PMID: 35507432
+  - PMID: 36982902
+  - PMID: 37780700
+  - PMID: 38450645
+  - PMID: 38702287
+## HYP-314: Network-proximity association between ERG28 and SIGMAR1
+- **Mechanism:** ERG28 interacts directly with SIGMAR1 with a confidence score of 0.983, suggesting functional coregulation or shared cascade.
+- **Genes involved:** ERG28, SIGMAR1
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: ERG28, SIGMAR1) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between ERG28, SIGMAR1 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 34143516
+  - PMID: 35507432
+  - PMID: 36982902
+  - PMID: 37780700
+  - PMID: 38450645
+  - PMID: 38702287
+## HYP-315: Network-proximity association between SIGMAR1 and SQLE
+- **Mechanism:** SIGMAR1 interacts directly with SQLE with a confidence score of 0.974, suggesting functional coregulation or shared cascade.
+- **Genes involved:** SIGMAR1, SQLE
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: SIGMAR1, SQLE) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between SIGMAR1, SQLE will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 34143516
+  - PMID: 35507432
+  - PMID: 36982902
+  - PMID: 37780700
+  - PMID: 38450645
+  - PMID: 38702287
+## HYP-316: Network-proximity association between KCNH6 and SIGMAR1
+- **Mechanism:** KCNH6 interacts directly with SIGMAR1 with a confidence score of 0.944, suggesting functional coregulation or shared cascade.
+- **Genes involved:** KCNH6, SIGMAR1
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: KCNH6, SIGMAR1) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between KCNH6, SIGMAR1 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 34143516
+  - PMID: 35507432
+  - PMID: 36982902
+  - PMID: 37780700
+  - PMID: 38450645
+  - PMID: 38702287
+## HYP-317: Network-proximity association between SIGMAR1 and TMEM97
+- **Mechanism:** SIGMAR1 interacts directly with TMEM97 with a confidence score of 0.943, suggesting functional coregulation or shared cascade.
+- **Genes involved:** SIGMAR1, TMEM97
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: SIGMAR1, TMEM97) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between SIGMAR1, TMEM97 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 34143516
+  - PMID: 35507432
+  - PMID: 36982902
+  - PMID: 37780700
+  - PMID: 38450645
+  - PMID: 38702287
+## HYP-318: Network-proximity association between ITPR1 and SIGMAR1
+- **Mechanism:** ITPR1 interacts directly with SIGMAR1 with a confidence score of 0.938, suggesting functional coregulation or shared cascade.
+- **Genes involved:** ITPR1, SIGMAR1
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: ITPR1, SIGMAR1) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between ITPR1, SIGMAR1 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 34143516
+  - PMID: 35507432
+  - PMID: 36982902
+  - PMID: 37780700
+  - PMID: 38450645
+  - PMID: 38702287
+## HYP-319: Network-proximity association between ITPR3 and SIGMAR1
+- **Mechanism:** ITPR3 interacts directly with SIGMAR1 with a confidence score of 0.934, suggesting functional coregulation or shared cascade.
+- **Genes involved:** ITPR3, SIGMAR1
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: ITPR3, SIGMAR1) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between ITPR3, SIGMAR1 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 34143516
+  - PMID: 35507432
+  - PMID: 36982902
+  - PMID: 37780700
+  - PMID: 38450645
+  - PMID: 38702287
+## HYP-320: Network-proximity association between KCNA4 and SIGMAR1
+- **Mechanism:** KCNA4 interacts directly with SIGMAR1 with a confidence score of 0.917, suggesting functional coregulation or shared cascade.
+- **Genes involved:** KCNA4, SIGMAR1
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: KCNA4, SIGMAR1) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between KCNA4, SIGMAR1 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 34143516
+  - PMID: 35507432
+  - PMID: 36982902
+  - PMID: 37780700
+  - PMID: 38450645
+  - PMID: 38702287
+## HYP-321: Network-proximity association between MSMO1 and SIGMAR1
+- **Mechanism:** MSMO1 interacts directly with SIGMAR1 with a confidence score of 0.893, suggesting functional coregulation or shared cascade.
+- **Genes involved:** MSMO1, SIGMAR1
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: MSMO1, SIGMAR1) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between MSMO1, SIGMAR1 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 34143516
+  - PMID: 35507432
+  - PMID: 36982902
+  - PMID: 37780700
+  - PMID: 38450645
+  - PMID: 38702287
+## HYP-322: Network-proximity association between CCS and SOD1
+- **Mechanism:** CCS interacts directly with SOD1 with a confidence score of 0.999, suggesting functional coregulation or shared cascade.
+- **Genes involved:** CCS, SOD1
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: CCS, SOD1) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between CCS, SOD1 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 42239283
+  - PMID: 42240799
+  - PMID: 42250707
+  - PMID: 42265995
+  - PMID: 42268660
+  - PMID: 42282797
+## HYP-323: Network-proximity association between BCL2 and SOD1
+- **Mechanism:** BCL2 interacts directly with SOD1 with a confidence score of 0.998, suggesting functional coregulation or shared cascade.
+- **Genes involved:** BCL2, SOD1
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: BCL2, SOD1) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between BCL2, SOD1 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 42239283
+  - PMID: 42240799
+  - PMID: 42250707
+  - PMID: 42265995
+  - PMID: 42268660
+  - PMID: 42282797
+## HYP-324: Network-proximity association between PARK7 and SOD1
+- **Mechanism:** PARK7 interacts directly with SOD1 with a confidence score of 0.997, suggesting functional coregulation or shared cascade.
+- **Genes involved:** PARK7, SOD1
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: PARK7, SOD1) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between PARK7, SOD1 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 42239283
+  - PMID: 42240799
+  - PMID: 42250707
+  - PMID: 42265995
+  - PMID: 42268660
+  - PMID: 42282797
+## HYP-325: Network-proximity association between SOD1 and VDAC1
+- **Mechanism:** SOD1 interacts directly with VDAC1 with a confidence score of 0.996, suggesting functional coregulation or shared cascade.
+- **Genes involved:** SOD1, VDAC1
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: SOD1, VDAC1) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between SOD1, VDAC1 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 42239283
+  - PMID: 42240799
+  - PMID: 42250707
+  - PMID: 42265995
+  - PMID: 42268660
+  - PMID: 42282797
+## HYP-326: Network-proximity association between SOD1 and SOD2
+- **Mechanism:** SOD1 interacts directly with SOD2 with a confidence score of 0.994, suggesting functional coregulation or shared cascade.
+- **Genes involved:** SOD1, SOD2
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: SOD1, SOD2) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between SOD1, SOD2 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 42239283
+  - PMID: 42240799
+  - PMID: 42250707
+  - PMID: 42265995
+  - PMID: 42268660
+  - PMID: 42282797
+## HYP-327: Network-proximity association between SOD1 and TARDBP
+- **Mechanism:** SOD1 interacts directly with TARDBP with a confidence score of 0.989, suggesting functional coregulation or shared cascade.
+- **Genes involved:** SOD1, TARDBP
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: SOD1, TARDBP) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between SOD1, TARDBP will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 42141322
+  - PMID: 42171508
+  - PMID: 42171861
+  - PMID: 42195033
+  - PMID: 42227825
+  - PMID: 42234776
+## HYP-328: Network-proximity association between NEFL and SOD1
+- **Mechanism:** NEFL interacts directly with SOD1 with a confidence score of 0.976, suggesting functional coregulation or shared cascade.
+- **Genes involved:** NEFL, SOD1
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: NEFL, SOD1) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between NEFL, SOD1 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 42239283
+  - PMID: 42240799
+  - PMID: 42250707
+  - PMID: 42265995
+  - PMID: 42268660
+  - PMID: 42282797
+## HYP-329: Network-proximity association between HSPA5 and SOD1
+- **Mechanism:** HSPA5 interacts directly with SOD1 with a confidence score of 0.975, suggesting functional coregulation or shared cascade.
+- **Genes involved:** HSPA5, SOD1
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: HSPA5, SOD1) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between HSPA5, SOD1 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 42239283
+  - PMID: 42240799
+  - PMID: 42250707
+  - PMID: 42265995
+  - PMID: 42268660
+  - PMID: 42282797
+## HYP-330: Network-proximity association between DERL1 and SOD1
+- **Mechanism:** DERL1 interacts directly with SOD1 with a confidence score of 0.964, suggesting functional coregulation or shared cascade.
+- **Genes involved:** DERL1, SOD1
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: DERL1, SOD1) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between DERL1, SOD1 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 42239283
+  - PMID: 42240799
+  - PMID: 42250707
+  - PMID: 42265995
+  - PMID: 42268660
+  - PMID: 42282797
+## HYP-331: Network-proximity association between AP5Z1 and SPG11
+- **Mechanism:** AP5Z1 interacts directly with SPG11 with a confidence score of 0.996, suggesting functional coregulation or shared cascade.
+- **Genes involved:** AP5Z1, SPG11
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: AP5Z1, SPG11) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between AP5Z1, SPG11 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 20301623
+  - PMID: 34130600
+  - PMID: 34479069
+  - PMID: 36445564
+  - PMID: 36549973
+  - PMID: 37133535
+## HYP-332: Network-proximity association between SPG11 and ZFYVE26
+- **Mechanism:** SPG11 interacts directly with ZFYVE26 with a confidence score of 0.99, suggesting functional coregulation or shared cascade.
+- **Genes involved:** SPG11, ZFYVE26
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: SPG11, ZFYVE26) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between SPG11, ZFYVE26 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 20301623
+  - PMID: 34130600
+  - PMID: 34479069
+  - PMID: 36445564
+  - PMID: 36549973
+  - PMID: 37133535
+## HYP-333: Network-proximity association between AP5B1 and SPG11
+- **Mechanism:** AP5B1 interacts directly with SPG11 with a confidence score of 0.98, suggesting functional coregulation or shared cascade.
+- **Genes involved:** AP5B1, SPG11
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: AP5B1, SPG11) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between AP5B1, SPG11 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 20301623
+  - PMID: 34130600
+  - PMID: 34479069
+  - PMID: 36445564
+  - PMID: 36549973
+  - PMID: 37133535
+## HYP-334: Network-proximity association between AP5S1 and SPG11
+- **Mechanism:** AP5S1 interacts directly with SPG11 with a confidence score of 0.961, suggesting functional coregulation or shared cascade.
+- **Genes involved:** AP5S1, SPG11
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: AP5S1, SPG11) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between AP5S1, SPG11 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 20301623
+  - PMID: 34130600
+  - PMID: 34479069
+  - PMID: 36445564
+  - PMID: 36549973
+  - PMID: 37133535
+## HYP-335: Network-proximity association between SPG11 and SPG7
+- **Mechanism:** SPG11 interacts directly with SPG7 with a confidence score of 0.957, suggesting functional coregulation or shared cascade.
+- **Genes involved:** SPG11, SPG7
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: SPG11, SPG7) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between SPG11, SPG7 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 20301623
+  - PMID: 34130600
+  - PMID: 34479069
+  - PMID: 36445564
+  - PMID: 36549973
+  - PMID: 37133535
+## HYP-336: Network-proximity association between SPG11 and SPG21
+- **Mechanism:** SPG11 interacts directly with SPG21 with a confidence score of 0.949, suggesting functional coregulation or shared cascade.
+- **Genes involved:** SPG11, SPG21
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: SPG11, SPG21) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between SPG11, SPG21 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 20301623
+  - PMID: 34130600
+  - PMID: 34479069
+  - PMID: 36445564
+  - PMID: 36549973
+  - PMID: 37133535
+## HYP-337: Network-proximity association between SPAST and SPG11
+- **Mechanism:** SPAST interacts directly with SPG11 with a confidence score of 0.936, suggesting functional coregulation or shared cascade.
+- **Genes involved:** SPAST, SPG11
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: SPAST, SPG11) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between SPAST, SPG11 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 20301623
+  - PMID: 34130600
+  - PMID: 34479069
+  - PMID: 36445564
+  - PMID: 36549973
+  - PMID: 37133535
+## HYP-338: Network-proximity association between PNPLA6 and SPG11
+- **Mechanism:** PNPLA6 interacts directly with SPG11 with a confidence score of 0.856, suggesting functional coregulation or shared cascade.
+- **Genes involved:** PNPLA6, SPG11
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: PNPLA6, SPG11) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between PNPLA6, SPG11 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 20301623
+  - PMID: 34130600
+  - PMID: 34479069
+  - PMID: 36445564
+  - PMID: 36549973
+  - PMID: 37133535
+## HYP-339: Network-proximity association between SPART and SPG11
+- **Mechanism:** SPART interacts directly with SPG11 with a confidence score of 0.852, suggesting functional coregulation or shared cascade.
+- **Genes involved:** SPART, SPG11
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: SPART, SPG11) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between SPART, SPG11 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 20301623
+  - PMID: 34130600
+  - PMID: 34479069
+  - PMID: 36445564
+  - PMID: 36549973
+  - PMID: 37133535
+## HYP-340: Network-proximity association between AP5M1 and SPG11
+- **Mechanism:** AP5M1 interacts directly with SPG11 with a confidence score of 0.838, suggesting functional coregulation or shared cascade.
+- **Genes involved:** AP5M1, SPG11
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: AP5M1, SPG11) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between AP5M1, SPG11 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 20301623
+  - PMID: 34130600
+  - PMID: 34479069
+  - PMID: 36445564
+  - PMID: 36549973
+  - PMID: 37133535
+## HYP-341: Network-proximity association between SPTLC1 and SPTLC2
+- **Mechanism:** SPTLC1 interacts directly with SPTLC2 with a confidence score of 0.999, suggesting functional coregulation or shared cascade.
+- **Genes involved:** SPTLC1, SPTLC2
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: SPTLC1, SPTLC2) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** None
+- **Falsifiable prediction:** Disrupting the physical interaction between SPTLC1, SPTLC2 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** High
+- **Uncertainty:** Minimal outstanding uncertainty identified.
+- **Sources**:
+  - PMID: 37308477
+  - PMID: 37348646
+  - PMID: 37497262
+  - PMID: 38041669
+  - PMID: 38041679
+  - PMID: 38041684
+## HYP-342: Network-proximity association between SPTLC1 and SPTSSA
+- **Mechanism:** SPTLC1 interacts directly with SPTSSA with a confidence score of 0.999, suggesting functional coregulation or shared cascade.
+- **Genes involved:** SPTLC1, SPTSSA
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: SPTLC1, SPTSSA) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** None
+- **Falsifiable prediction:** Disrupting the physical interaction between SPTLC1, SPTSSA will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** High
+- **Uncertainty:** Minimal outstanding uncertainty identified.
+- **Sources**:
+  - PMID: 37308477
+  - PMID: 37348646
+  - PMID: 37497262
+  - PMID: 38041669
+  - PMID: 38041679
+  - PMID: 38041684
+## HYP-343: Network-proximity association between ORMDL3 and SPTLC1
+- **Mechanism:** ORMDL3 interacts directly with SPTLC1 with a confidence score of 0.999, suggesting functional coregulation or shared cascade.
+- **Genes involved:** ORMDL3, SPTLC1
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: ORMDL3, SPTLC1) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** None
+- **Falsifiable prediction:** Disrupting the physical interaction between ORMDL3, SPTLC1 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** High
+- **Uncertainty:** Minimal outstanding uncertainty identified.
+- **Sources**:
+  - PMID: 37308477
+  - PMID: 37348646
+  - PMID: 37497262
+  - PMID: 38041669
+  - PMID: 38041679
+  - PMID: 38041684
+## HYP-344: Network-proximity association between SPTLC1 and SPTSSB
+- **Mechanism:** SPTLC1 interacts directly with SPTSSB with a confidence score of 0.998, suggesting functional coregulation or shared cascade.
+- **Genes involved:** SPTLC1, SPTSSB
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: SPTLC1, SPTSSB) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** None
+- **Falsifiable prediction:** Disrupting the physical interaction between SPTLC1, SPTSSB will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** High
+- **Uncertainty:** Minimal outstanding uncertainty identified.
+- **Sources**:
+  - PMID: 37308477
+  - PMID: 37348646
+  - PMID: 37497262
+  - PMID: 38041669
+  - PMID: 38041679
+  - PMID: 38041684
+## HYP-345: Network-proximity association between SPTLC1 and SPTLC3
+- **Mechanism:** SPTLC1 interacts directly with SPTLC3 with a confidence score of 0.998, suggesting functional coregulation or shared cascade.
+- **Genes involved:** SPTLC1, SPTLC3
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: SPTLC1, SPTLC3) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** None
+- **Falsifiable prediction:** Disrupting the physical interaction between SPTLC1, SPTLC3 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** High
+- **Uncertainty:** Minimal outstanding uncertainty identified.
+- **Sources**:
+  - PMID: 37308477
+  - PMID: 37348646
+  - PMID: 37497262
+  - PMID: 38041669
+  - PMID: 38041679
+  - PMID: 38041684
+## HYP-346: Network-proximity association between KDSR and SPTLC1
+- **Mechanism:** KDSR interacts directly with SPTLC1 with a confidence score of 0.996, suggesting functional coregulation or shared cascade.
+- **Genes involved:** KDSR, SPTLC1
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: KDSR, SPTLC1) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** None
+- **Falsifiable prediction:** Disrupting the physical interaction between KDSR, SPTLC1 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** High
+- **Uncertainty:** Minimal outstanding uncertainty identified.
+- **Sources**:
+  - PMID: 37308477
+  - PMID: 37348646
+  - PMID: 37497262
+  - PMID: 38041669
+  - PMID: 38041679
+  - PMID: 38041684
+## HYP-347: Network-proximity association between ORMDL1 and SPTLC1
+- **Mechanism:** ORMDL1 interacts directly with SPTLC1 with a confidence score of 0.972, suggesting functional coregulation or shared cascade.
+- **Genes involved:** ORMDL1, SPTLC1
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: ORMDL1, SPTLC1) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** None
+- **Falsifiable prediction:** Disrupting the physical interaction between ORMDL1, SPTLC1 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** High
+- **Uncertainty:** Minimal outstanding uncertainty identified.
+- **Sources**:
+  - PMID: 37308477
+  - PMID: 37348646
+  - PMID: 37497262
+  - PMID: 38041669
+  - PMID: 38041679
+  - PMID: 38041684
+## HYP-348: Network-proximity association between ORMDL2 and SPTLC1
+- **Mechanism:** ORMDL2 interacts directly with SPTLC1 with a confidence score of 0.969, suggesting functional coregulation or shared cascade.
+- **Genes involved:** ORMDL2, SPTLC1
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: ORMDL2, SPTLC1) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** None
+- **Falsifiable prediction:** Disrupting the physical interaction between ORMDL2, SPTLC1 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** High
+- **Uncertainty:** Minimal outstanding uncertainty identified.
+- **Sources**:
+  - PMID: 37308477
+  - PMID: 37348646
+  - PMID: 37497262
+  - PMID: 38041669
+  - PMID: 38041679
+  - PMID: 38041684
+## HYP-349: Network-proximity association between ORM1 and SPTLC1
+- **Mechanism:** ORM1 interacts directly with SPTLC1 with a confidence score of 0.943, suggesting functional coregulation or shared cascade.
+- **Genes involved:** ORM1, SPTLC1
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: ORM1, SPTLC1) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** None
+- **Falsifiable prediction:** Disrupting the physical interaction between ORM1, SPTLC1 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** High
+- **Uncertainty:** Minimal outstanding uncertainty identified.
+- **Sources**:
+  - PMID: 37308477
+  - PMID: 37348646
+  - PMID: 37497262
+  - PMID: 38041669
+  - PMID: 38041679
+  - PMID: 38041684
+## HYP-350: Network-proximity association between SPTLC1 and ZDHHC9
+- **Mechanism:** SPTLC1 interacts directly with ZDHHC9 with a confidence score of 0.91, suggesting functional coregulation or shared cascade.
+- **Genes involved:** SPTLC1, ZDHHC9
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: SPTLC1, ZDHHC9) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** None
+- **Falsifiable prediction:** Disrupting the physical interaction between SPTLC1, ZDHHC9 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** High
+- **Uncertainty:** Minimal outstanding uncertainty identified.
+- **Sources**:
+  - PMID: 37308477
+  - PMID: 37348646
+  - PMID: 37497262
+  - PMID: 38041669
+  - PMID: 38041679
+  - PMID: 38041684
+## HYP-351: Network-proximity association between MAP1LC3A and SQSTM1
+- **Mechanism:** MAP1LC3A interacts directly with SQSTM1 with a confidence score of 0.999, suggesting functional coregulation or shared cascade.
+- **Genes involved:** MAP1LC3A, SQSTM1
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: MAP1LC3A, SQSTM1) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between MAP1LC3A, SQSTM1 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 41171761
+  - PMID: 41196070
+  - PMID: 41387380
+  - PMID: 41404692
+  - PMID: 41485128
+  - PMID: 41674118
+## HYP-352: Network-proximity association between KEAP1 and SQSTM1
+- **Mechanism:** KEAP1 interacts directly with SQSTM1 with a confidence score of 0.999, suggesting functional coregulation or shared cascade.
+- **Genes involved:** KEAP1, SQSTM1
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: KEAP1, SQSTM1) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between KEAP1, SQSTM1 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 41171761
+  - PMID: 41196070
+  - PMID: 41387380
+  - PMID: 41404692
+  - PMID: 41485128
+  - PMID: 41674118
+## HYP-353: Network-proximity association between NBR1 and SQSTM1
+- **Mechanism:** NBR1 interacts directly with SQSTM1 with a confidence score of 0.999, suggesting functional coregulation or shared cascade.
+- **Genes involved:** NBR1, SQSTM1
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: NBR1, SQSTM1) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between NBR1, SQSTM1 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 41171761
+  - PMID: 41196070
+  - PMID: 41387380
+  - PMID: 41404692
+  - PMID: 41485128
+  - PMID: 41674118
+## HYP-354: Network-proximity association between GABARAP and SQSTM1
+- **Mechanism:** GABARAP interacts directly with SQSTM1 with a confidence score of 0.999, suggesting functional coregulation or shared cascade.
+- **Genes involved:** GABARAP, SQSTM1
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: GABARAP, SQSTM1) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between GABARAP, SQSTM1 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 41171761
+  - PMID: 41196070
+  - PMID: 41387380
+  - PMID: 41404692
+  - PMID: 41485128
+  - PMID: 41674118
+## HYP-355: Network-proximity association between MAP1LC3B and SQSTM1
+- **Mechanism:** MAP1LC3B interacts directly with SQSTM1 with a confidence score of 0.999, suggesting functional coregulation or shared cascade.
+- **Genes involved:** MAP1LC3B, SQSTM1
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: MAP1LC3B, SQSTM1) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between MAP1LC3B, SQSTM1 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 41171761
+  - PMID: 41196070
+  - PMID: 41387380
+  - PMID: 41404692
+  - PMID: 41485128
+  - PMID: 41674118
+## HYP-356: Network-proximity association between GABARAPL2 and SQSTM1
+- **Mechanism:** GABARAPL2 interacts directly with SQSTM1 with a confidence score of 0.999, suggesting functional coregulation or shared cascade.
+- **Genes involved:** GABARAPL2, SQSTM1
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: GABARAPL2, SQSTM1) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between GABARAPL2, SQSTM1 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 41171761
+  - PMID: 41196070
+  - PMID: 41387380
+  - PMID: 41404692
+  - PMID: 41485128
+  - PMID: 41674118
+## HYP-357: Network-proximity association between SQSTM1 and TRAF6
+- **Mechanism:** SQSTM1 interacts directly with TRAF6 with a confidence score of 0.999, suggesting functional coregulation or shared cascade.
+- **Genes involved:** SQSTM1, TRAF6
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: SQSTM1, TRAF6) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between SQSTM1, TRAF6 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 41171761
+  - PMID: 41196070
+  - PMID: 41387380
+  - PMID: 41404692
+  - PMID: 41485128
+  - PMID: 41674118
+## HYP-358: Network-proximity association between SQSTM1 and UBC
+- **Mechanism:** SQSTM1 interacts directly with UBC with a confidence score of 0.999, suggesting functional coregulation or shared cascade.
+- **Genes involved:** SQSTM1, UBC
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: SQSTM1, UBC) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between SQSTM1, UBC will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 41171761
+  - PMID: 41196070
+  - PMID: 41387380
+  - PMID: 41404692
+  - PMID: 41485128
+  - PMID: 41674118
+## HYP-359: Network-proximity association between GABARAPL1 and SQSTM1
+- **Mechanism:** GABARAPL1 interacts directly with SQSTM1 with a confidence score of 0.999, suggesting functional coregulation or shared cascade.
+- **Genes involved:** GABARAPL1, SQSTM1
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: GABARAPL1, SQSTM1) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between GABARAPL1, SQSTM1 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 41171761
+  - PMID: 41196070
+  - PMID: 41387380
+  - PMID: 41404692
+  - PMID: 41485128
+  - PMID: 41674118
+## HYP-360: Network-proximity association between RIPK1 and SQSTM1
+- **Mechanism:** RIPK1 interacts directly with SQSTM1 with a confidence score of 0.997, suggesting functional coregulation or shared cascade.
+- **Genes involved:** RIPK1, SQSTM1
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: RIPK1, SQSTM1) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between RIPK1, SQSTM1 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 41171761
+  - PMID: 41196070
+  - PMID: 41387380
+  - PMID: 41404692
+  - PMID: 41485128
+  - PMID: 41674118
+## HYP-361: Network-proximity association between HNRNPA2B1 and TARDBP
+- **Mechanism:** HNRNPA2B1 interacts directly with TARDBP with a confidence score of 0.998, suggesting functional coregulation or shared cascade.
+- **Genes involved:** HNRNPA2B1, TARDBP
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: HNRNPA2B1, TARDBP) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between HNRNPA2B1, TARDBP will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 42141322
+  - PMID: 42171508
+  - PMID: 42171861
+  - PMID: 42195033
+  - PMID: 42227825
+  - PMID: 42234776
+## HYP-362: Network-proximity association between MATR3-2 and TARDBP
+- **Mechanism:** MATR3-2 interacts directly with TARDBP with a confidence score of 0.996, suggesting functional coregulation or shared cascade.
+- **Genes involved:** MATR3-2, TARDBP
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: MATR3-2, TARDBP) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between MATR3-2, TARDBP will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 42141322
+  - PMID: 42171508
+  - PMID: 42171861
+  - PMID: 42195033
+  - PMID: 42227825
+  - PMID: 42234776
+## HYP-363: Network-proximity association between SNCA and TARDBP
+- **Mechanism:** SNCA interacts directly with TARDBP with a confidence score of 0.994, suggesting functional coregulation or shared cascade.
+- **Genes involved:** SNCA, TARDBP
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: SNCA, TARDBP) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between SNCA, TARDBP will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 42141322
+  - PMID: 42171508
+  - PMID: 42171861
+  - PMID: 42195033
+  - PMID: 42227825
+  - PMID: 42234776
+## HYP-364: Network-proximity association between DROSHA and TARDBP
+- **Mechanism:** DROSHA interacts directly with TARDBP with a confidence score of 0.992, suggesting functional coregulation or shared cascade.
+- **Genes involved:** DROSHA, TARDBP
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: DROSHA, TARDBP) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between DROSHA, TARDBP will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 42141322
+  - PMID: 42171508
+  - PMID: 42171861
+  - PMID: 42195033
+  - PMID: 42227825
+  - PMID: 42234776
+## HYP-365: Network-proximity association between PRKN and TARDBP
+- **Mechanism:** PRKN interacts directly with TARDBP with a confidence score of 0.984, suggesting functional coregulation or shared cascade.
+- **Genes involved:** PRKN, TARDBP
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: PRKN, TARDBP) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between PRKN, TARDBP will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 42141322
+  - PMID: 42171508
+  - PMID: 42171861
+  - PMID: 42195033
+  - PMID: 42227825
+  - PMID: 42234776
+## HYP-366: Network-proximity association between IRF3 and TBK1
+- **Mechanism:** IRF3 interacts directly with TBK1 with a confidence score of 0.999, suggesting functional coregulation or shared cascade.
+- **Genes involved:** IRF3, TBK1
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: IRF3, TBK1) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between IRF3, TBK1 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 41269363
+  - PMID: 41302089
+  - PMID: 41337593
+  - PMID: 41430073
+  - PMID: 41485128
+  - PMID: 41603250
+## HYP-367: Network-proximity association between TANK and TBK1
+- **Mechanism:** TANK interacts directly with TBK1 with a confidence score of 0.999, suggesting functional coregulation or shared cascade.
+- **Genes involved:** TANK, TBK1
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: TANK, TBK1) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between TANK, TBK1 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 41269363
+  - PMID: 41302089
+  - PMID: 41337593
+  - PMID: 41430073
+  - PMID: 41485128
+  - PMID: 41603250
+## HYP-368: Network-proximity association between TBK1 and TBKBP1
+- **Mechanism:** TBK1 interacts directly with TBKBP1 with a confidence score of 0.999, suggesting functional coregulation or shared cascade.
+- **Genes involved:** TBK1, TBKBP1
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: TBK1, TBKBP1) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between TBK1, TBKBP1 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 41269363
+  - PMID: 41302089
+  - PMID: 41337593
+  - PMID: 41430073
+  - PMID: 41485128
+  - PMID: 41603250
+## HYP-369: Network-proximity association between IKBKE and TBK1
+- **Mechanism:** IKBKE interacts directly with TBK1 with a confidence score of 0.999, suggesting functional coregulation or shared cascade.
+- **Genes involved:** IKBKE, TBK1
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: IKBKE, TBK1) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between IKBKE, TBK1 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 41269363
+  - PMID: 41302089
+  - PMID: 41337593
+  - PMID: 41430073
+  - PMID: 41485128
+  - PMID: 41603250
+## HYP-370: Network-proximity association between STING1 and TBK1
+- **Mechanism:** STING1 interacts directly with TBK1 with a confidence score of 0.999, suggesting functional coregulation or shared cascade.
+- **Genes involved:** STING1, TBK1
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: STING1, TBK1) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between STING1, TBK1 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 41269363
+  - PMID: 41302089
+  - PMID: 41337593
+  - PMID: 41430073
+  - PMID: 41485128
+  - PMID: 41603250
+## HYP-371: Network-proximity association between DDX3X and TBK1
+- **Mechanism:** DDX3X interacts directly with TBK1 with a confidence score of 0.999, suggesting functional coregulation or shared cascade.
+- **Genes involved:** DDX3X, TBK1
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: DDX3X, TBK1) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between DDX3X, TBK1 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 41269363
+  - PMID: 41302089
+  - PMID: 41337593
+  - PMID: 41430073
+  - PMID: 41485128
+  - PMID: 41603250
+## HYP-372: Network-proximity association between AZI2 and TBK1
+- **Mechanism:** AZI2 interacts directly with TBK1 with a confidence score of 0.999, suggesting functional coregulation or shared cascade.
+- **Genes involved:** AZI2, TBK1
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: AZI2, TBK1) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between AZI2, TBK1 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 41269363
+  - PMID: 41302089
+  - PMID: 41337593
+  - PMID: 41430073
+  - PMID: 41485128
+  - PMID: 41603250
+## HYP-373: Network-proximity association between TBK1 and TRAF3
+- **Mechanism:** TBK1 interacts directly with TRAF3 with a confidence score of 0.999, suggesting functional coregulation or shared cascade.
+- **Genes involved:** TBK1, TRAF3
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: TBK1, TRAF3) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between TBK1, TRAF3 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 41269363
+  - PMID: 41302089
+  - PMID: 41337593
+  - PMID: 41430073
+  - PMID: 41485128
+  - PMID: 41603250
+## HYP-374: Network-proximity association between MAVS and TBK1
+- **Mechanism:** MAVS interacts directly with TBK1 with a confidence score of 0.999, suggesting functional coregulation or shared cascade.
+- **Genes involved:** MAVS, TBK1
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: MAVS, TBK1) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between MAVS, TBK1 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 41269363
+  - PMID: 41302089
+  - PMID: 41337593
+  - PMID: 41430073
+  - PMID: 41485128
+  - PMID: 41603250
+## HYP-375: Network-proximity association between G3BP1 and TIA1
+- **Mechanism:** G3BP1 interacts directly with TIA1 with a confidence score of 0.998, suggesting functional coregulation or shared cascade.
+- **Genes involved:** G3BP1, TIA1
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: G3BP1, TIA1) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** None
+- **Falsifiable prediction:** Disrupting the physical interaction between G3BP1, TIA1 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** High
+- **Uncertainty:** Minimal outstanding uncertainty identified.
+- **Sources**:
+  - PMID: 36499097
+  - PMID: 36747652
+  - PMID: 37250416
+  - PMID: 38193795
+  - PMID: 38239833
+  - PMID: 38638178
+## HYP-376: Network-proximity association between TIA1 and TIAL1
+- **Mechanism:** TIA1 interacts directly with TIAL1 with a confidence score of 0.983, suggesting functional coregulation or shared cascade.
+- **Genes involved:** TIA1, TIAL1
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: TIA1, TIAL1) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** None
+- **Falsifiable prediction:** Disrupting the physical interaction between TIA1, TIAL1 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** High
+- **Uncertainty:** Minimal outstanding uncertainty identified.
+- **Sources**:
+  - PMID: 36499097
+  - PMID: 36747652
+  - PMID: 37250416
+  - PMID: 38193795
+  - PMID: 38239833
+  - PMID: 38638178
+## HYP-377: Network-proximity association between SNRPC and TIA1
+- **Mechanism:** SNRPC interacts directly with TIA1 with a confidence score of 0.976, suggesting functional coregulation or shared cascade.
+- **Genes involved:** SNRPC, TIA1
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: SNRPC, TIA1) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** None
+- **Falsifiable prediction:** Disrupting the physical interaction between SNRPC, TIA1 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** High
+- **Uncertainty:** Minimal outstanding uncertainty identified.
+- **Sources**:
+  - PMID: 36499097
+  - PMID: 36747652
+  - PMID: 37250416
+  - PMID: 38193795
+  - PMID: 38239833
+  - PMID: 38638178
+## HYP-378: Network-proximity association between ELAVL1 and TIA1
+- **Mechanism:** ELAVL1 interacts directly with TIA1 with a confidence score of 0.975, suggesting functional coregulation or shared cascade.
+- **Genes involved:** ELAVL1, TIA1
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: ELAVL1, TIA1) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** None
+- **Falsifiable prediction:** Disrupting the physical interaction between ELAVL1, TIA1 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** High
+- **Uncertainty:** Minimal outstanding uncertainty identified.
+- **Sources**:
+  - PMID: 36499097
+  - PMID: 36747652
+  - PMID: 37250416
+  - PMID: 38193795
+  - PMID: 38239833
+  - PMID: 38638178
+## HYP-379: Network-proximity association between EIF4G1 and TIA1
+- **Mechanism:** EIF4G1 interacts directly with TIA1 with a confidence score of 0.966, suggesting functional coregulation or shared cascade.
+- **Genes involved:** EIF4G1, TIA1
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: EIF4G1, TIA1) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** None
+- **Falsifiable prediction:** Disrupting the physical interaction between EIF4G1, TIA1 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** High
+- **Uncertainty:** Minimal outstanding uncertainty identified.
+- **Sources**:
+  - PMID: 36499097
+  - PMID: 36747652
+  - PMID: 37250416
+  - PMID: 38193795
+  - PMID: 38239833
+  - PMID: 38638178
+## HYP-380: Network-proximity association between EIF4E and TIA1
+- **Mechanism:** EIF4E interacts directly with TIA1 with a confidence score of 0.938, suggesting functional coregulation or shared cascade.
+- **Genes involved:** EIF4E, TIA1
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: EIF4E, TIA1) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** None
+- **Falsifiable prediction:** Disrupting the physical interaction between EIF4E, TIA1 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** High
+- **Uncertainty:** Minimal outstanding uncertainty identified.
+- **Sources**:
+  - PMID: 36499097
+  - PMID: 36747652
+  - PMID: 37250416
+  - PMID: 38193795
+  - PMID: 38239833
+  - PMID: 38638178
+## HYP-381: Network-proximity association between PABPC1 and TIA1
+- **Mechanism:** PABPC1 interacts directly with TIA1 with a confidence score of 0.934, suggesting functional coregulation or shared cascade.
+- **Genes involved:** PABPC1, TIA1
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: PABPC1, TIA1) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** None
+- **Falsifiable prediction:** Disrupting the physical interaction between PABPC1, TIA1 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** High
+- **Uncertainty:** Minimal outstanding uncertainty identified.
+- **Sources**:
+  - PMID: 36499097
+  - PMID: 36747652
+  - PMID: 37250416
+  - PMID: 38193795
+  - PMID: 38239833
+  - PMID: 38638178
+## HYP-382: Network-proximity association between TARDBP and TIA1
+- **Mechanism:** TARDBP interacts directly with TIA1 with a confidence score of 0.927, suggesting functional coregulation or shared cascade.
+- **Genes involved:** TARDBP, TIA1
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: TARDBP, TIA1) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between TARDBP, TIA1 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 36499097
+  - PMID: 36747652
+  - PMID: 37250416
+  - PMID: 38193795
+  - PMID: 38239833
+  - PMID: 38638178
+## HYP-383: Network-proximity association between PCBP2 and TIA1
+- **Mechanism:** PCBP2 interacts directly with TIA1 with a confidence score of 0.904, suggesting functional coregulation or shared cascade.
+- **Genes involved:** PCBP2, TIA1
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: PCBP2, TIA1) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** None
+- **Falsifiable prediction:** Disrupting the physical interaction between PCBP2, TIA1 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** High
+- **Uncertainty:** Minimal outstanding uncertainty identified.
+- **Sources**:
+  - PMID: 36499097
+  - PMID: 36747652
+  - PMID: 37250416
+  - PMID: 38193795
+  - PMID: 38239833
+  - PMID: 38638178
+## HYP-384: Network-proximity association between ATXN2 and TIA1
+- **Mechanism:** ATXN2 interacts directly with TIA1 with a confidence score of 0.895, suggesting functional coregulation or shared cascade.
+- **Genes involved:** ATXN2, TIA1
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: ATXN2, TIA1) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** None
+- **Falsifiable prediction:** Disrupting the physical interaction between ATXN2, TIA1 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** High
+- **Uncertainty:** Minimal outstanding uncertainty identified.
+- **Sources**:
+  - PMID: 36499097
+  - PMID: 36747652
+  - PMID: 37250416
+  - PMID: 38193795
+  - PMID: 38239833
+  - PMID: 38638178
+## HYP-385: Network-proximity association between TARDBP and TMEM106B
+- **Mechanism:** TARDBP interacts directly with TMEM106B with a confidence score of 0.935, suggesting functional coregulation or shared cascade.
+- **Genes involved:** TARDBP, TMEM106B
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: TARDBP, TMEM106B) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between TARDBP, TMEM106B will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 39606446
+  - PMID: 40011708
+  - PMID: 40293530
+  - PMID: 40316175
+  - PMID: 40959204
+  - PMID: 41120750
+## HYP-386: Network-proximity association between GRN and TMEM106B
+- **Mechanism:** GRN interacts directly with TMEM106B with a confidence score of 0.906, suggesting functional coregulation or shared cascade.
+- **Genes involved:** GRN, TMEM106B
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: GRN, TMEM106B) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** None
+- **Falsifiable prediction:** Disrupting the physical interaction between GRN, TMEM106B will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** High
+- **Uncertainty:** Minimal outstanding uncertainty identified.
+- **Sources**:
+  - PMID: 39606446
+  - PMID: 40011708
+  - PMID: 40293530
+  - PMID: 40316175
+  - PMID: 40959204
+  - PMID: 41120750
+## HYP-387: Network-proximity association between CHMP2B and TMEM106B
+- **Mechanism:** CHMP2B interacts directly with TMEM106B with a confidence score of 0.802, suggesting functional coregulation or shared cascade.
+- **Genes involved:** CHMP2B, TMEM106B
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: CHMP2B, TMEM106B) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between CHMP2B, TMEM106B will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 20301378
+  - PMID: 20301623
+  - PMID: 37606396
+  - PMID: 37635943
+  - PMID: 38392208
+  - PMID: 39606446
+## HYP-388: Network-proximity association between MAP6 and TMEM106B
+- **Mechanism:** MAP6 interacts directly with TMEM106B with a confidence score of 0.797, suggesting functional coregulation or shared cascade.
+- **Genes involved:** MAP6, TMEM106B
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: MAP6, TMEM106B) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** None
+- **Falsifiable prediction:** Disrupting the physical interaction between MAP6, TMEM106B will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Medium
+- **Uncertainty:** Minimal outstanding uncertainty identified.
+- **Sources**:
+  - PMID: 39606446
+  - PMID: 40011708
+  - PMID: 40293530
+  - PMID: 40316175
+  - PMID: 40959204
+  - PMID: 41120750
+## HYP-389: Network-proximity association between C9orf72 and TMEM106B
+- **Mechanism:** C9orf72 interacts directly with TMEM106B with a confidence score of 0.753, suggesting functional coregulation or shared cascade.
+- **Genes involved:** C9orf72, TMEM106B
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: C9orf72, TMEM106B) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between C9orf72, TMEM106B will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 39606446
+  - PMID: 40011708
+  - PMID: 40293530
+  - PMID: 40316175
+  - PMID: 40959204
+  - PMID: 41120750
+## HYP-390: Network-proximity association between MAPT and TMEM106B
+- **Mechanism:** MAPT interacts directly with TMEM106B with a confidence score of 0.749, suggesting functional coregulation or shared cascade.
+- **Genes involved:** MAPT, TMEM106B
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: MAPT, TMEM106B) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** None
+- **Falsifiable prediction:** Disrupting the physical interaction between MAPT, TMEM106B will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Medium
+- **Uncertainty:** Minimal outstanding uncertainty identified.
+- **Sources**:
+  - PMID: 39606446
+  - PMID: 40011708
+  - PMID: 40293530
+  - PMID: 40316175
+  - PMID: 40959204
+  - PMID: 41120750
+## HYP-391: Network-proximity association between TRPM7 and TRPV2
+- **Mechanism:** TRPM7 interacts directly with TRPV2 with a confidence score of 0.978, suggesting functional coregulation or shared cascade.
+- **Genes involved:** TRPM7, TRPV2
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: TRPM7, TRPV2) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** None
+- **Falsifiable prediction:** Disrupting the physical interaction between TRPM7, TRPV2 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** High
+- **Uncertainty:** Minimal outstanding uncertainty identified.
+- **Sources**:
+  - PMID: 16051700
+  - PMID: 17395433
+  - PMID: 19405049
+  - PMID: 19929729
+  - PMID: 21290295
+  - PMID: 25681989
+## HYP-392: Network-proximity association between TRPM6 and TRPM7
+- **Mechanism:** TRPM6 interacts directly with TRPM7 with a confidence score of 0.974, suggesting functional coregulation or shared cascade.
+- **Genes involved:** TRPM6, TRPM7
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: TRPM6, TRPM7) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** None
+- **Falsifiable prediction:** Disrupting the physical interaction between TRPM6, TRPM7 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** High
+- **Uncertainty:** Minimal outstanding uncertainty identified.
+- **Sources**:
+  - PMID: 16051700
+  - PMID: 17395433
+  - PMID: 19405049
+  - PMID: 19929729
+  - PMID: 21290295
+  - PMID: 25681989
+## HYP-393: Network-proximity association between MLKL and TRPM7
+- **Mechanism:** MLKL interacts directly with TRPM7 with a confidence score of 0.932, suggesting functional coregulation or shared cascade.
+- **Genes involved:** MLKL, TRPM7
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: MLKL, TRPM7) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** None
+- **Falsifiable prediction:** Disrupting the physical interaction between MLKL, TRPM7 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** High
+- **Uncertainty:** Minimal outstanding uncertainty identified.
+- **Sources**:
+  - PMID: 16051700
+  - PMID: 17395433
+  - PMID: 19405049
+  - PMID: 19929729
+  - PMID: 21290295
+  - PMID: 25681989
+## HYP-394: Network-proximity association between TRPM2 and TRPM7
+- **Mechanism:** TRPM2 interacts directly with TRPM7 with a confidence score of 0.924, suggesting functional coregulation or shared cascade.
+- **Genes involved:** TRPM2, TRPM7
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: TRPM2, TRPM7) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** None
+- **Falsifiable prediction:** Disrupting the physical interaction between TRPM2, TRPM7 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** High
+- **Uncertainty:** Minimal outstanding uncertainty identified.
+- **Sources**:
+  - PMID: 16051700
+  - PMID: 17395433
+  - PMID: 19405049
+  - PMID: 19929729
+  - PMID: 21290295
+  - PMID: 25681989
+## HYP-395: Network-proximity association between TRPC1 and TRPM7
+- **Mechanism:** TRPC1 interacts directly with TRPM7 with a confidence score of 0.814, suggesting functional coregulation or shared cascade.
+- **Genes involved:** TRPC1, TRPM7
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: TRPC1, TRPM7) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** None
+- **Falsifiable prediction:** Disrupting the physical interaction between TRPC1, TRPM7 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Medium
+- **Uncertainty:** Minimal outstanding uncertainty identified.
+- **Sources**:
+  - PMID: 16051700
+  - PMID: 17395433
+  - PMID: 19405049
+  - PMID: 19929729
+  - PMID: 21290295
+  - PMID: 25681989
+## HYP-396: Network-proximity association between PLCB1 and TRPM7
+- **Mechanism:** PLCB1 interacts directly with TRPM7 with a confidence score of 0.792, suggesting functional coregulation or shared cascade.
+- **Genes involved:** PLCB1, TRPM7
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: PLCB1, TRPM7) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** None
+- **Falsifiable prediction:** Disrupting the physical interaction between PLCB1, TRPM7 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Medium
+- **Uncertainty:** Minimal outstanding uncertainty identified.
+- **Sources**:
+  - PMID: 16051700
+  - PMID: 17395433
+  - PMID: 19405049
+  - PMID: 19929729
+  - PMID: 21290295
+  - PMID: 25681989
+## HYP-397: Network-proximity association between SLC41A1 and TRPM7
+- **Mechanism:** SLC41A1 interacts directly with TRPM7 with a confidence score of 0.78, suggesting functional coregulation or shared cascade.
+- **Genes involved:** SLC41A1, TRPM7
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: SLC41A1, TRPM7) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** None
+- **Falsifiable prediction:** Disrupting the physical interaction between SLC41A1, TRPM7 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Medium
+- **Uncertainty:** Minimal outstanding uncertainty identified.
+- **Sources**:
+  - PMID: 16051700
+  - PMID: 17395433
+  - PMID: 19405049
+  - PMID: 19929729
+  - PMID: 21290295
+  - PMID: 25681989
+## HYP-398: Network-proximity association between TRPM7 and TRPV4
+- **Mechanism:** TRPM7 interacts directly with TRPV4 with a confidence score of 0.754, suggesting functional coregulation or shared cascade.
+- **Genes involved:** TRPM7, TRPV4
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: TRPM7, TRPV4) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** None
+- **Falsifiable prediction:** Disrupting the physical interaction between TRPM7, TRPV4 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Medium
+- **Uncertainty:** Minimal outstanding uncertainty identified.
+- **Sources**:
+  - PMID: 16051700
+  - PMID: 17395433
+  - PMID: 19405049
+  - PMID: 19929729
+  - PMID: 21290295
+  - PMID: 25681989
+## HYP-399: Network-proximity association between TRPA1 and TRPM7
+- **Mechanism:** TRPA1 interacts directly with TRPM7 with a confidence score of 0.751, suggesting functional coregulation or shared cascade.
+- **Genes involved:** TRPA1, TRPM7
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: TRPA1, TRPM7) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** None
+- **Falsifiable prediction:** Disrupting the physical interaction between TRPA1, TRPM7 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Medium
+- **Uncertainty:** Minimal outstanding uncertainty identified.
+- **Sources**:
+  - PMID: 16051700
+  - PMID: 17395433
+  - PMID: 19405049
+  - PMID: 19929729
+  - PMID: 21290295
+  - PMID: 25681989
+## HYP-400: Network-proximity association between TRPM7 and TRPV6
+- **Mechanism:** TRPM7 interacts directly with TRPV6 with a confidence score of 0.747, suggesting functional coregulation or shared cascade.
+- **Genes involved:** TRPM7, TRPV6
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: TRPM7, TRPV6) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** None
+- **Falsifiable prediction:** Disrupting the physical interaction between TRPM7, TRPV6 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Medium
+- **Uncertainty:** Minimal outstanding uncertainty identified.
+- **Sources**:
+  - PMID: 16051700
+  - PMID: 17395433
+  - PMID: 19405049
+  - PMID: 19929729
+  - PMID: 21290295
+  - PMID: 25681989
+## HYP-401: Network-proximity association between TUBA4A and TUBB2A
+- **Mechanism:** TUBA4A interacts directly with TUBB2A with a confidence score of 0.995, suggesting functional coregulation or shared cascade.
+- **Genes involved:** TUBA4A, TUBB2A
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: TUBA4A, TUBB2A) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between TUBA4A, TUBB2A will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 20301623
+  - PMID: 38102515
+  - PMID: 38177100
+  - PMID: 38239833
+  - PMID: 38463699
+  - PMID: 38884572
+## HYP-402: Network-proximity association between TUBA4A and TUBB
+- **Mechanism:** TUBA4A interacts directly with TUBB with a confidence score of 0.994, suggesting functional coregulation or shared cascade.
+- **Genes involved:** TUBA4A, TUBB
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: TUBA4A, TUBB) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between TUBA4A, TUBB will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 20301623
+  - PMID: 38102515
+  - PMID: 38177100
+  - PMID: 38239833
+  - PMID: 38463699
+  - PMID: 38884572
+## HYP-403: Network-proximity association between TUBA4A and TUBB3
+- **Mechanism:** TUBA4A interacts directly with TUBB3 with a confidence score of 0.993, suggesting functional coregulation or shared cascade.
+- **Genes involved:** TUBA4A, TUBB3
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: TUBA4A, TUBB3) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between TUBA4A, TUBB3 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 20301623
+  - PMID: 38102515
+  - PMID: 38177100
+  - PMID: 38239833
+  - PMID: 38463699
+  - PMID: 38884572
+## HYP-404: Network-proximity association between TUBA4A and TUBB4B
+- **Mechanism:** TUBA4A interacts directly with TUBB4B with a confidence score of 0.991, suggesting functional coregulation or shared cascade.
+- **Genes involved:** TUBA4A, TUBB4B
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: TUBA4A, TUBB4B) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between TUBA4A, TUBB4B will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 20301623
+  - PMID: 38102515
+  - PMID: 38177100
+  - PMID: 38239833
+  - PMID: 38463699
+  - PMID: 38884572
+## HYP-405: Network-proximity association between TUBA4A and TUBB4A
+- **Mechanism:** TUBA4A interacts directly with TUBB4A with a confidence score of 0.983, suggesting functional coregulation or shared cascade.
+- **Genes involved:** TUBA4A, TUBB4A
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: TUBA4A, TUBB4A) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between TUBA4A, TUBB4A will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 20301623
+  - PMID: 38102515
+  - PMID: 38177100
+  - PMID: 38239833
+  - PMID: 38463699
+  - PMID: 38884572
+## HYP-406: Network-proximity association between MAPT and TUBA4A
+- **Mechanism:** MAPT interacts directly with TUBA4A with a confidence score of 0.981, suggesting functional coregulation or shared cascade.
+- **Genes involved:** MAPT, TUBA4A
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: MAPT, TUBA4A) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between MAPT, TUBA4A will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 20301623
+  - PMID: 38102515
+  - PMID: 38177100
+  - PMID: 38239833
+  - PMID: 38463699
+  - PMID: 38884572
+## HYP-407: Network-proximity association between TUBA4A and TUBB6
+- **Mechanism:** TUBA4A interacts directly with TUBB6 with a confidence score of 0.969, suggesting functional coregulation or shared cascade.
+- **Genes involved:** TUBA4A, TUBB6
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: TUBA4A, TUBB6) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between TUBA4A, TUBB6 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 20301623
+  - PMID: 38102515
+  - PMID: 38177100
+  - PMID: 38239833
+  - PMID: 38463699
+  - PMID: 38884572
+## HYP-408: Network-proximity association between TUBA4A and TUBB2B
+- **Mechanism:** TUBA4A interacts directly with TUBB2B with a confidence score of 0.968, suggesting functional coregulation or shared cascade.
+- **Genes involved:** TUBA4A, TUBB2B
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: TUBA4A, TUBB2B) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between TUBA4A, TUBB2B will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 20301623
+  - PMID: 38102515
+  - PMID: 38177100
+  - PMID: 38239833
+  - PMID: 38463699
+  - PMID: 38884572
+## HYP-409: Network-proximity association between TUBA4A and TUBB1
+- **Mechanism:** TUBA4A interacts directly with TUBB1 with a confidence score of 0.964, suggesting functional coregulation or shared cascade.
+- **Genes involved:** TUBA4A, TUBB1
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: TUBA4A, TUBB1) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between TUBA4A, TUBB1 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 20301623
+  - PMID: 38102515
+  - PMID: 38177100
+  - PMID: 38239833
+  - PMID: 38463699
+  - PMID: 38884572
+## HYP-410: Network-proximity association between TUBA4A and TUBB8
+- **Mechanism:** TUBA4A interacts directly with TUBB8 with a confidence score of 0.963, suggesting functional coregulation or shared cascade.
+- **Genes involved:** TUBA4A, TUBB8
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: TUBA4A, TUBB8) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between TUBA4A, TUBB8 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 20301623
+  - PMID: 38102515
+  - PMID: 38177100
+  - PMID: 38239833
+  - PMID: 38463699
+  - PMID: 38884572
+## HYP-411: Network-proximity association between UBC and UBQLN2
+- **Mechanism:** UBC interacts directly with UBQLN2 with a confidence score of 0.997, suggesting functional coregulation or shared cascade.
+- **Genes involved:** UBC, UBQLN2
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: UBC, UBQLN2) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between UBC, UBQLN2 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 41028049
+  - PMID: 41278912
+  - PMID: 41428212
+  - PMID: 41561437
+  - PMID: 41582437
+  - PMID: 41727138
+## HYP-412: Network-proximity association between DESI1 and UBQLN2
+- **Mechanism:** DESI1 interacts directly with UBQLN2 with a confidence score of 0.994, suggesting functional coregulation or shared cascade.
+- **Genes involved:** DESI1, UBQLN2
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: DESI1, UBQLN2) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between DESI1, UBQLN2 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 41028049
+  - PMID: 41278912
+  - PMID: 41428212
+  - PMID: 41561437
+  - PMID: 41582437
+  - PMID: 41727138
+## HYP-413: Network-proximity association between HSPA13 and UBQLN2
+- **Mechanism:** HSPA13 interacts directly with UBQLN2 with a confidence score of 0.99, suggesting functional coregulation or shared cascade.
+- **Genes involved:** HSPA13, UBQLN2
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: HSPA13, UBQLN2) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between HSPA13, UBQLN2 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 41028049
+  - PMID: 41278912
+  - PMID: 41428212
+  - PMID: 41561437
+  - PMID: 41582437
+  - PMID: 41727138
+## HYP-414: Network-proximity association between RPS27A and UBQLN2
+- **Mechanism:** RPS27A interacts directly with UBQLN2 with a confidence score of 0.988, suggesting functional coregulation or shared cascade.
+- **Genes involved:** RPS27A, UBQLN2
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: RPS27A, UBQLN2) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between RPS27A, UBQLN2 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 41028049
+  - PMID: 41278912
+  - PMID: 41428212
+  - PMID: 41561437
+  - PMID: 41582437
+  - PMID: 41727138
+## HYP-415: Network-proximity association between ADRM1 and UBQLN2
+- **Mechanism:** ADRM1 interacts directly with UBQLN2 with a confidence score of 0.982, suggesting functional coregulation or shared cascade.
+- **Genes involved:** ADRM1, UBQLN2
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: ADRM1, UBQLN2) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between ADRM1, UBQLN2 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 41028049
+  - PMID: 41278912
+  - PMID: 41428212
+  - PMID: 41561437
+  - PMID: 41582437
+  - PMID: 41727138
+## HYP-416: Network-proximity association between PSMD4 and UBQLN2
+- **Mechanism:** PSMD4 interacts directly with UBQLN2 with a confidence score of 0.981, suggesting functional coregulation or shared cascade.
+- **Genes involved:** PSMD4, UBQLN2
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: PSMD4, UBQLN2) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between PSMD4, UBQLN2 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 41028049
+  - PMID: 41278912
+  - PMID: 41428212
+  - PMID: 41561437
+  - PMID: 41582437
+  - PMID: 41727138
+## HYP-417: Network-proximity association between UBB and UBQLN2
+- **Mechanism:** UBB interacts directly with UBQLN2 with a confidence score of 0.979, suggesting functional coregulation or shared cascade.
+- **Genes involved:** UBB, UBQLN2
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: UBB, UBQLN2) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between UBB, UBQLN2 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 41028049
+  - PMID: 41278912
+  - PMID: 41428212
+  - PMID: 41561437
+  - PMID: 41582437
+  - PMID: 41727138
+## HYP-418: Network-proximity association between UBA52 and UBQLN2
+- **Mechanism:** UBA52 interacts directly with UBQLN2 with a confidence score of 0.978, suggesting functional coregulation or shared cascade.
+- **Genes involved:** UBA52, UBQLN2
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: UBA52, UBQLN2) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between UBA52, UBQLN2 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 41028049
+  - PMID: 41278912
+  - PMID: 41428212
+  - PMID: 41561437
+  - PMID: 41582437
+  - PMID: 41727138
+## HYP-419: Network-proximity association between TARDBP and UBQLN2
+- **Mechanism:** TARDBP interacts directly with UBQLN2 with a confidence score of 0.968, suggesting functional coregulation or shared cascade.
+- **Genes involved:** TARDBP, UBQLN2
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: TARDBP, UBQLN2) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between TARDBP, UBQLN2 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 41028049
+  - PMID: 41278912
+  - PMID: 41428212
+  - PMID: 41561437
+  - PMID: 41582437
+  - PMID: 41727138
+## HYP-420: Network-proximity association between OPTN and UBQLN2
+- **Mechanism:** OPTN interacts directly with UBQLN2 with a confidence score of 0.954, suggesting functional coregulation or shared cascade.
+- **Genes involved:** OPTN, UBQLN2
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: OPTN, UBQLN2) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between OPTN, UBQLN2 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 41028049
+  - PMID: 41259153
+  - PMID: 41278912
+  - PMID: 41283823
+  - PMID: 41294799
+  - PMID: 41428212
+## HYP-421: Network-proximity association between PSMD4 and UBQLN4
+- **Mechanism:** PSMD4 interacts directly with UBQLN4 with a confidence score of 0.999, suggesting functional coregulation or shared cascade.
+- **Genes involved:** PSMD4, UBQLN4
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: PSMD4, UBQLN4) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** None
+- **Falsifiable prediction:** Disrupting the physical interaction between PSMD4, UBQLN4 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** High
+- **Uncertainty:** Minimal outstanding uncertainty identified.
+- **Sources**:
+  - PMID: 28463112
+  - PMID: 30528257
+  - PMID: 30804504
+  - PMID: 32558493
+  - PMID: 35029765
+  - PMID: 35247097
+## HYP-422: Network-proximity association between PSMD14 and UBQLN4
+- **Mechanism:** PSMD14 interacts directly with UBQLN4 with a confidence score of 0.997, suggesting functional coregulation or shared cascade.
+- **Genes involved:** PSMD14, UBQLN4
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: PSMD14, UBQLN4) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** None
+- **Falsifiable prediction:** Disrupting the physical interaction between PSMD14, UBQLN4 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** High
+- **Uncertainty:** Minimal outstanding uncertainty identified.
+- **Sources**:
+  - PMID: 28463112
+  - PMID: 30528257
+  - PMID: 30804504
+  - PMID: 32558493
+  - PMID: 35029765
+  - PMID: 35247097
+## HYP-423: Network-proximity association between DESI1 and UBQLN4
+- **Mechanism:** DESI1 interacts directly with UBQLN4 with a confidence score of 0.997, suggesting functional coregulation or shared cascade.
+- **Genes involved:** DESI1, UBQLN4
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: DESI1, UBQLN4) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** None
+- **Falsifiable prediction:** Disrupting the physical interaction between DESI1, UBQLN4 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** High
+- **Uncertainty:** Minimal outstanding uncertainty identified.
+- **Sources**:
+  - PMID: 28463112
+  - PMID: 30528257
+  - PMID: 30804504
+  - PMID: 32558493
+  - PMID: 35029765
+  - PMID: 35247097
+## HYP-424: Network-proximity association between PSMD1 and UBQLN4
+- **Mechanism:** PSMD1 interacts directly with UBQLN4 with a confidence score of 0.996, suggesting functional coregulation or shared cascade.
+- **Genes involved:** PSMD1, UBQLN4
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: PSMD1, UBQLN4) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** None
+- **Falsifiable prediction:** Disrupting the physical interaction between PSMD1, UBQLN4 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** High
+- **Uncertainty:** Minimal outstanding uncertainty identified.
+- **Sources**:
+  - PMID: 28463112
+  - PMID: 30528257
+  - PMID: 30804504
+  - PMID: 32558493
+  - PMID: 35029765
+  - PMID: 35247097
+## HYP-425: Network-proximity association between PSMD8 and UBQLN4
+- **Mechanism:** PSMD8 interacts directly with UBQLN4 with a confidence score of 0.996, suggesting functional coregulation or shared cascade.
+- **Genes involved:** PSMD8, UBQLN4
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: PSMD8, UBQLN4) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** None
+- **Falsifiable prediction:** Disrupting the physical interaction between PSMD8, UBQLN4 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** High
+- **Uncertainty:** Minimal outstanding uncertainty identified.
+- **Sources**:
+  - PMID: 28463112
+  - PMID: 30528257
+  - PMID: 30804504
+  - PMID: 32558493
+  - PMID: 35029765
+  - PMID: 35247097
+## HYP-426: Network-proximity association between PSMD12 and UBQLN4
+- **Mechanism:** PSMD12 interacts directly with UBQLN4 with a confidence score of 0.996, suggesting functional coregulation or shared cascade.
+- **Genes involved:** PSMD12, UBQLN4
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: PSMD12, UBQLN4) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** None
+- **Falsifiable prediction:** Disrupting the physical interaction between PSMD12, UBQLN4 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** High
+- **Uncertainty:** Minimal outstanding uncertainty identified.
+- **Sources**:
+  - PMID: 28463112
+  - PMID: 30528257
+  - PMID: 30804504
+  - PMID: 32558493
+  - PMID: 35029765
+  - PMID: 35247097
+## HYP-427: Network-proximity association between PSMD13 and UBQLN4
+- **Mechanism:** PSMD13 interacts directly with UBQLN4 with a confidence score of 0.996, suggesting functional coregulation or shared cascade.
+- **Genes involved:** PSMD13, UBQLN4
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: PSMD13, UBQLN4) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** None
+- **Falsifiable prediction:** Disrupting the physical interaction between PSMD13, UBQLN4 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** High
+- **Uncertainty:** Minimal outstanding uncertainty identified.
+- **Sources**:
+  - PMID: 28463112
+  - PMID: 30528257
+  - PMID: 30804504
+  - PMID: 32558493
+  - PMID: 35029765
+  - PMID: 35247097
+## HYP-428: Network-proximity association between PSMD6 and UBQLN4
+- **Mechanism:** PSMD6 interacts directly with UBQLN4 with a confidence score of 0.996, suggesting functional coregulation or shared cascade.
+- **Genes involved:** PSMD6, UBQLN4
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: PSMD6, UBQLN4) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** None
+- **Falsifiable prediction:** Disrupting the physical interaction between PSMD6, UBQLN4 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** High
+- **Uncertainty:** Minimal outstanding uncertainty identified.
+- **Sources**:
+  - PMID: 28463112
+  - PMID: 30528257
+  - PMID: 30804504
+  - PMID: 32558493
+  - PMID: 35029765
+  - PMID: 35247097
+## HYP-429: Network-proximity association between PSMD11 and UBQLN4
+- **Mechanism:** PSMD11 interacts directly with UBQLN4 with a confidence score of 0.996, suggesting functional coregulation or shared cascade.
+- **Genes involved:** PSMD11, UBQLN4
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: PSMD11, UBQLN4) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** None
+- **Falsifiable prediction:** Disrupting the physical interaction between PSMD11, UBQLN4 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** High
+- **Uncertainty:** Minimal outstanding uncertainty identified.
+- **Sources**:
+  - PMID: 28463112
+  - PMID: 30528257
+  - PMID: 30804504
+  - PMID: 32558493
+  - PMID: 35029765
+  - PMID: 35247097
+## HYP-430: Network-proximity association between PSMC2 and UBQLN4
+- **Mechanism:** PSMC2 interacts directly with UBQLN4 with a confidence score of 0.996, suggesting functional coregulation or shared cascade.
+- **Genes involved:** PSMC2, UBQLN4
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: PSMC2, UBQLN4) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** None
+- **Falsifiable prediction:** Disrupting the physical interaction between PSMC2, UBQLN4 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** High
+- **Uncertainty:** Minimal outstanding uncertainty identified.
+- **Sources**:
+  - PMID: 28463112
+  - PMID: 30528257
+  - PMID: 30804504
+  - PMID: 32558493
+  - PMID: 35029765
+  - PMID: 35247097
+## HYP-431: Network-proximity association between RMDN3 and VAPB
+- **Mechanism:** RMDN3 interacts directly with VAPB with a confidence score of 0.999, suggesting functional coregulation or shared cascade.
+- **Genes involved:** RMDN3, VAPB
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: RMDN3, VAPB) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between RMDN3, VAPB will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 40905788
+  - PMID: 41187939
+  - PMID: 41337593
+  - PMID: 41345183
+  - PMID: 41536906
+  - PMID: 41651252
+## HYP-432: Network-proximity association between ACBD5 and VAPB
+- **Mechanism:** ACBD5 interacts directly with VAPB with a confidence score of 0.997, suggesting functional coregulation or shared cascade.
+- **Genes involved:** ACBD5, VAPB
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: ACBD5, VAPB) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between ACBD5, VAPB will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 40905788
+  - PMID: 41187939
+  - PMID: 41337593
+  - PMID: 41345183
+  - PMID: 41536906
+  - PMID: 41651252
+## HYP-433: Network-proximity association between ATF6 and VAPB
+- **Mechanism:** ATF6 interacts directly with VAPB with a confidence score of 0.989, suggesting functional coregulation or shared cascade.
+- **Genes involved:** ATF6, VAPB
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: ATF6, VAPB) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between ATF6, VAPB will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 40905788
+  - PMID: 41187939
+  - PMID: 41337593
+  - PMID: 41345183
+  - PMID: 41536906
+  - PMID: 41651252
+## HYP-434: Network-proximity association between ACBD4 and VAPB
+- **Mechanism:** ACBD4 interacts directly with VAPB with a confidence score of 0.98, suggesting functional coregulation or shared cascade.
+- **Genes involved:** ACBD4, VAPB
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: ACBD4, VAPB) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between ACBD4, VAPB will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 40905788
+  - PMID: 41187939
+  - PMID: 41337593
+  - PMID: 41345183
+  - PMID: 41536906
+  - PMID: 41651252
+## HYP-435: Network-proximity association between OSBP and VAPB
+- **Mechanism:** OSBP interacts directly with VAPB with a confidence score of 0.967, suggesting functional coregulation or shared cascade.
+- **Genes involved:** OSBP, VAPB
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: OSBP, VAPB) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between OSBP, VAPB will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 40905788
+  - PMID: 41187939
+  - PMID: 41337593
+  - PMID: 41345183
+  - PMID: 41536906
+  - PMID: 41651252
+## HYP-436: Network-proximity association between VAPA and VAPB
+- **Mechanism:** VAPA interacts directly with VAPB with a confidence score of 0.964, suggesting functional coregulation or shared cascade.
+- **Genes involved:** VAPA, VAPB
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: VAPA, VAPB) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between VAPA, VAPB will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 40905788
+  - PMID: 41187939
+  - PMID: 41337593
+  - PMID: 41345183
+  - PMID: 41536906
+  - PMID: 41651252
+## HYP-437: Network-proximity association between OSBPL9 and VAPB
+- **Mechanism:** OSBPL9 interacts directly with VAPB with a confidence score of 0.964, suggesting functional coregulation or shared cascade.
+- **Genes involved:** OSBPL9, VAPB
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: OSBPL9, VAPB) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between OSBPL9, VAPB will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 40905788
+  - PMID: 41187939
+  - PMID: 41337593
+  - PMID: 41345183
+  - PMID: 41536906
+  - PMID: 41651252
+## HYP-438: Network-proximity association between PITPNM1 and VAPB
+- **Mechanism:** PITPNM1 interacts directly with VAPB with a confidence score of 0.948, suggesting functional coregulation or shared cascade.
+- **Genes involved:** PITPNM1, VAPB
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: PITPNM1, VAPB) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between PITPNM1, VAPB will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 40905788
+  - PMID: 41187939
+  - PMID: 41337593
+  - PMID: 41345183
+  - PMID: 41536906
+  - PMID: 41651252
+## HYP-439: Network-proximity association between STARD3 and VAPB
+- **Mechanism:** STARD3 interacts directly with VAPB with a confidence score of 0.94, suggesting functional coregulation or shared cascade.
+- **Genes involved:** STARD3, VAPB
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: STARD3, VAPB) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between STARD3, VAPB will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 40905788
+  - PMID: 41187939
+  - PMID: 41337593
+  - PMID: 41345183
+  - PMID: 41536906
+  - PMID: 41651252
+## HYP-440: Network-proximity association between CERT1 and VAPB
+- **Mechanism:** CERT1 interacts directly with VAPB with a confidence score of 0.93, suggesting functional coregulation or shared cascade.
+- **Genes involved:** CERT1, VAPB
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: CERT1, VAPB) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between CERT1, VAPB will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 40905788
+  - PMID: 41187939
+  - PMID: 41337593
+  - PMID: 41345183
+  - PMID: 41536906
+  - PMID: 41651252
+## HYP-441: Network-proximity association between ATXN3 and VCP
+- **Mechanism:** ATXN3 interacts directly with VCP with a confidence score of 0.999, suggesting functional coregulation or shared cascade.
+- **Genes involved:** ATXN3, VCP
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: ATXN3, VCP) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between ATXN3, VCP will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 41621017
+  - PMID: 41651252
+  - PMID: 41737544
+  - PMID: 41791136
+  - PMID: 41819100
+  - PMID: 41840875
+## HYP-442: Network-proximity association between VCP and VCPIP1
+- **Mechanism:** VCP interacts directly with VCPIP1 with a confidence score of 0.999, suggesting functional coregulation or shared cascade.
+- **Genes involved:** VCP, VCPIP1
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: VCP, VCPIP1) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between VCP, VCPIP1 will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 41621017
+  - PMID: 41651252
+  - PMID: 41737544
+  - PMID: 41791136
+  - PMID: 41819100
+  - PMID: 41840875
+## HYP-443: Network-proximity association between SELENOS and VCP
+- **Mechanism:** SELENOS interacts directly with VCP with a confidence score of 0.999, suggesting functional coregulation or shared cascade.
+- **Genes involved:** SELENOS, VCP
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: SELENOS, VCP) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between SELENOS, VCP will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 41621017
+  - PMID: 41651252
+  - PMID: 41737544
+  - PMID: 41791136
+  - PMID: 41819100
+  - PMID: 41840875
+## HYP-444: Network-proximity association between FAF1 and VCP
+- **Mechanism:** FAF1 interacts directly with VCP with a confidence score of 0.999, suggesting functional coregulation or shared cascade.
+- **Genes involved:** FAF1, VCP
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: FAF1, VCP) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between FAF1, VCP will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 41621017
+  - PMID: 41651252
+  - PMID: 41737544
+  - PMID: 41791136
+  - PMID: 41819100
+  - PMID: 41840875
+## HYP-445: Network-proximity association between DERL1 and VCP
+- **Mechanism:** DERL1 interacts directly with VCP with a confidence score of 0.999, suggesting functional coregulation or shared cascade.
+- **Genes involved:** DERL1, VCP
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: DERL1, VCP) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between DERL1, VCP will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 41621017
+  - PMID: 41651252
+  - PMID: 41737544
+  - PMID: 41791136
+  - PMID: 41819100
+  - PMID: 41840875
+## HYP-446: Network-proximity association between FAF2 and VCP
+- **Mechanism:** FAF2 interacts directly with VCP with a confidence score of 0.999, suggesting functional coregulation or shared cascade.
+- **Genes involved:** FAF2, VCP
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: FAF2, VCP) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between FAF2, VCP will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 41621017
+  - PMID: 41651252
+  - PMID: 41737544
+  - PMID: 41791136
+  - PMID: 41819100
+  - PMID: 41840875
+## HYP-447: Network-proximity association between NPLOC4 and VCP
+- **Mechanism:** NPLOC4 interacts directly with VCP with a confidence score of 0.999, suggesting functional coregulation or shared cascade.
+- **Genes involved:** NPLOC4, VCP
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: NPLOC4, VCP) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between NPLOC4, VCP will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 41621017
+  - PMID: 41651252
+  - PMID: 41737544
+  - PMID: 41791136
+  - PMID: 41819100
+  - PMID: 41840875
+## HYP-448: Network-proximity association between UFD1 and VCP
+- **Mechanism:** UFD1 interacts directly with VCP with a confidence score of 0.999, suggesting functional coregulation or shared cascade.
+- **Genes involved:** UFD1, VCP
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: UFD1, VCP) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between UFD1, VCP will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 41621017
+  - PMID: 41651252
+  - PMID: 41737544
+  - PMID: 41791136
+  - PMID: 41819100
+  - PMID: 41840875
+## HYP-449: Network-proximity association between UBXN6 and VCP
+- **Mechanism:** UBXN6 interacts directly with VCP with a confidence score of 0.999, suggesting functional coregulation or shared cascade.
+- **Genes involved:** UBXN6, VCP
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: UBXN6, VCP) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between UBXN6, VCP will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 41621017
+  - PMID: 41651252
+  - PMID: 41737544
+  - PMID: 41791136
+  - PMID: 41819100
+  - PMID: 41840875
+## HYP-450: Network-proximity association between UBXN1 and VCP
+- **Mechanism:** UBXN1 interacts directly with VCP with a confidence score of 0.999, suggesting functional coregulation or shared cascade.
+- **Genes involved:** UBXN1, VCP
+- **Pathways involved:** None
+- **Why this might matter in ALS:** Direct interaction between these proteins suggests they form a functional complex or cascade. Dysregulation of either partner could perturb the entire complex, contributing to ALS pathogenesis.
+- **Supporting evidence:** Citations in the database link these entities (genes: UBXN1, VCP) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Disrupting the physical interaction between UBXN1, VCP will prevent co-localization and replicate downstream ALS-like cellular phenotypes.
+- **Computational validation:** PPI network topological proximity and degree centrality analysis using STRING data.
+- **High-level wet-lab concept:** Perform co-immunoprecipitation (Co-IP) or Bioluminescence Resonance Energy Transfer (BRET) assays to verify physical binding in human motor neurons.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 41621017
+  - PMID: 41651252
+  - PMID: 41737544
+  - PMID: 41791136
+  - PMID: 41819100
+  - PMID: 41840875
+## HYP-451: Variant and pathway convergence of OPTN in Activation of IRF3, IRF7 mediated by TBK1, IKKε (IKBKE)
+- **Mechanism:** Gene OPTN contains pathogenic variants and belongs to pathway Activation of IRF3, IRF7 mediated by TBK1, IKKε (IKBKE) (R-HSA-936964) which is shared with the ALS seed gene TBK1.
+- **Genes involved:** IKBKE, IRF3, OPTN, TBK1
+- **Pathways involved:** Activation of IRF3, IRF7 mediated by TBK1, IKKε (IKBKE) (R-HSA-936964)
+- **Why this might matter in ALS:** Participating in the same biochemical pathway indicates that mutations or dysregulation in these distinct genes could lead to converged downstream pathological outcomes in ALS motor neurons.
+- **Supporting evidence:** Citations in the database link these entities (genes: IKBKE, IRF3, OPTN, TBK1) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Knockdown or mutation of IKBKE, IRF3, OPTN, TBK1 in human motor neurons will result in shared, quantifiable disruption of the pathway phenotypic assays.
+- **Computational validation:** Pathway membership and enrichment validated via Reactome database annotations.
+- **High-level wet-lab concept:** Assay downstream pathway activity or target markers in human motor neuron models.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 41259153
+  - PMID: 41269363
+  - PMID: 41283823
+  - PMID: 41294799
+  - PMID: 41302089
+  - PMID: 41337593
+## HYP-452: Variant and pathway convergence of TUBA4A in Recruitment of mitotic centrosome proteins and complexes
+- **Mechanism:** Gene TUBA4A contains pathogenic variants and belongs to pathway Recruitment of mitotic centrosome proteins and complexes (R-HSA-380270) which is shared with the ALS seed gene DCTN1.
+- **Genes involved:** DCTN1, TUBA4A
+- **Pathways involved:** Recruitment of mitotic centrosome proteins and complexes (R-HSA-380270)
+- **Why this might matter in ALS:** Participating in the same biochemical pathway indicates that mutations or dysregulation in these distinct genes could lead to converged downstream pathological outcomes in ALS motor neurons.
+- **Supporting evidence:** Citations in the database link these entities (genes: DCTN1, TUBA4A) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Knockdown or mutation of DCTN1, TUBA4A in human motor neurons will result in shared, quantifiable disruption of the pathway phenotypic assays.
+- **Computational validation:** Pathway membership and enrichment validated via Reactome database annotations.
+- **High-level wet-lab concept:** Assay downstream pathway activity or target markers in human motor neuron models.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 20301623
+  - PMID: 38102515
+  - PMID: 38177100
+  - PMID: 38239833
+  - PMID: 38267040
+  - PMID: 38311779
+## HYP-453: Variant and pathway convergence of SQSTM1 in PINK1-PRKN Mediated Mitophagy
+- **Mechanism:** Gene SQSTM1 contains pathogenic variants and belongs to pathway PINK1-PRKN Mediated Mitophagy (R-HSA-5205685) which is shared with the ALS seed gene TBK1.
+- **Genes involved:** SQSTM1, TBK1
+- **Pathways involved:** PINK1-PRKN Mediated Mitophagy (R-HSA-5205685)
+- **Why this might matter in ALS:** Participating in the same biochemical pathway indicates that mutations or dysregulation in these distinct genes could lead to converged downstream pathological outcomes in ALS motor neurons.
+- **Supporting evidence:** Citations in the database link these entities (genes: SQSTM1, TBK1) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Knockdown or mutation of SQSTM1, TBK1 in human motor neurons will result in shared, quantifiable disruption of the pathway phenotypic assays.
+- **Computational validation:** Pathway membership and enrichment validated via Reactome database annotations.
+- **High-level wet-lab concept:** Assay downstream pathway activity or target markers in human motor neuron models.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 41171761
+  - PMID: 41196070
+  - PMID: 41269363
+  - PMID: 41302089
+  - PMID: 41337593
+  - PMID: 41387380
+## HYP-454: Variant and pathway convergence of TUBA4A in Platelet degranulation 
+- **Mechanism:** Gene TUBA4A contains pathogenic variants and belongs to pathway Platelet degranulation  (R-HSA-114608) which is shared with the ALS seed gene SOD1.
+- **Genes involved:** SOD1, TUBA4A
+- **Pathways involved:** Platelet degranulation  (R-HSA-114608)
+- **Why this might matter in ALS:** Participating in the same biochemical pathway indicates that mutations or dysregulation in these distinct genes could lead to converged downstream pathological outcomes in ALS motor neurons.
+- **Supporting evidence:** Citations in the database link these entities (genes: SOD1, TUBA4A) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Knockdown or mutation of SOD1, TUBA4A in human motor neurons will result in shared, quantifiable disruption of the pathway phenotypic assays.
+- **Computational validation:** Pathway membership and enrichment validated via Reactome database annotations.
+- **High-level wet-lab concept:** Assay downstream pathway activity or target markers in human motor neuron models.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 20301623
+  - PMID: 38102515
+  - PMID: 38177100
+  - PMID: 38239833
+  - PMID: 38463699
+  - PMID: 38884572
+## HYP-455: Variant and pathway convergence of KIF5A in COPI-dependent Golgi-to-ER retrograde traffic
+- **Mechanism:** Gene KIF5A contains pathogenic variants and belongs to pathway COPI-dependent Golgi-to-ER retrograde traffic (R-HSA-6811434) which is shared with the ALS seed gene TUBA4A.
+- **Genes involved:** KIF5A, TUBA4A
+- **Pathways involved:** COPI-dependent Golgi-to-ER retrograde traffic (R-HSA-6811434)
+- **Why this might matter in ALS:** Participating in the same biochemical pathway indicates that mutations or dysregulation in these distinct genes could lead to converged downstream pathological outcomes in ALS motor neurons.
+- **Supporting evidence:** Citations in the database link these entities (genes: KIF5A, TUBA4A) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Knockdown or mutation of KIF5A, TUBA4A in human motor neurons will result in shared, quantifiable disruption of the pathway phenotypic assays.
+- **Computational validation:** Pathway membership and enrichment validated via Reactome database annotations.
+- **High-level wet-lab concept:** Assay downstream pathway activity or target markers in human motor neuron models.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 20301623
+  - PMID: 38102515
+  - PMID: 38177100
+  - PMID: 38239833
+  - PMID: 38463699
+  - PMID: 38884572
+## HYP-456: Variant and pathway convergence of TUBA4A in AURKA Activation by TPX2
+- **Mechanism:** Gene TUBA4A contains pathogenic variants and belongs to pathway AURKA Activation by TPX2 (R-HSA-8854518) which is shared with the ALS seed gene DCTN1.
+- **Genes involved:** DCTN1, TUBA4A
+- **Pathways involved:** AURKA Activation by TPX2 (R-HSA-8854518)
+- **Why this might matter in ALS:** Participating in the same biochemical pathway indicates that mutations or dysregulation in these distinct genes could lead to converged downstream pathological outcomes in ALS motor neurons.
+- **Supporting evidence:** Citations in the database link these entities (genes: DCTN1, TUBA4A) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Knockdown or mutation of DCTN1, TUBA4A in human motor neurons will result in shared, quantifiable disruption of the pathway phenotypic assays.
+- **Computational validation:** Pathway membership and enrichment validated via Reactome database annotations.
+- **High-level wet-lab concept:** Assay downstream pathway activity or target markers in human motor neuron models.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 20301623
+  - PMID: 38102515
+  - PMID: 38177100
+  - PMID: 38239833
+  - PMID: 38267040
+  - PMID: 38311779
+## HYP-457: Variant and pathway convergence of TBK1 in Potential therapeutics for SARS
+- **Mechanism:** Gene TBK1 contains pathogenic variants and belongs to pathway Potential therapeutics for SARS (R-HSA-9679191) which is shared with the ALS seed gene SIGMAR1.
+- **Genes involved:** SIGMAR1, TBK1
+- **Pathways involved:** Potential therapeutics for SARS (R-HSA-9679191)
+- **Why this might matter in ALS:** Participating in the same biochemical pathway indicates that mutations or dysregulation in these distinct genes could lead to converged downstream pathological outcomes in ALS motor neurons.
+- **Supporting evidence:** Citations in the database link these entities (genes: SIGMAR1, TBK1) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Knockdown or mutation of SIGMAR1, TBK1 in human motor neurons will result in shared, quantifiable disruption of the pathway phenotypic assays.
+- **Computational validation:** Pathway membership and enrichment validated via Reactome database annotations.
+- **High-level wet-lab concept:** Assay downstream pathway activity or target markers in human motor neuron models.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 34143516
+  - PMID: 35507432
+  - PMID: 36982902
+  - PMID: 37780700
+  - PMID: 38450645
+  - PMID: 38702287
+## HYP-458: Variant and pathway convergence of SOD1 in Platelet degranulation 
+- **Mechanism:** Gene SOD1 contains pathogenic variants and belongs to pathway Platelet degranulation  (R-HSA-114608) which is shared with the ALS seed gene TUBA4A.
+- **Genes involved:** SOD1, TUBA4A
+- **Pathways involved:** Platelet degranulation  (R-HSA-114608)
+- **Why this might matter in ALS:** Participating in the same biochemical pathway indicates that mutations or dysregulation in these distinct genes could lead to converged downstream pathological outcomes in ALS motor neurons.
+- **Supporting evidence:** Citations in the database link these entities (genes: SOD1, TUBA4A) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Knockdown or mutation of SOD1, TUBA4A in human motor neurons will result in shared, quantifiable disruption of the pathway phenotypic assays.
+- **Computational validation:** Pathway membership and enrichment validated via Reactome database annotations.
+- **High-level wet-lab concept:** Assay downstream pathway activity or target markers in human motor neuron models.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 20301623
+  - PMID: 38102515
+  - PMID: 38177100
+  - PMID: 38239833
+  - PMID: 38463699
+  - PMID: 38884572
+## HYP-459: Variant and pathway convergence of TBK1 in Regulation of TNFR1 signaling
+- **Mechanism:** Gene TBK1 contains pathogenic variants and belongs to pathway Regulation of TNFR1 signaling (R-HSA-5357905) which is shared with the ALS seed gene OPTN.
+- **Genes involved:** OPTN, TBK1
+- **Pathways involved:** Regulation of TNFR1 signaling (R-HSA-5357905)
+- **Why this might matter in ALS:** Participating in the same biochemical pathway indicates that mutations or dysregulation in these distinct genes could lead to converged downstream pathological outcomes in ALS motor neurons.
+- **Supporting evidence:** Citations in the database link these entities (genes: OPTN, TBK1) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Knockdown or mutation of OPTN, TBK1 in human motor neurons will result in shared, quantifiable disruption of the pathway phenotypic assays.
+- **Computational validation:** Pathway membership and enrichment validated via Reactome database annotations.
+- **High-level wet-lab concept:** Assay downstream pathway activity or target markers in human motor neuron models.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 41259153
+  - PMID: 41269363
+  - PMID: 41283823
+  - PMID: 41294799
+  - PMID: 41302089
+  - PMID: 41337593
+## HYP-460: Variant and pathway convergence of TUBA4A in MHC class II antigen presentation
+- **Mechanism:** Gene TUBA4A contains pathogenic variants and belongs to pathway MHC class II antigen presentation (R-HSA-2132295) which is shared with the ALS seed gene DCTN1.
+- **Genes involved:** DCTN1, TUBA4A
+- **Pathways involved:** MHC class II antigen presentation (R-HSA-2132295)
+- **Why this might matter in ALS:** Participating in the same biochemical pathway indicates that mutations or dysregulation in these distinct genes could lead to converged downstream pathological outcomes in ALS motor neurons.
+- **Supporting evidence:** Citations in the database link these entities (genes: DCTN1, TUBA4A) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Knockdown or mutation of DCTN1, TUBA4A in human motor neurons will result in shared, quantifiable disruption of the pathway phenotypic assays.
+- **Computational validation:** Pathway membership and enrichment validated via Reactome database annotations.
+- **High-level wet-lab concept:** Assay downstream pathway activity or target markers in human motor neuron models.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 20301623
+  - PMID: 38102515
+  - PMID: 38177100
+  - PMID: 38239833
+  - PMID: 38267040
+  - PMID: 38311779
+## HYP-461: Variant and pathway convergence of HNRNPA1 in mRNA Polyadenylation
+- **Mechanism:** Gene HNRNPA1 contains pathogenic variants and belongs to pathway mRNA Polyadenylation (R-HSA-9770562) which is shared with the ALS seed gene FUS.
+- **Genes involved:** FUS, HNRNPA1
+- **Pathways involved:** mRNA Polyadenylation (R-HSA-9770562)
+- **Why this might matter in ALS:** Participating in the same biochemical pathway indicates that mutations or dysregulation in these distinct genes could lead to converged downstream pathological outcomes in ALS motor neurons.
+- **Supporting evidence:** Citations in the database link these entities (genes: FUS, HNRNPA1) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** The supporting studies are animal-only models (lacking human/patient validation).
+- **Falsifiable prediction:** Knockdown or mutation of FUS, HNRNPA1 in human motor neurons will result in shared, quantifiable disruption of the pathway phenotypic assays.
+- **Computational validation:** Pathway membership and enrichment validated via Reactome database annotations.
+- **High-level wet-lab concept:** Assay downstream pathway activity or target markers in human motor neuron models.
+- **Confidence:** Low
+- **Uncertainty:** Potential lack of human/patient clinical validation, conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 40441157
+  - PMID: 40687373
+  - PMID: 40707625
+  - PMID: 40737092
+  - PMID: 40766389
+  - PMID: 40778857
+## HYP-462: Variant and pathway convergence of HNRNPA1 in Dengue Virus-Host Interactions
+- **Mechanism:** Gene HNRNPA1 contains pathogenic variants and belongs to pathway Dengue Virus-Host Interactions (R-HSA-9918481) which is shared with the ALS seed gene FUS.
+- **Genes involved:** FUS, HNRNPA1
+- **Pathways involved:** Dengue Virus-Host Interactions (R-HSA-9918481)
+- **Why this might matter in ALS:** Participating in the same biochemical pathway indicates that mutations or dysregulation in these distinct genes could lead to converged downstream pathological outcomes in ALS motor neurons.
+- **Supporting evidence:** Citations in the database link these entities (genes: FUS, HNRNPA1) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** The supporting studies are animal-only models (lacking human/patient validation).
+- **Falsifiable prediction:** Knockdown or mutation of FUS, HNRNPA1 in human motor neurons will result in shared, quantifiable disruption of the pathway phenotypic assays.
+- **Computational validation:** Pathway membership and enrichment validated via Reactome database annotations.
+- **High-level wet-lab concept:** Assay downstream pathway activity or target markers in human motor neuron models.
+- **Confidence:** Low
+- **Uncertainty:** Potential lack of human/patient clinical validation, conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 40441157
+  - PMID: 40687373
+  - PMID: 40707625
+  - PMID: 40737092
+  - PMID: 40766389
+  - PMID: 40778857
+## HYP-463: Variant and pathway convergence of OPTN in Regulation of TNFR1 signaling
+- **Mechanism:** Gene OPTN contains pathogenic variants and belongs to pathway Regulation of TNFR1 signaling (R-HSA-5357905) which is shared with the ALS seed gene CYLD.
+- **Genes involved:** CYLD, OPTN
+- **Pathways involved:** Regulation of TNFR1 signaling (R-HSA-5357905)
+- **Why this might matter in ALS:** Participating in the same biochemical pathway indicates that mutations or dysregulation in these distinct genes could lead to converged downstream pathological outcomes in ALS motor neurons.
+- **Supporting evidence:** Citations in the database link these entities (genes: CYLD, OPTN) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Knockdown or mutation of CYLD, OPTN in human motor neurons will result in shared, quantifiable disruption of the pathway phenotypic assays.
+- **Computational validation:** Pathway membership and enrichment validated via Reactome database annotations.
+- **High-level wet-lab concept:** Assay downstream pathway activity or target markers in human motor neuron models.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 21408173
+  - PMID: 29951055
+  - PMID: 32185393
+  - PMID: 33134918
+  - PMID: 33333804
+  - PMID: 34290285
+## HYP-464: Variant and pathway convergence of VCP in Neddylation
+- **Mechanism:** Gene VCP contains pathogenic variants and belongs to pathway Neddylation (R-HSA-8951664) which is shared with the ALS seed gene SQSTM1.
+- **Genes involved:** SQSTM1, VCP
+- **Pathways involved:** Neddylation (R-HSA-8951664)
+- **Why this might matter in ALS:** Participating in the same biochemical pathway indicates that mutations or dysregulation in these distinct genes could lead to converged downstream pathological outcomes in ALS motor neurons.
+- **Supporting evidence:** Citations in the database link these entities (genes: SQSTM1, VCP) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Knockdown or mutation of SQSTM1, VCP in human motor neurons will result in shared, quantifiable disruption of the pathway phenotypic assays.
+- **Computational validation:** Pathway membership and enrichment validated via Reactome database annotations.
+- **High-level wet-lab concept:** Assay downstream pathway activity or target markers in human motor neuron models.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 41171761
+  - PMID: 41196070
+  - PMID: 41387380
+  - PMID: 41404692
+  - PMID: 41485128
+  - PMID: 41621017
+## HYP-465: Variant and pathway convergence of TBK1 in TNFR1-induced proapoptotic signaling
+- **Mechanism:** Gene TBK1 contains pathogenic variants and belongs to pathway TNFR1-induced proapoptotic signaling (R-HSA-5357786) which is shared with the ALS seed gene CYLD.
+- **Genes involved:** CYLD, TBK1
+- **Pathways involved:** TNFR1-induced proapoptotic signaling (R-HSA-5357786)
+- **Why this might matter in ALS:** Participating in the same biochemical pathway indicates that mutations or dysregulation in these distinct genes could lead to converged downstream pathological outcomes in ALS motor neurons.
+- **Supporting evidence:** Citations in the database link these entities (genes: CYLD, TBK1) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Knockdown or mutation of CYLD, TBK1 in human motor neurons will result in shared, quantifiable disruption of the pathway phenotypic assays.
+- **Computational validation:** Pathway membership and enrichment validated via Reactome database annotations.
+- **High-level wet-lab concept:** Assay downstream pathway activity or target markers in human motor neuron models.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 21408173
+  - PMID: 29951055
+  - PMID: 32185393
+  - PMID: 33134918
+  - PMID: 33333804
+  - PMID: 34290285
+## HYP-466: Variant and pathway convergence of TUBA4A in Recruitment of NuMA to mitotic centrosomes
+- **Mechanism:** Gene TUBA4A contains pathogenic variants and belongs to pathway Recruitment of NuMA to mitotic centrosomes (R-HSA-380320) which is shared with the ALS seed gene DCTN1.
+- **Genes involved:** DCTN1, TUBA4A
+- **Pathways involved:** Recruitment of NuMA to mitotic centrosomes (R-HSA-380320)
+- **Why this might matter in ALS:** Participating in the same biochemical pathway indicates that mutations or dysregulation in these distinct genes could lead to converged downstream pathological outcomes in ALS motor neurons.
+- **Supporting evidence:** Citations in the database link these entities (genes: DCTN1, TUBA4A) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Knockdown or mutation of DCTN1, TUBA4A in human motor neurons will result in shared, quantifiable disruption of the pathway phenotypic assays.
+- **Computational validation:** Pathway membership and enrichment validated via Reactome database annotations.
+- **High-level wet-lab concept:** Assay downstream pathway activity or target markers in human motor neuron models.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 20301623
+  - PMID: 38102515
+  - PMID: 38177100
+  - PMID: 38239833
+  - PMID: 38267040
+  - PMID: 38311779
+## HYP-467: Variant and pathway convergence of FUS in Processing of Capped Intron-Containing Pre-mRNA
+- **Mechanism:** Gene FUS contains pathogenic variants and belongs to pathway Processing of Capped Intron-Containing Pre-mRNA (R-HSA-72203) which is shared with the ALS seed gene HNRNPA1.
+- **Genes involved:** FUS, HNRNPA1
+- **Pathways involved:** Processing of Capped Intron-Containing Pre-mRNA (R-HSA-72203)
+- **Why this might matter in ALS:** Participating in the same biochemical pathway indicates that mutations or dysregulation in these distinct genes could lead to converged downstream pathological outcomes in ALS motor neurons.
+- **Supporting evidence:** Citations in the database link these entities (genes: FUS, HNRNPA1) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** The supporting studies are animal-only models (lacking human/patient validation).
+- **Falsifiable prediction:** Knockdown or mutation of FUS, HNRNPA1 in human motor neurons will result in shared, quantifiable disruption of the pathway phenotypic assays.
+- **Computational validation:** Pathway membership and enrichment validated via Reactome database annotations.
+- **High-level wet-lab concept:** Assay downstream pathway activity or target markers in human motor neuron models.
+- **Confidence:** Low
+- **Uncertainty:** Potential lack of human/patient clinical validation, conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 40441157
+  - PMID: 40687373
+  - PMID: 40707625
+  - PMID: 40737092
+  - PMID: 40766389
+  - PMID: 40778857
+## HYP-468: Variant and pathway convergence of TUBA4A in Aggrephagy
+- **Mechanism:** Gene TUBA4A contains pathogenic variants and belongs to pathway Aggrephagy (R-HSA-9646399) which is shared with the ALS seed gene VCP.
+- **Genes involved:** TUBA4A, VCP
+- **Pathways involved:** Aggrephagy (R-HSA-9646399)
+- **Why this might matter in ALS:** Participating in the same biochemical pathway indicates that mutations or dysregulation in these distinct genes could lead to converged downstream pathological outcomes in ALS motor neurons.
+- **Supporting evidence:** Citations in the database link these entities (genes: TUBA4A, VCP) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Knockdown or mutation of TUBA4A, VCP in human motor neurons will result in shared, quantifiable disruption of the pathway phenotypic assays.
+- **Computational validation:** Pathway membership and enrichment validated via Reactome database annotations.
+- **High-level wet-lab concept:** Assay downstream pathway activity or target markers in human motor neuron models.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 20301623
+  - PMID: 38102515
+  - PMID: 38177100
+  - PMID: 38239833
+  - PMID: 38463699
+  - PMID: 38884572
+## HYP-469: Variant and pathway convergence of TBK1 in TNFR1-induced proapoptotic signaling
+- **Mechanism:** Gene TBK1 contains pathogenic variants and belongs to pathway TNFR1-induced proapoptotic signaling (R-HSA-5357786) which is shared with the ALS seed gene OPTN.
+- **Genes involved:** OPTN, TBK1
+- **Pathways involved:** TNFR1-induced proapoptotic signaling (R-HSA-5357786)
+- **Why this might matter in ALS:** Participating in the same biochemical pathway indicates that mutations or dysregulation in these distinct genes could lead to converged downstream pathological outcomes in ALS motor neurons.
+- **Supporting evidence:** Citations in the database link these entities (genes: OPTN, TBK1) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Knockdown or mutation of OPTN, TBK1 in human motor neurons will result in shared, quantifiable disruption of the pathway phenotypic assays.
+- **Computational validation:** Pathway membership and enrichment validated via Reactome database annotations.
+- **High-level wet-lab concept:** Assay downstream pathway activity or target markers in human motor neuron models.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 41259153
+  - PMID: 41269363
+  - PMID: 41283823
+  - PMID: 41294799
+  - PMID: 41302089
+  - PMID: 41337593
+## HYP-470: Variant and pathway convergence of DCTN1 in HSP90 chaperone cycle for steroid hormone receptors (SHR) in the presence of ligand
+- **Mechanism:** Gene DCTN1 contains pathogenic variants and belongs to pathway HSP90 chaperone cycle for steroid hormone receptors (SHR) in the presence of ligand (R-HSA-3371497) which is shared with the ALS seed gene TUBA4A.
+- **Genes involved:** DCTN1, TUBA4A
+- **Pathways involved:** HSP90 chaperone cycle for steroid hormone receptors (SHR) in the presence of ligand (R-HSA-3371497)
+- **Why this might matter in ALS:** Participating in the same biochemical pathway indicates that mutations or dysregulation in these distinct genes could lead to converged downstream pathological outcomes in ALS motor neurons.
+- **Supporting evidence:** Citations in the database link these entities (genes: DCTN1, TUBA4A) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Knockdown or mutation of DCTN1, TUBA4A in human motor neurons will result in shared, quantifiable disruption of the pathway phenotypic assays.
+- **Computational validation:** Pathway membership and enrichment validated via Reactome database annotations.
+- **High-level wet-lab concept:** Assay downstream pathway activity or target markers in human motor neuron models.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 20301623
+  - PMID: 38102515
+  - PMID: 38177100
+  - PMID: 38239833
+  - PMID: 38267040
+  - PMID: 38311779
+## HYP-471: Variant and pathway convergence of TUBA4A in COPI-mediated anterograde transport
+- **Mechanism:** Gene TUBA4A contains pathogenic variants and belongs to pathway COPI-mediated anterograde transport (R-HSA-6807878) which is shared with the ALS seed gene DCTN1.
+- **Genes involved:** DCTN1, TUBA4A
+- **Pathways involved:** COPI-mediated anterograde transport (R-HSA-6807878)
+- **Why this might matter in ALS:** Participating in the same biochemical pathway indicates that mutations or dysregulation in these distinct genes could lead to converged downstream pathological outcomes in ALS motor neurons.
+- **Supporting evidence:** Citations in the database link these entities (genes: DCTN1, TUBA4A) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Knockdown or mutation of DCTN1, TUBA4A in human motor neurons will result in shared, quantifiable disruption of the pathway phenotypic assays.
+- **Computational validation:** Pathway membership and enrichment validated via Reactome database annotations.
+- **High-level wet-lab concept:** Assay downstream pathway activity or target markers in human motor neuron models.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 20301623
+  - PMID: 38102515
+  - PMID: 38177100
+  - PMID: 38239833
+  - PMID: 38267040
+  - PMID: 38311779
+## HYP-472: Variant and pathway convergence of SQSTM1 in Signaling by ALK fusions and activated point mutants
+- **Mechanism:** Gene SQSTM1 contains pathogenic variants and belongs to pathway Signaling by ALK fusions and activated point mutants (R-HSA-9725370) which is shared with the ALS seed gene DCTN1.
+- **Genes involved:** DCTN1, SQSTM1
+- **Pathways involved:** Signaling by ALK fusions and activated point mutants (R-HSA-9725370)
+- **Why this might matter in ALS:** Participating in the same biochemical pathway indicates that mutations or dysregulation in these distinct genes could lead to converged downstream pathological outcomes in ALS motor neurons.
+- **Supporting evidence:** Citations in the database link these entities (genes: DCTN1, SQSTM1) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Knockdown or mutation of DCTN1, SQSTM1 in human motor neurons will result in shared, quantifiable disruption of the pathway phenotypic assays.
+- **Computational validation:** Pathway membership and enrichment validated via Reactome database annotations.
+- **High-level wet-lab concept:** Assay downstream pathway activity or target markers in human motor neuron models.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 38239833
+  - PMID: 38267040
+  - PMID: 38311779
+  - PMID: 38702287
+  - PMID: 39440303
+  - PMID: 40424855
+## HYP-473: Variant and pathway convergence of FUS in Dengue Virus-Host Interactions
+- **Mechanism:** Gene FUS contains pathogenic variants and belongs to pathway Dengue Virus-Host Interactions (R-HSA-9918481) which is shared with the ALS seed gene HNRNPA1.
+- **Genes involved:** FUS, HNRNPA1
+- **Pathways involved:** Dengue Virus-Host Interactions (R-HSA-9918481)
+- **Why this might matter in ALS:** Participating in the same biochemical pathway indicates that mutations or dysregulation in these distinct genes could lead to converged downstream pathological outcomes in ALS motor neurons.
+- **Supporting evidence:** Citations in the database link these entities (genes: FUS, HNRNPA1) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** The supporting studies are animal-only models (lacking human/patient validation).
+- **Falsifiable prediction:** Knockdown or mutation of FUS, HNRNPA1 in human motor neurons will result in shared, quantifiable disruption of the pathway phenotypic assays.
+- **Computational validation:** Pathway membership and enrichment validated via Reactome database annotations.
+- **High-level wet-lab concept:** Assay downstream pathway activity or target markers in human motor neuron models.
+- **Confidence:** Low
+- **Uncertainty:** Potential lack of human/patient clinical validation, conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 40441157
+  - PMID: 40687373
+  - PMID: 40707625
+  - PMID: 40737092
+  - PMID: 40766389
+  - PMID: 40778857
+## HYP-474: Variant and pathway convergence of TUBA4A in Kinesins
+- **Mechanism:** Gene TUBA4A contains pathogenic variants and belongs to pathway Kinesins (R-HSA-983189) which is shared with the ALS seed gene KIF5A.
+- **Genes involved:** KIF5A, TUBA4A
+- **Pathways involved:** Kinesins (R-HSA-983189)
+- **Why this might matter in ALS:** Participating in the same biochemical pathway indicates that mutations or dysregulation in these distinct genes could lead to converged downstream pathological outcomes in ALS motor neurons.
+- **Supporting evidence:** Citations in the database link these entities (genes: KIF5A, TUBA4A) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Knockdown or mutation of KIF5A, TUBA4A in human motor neurons will result in shared, quantifiable disruption of the pathway phenotypic assays.
+- **Computational validation:** Pathway membership and enrichment validated via Reactome database annotations.
+- **High-level wet-lab concept:** Assay downstream pathway activity or target markers in human motor neuron models.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 20301623
+  - PMID: 38102515
+  - PMID: 38177100
+  - PMID: 38239833
+  - PMID: 38463699
+  - PMID: 38884572
+## HYP-475: Variant and pathway convergence of VCP in KEAP1-NFE2L2 pathway
+- **Mechanism:** Gene VCP contains pathogenic variants and belongs to pathway KEAP1-NFE2L2 pathway (R-HSA-9755511) which is shared with the ALS seed gene SQSTM1.
+- **Genes involved:** SQSTM1, VCP
+- **Pathways involved:** KEAP1-NFE2L2 pathway (R-HSA-9755511)
+- **Why this might matter in ALS:** Participating in the same biochemical pathway indicates that mutations or dysregulation in these distinct genes could lead to converged downstream pathological outcomes in ALS motor neurons.
+- **Supporting evidence:** Citations in the database link these entities (genes: SQSTM1, VCP) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Knockdown or mutation of SQSTM1, VCP in human motor neurons will result in shared, quantifiable disruption of the pathway phenotypic assays.
+- **Computational validation:** Pathway membership and enrichment validated via Reactome database annotations.
+- **High-level wet-lab concept:** Assay downstream pathway activity or target markers in human motor neuron models.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 41171761
+  - PMID: 41196070
+  - PMID: 41387380
+  - PMID: 41404692
+  - PMID: 41485128
+  - PMID: 41621017
+## HYP-476: Variant and pathway convergence of TBK1 in PINK1-PRKN Mediated Mitophagy
+- **Mechanism:** Gene TBK1 contains pathogenic variants and belongs to pathway PINK1-PRKN Mediated Mitophagy (R-HSA-5205685) which is shared with the ALS seed gene SQSTM1.
+- **Genes involved:** SQSTM1, TBK1
+- **Pathways involved:** PINK1-PRKN Mediated Mitophagy (R-HSA-5205685)
+- **Why this might matter in ALS:** Participating in the same biochemical pathway indicates that mutations or dysregulation in these distinct genes could lead to converged downstream pathological outcomes in ALS motor neurons.
+- **Supporting evidence:** Citations in the database link these entities (genes: SQSTM1, TBK1) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Knockdown or mutation of SQSTM1, TBK1 in human motor neurons will result in shared, quantifiable disruption of the pathway phenotypic assays.
+- **Computational validation:** Pathway membership and enrichment validated via Reactome database annotations.
+- **High-level wet-lab concept:** Assay downstream pathway activity or target markers in human motor neuron models.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 41171761
+  - PMID: 41196070
+  - PMID: 41269363
+  - PMID: 41302089
+  - PMID: 41337593
+  - PMID: 41387380
+## HYP-477: Variant and pathway convergence of TUBA4A in Platelet degranulation 
+- **Mechanism:** Gene TUBA4A contains pathogenic variants and belongs to pathway Platelet degranulation  (R-HSA-114608) which is shared with the ALS seed gene PFN1.
+- **Genes involved:** PFN1, TUBA4A
+- **Pathways involved:** Platelet degranulation  (R-HSA-114608)
+- **Why this might matter in ALS:** Participating in the same biochemical pathway indicates that mutations or dysregulation in these distinct genes could lead to converged downstream pathological outcomes in ALS motor neurons.
+- **Supporting evidence:** Citations in the database link these entities (genes: PFN1, TUBA4A) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Knockdown or mutation of PFN1, TUBA4A in human motor neurons will result in shared, quantifiable disruption of the pathway phenotypic assays.
+- **Computational validation:** Pathway membership and enrichment validated via Reactome database annotations.
+- **High-level wet-lab concept:** Assay downstream pathway activity or target markers in human motor neuron models.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 20301623
+  - PMID: 38102515
+  - PMID: 38177100
+  - PMID: 38239833
+  - PMID: 38463699
+  - PMID: 38884572
+## HYP-478: Variant and pathway convergence of DCTN1 in Recruitment of mitotic centrosome proteins and complexes
+- **Mechanism:** Gene DCTN1 contains pathogenic variants and belongs to pathway Recruitment of mitotic centrosome proteins and complexes (R-HSA-380270) which is shared with the ALS seed gene TUBA4A.
+- **Genes involved:** DCTN1, TUBA4A
+- **Pathways involved:** Recruitment of mitotic centrosome proteins and complexes (R-HSA-380270)
+- **Why this might matter in ALS:** Participating in the same biochemical pathway indicates that mutations or dysregulation in these distinct genes could lead to converged downstream pathological outcomes in ALS motor neurons.
+- **Supporting evidence:** Citations in the database link these entities (genes: DCTN1, TUBA4A) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Knockdown or mutation of DCTN1, TUBA4A in human motor neurons will result in shared, quantifiable disruption of the pathway phenotypic assays.
+- **Computational validation:** Pathway membership and enrichment validated via Reactome database annotations.
+- **High-level wet-lab concept:** Assay downstream pathway activity or target markers in human motor neuron models.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 20301623
+  - PMID: 38102515
+  - PMID: 38177100
+  - PMID: 38239833
+  - PMID: 38267040
+  - PMID: 38311779
+## HYP-479: Variant and pathway convergence of OPTN in Regulation of TBK1, IKKε (IKBKE)-mediated activation of IRF3, IRF7 
+- **Mechanism:** Gene OPTN contains pathogenic variants and belongs to pathway Regulation of TBK1, IKKε (IKBKE)-mediated activation of IRF3, IRF7  (R-HSA-9824878) which is shared with the ALS seed gene TBK1.
+- **Genes involved:** IKBKE, IRF3, OPTN, TBK1
+- **Pathways involved:** Regulation of TBK1, IKKε (IKBKE)-mediated activation of IRF3, IRF7  (R-HSA-9824878)
+- **Why this might matter in ALS:** Participating in the same biochemical pathway indicates that mutations or dysregulation in these distinct genes could lead to converged downstream pathological outcomes in ALS motor neurons.
+- **Supporting evidence:** Citations in the database link these entities (genes: IKBKE, IRF3, OPTN, TBK1) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Knockdown or mutation of IKBKE, IRF3, OPTN, TBK1 in human motor neurons will result in shared, quantifiable disruption of the pathway phenotypic assays.
+- **Computational validation:** Pathway membership and enrichment validated via Reactome database annotations.
+- **High-level wet-lab concept:** Assay downstream pathway activity or target markers in human motor neuron models.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 41259153
+  - PMID: 41269363
+  - PMID: 41283823
+  - PMID: 41294799
+  - PMID: 41302089
+  - PMID: 41337593
+## HYP-480: Variant and pathway convergence of SIGMAR1 in Potential therapeutics for SARS
+- **Mechanism:** Gene SIGMAR1 contains pathogenic variants and belongs to pathway Potential therapeutics for SARS (R-HSA-9679191) which is shared with the ALS seed gene TBK1.
+- **Genes involved:** SIGMAR1, TBK1
+- **Pathways involved:** Potential therapeutics for SARS (R-HSA-9679191)
+- **Why this might matter in ALS:** Participating in the same biochemical pathway indicates that mutations or dysregulation in these distinct genes could lead to converged downstream pathological outcomes in ALS motor neurons.
+- **Supporting evidence:** Citations in the database link these entities (genes: SIGMAR1, TBK1) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Knockdown or mutation of SIGMAR1, TBK1 in human motor neurons will result in shared, quantifiable disruption of the pathway phenotypic assays.
+- **Computational validation:** Pathway membership and enrichment validated via Reactome database annotations.
+- **High-level wet-lab concept:** Assay downstream pathway activity or target markers in human motor neuron models.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 34143516
+  - PMID: 35507432
+  - PMID: 36982902
+  - PMID: 37780700
+  - PMID: 38450645
+  - PMID: 38702287
+## HYP-481: Variant and pathway convergence of SPTLC1 in Sphingolipid de novo biosynthesis
+- **Mechanism:** Gene SPTLC1 contains pathogenic variants and belongs to pathway Sphingolipid de novo biosynthesis (R-HSA-1660661) which is shared with the ALS seed gene VAPB.
+- **Genes involved:** SPTLC1, VAPB
+- **Pathways involved:** Sphingolipid de novo biosynthesis (R-HSA-1660661)
+- **Why this might matter in ALS:** Participating in the same biochemical pathway indicates that mutations or dysregulation in these distinct genes could lead to converged downstream pathological outcomes in ALS motor neurons.
+- **Supporting evidence:** Citations in the database link these entities (genes: SPTLC1, VAPB) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Knockdown or mutation of SPTLC1, VAPB in human motor neurons will result in shared, quantifiable disruption of the pathway phenotypic assays.
+- **Computational validation:** Pathway membership and enrichment validated via Reactome database annotations.
+- **High-level wet-lab concept:** Assay downstream pathway activity or target markers in human motor neuron models.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 37308477
+  - PMID: 37348646
+  - PMID: 37497262
+  - PMID: 38041669
+  - PMID: 38041679
+  - PMID: 38041684
+## HYP-482: Variant and pathway convergence of FUS in mRNA Splicing - Major Pathway
+- **Mechanism:** Gene FUS contains pathogenic variants and belongs to pathway mRNA Splicing - Major Pathway (R-HSA-72163) which is shared with the ALS seed gene HNRNPA1.
+- **Genes involved:** FUS, HNRNPA1
+- **Pathways involved:** mRNA Splicing - Major Pathway (R-HSA-72163)
+- **Why this might matter in ALS:** Participating in the same biochemical pathway indicates that mutations or dysregulation in these distinct genes could lead to converged downstream pathological outcomes in ALS motor neurons.
+- **Supporting evidence:** Citations in the database link these entities (genes: FUS, HNRNPA1) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** The supporting studies are animal-only models (lacking human/patient validation).
+- **Falsifiable prediction:** Knockdown or mutation of FUS, HNRNPA1 in human motor neurons will result in shared, quantifiable disruption of the pathway phenotypic assays.
+- **Computational validation:** Pathway membership and enrichment validated via Reactome database annotations.
+- **High-level wet-lab concept:** Assay downstream pathway activity or target markers in human motor neuron models.
+- **Confidence:** Low
+- **Uncertainty:** Potential lack of human/patient clinical validation, conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 40441157
+  - PMID: 40687373
+  - PMID: 40707625
+  - PMID: 40737092
+  - PMID: 40766389
+  - PMID: 40778857
+## HYP-483: Variant and pathway convergence of CYLD in TNFR1-induced proapoptotic signaling
+- **Mechanism:** Gene CYLD contains pathogenic variants and belongs to pathway TNFR1-induced proapoptotic signaling (R-HSA-5357786) which is shared with the ALS seed gene OPTN.
+- **Genes involved:** CYLD, OPTN
+- **Pathways involved:** TNFR1-induced proapoptotic signaling (R-HSA-5357786)
+- **Why this might matter in ALS:** Participating in the same biochemical pathway indicates that mutations or dysregulation in these distinct genes could lead to converged downstream pathological outcomes in ALS motor neurons.
+- **Supporting evidence:** Citations in the database link these entities (genes: CYLD, OPTN) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Knockdown or mutation of CYLD, OPTN in human motor neurons will result in shared, quantifiable disruption of the pathway phenotypic assays.
+- **Computational validation:** Pathway membership and enrichment validated via Reactome database annotations.
+- **High-level wet-lab concept:** Assay downstream pathway activity or target markers in human motor neuron models.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 21408173
+  - PMID: 29951055
+  - PMID: 32185393
+  - PMID: 33134918
+  - PMID: 33333804
+  - PMID: 34290285
+## HYP-484: Variant and pathway convergence of TUBA4A in MHC class II antigen presentation
+- **Mechanism:** Gene TUBA4A contains pathogenic variants and belongs to pathway MHC class II antigen presentation (R-HSA-2132295) which is shared with the ALS seed gene KIF5A.
+- **Genes involved:** KIF5A, TUBA4A
+- **Pathways involved:** MHC class II antigen presentation (R-HSA-2132295)
+- **Why this might matter in ALS:** Participating in the same biochemical pathway indicates that mutations or dysregulation in these distinct genes could lead to converged downstream pathological outcomes in ALS motor neurons.
+- **Supporting evidence:** Citations in the database link these entities (genes: KIF5A, TUBA4A) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Knockdown or mutation of KIF5A, TUBA4A in human motor neurons will result in shared, quantifiable disruption of the pathway phenotypic assays.
+- **Computational validation:** Pathway membership and enrichment validated via Reactome database annotations.
+- **High-level wet-lab concept:** Assay downstream pathway activity or target markers in human motor neuron models.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 20301623
+  - PMID: 38102515
+  - PMID: 38177100
+  - PMID: 38239833
+  - PMID: 38463699
+  - PMID: 38884572
+## HYP-485: Variant and pathway convergence of TUBA4A in Regulation of PLK1 Activity at G2/M Transition
+- **Mechanism:** Gene TUBA4A contains pathogenic variants and belongs to pathway Regulation of PLK1 Activity at G2/M Transition (R-HSA-2565942) which is shared with the ALS seed gene OPTN.
+- **Genes involved:** OPTN, PLK1, TUBA4A
+- **Pathways involved:** Regulation of PLK1 Activity at G2/M Transition (R-HSA-2565942)
+- **Why this might matter in ALS:** Participating in the same biochemical pathway indicates that mutations or dysregulation in these distinct genes could lead to converged downstream pathological outcomes in ALS motor neurons.
+- **Supporting evidence:** Citations in the database link these entities (genes: OPTN, PLK1, TUBA4A) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Knockdown or mutation of OPTN, PLK1, TUBA4A in human motor neurons will result in shared, quantifiable disruption of the pathway phenotypic assays.
+- **Computational validation:** Pathway membership and enrichment validated via Reactome database annotations.
+- **High-level wet-lab concept:** Assay downstream pathway activity or target markers in human motor neuron models.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 20301623
+  - PMID: 38102515
+  - PMID: 38177100
+  - PMID: 38239833
+  - PMID: 38463699
+  - PMID: 38884572
+## HYP-486: Variant and pathway convergence of TUBA4A in Regulation of PLK1 Activity at G2/M Transition
+- **Mechanism:** Gene TUBA4A contains pathogenic variants and belongs to pathway Regulation of PLK1 Activity at G2/M Transition (R-HSA-2565942) which is shared with the ALS seed gene DCTN1.
+- **Genes involved:** DCTN1, PLK1, TUBA4A
+- **Pathways involved:** Regulation of PLK1 Activity at G2/M Transition (R-HSA-2565942)
+- **Why this might matter in ALS:** Participating in the same biochemical pathway indicates that mutations or dysregulation in these distinct genes could lead to converged downstream pathological outcomes in ALS motor neurons.
+- **Supporting evidence:** Citations in the database link these entities (genes: DCTN1, PLK1, TUBA4A) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Knockdown or mutation of DCTN1, PLK1, TUBA4A in human motor neurons will result in shared, quantifiable disruption of the pathway phenotypic assays.
+- **Computational validation:** Pathway membership and enrichment validated via Reactome database annotations.
+- **High-level wet-lab concept:** Assay downstream pathway activity or target markers in human motor neuron models.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 20301623
+  - PMID: 38102515
+  - PMID: 38177100
+  - PMID: 38239833
+  - PMID: 38267040
+  - PMID: 38311779
+## HYP-487: Variant and pathway convergence of CHMP2B in Sealing of the nuclear envelope (NE) by ESCRT-III
+- **Mechanism:** Gene CHMP2B contains pathogenic variants and belongs to pathway Sealing of the nuclear envelope (NE) by ESCRT-III (R-HSA-9668328) which is shared with the ALS seed gene TUBA4A.
+- **Genes involved:** CHMP2B, TUBA4A
+- **Pathways involved:** Sealing of the nuclear envelope (NE) by ESCRT-III (R-HSA-9668328)
+- **Why this might matter in ALS:** Participating in the same biochemical pathway indicates that mutations or dysregulation in these distinct genes could lead to converged downstream pathological outcomes in ALS motor neurons.
+- **Supporting evidence:** Citations in the database link these entities (genes: CHMP2B, TUBA4A) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Knockdown or mutation of CHMP2B, TUBA4A in human motor neurons will result in shared, quantifiable disruption of the pathway phenotypic assays.
+- **Computational validation:** Pathway membership and enrichment validated via Reactome database annotations.
+- **High-level wet-lab concept:** Assay downstream pathway activity or target markers in human motor neuron models.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 20301378
+  - PMID: 20301623
+  - PMID: 37606396
+  - PMID: 37635943
+  - PMID: 38102515
+  - PMID: 38177100
+## HYP-488: Variant and pathway convergence of DCTN1 in COPI-mediated anterograde transport
+- **Mechanism:** Gene DCTN1 contains pathogenic variants and belongs to pathway COPI-mediated anterograde transport (R-HSA-6807878) which is shared with the ALS seed gene TUBA4A.
+- **Genes involved:** DCTN1, TUBA4A
+- **Pathways involved:** COPI-mediated anterograde transport (R-HSA-6807878)
+- **Why this might matter in ALS:** Participating in the same biochemical pathway indicates that mutations or dysregulation in these distinct genes could lead to converged downstream pathological outcomes in ALS motor neurons.
+- **Supporting evidence:** Citations in the database link these entities (genes: DCTN1, TUBA4A) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Knockdown or mutation of DCTN1, TUBA4A in human motor neurons will result in shared, quantifiable disruption of the pathway phenotypic assays.
+- **Computational validation:** Pathway membership and enrichment validated via Reactome database annotations.
+- **High-level wet-lab concept:** Assay downstream pathway activity or target markers in human motor neuron models.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 20301623
+  - PMID: 38102515
+  - PMID: 38177100
+  - PMID: 38239833
+  - PMID: 38267040
+  - PMID: 38311779
+## HYP-489: Variant and pathway convergence of DCTN1 in COPI-independent Golgi-to-ER retrograde traffic
+- **Mechanism:** Gene DCTN1 contains pathogenic variants and belongs to pathway COPI-independent Golgi-to-ER retrograde traffic (R-HSA-6811436) which is shared with the ALS seed gene TUBA4A.
+- **Genes involved:** DCTN1, TUBA4A
+- **Pathways involved:** COPI-independent Golgi-to-ER retrograde traffic (R-HSA-6811436)
+- **Why this might matter in ALS:** Participating in the same biochemical pathway indicates that mutations or dysregulation in these distinct genes could lead to converged downstream pathological outcomes in ALS motor neurons.
+- **Supporting evidence:** Citations in the database link these entities (genes: DCTN1, TUBA4A) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Knockdown or mutation of DCTN1, TUBA4A in human motor neurons will result in shared, quantifiable disruption of the pathway phenotypic assays.
+- **Computational validation:** Pathway membership and enrichment validated via Reactome database annotations.
+- **High-level wet-lab concept:** Assay downstream pathway activity or target markers in human motor neuron models.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 20301623
+  - PMID: 38102515
+  - PMID: 38177100
+  - PMID: 38239833
+  - PMID: 38267040
+  - PMID: 38311779
+## HYP-490: Variant and pathway convergence of HNRNPA1 in FGFR2 alternative splicing
+- **Mechanism:** Gene HNRNPA1 contains pathogenic variants and belongs to pathway FGFR2 alternative splicing (R-HSA-6803529) which is shared with the ALS seed gene TIA1.
+- **Genes involved:** HNRNPA1, TIA1
+- **Pathways involved:** FGFR2 alternative splicing (R-HSA-6803529)
+- **Why this might matter in ALS:** Participating in the same biochemical pathway indicates that mutations or dysregulation in these distinct genes could lead to converged downstream pathological outcomes in ALS motor neurons.
+- **Supporting evidence:** Citations in the database link these entities (genes: HNRNPA1, TIA1) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** None
+- **Falsifiable prediction:** Knockdown or mutation of HNRNPA1, TIA1 in human motor neurons will result in shared, quantifiable disruption of the pathway phenotypic assays.
+- **Computational validation:** Pathway membership and enrichment validated via Reactome database annotations.
+- **High-level wet-lab concept:** Assay downstream pathway activity or target markers in human motor neuron models.
+- **Confidence:** Medium
+- **Uncertainty:** Minimal outstanding uncertainty identified.
+- **Sources**:
+  - PMID: 36499097
+  - PMID: 36747652
+  - PMID: 37250416
+  - PMID: 38193795
+  - PMID: 38239833
+  - PMID: 38638178
+## HYP-491: Variant and pathway convergence of KIF5A in Kinesins
+- **Mechanism:** Gene KIF5A contains pathogenic variants and belongs to pathway Kinesins (R-HSA-983189) which is shared with the ALS seed gene TUBA4A.
+- **Genes involved:** KIF5A, TUBA4A
+- **Pathways involved:** Kinesins (R-HSA-983189)
+- **Why this might matter in ALS:** Participating in the same biochemical pathway indicates that mutations or dysregulation in these distinct genes could lead to converged downstream pathological outcomes in ALS motor neurons.
+- **Supporting evidence:** Citations in the database link these entities (genes: KIF5A, TUBA4A) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Knockdown or mutation of KIF5A, TUBA4A in human motor neurons will result in shared, quantifiable disruption of the pathway phenotypic assays.
+- **Computational validation:** Pathway membership and enrichment validated via Reactome database annotations.
+- **High-level wet-lab concept:** Assay downstream pathway activity or target markers in human motor neuron models.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 20301623
+  - PMID: 38102515
+  - PMID: 38177100
+  - PMID: 38239833
+  - PMID: 38463699
+  - PMID: 38884572
+## HYP-492: Variant and pathway convergence of CYLD in Regulation of TNFR1 signaling
+- **Mechanism:** Gene CYLD contains pathogenic variants and belongs to pathway Regulation of TNFR1 signaling (R-HSA-5357905) which is shared with the ALS seed gene OPTN.
+- **Genes involved:** CYLD, OPTN
+- **Pathways involved:** Regulation of TNFR1 signaling (R-HSA-5357905)
+- **Why this might matter in ALS:** Participating in the same biochemical pathway indicates that mutations or dysregulation in these distinct genes could lead to converged downstream pathological outcomes in ALS motor neurons.
+- **Supporting evidence:** Citations in the database link these entities (genes: CYLD, OPTN) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Knockdown or mutation of CYLD, OPTN in human motor neurons will result in shared, quantifiable disruption of the pathway phenotypic assays.
+- **Computational validation:** Pathway membership and enrichment validated via Reactome database annotations.
+- **High-level wet-lab concept:** Assay downstream pathway activity or target markers in human motor neuron models.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 21408173
+  - PMID: 29951055
+  - PMID: 32185393
+  - PMID: 33134918
+  - PMID: 33333804
+  - PMID: 34290285
+## HYP-493: Variant and pathway convergence of OPTN in Regulation of PLK1 Activity at G2/M Transition
+- **Mechanism:** Gene OPTN contains pathogenic variants and belongs to pathway Regulation of PLK1 Activity at G2/M Transition (R-HSA-2565942) which is shared with the ALS seed gene DCTN1.
+- **Genes involved:** DCTN1, OPTN, PLK1
+- **Pathways involved:** Regulation of PLK1 Activity at G2/M Transition (R-HSA-2565942)
+- **Why this might matter in ALS:** Participating in the same biochemical pathway indicates that mutations or dysregulation in these distinct genes could lead to converged downstream pathological outcomes in ALS motor neurons.
+- **Supporting evidence:** Citations in the database link these entities (genes: DCTN1, OPTN, PLK1) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Knockdown or mutation of DCTN1, OPTN, PLK1 in human motor neurons will result in shared, quantifiable disruption of the pathway phenotypic assays.
+- **Computational validation:** Pathway membership and enrichment validated via Reactome database annotations.
+- **High-level wet-lab concept:** Assay downstream pathway activity or target markers in human motor neuron models.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 38239833
+  - PMID: 38267040
+  - PMID: 38311779
+  - PMID: 38702287
+  - PMID: 39440303
+  - PMID: 40424855
+## HYP-494: Variant and pathway convergence of SQSTM1 in PINK1-PRKN Mediated Mitophagy
+- **Mechanism:** Gene SQSTM1 contains pathogenic variants and belongs to pathway PINK1-PRKN Mediated Mitophagy (R-HSA-5205685) which is shared with the ALS seed gene OPTN.
+- **Genes involved:** OPTN, SQSTM1
+- **Pathways involved:** PINK1-PRKN Mediated Mitophagy (R-HSA-5205685)
+- **Why this might matter in ALS:** Participating in the same biochemical pathway indicates that mutations or dysregulation in these distinct genes could lead to converged downstream pathological outcomes in ALS motor neurons.
+- **Supporting evidence:** Citations in the database link these entities (genes: OPTN, SQSTM1) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Knockdown or mutation of OPTN, SQSTM1 in human motor neurons will result in shared, quantifiable disruption of the pathway phenotypic assays.
+- **Computational validation:** Pathway membership and enrichment validated via Reactome database annotations.
+- **High-level wet-lab concept:** Assay downstream pathway activity or target markers in human motor neuron models.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 41171761
+  - PMID: 41196070
+  - PMID: 41259153
+  - PMID: 41283823
+  - PMID: 41294799
+  - PMID: 41387380
+## HYP-495: Variant and pathway convergence of OPTN in Regulation of TNFR1 signaling
+- **Mechanism:** Gene OPTN contains pathogenic variants and belongs to pathway Regulation of TNFR1 signaling (R-HSA-5357905) which is shared with the ALS seed gene TBK1.
+- **Genes involved:** OPTN, TBK1
+- **Pathways involved:** Regulation of TNFR1 signaling (R-HSA-5357905)
+- **Why this might matter in ALS:** Participating in the same biochemical pathway indicates that mutations or dysregulation in these distinct genes could lead to converged downstream pathological outcomes in ALS motor neurons.
+- **Supporting evidence:** Citations in the database link these entities (genes: OPTN, TBK1) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Knockdown or mutation of OPTN, TBK1 in human motor neurons will result in shared, quantifiable disruption of the pathway phenotypic assays.
+- **Computational validation:** Pathway membership and enrichment validated via Reactome database annotations.
+- **High-level wet-lab concept:** Assay downstream pathway activity or target markers in human motor neuron models.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 41259153
+  - PMID: 41269363
+  - PMID: 41283823
+  - PMID: 41294799
+  - PMID: 41302089
+  - PMID: 41337593
+## HYP-496: Variant and pathway convergence of DCTN1 in Regulation of PLK1 Activity at G2/M Transition
+- **Mechanism:** Gene DCTN1 contains pathogenic variants and belongs to pathway Regulation of PLK1 Activity at G2/M Transition (R-HSA-2565942) which is shared with the ALS seed gene TUBA4A.
+- **Genes involved:** DCTN1, PLK1, TUBA4A
+- **Pathways involved:** Regulation of PLK1 Activity at G2/M Transition (R-HSA-2565942)
+- **Why this might matter in ALS:** Participating in the same biochemical pathway indicates that mutations or dysregulation in these distinct genes could lead to converged downstream pathological outcomes in ALS motor neurons.
+- **Supporting evidence:** Citations in the database link these entities (genes: DCTN1, PLK1, TUBA4A) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Knockdown or mutation of DCTN1, PLK1, TUBA4A in human motor neurons will result in shared, quantifiable disruption of the pathway phenotypic assays.
+- **Computational validation:** Pathway membership and enrichment validated via Reactome database annotations.
+- **High-level wet-lab concept:** Assay downstream pathway activity or target markers in human motor neuron models.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 20301623
+  - PMID: 38102515
+  - PMID: 38177100
+  - PMID: 38239833
+  - PMID: 38267040
+  - PMID: 38311779
+## HYP-497: Variant and pathway convergence of DCTN1 in Loss of proteins required for interphase microtubule organization from the centrosome
+- **Mechanism:** Gene DCTN1 contains pathogenic variants and belongs to pathway Loss of proteins required for interphase microtubule organization from the centrosome (R-HSA-380284) which is shared with the ALS seed gene TUBA4A.
+- **Genes involved:** DCTN1, TUBA4A
+- **Pathways involved:** Loss of proteins required for interphase microtubule organization from the centrosome (R-HSA-380284)
+- **Why this might matter in ALS:** Participating in the same biochemical pathway indicates that mutations or dysregulation in these distinct genes could lead to converged downstream pathological outcomes in ALS motor neurons.
+- **Supporting evidence:** Citations in the database link these entities (genes: DCTN1, TUBA4A) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Knockdown or mutation of DCTN1, TUBA4A in human motor neurons will result in shared, quantifiable disruption of the pathway phenotypic assays.
+- **Computational validation:** Pathway membership and enrichment validated via Reactome database annotations.
+- **High-level wet-lab concept:** Assay downstream pathway activity or target markers in human motor neuron models.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 20301623
+  - PMID: 38102515
+  - PMID: 38177100
+  - PMID: 38239833
+  - PMID: 38267040
+  - PMID: 38311779
+## HYP-498: Variant and pathway convergence of DCTN1 in Anchoring of the basal body to the plasma membrane
+- **Mechanism:** Gene DCTN1 contains pathogenic variants and belongs to pathway Anchoring of the basal body to the plasma membrane (R-HSA-5620912) which is shared with the ALS seed gene TUBA4A.
+- **Genes involved:** DCTN1, TUBA4A
+- **Pathways involved:** Anchoring of the basal body to the plasma membrane (R-HSA-5620912)
+- **Why this might matter in ALS:** Participating in the same biochemical pathway indicates that mutations or dysregulation in these distinct genes could lead to converged downstream pathological outcomes in ALS motor neurons.
+- **Supporting evidence:** Citations in the database link these entities (genes: DCTN1, TUBA4A) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Knockdown or mutation of DCTN1, TUBA4A in human motor neurons will result in shared, quantifiable disruption of the pathway phenotypic assays.
+- **Computational validation:** Pathway membership and enrichment validated via Reactome database annotations.
+- **High-level wet-lab concept:** Assay downstream pathway activity or target markers in human motor neuron models.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 20301623
+  - PMID: 38102515
+  - PMID: 38177100
+  - PMID: 38239833
+  - PMID: 38267040
+  - PMID: 38311779
+## HYP-499: Variant and pathway convergence of FUS in mRNA Polyadenylation
+- **Mechanism:** Gene FUS contains pathogenic variants and belongs to pathway mRNA Polyadenylation (R-HSA-9770562) which is shared with the ALS seed gene HNRNPA1.
+- **Genes involved:** FUS, HNRNPA1
+- **Pathways involved:** mRNA Polyadenylation (R-HSA-9770562)
+- **Why this might matter in ALS:** Participating in the same biochemical pathway indicates that mutations or dysregulation in these distinct genes could lead to converged downstream pathological outcomes in ALS motor neurons.
+- **Supporting evidence:** Citations in the database link these entities (genes: FUS, HNRNPA1) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** The supporting studies are animal-only models (lacking human/patient validation).
+- **Falsifiable prediction:** Knockdown or mutation of FUS, HNRNPA1 in human motor neurons will result in shared, quantifiable disruption of the pathway phenotypic assays.
+- **Computational validation:** Pathway membership and enrichment validated via Reactome database annotations.
+- **High-level wet-lab concept:** Assay downstream pathway activity or target markers in human motor neuron models.
+- **Confidence:** Low
+- **Uncertainty:** Potential lack of human/patient clinical validation, conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 40441157
+  - PMID: 40687373
+  - PMID: 40707625
+  - PMID: 40737092
+  - PMID: 40766389
+  - PMID: 40778857
+## HYP-500: Variant and pathway convergence of TBK1 in Regulation of TBK1, IKKε (IKBKE)-mediated activation of IRF3, IRF7 
+- **Mechanism:** Gene TBK1 contains pathogenic variants and belongs to pathway Regulation of TBK1, IKKε (IKBKE)-mediated activation of IRF3, IRF7  (R-HSA-9824878) which is shared with the ALS seed gene OPTN.
+- **Genes involved:** IKBKE, IRF3, OPTN, TBK1
+- **Pathways involved:** Regulation of TBK1, IKKε (IKBKE)-mediated activation of IRF3, IRF7  (R-HSA-9824878)
+- **Why this might matter in ALS:** Participating in the same biochemical pathway indicates that mutations or dysregulation in these distinct genes could lead to converged downstream pathological outcomes in ALS motor neurons.
+- **Supporting evidence:** Citations in the database link these entities (genes: IKBKE, IRF3, OPTN, TBK1) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Knockdown or mutation of IKBKE, IRF3, OPTN, TBK1 in human motor neurons will result in shared, quantifiable disruption of the pathway phenotypic assays.
+- **Computational validation:** Pathway membership and enrichment validated via Reactome database annotations.
+- **High-level wet-lab concept:** Assay downstream pathway activity or target markers in human motor neuron models.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 41259153
+  - PMID: 41269363
+  - PMID: 41283823
+  - PMID: 41294799
+  - PMID: 41302089
+  - PMID: 41337593
+## HYP-501: Variant and pathway convergence of SQSTM1 in Neddylation
+- **Mechanism:** Gene SQSTM1 contains pathogenic variants and belongs to pathway Neddylation (R-HSA-8951664) which is shared with the ALS seed gene VCP.
+- **Genes involved:** SQSTM1, VCP
+- **Pathways involved:** Neddylation (R-HSA-8951664)
+- **Why this might matter in ALS:** Participating in the same biochemical pathway indicates that mutations or dysregulation in these distinct genes could lead to converged downstream pathological outcomes in ALS motor neurons.
+- **Supporting evidence:** Citations in the database link these entities (genes: SQSTM1, VCP) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Knockdown or mutation of SQSTM1, VCP in human motor neurons will result in shared, quantifiable disruption of the pathway phenotypic assays.
+- **Computational validation:** Pathway membership and enrichment validated via Reactome database annotations.
+- **High-level wet-lab concept:** Assay downstream pathway activity or target markers in human motor neuron models.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 41171761
+  - PMID: 41196070
+  - PMID: 41387380
+  - PMID: 41404692
+  - PMID: 41485128
+  - PMID: 41621017
+## HYP-502: Variant and pathway convergence of KIF5A in MHC class II antigen presentation
+- **Mechanism:** Gene KIF5A contains pathogenic variants and belongs to pathway MHC class II antigen presentation (R-HSA-2132295) which is shared with the ALS seed gene TUBA4A.
+- **Genes involved:** KIF5A, TUBA4A
+- **Pathways involved:** MHC class II antigen presentation (R-HSA-2132295)
+- **Why this might matter in ALS:** Participating in the same biochemical pathway indicates that mutations or dysregulation in these distinct genes could lead to converged downstream pathological outcomes in ALS motor neurons.
+- **Supporting evidence:** Citations in the database link these entities (genes: KIF5A, TUBA4A) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Knockdown or mutation of KIF5A, TUBA4A in human motor neurons will result in shared, quantifiable disruption of the pathway phenotypic assays.
+- **Computational validation:** Pathway membership and enrichment validated via Reactome database annotations.
+- **High-level wet-lab concept:** Assay downstream pathway activity or target markers in human motor neuron models.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 20301623
+  - PMID: 38102515
+  - PMID: 38177100
+  - PMID: 38239833
+  - PMID: 38463699
+  - PMID: 38884572
+## HYP-503: Variant and pathway convergence of OPTN in TNFR1-induced NF-kappa-B signaling pathway
+- **Mechanism:** Gene OPTN contains pathogenic variants and belongs to pathway TNFR1-induced NF-kappa-B signaling pathway (R-HSA-5357956) which is shared with the ALS seed gene CYLD.
+- **Genes involved:** CYLD, OPTN
+- **Pathways involved:** TNFR1-induced NF-kappa-B signaling pathway (R-HSA-5357956)
+- **Why this might matter in ALS:** Participating in the same biochemical pathway indicates that mutations or dysregulation in these distinct genes could lead to converged downstream pathological outcomes in ALS motor neurons.
+- **Supporting evidence:** Citations in the database link these entities (genes: CYLD, OPTN) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Knockdown or mutation of CYLD, OPTN in human motor neurons will result in shared, quantifiable disruption of the pathway phenotypic assays.
+- **Computational validation:** Pathway membership and enrichment validated via Reactome database annotations.
+- **High-level wet-lab concept:** Assay downstream pathway activity or target markers in human motor neuron models.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 21408173
+  - PMID: 29951055
+  - PMID: 32185393
+  - PMID: 33134918
+  - PMID: 33333804
+  - PMID: 34290285
+## HYP-504: Variant and pathway convergence of DCTN1 in MHC class II antigen presentation
+- **Mechanism:** Gene DCTN1 contains pathogenic variants and belongs to pathway MHC class II antigen presentation (R-HSA-2132295) which is shared with the ALS seed gene TUBA4A.
+- **Genes involved:** DCTN1, TUBA4A
+- **Pathways involved:** MHC class II antigen presentation (R-HSA-2132295)
+- **Why this might matter in ALS:** Participating in the same biochemical pathway indicates that mutations or dysregulation in these distinct genes could lead to converged downstream pathological outcomes in ALS motor neurons.
+- **Supporting evidence:** Citations in the database link these entities (genes: DCTN1, TUBA4A) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Knockdown or mutation of DCTN1, TUBA4A in human motor neurons will result in shared, quantifiable disruption of the pathway phenotypic assays.
+- **Computational validation:** Pathway membership and enrichment validated via Reactome database annotations.
+- **High-level wet-lab concept:** Assay downstream pathway activity or target markers in human motor neuron models.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 20301623
+  - PMID: 38102515
+  - PMID: 38177100
+  - PMID: 38239833
+  - PMID: 38267040
+  - PMID: 38311779
+## HYP-505: Variant and pathway convergence of CYLD in TNFR1-induced NF-kappa-B signaling pathway
+- **Mechanism:** Gene CYLD contains pathogenic variants and belongs to pathway TNFR1-induced NF-kappa-B signaling pathway (R-HSA-5357956) which is shared with the ALS seed gene OPTN.
+- **Genes involved:** CYLD, OPTN
+- **Pathways involved:** TNFR1-induced NF-kappa-B signaling pathway (R-HSA-5357956)
+- **Why this might matter in ALS:** Participating in the same biochemical pathway indicates that mutations or dysregulation in these distinct genes could lead to converged downstream pathological outcomes in ALS motor neurons.
+- **Supporting evidence:** Citations in the database link these entities (genes: CYLD, OPTN) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Knockdown or mutation of CYLD, OPTN in human motor neurons will result in shared, quantifiable disruption of the pathway phenotypic assays.
+- **Computational validation:** Pathway membership and enrichment validated via Reactome database annotations.
+- **High-level wet-lab concept:** Assay downstream pathway activity or target markers in human motor neuron models.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 21408173
+  - PMID: 29951055
+  - PMID: 32185393
+  - PMID: 33134918
+  - PMID: 33333804
+  - PMID: 34290285
+## HYP-506: Variant and pathway convergence of TBK1 in Negative regulators of DDX58/IFIH1 signaling
+- **Mechanism:** Gene TBK1 contains pathogenic variants and belongs to pathway Negative regulators of DDX58/IFIH1 signaling (R-HSA-936440) which is shared with the ALS seed gene CYLD.
+- **Genes involved:** CYLD, TBK1
+- **Pathways involved:** Negative regulators of DDX58/IFIH1 signaling (R-HSA-936440)
+- **Why this might matter in ALS:** Participating in the same biochemical pathway indicates that mutations or dysregulation in these distinct genes could lead to converged downstream pathological outcomes in ALS motor neurons.
+- **Supporting evidence:** Citations in the database link these entities (genes: CYLD, TBK1) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Knockdown or mutation of CYLD, TBK1 in human motor neurons will result in shared, quantifiable disruption of the pathway phenotypic assays.
+- **Computational validation:** Pathway membership and enrichment validated via Reactome database annotations.
+- **High-level wet-lab concept:** Assay downstream pathway activity or target markers in human motor neuron models.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 21408173
+  - PMID: 29951055
+  - PMID: 32185393
+  - PMID: 33134918
+  - PMID: 33333804
+  - PMID: 34290285
+## HYP-507: Variant and pathway convergence of HNRNPA1 in mRNA Splicing - Major Pathway
+- **Mechanism:** Gene HNRNPA1 contains pathogenic variants and belongs to pathway mRNA Splicing - Major Pathway (R-HSA-72163) which is shared with the ALS seed gene FUS.
+- **Genes involved:** FUS, HNRNPA1
+- **Pathways involved:** mRNA Splicing - Major Pathway (R-HSA-72163)
+- **Why this might matter in ALS:** Participating in the same biochemical pathway indicates that mutations or dysregulation in these distinct genes could lead to converged downstream pathological outcomes in ALS motor neurons.
+- **Supporting evidence:** Citations in the database link these entities (genes: FUS, HNRNPA1) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** The supporting studies are animal-only models (lacking human/patient validation).
+- **Falsifiable prediction:** Knockdown or mutation of FUS, HNRNPA1 in human motor neurons will result in shared, quantifiable disruption of the pathway phenotypic assays.
+- **Computational validation:** Pathway membership and enrichment validated via Reactome database annotations.
+- **High-level wet-lab concept:** Assay downstream pathway activity or target markers in human motor neuron models.
+- **Confidence:** Low
+- **Uncertainty:** Potential lack of human/patient clinical validation, conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 40441157
+  - PMID: 40687373
+  - PMID: 40707625
+  - PMID: 40737092
+  - PMID: 40766389
+  - PMID: 40778857
+## HYP-508: Variant and pathway convergence of CCNF in Neddylation
+- **Mechanism:** Gene CCNF contains pathogenic variants and belongs to pathway Neddylation (R-HSA-8951664) which is shared with the ALS seed gene SQSTM1.
+- **Genes involved:** CCNF, SQSTM1
+- **Pathways involved:** Neddylation (R-HSA-8951664)
+- **Why this might matter in ALS:** Participating in the same biochemical pathway indicates that mutations or dysregulation in these distinct genes could lead to converged downstream pathological outcomes in ALS motor neurons.
+- **Supporting evidence:** Citations in the database link these entities (genes: CCNF, SQSTM1) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Knockdown or mutation of CCNF, SQSTM1 in human motor neurons will result in shared, quantifiable disruption of the pathway phenotypic assays.
+- **Computational validation:** Pathway membership and enrichment validated via Reactome database annotations.
+- **High-level wet-lab concept:** Assay downstream pathway activity or target markers in human motor neuron models.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 37243816
+  - PMID: 37250416
+  - PMID: 37872794
+  - PMID: 37993492
+  - PMID: 38474336
+  - PMID: 38879591
+## HYP-509: Variant and pathway convergence of TUBA4A in Sealing of the nuclear envelope (NE) by ESCRT-III
+- **Mechanism:** Gene TUBA4A contains pathogenic variants and belongs to pathway Sealing of the nuclear envelope (NE) by ESCRT-III (R-HSA-9668328) which is shared with the ALS seed gene CHMP2B.
+- **Genes involved:** CHMP2B, TUBA4A
+- **Pathways involved:** Sealing of the nuclear envelope (NE) by ESCRT-III (R-HSA-9668328)
+- **Why this might matter in ALS:** Participating in the same biochemical pathway indicates that mutations or dysregulation in these distinct genes could lead to converged downstream pathological outcomes in ALS motor neurons.
+- **Supporting evidence:** Citations in the database link these entities (genes: CHMP2B, TUBA4A) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Knockdown or mutation of CHMP2B, TUBA4A in human motor neurons will result in shared, quantifiable disruption of the pathway phenotypic assays.
+- **Computational validation:** Pathway membership and enrichment validated via Reactome database annotations.
+- **High-level wet-lab concept:** Assay downstream pathway activity or target markers in human motor neuron models.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 20301378
+  - PMID: 20301623
+  - PMID: 37606396
+  - PMID: 37635943
+  - PMID: 38102515
+  - PMID: 38177100
+## HYP-510: Variant and pathway convergence of DCTN1 in Regulation of PLK1 Activity at G2/M Transition
+- **Mechanism:** Gene DCTN1 contains pathogenic variants and belongs to pathway Regulation of PLK1 Activity at G2/M Transition (R-HSA-2565942) which is shared with the ALS seed gene OPTN.
+- **Genes involved:** DCTN1, OPTN, PLK1
+- **Pathways involved:** Regulation of PLK1 Activity at G2/M Transition (R-HSA-2565942)
+- **Why this might matter in ALS:** Participating in the same biochemical pathway indicates that mutations or dysregulation in these distinct genes could lead to converged downstream pathological outcomes in ALS motor neurons.
+- **Supporting evidence:** Citations in the database link these entities (genes: DCTN1, OPTN, PLK1) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Knockdown or mutation of DCTN1, OPTN, PLK1 in human motor neurons will result in shared, quantifiable disruption of the pathway phenotypic assays.
+- **Computational validation:** Pathway membership and enrichment validated via Reactome database annotations.
+- **High-level wet-lab concept:** Assay downstream pathway activity or target markers in human motor neuron models.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 38239833
+  - PMID: 38267040
+  - PMID: 38311779
+  - PMID: 38702287
+  - PMID: 39440303
+  - PMID: 40424855
+## HYP-511: Variant and pathway convergence of CYLD in Regulation of TNFR1 signaling
+- **Mechanism:** Gene CYLD contains pathogenic variants and belongs to pathway Regulation of TNFR1 signaling (R-HSA-5357905) which is shared with the ALS seed gene TBK1.
+- **Genes involved:** CYLD, TBK1
+- **Pathways involved:** Regulation of TNFR1 signaling (R-HSA-5357905)
+- **Why this might matter in ALS:** Participating in the same biochemical pathway indicates that mutations or dysregulation in these distinct genes could lead to converged downstream pathological outcomes in ALS motor neurons.
+- **Supporting evidence:** Citations in the database link these entities (genes: CYLD, TBK1) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Knockdown or mutation of CYLD, TBK1 in human motor neurons will result in shared, quantifiable disruption of the pathway phenotypic assays.
+- **Computational validation:** Pathway membership and enrichment validated via Reactome database annotations.
+- **High-level wet-lab concept:** Assay downstream pathway activity or target markers in human motor neuron models.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 21408173
+  - PMID: 29951055
+  - PMID: 32185393
+  - PMID: 33134918
+  - PMID: 33333804
+  - PMID: 34290285
+## HYP-512: Variant and pathway convergence of OPTN in PINK1-PRKN Mediated Mitophagy
+- **Mechanism:** Gene OPTN contains pathogenic variants and belongs to pathway PINK1-PRKN Mediated Mitophagy (R-HSA-5205685) which is shared with the ALS seed gene TBK1.
+- **Genes involved:** OPTN, TBK1
+- **Pathways involved:** PINK1-PRKN Mediated Mitophagy (R-HSA-5205685)
+- **Why this might matter in ALS:** Participating in the same biochemical pathway indicates that mutations or dysregulation in these distinct genes could lead to converged downstream pathological outcomes in ALS motor neurons.
+- **Supporting evidence:** Citations in the database link these entities (genes: OPTN, TBK1) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Knockdown or mutation of OPTN, TBK1 in human motor neurons will result in shared, quantifiable disruption of the pathway phenotypic assays.
+- **Computational validation:** Pathway membership and enrichment validated via Reactome database annotations.
+- **High-level wet-lab concept:** Assay downstream pathway activity or target markers in human motor neuron models.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 41259153
+  - PMID: 41269363
+  - PMID: 41283823
+  - PMID: 41294799
+  - PMID: 41302089
+  - PMID: 41337593
+## HYP-513: Variant and pathway convergence of OPTN in Regulation of TBK1, IKKε-mediated activation of IRF3, IRF7 upon TLR3 ligation
+- **Mechanism:** Gene OPTN contains pathogenic variants and belongs to pathway Regulation of TBK1, IKKε-mediated activation of IRF3, IRF7 upon TLR3 ligation (R-HSA-9828211) which is shared with the ALS seed gene TBK1.
+- **Genes involved:** IRF3, OPTN, TBK1
+- **Pathways involved:** Regulation of TBK1, IKKε-mediated activation of IRF3, IRF7 upon TLR3 ligation (R-HSA-9828211)
+- **Why this might matter in ALS:** Participating in the same biochemical pathway indicates that mutations or dysregulation in these distinct genes could lead to converged downstream pathological outcomes in ALS motor neurons.
+- **Supporting evidence:** Citations in the database link these entities (genes: IRF3, OPTN, TBK1) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Knockdown or mutation of IRF3, OPTN, TBK1 in human motor neurons will result in shared, quantifiable disruption of the pathway phenotypic assays.
+- **Computational validation:** Pathway membership and enrichment validated via Reactome database annotations.
+- **High-level wet-lab concept:** Assay downstream pathway activity or target markers in human motor neuron models.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 41259153
+  - PMID: 41269363
+  - PMID: 41283823
+  - PMID: 41294799
+  - PMID: 41302089
+  - PMID: 41337593
+## HYP-514: Variant and pathway convergence of TUBA4A in HSP90 chaperone cycle for steroid hormone receptors (SHR) in the presence of ligand
+- **Mechanism:** Gene TUBA4A contains pathogenic variants and belongs to pathway HSP90 chaperone cycle for steroid hormone receptors (SHR) in the presence of ligand (R-HSA-3371497) which is shared with the ALS seed gene DCTN1.
+- **Genes involved:** DCTN1, TUBA4A
+- **Pathways involved:** HSP90 chaperone cycle for steroid hormone receptors (SHR) in the presence of ligand (R-HSA-3371497)
+- **Why this might matter in ALS:** Participating in the same biochemical pathway indicates that mutations or dysregulation in these distinct genes could lead to converged downstream pathological outcomes in ALS motor neurons.
+- **Supporting evidence:** Citations in the database link these entities (genes: DCTN1, TUBA4A) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Knockdown or mutation of DCTN1, TUBA4A in human motor neurons will result in shared, quantifiable disruption of the pathway phenotypic assays.
+- **Computational validation:** Pathway membership and enrichment validated via Reactome database annotations.
+- **High-level wet-lab concept:** Assay downstream pathway activity or target markers in human motor neuron models.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 20301623
+  - PMID: 38102515
+  - PMID: 38177100
+  - PMID: 38239833
+  - PMID: 38267040
+  - PMID: 38311779
+## HYP-515: Variant and pathway convergence of TBK1 in Activation of IRF3, IRF7 mediated by TBK1, IKKε (IKBKE)
+- **Mechanism:** Gene TBK1 contains pathogenic variants and belongs to pathway Activation of IRF3, IRF7 mediated by TBK1, IKKε (IKBKE) (R-HSA-936964) which is shared with the ALS seed gene OPTN.
+- **Genes involved:** IKBKE, IRF3, OPTN, TBK1
+- **Pathways involved:** Activation of IRF3, IRF7 mediated by TBK1, IKKε (IKBKE) (R-HSA-936964)
+- **Why this might matter in ALS:** Participating in the same biochemical pathway indicates that mutations or dysregulation in these distinct genes could lead to converged downstream pathological outcomes in ALS motor neurons.
+- **Supporting evidence:** Citations in the database link these entities (genes: IKBKE, IRF3, OPTN, TBK1) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Knockdown or mutation of IKBKE, IRF3, OPTN, TBK1 in human motor neurons will result in shared, quantifiable disruption of the pathway phenotypic assays.
+- **Computational validation:** Pathway membership and enrichment validated via Reactome database annotations.
+- **High-level wet-lab concept:** Assay downstream pathway activity or target markers in human motor neuron models.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 41259153
+  - PMID: 41269363
+  - PMID: 41283823
+  - PMID: 41294799
+  - PMID: 41302089
+  - PMID: 41337593
+## HYP-516: Variant and pathway convergence of DCTN1 in Signaling by ALK fusions and activated point mutants
+- **Mechanism:** Gene DCTN1 contains pathogenic variants and belongs to pathway Signaling by ALK fusions and activated point mutants (R-HSA-9725370) which is shared with the ALS seed gene SQSTM1.
+- **Genes involved:** DCTN1, SQSTM1
+- **Pathways involved:** Signaling by ALK fusions and activated point mutants (R-HSA-9725370)
+- **Why this might matter in ALS:** Participating in the same biochemical pathway indicates that mutations or dysregulation in these distinct genes could lead to converged downstream pathological outcomes in ALS motor neurons.
+- **Supporting evidence:** Citations in the database link these entities (genes: DCTN1, SQSTM1) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Knockdown or mutation of DCTN1, SQSTM1 in human motor neurons will result in shared, quantifiable disruption of the pathway phenotypic assays.
+- **Computational validation:** Pathway membership and enrichment validated via Reactome database annotations.
+- **High-level wet-lab concept:** Assay downstream pathway activity or target markers in human motor neuron models.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 38239833
+  - PMID: 38267040
+  - PMID: 38311779
+  - PMID: 38702287
+  - PMID: 39440303
+  - PMID: 40424855
+## HYP-517: Variant and pathway convergence of OPTN in TICAM1-dependent activation of IRF3/IRF7
+- **Mechanism:** Gene OPTN contains pathogenic variants and belongs to pathway TICAM1-dependent activation of IRF3/IRF7 (R-HSA-9013973) which is shared with the ALS seed gene TBK1.
+- **Genes involved:** IRF3, OPTN, TBK1
+- **Pathways involved:** TICAM1-dependent activation of IRF3/IRF7 (R-HSA-9013973)
+- **Why this might matter in ALS:** Participating in the same biochemical pathway indicates that mutations or dysregulation in these distinct genes could lead to converged downstream pathological outcomes in ALS motor neurons.
+- **Supporting evidence:** Citations in the database link these entities (genes: IRF3, OPTN, TBK1) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Knockdown or mutation of IRF3, OPTN, TBK1 in human motor neurons will result in shared, quantifiable disruption of the pathway phenotypic assays.
+- **Computational validation:** Pathway membership and enrichment validated via Reactome database annotations.
+- **High-level wet-lab concept:** Assay downstream pathway activity or target markers in human motor neuron models.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 41259153
+  - PMID: 41269363
+  - PMID: 41283823
+  - PMID: 41294799
+  - PMID: 41302089
+  - PMID: 41337593
+## HYP-518: Variant and pathway convergence of VCP in Aggrephagy
+- **Mechanism:** Gene VCP contains pathogenic variants and belongs to pathway Aggrephagy (R-HSA-9646399) which is shared with the ALS seed gene TUBA4A.
+- **Genes involved:** TUBA4A, VCP
+- **Pathways involved:** Aggrephagy (R-HSA-9646399)
+- **Why this might matter in ALS:** Participating in the same biochemical pathway indicates that mutations or dysregulation in these distinct genes could lead to converged downstream pathological outcomes in ALS motor neurons.
+- **Supporting evidence:** Citations in the database link these entities (genes: TUBA4A, VCP) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Knockdown or mutation of TUBA4A, VCP in human motor neurons will result in shared, quantifiable disruption of the pathway phenotypic assays.
+- **Computational validation:** Pathway membership and enrichment validated via Reactome database annotations.
+- **High-level wet-lab concept:** Assay downstream pathway activity or target markers in human motor neuron models.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 20301623
+  - PMID: 38102515
+  - PMID: 38177100
+  - PMID: 38239833
+  - PMID: 38463699
+  - PMID: 38884572
+## HYP-519: Variant and pathway convergence of TUBA4A in Loss of proteins required for interphase microtubule organization from the centrosome
+- **Mechanism:** Gene TUBA4A contains pathogenic variants and belongs to pathway Loss of proteins required for interphase microtubule organization from the centrosome (R-HSA-380284) which is shared with the ALS seed gene DCTN1.
+- **Genes involved:** DCTN1, TUBA4A
+- **Pathways involved:** Loss of proteins required for interphase microtubule organization from the centrosome (R-HSA-380284)
+- **Why this might matter in ALS:** Participating in the same biochemical pathway indicates that mutations or dysregulation in these distinct genes could lead to converged downstream pathological outcomes in ALS motor neurons.
+- **Supporting evidence:** Citations in the database link these entities (genes: DCTN1, TUBA4A) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Knockdown or mutation of DCTN1, TUBA4A in human motor neurons will result in shared, quantifiable disruption of the pathway phenotypic assays.
+- **Computational validation:** Pathway membership and enrichment validated via Reactome database annotations.
+- **High-level wet-lab concept:** Assay downstream pathway activity or target markers in human motor neuron models.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 20301623
+  - PMID: 38102515
+  - PMID: 38177100
+  - PMID: 38239833
+  - PMID: 38267040
+  - PMID: 38311779
+## HYP-520: Variant and pathway convergence of SOD1 in Platelet degranulation 
+- **Mechanism:** Gene SOD1 contains pathogenic variants and belongs to pathway Platelet degranulation  (R-HSA-114608) which is shared with the ALS seed gene PFN1.
+- **Genes involved:** PFN1, SOD1
+- **Pathways involved:** Platelet degranulation  (R-HSA-114608)
+- **Why this might matter in ALS:** Participating in the same biochemical pathway indicates that mutations or dysregulation in these distinct genes could lead to converged downstream pathological outcomes in ALS motor neurons.
+- **Supporting evidence:** Citations in the database link these entities (genes: PFN1, SOD1) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Knockdown or mutation of PFN1, SOD1 in human motor neurons will result in shared, quantifiable disruption of the pathway phenotypic assays.
+- **Computational validation:** Pathway membership and enrichment validated via Reactome database annotations.
+- **High-level wet-lab concept:** Assay downstream pathway activity or target markers in human motor neuron models.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 39066921
+  - PMID: 39271636
+  - PMID: 39508106
+  - PMID: 40063831
+  - PMID: 40409555
+  - PMID: 40413526
+## HYP-521: Variant and pathway convergence of DCTN1 in Loss of Nlp from mitotic centrosomes
+- **Mechanism:** Gene DCTN1 contains pathogenic variants and belongs to pathway Loss of Nlp from mitotic centrosomes (R-HSA-380259) which is shared with the ALS seed gene TUBA4A.
+- **Genes involved:** DCTN1, TUBA4A
+- **Pathways involved:** Loss of Nlp from mitotic centrosomes (R-HSA-380259)
+- **Why this might matter in ALS:** Participating in the same biochemical pathway indicates that mutations or dysregulation in these distinct genes could lead to converged downstream pathological outcomes in ALS motor neurons.
+- **Supporting evidence:** Citations in the database link these entities (genes: DCTN1, TUBA4A) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Knockdown or mutation of DCTN1, TUBA4A in human motor neurons will result in shared, quantifiable disruption of the pathway phenotypic assays.
+- **Computational validation:** Pathway membership and enrichment validated via Reactome database annotations.
+- **High-level wet-lab concept:** Assay downstream pathway activity or target markers in human motor neuron models.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 20301623
+  - PMID: 38102515
+  - PMID: 38177100
+  - PMID: 38239833
+  - PMID: 38267040
+  - PMID: 38311779
+## HYP-522: Variant and pathway convergence of OPTN in TNFR1-induced proapoptotic signaling
+- **Mechanism:** Gene OPTN contains pathogenic variants and belongs to pathway TNFR1-induced proapoptotic signaling (R-HSA-5357786) which is shared with the ALS seed gene CYLD.
+- **Genes involved:** CYLD, OPTN
+- **Pathways involved:** TNFR1-induced proapoptotic signaling (R-HSA-5357786)
+- **Why this might matter in ALS:** Participating in the same biochemical pathway indicates that mutations or dysregulation in these distinct genes could lead to converged downstream pathological outcomes in ALS motor neurons.
+- **Supporting evidence:** Citations in the database link these entities (genes: CYLD, OPTN) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Knockdown or mutation of CYLD, OPTN in human motor neurons will result in shared, quantifiable disruption of the pathway phenotypic assays.
+- **Computational validation:** Pathway membership and enrichment validated via Reactome database annotations.
+- **High-level wet-lab concept:** Assay downstream pathway activity or target markers in human motor neuron models.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 21408173
+  - PMID: 29951055
+  - PMID: 32185393
+  - PMID: 33134918
+  - PMID: 33333804
+  - PMID: 34290285
+## HYP-523: Variant and pathway convergence of TUBA4A in COPI-dependent Golgi-to-ER retrograde traffic
+- **Mechanism:** Gene TUBA4A contains pathogenic variants and belongs to pathway COPI-dependent Golgi-to-ER retrograde traffic (R-HSA-6811434) which is shared with the ALS seed gene KIF5A.
+- **Genes involved:** KIF5A, TUBA4A
+- **Pathways involved:** COPI-dependent Golgi-to-ER retrograde traffic (R-HSA-6811434)
+- **Why this might matter in ALS:** Participating in the same biochemical pathway indicates that mutations or dysregulation in these distinct genes could lead to converged downstream pathological outcomes in ALS motor neurons.
+- **Supporting evidence:** Citations in the database link these entities (genes: KIF5A, TUBA4A) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Knockdown or mutation of KIF5A, TUBA4A in human motor neurons will result in shared, quantifiable disruption of the pathway phenotypic assays.
+- **Computational validation:** Pathway membership and enrichment validated via Reactome database annotations.
+- **High-level wet-lab concept:** Assay downstream pathway activity or target markers in human motor neuron models.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 20301623
+  - PMID: 38102515
+  - PMID: 38177100
+  - PMID: 38239833
+  - PMID: 38463699
+  - PMID: 38884572
+## HYP-524: Variant and pathway convergence of OPTN in PINK1-PRKN Mediated Mitophagy
+- **Mechanism:** Gene OPTN contains pathogenic variants and belongs to pathway PINK1-PRKN Mediated Mitophagy (R-HSA-5205685) which is shared with the ALS seed gene SQSTM1.
+- **Genes involved:** OPTN, SQSTM1
+- **Pathways involved:** PINK1-PRKN Mediated Mitophagy (R-HSA-5205685)
+- **Why this might matter in ALS:** Participating in the same biochemical pathway indicates that mutations or dysregulation in these distinct genes could lead to converged downstream pathological outcomes in ALS motor neurons.
+- **Supporting evidence:** Citations in the database link these entities (genes: OPTN, SQSTM1) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Knockdown or mutation of OPTN, SQSTM1 in human motor neurons will result in shared, quantifiable disruption of the pathway phenotypic assays.
+- **Computational validation:** Pathway membership and enrichment validated via Reactome database annotations.
+- **High-level wet-lab concept:** Assay downstream pathway activity or target markers in human motor neuron models.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 41171761
+  - PMID: 41196070
+  - PMID: 41259153
+  - PMID: 41283823
+  - PMID: 41294799
+  - PMID: 41387380
+## HYP-525: Variant and pathway convergence of PFN1 in Platelet degranulation 
+- **Mechanism:** Gene PFN1 contains pathogenic variants and belongs to pathway Platelet degranulation  (R-HSA-114608) which is shared with the ALS seed gene SOD1.
+- **Genes involved:** PFN1, SOD1
+- **Pathways involved:** Platelet degranulation  (R-HSA-114608)
+- **Why this might matter in ALS:** Participating in the same biochemical pathway indicates that mutations or dysregulation in these distinct genes could lead to converged downstream pathological outcomes in ALS motor neurons.
+- **Supporting evidence:** Citations in the database link these entities (genes: PFN1, SOD1) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Knockdown or mutation of PFN1, SOD1 in human motor neurons will result in shared, quantifiable disruption of the pathway phenotypic assays.
+- **Computational validation:** Pathway membership and enrichment validated via Reactome database annotations.
+- **High-level wet-lab concept:** Assay downstream pathway activity or target markers in human motor neuron models.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 39066921
+  - PMID: 39271636
+  - PMID: 39508106
+  - PMID: 40063831
+  - PMID: 40409555
+  - PMID: 40413526
+## HYP-526: Variant and pathway convergence of CYLD in TNFR1-induced proapoptotic signaling
+- **Mechanism:** Gene CYLD contains pathogenic variants and belongs to pathway TNFR1-induced proapoptotic signaling (R-HSA-5357786) which is shared with the ALS seed gene TBK1.
+- **Genes involved:** CYLD, TBK1
+- **Pathways involved:** TNFR1-induced proapoptotic signaling (R-HSA-5357786)
+- **Why this might matter in ALS:** Participating in the same biochemical pathway indicates that mutations or dysregulation in these distinct genes could lead to converged downstream pathological outcomes in ALS motor neurons.
+- **Supporting evidence:** Citations in the database link these entities (genes: CYLD, TBK1) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Knockdown or mutation of CYLD, TBK1 in human motor neurons will result in shared, quantifiable disruption of the pathway phenotypic assays.
+- **Computational validation:** Pathway membership and enrichment validated via Reactome database annotations.
+- **High-level wet-lab concept:** Assay downstream pathway activity or target markers in human motor neuron models.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 21408173
+  - PMID: 29951055
+  - PMID: 32185393
+  - PMID: 33134918
+  - PMID: 33333804
+  - PMID: 34290285
+## HYP-527: Variant and pathway convergence of OPTN in Regulation of PLK1 Activity at G2/M Transition
+- **Mechanism:** Gene OPTN contains pathogenic variants and belongs to pathway Regulation of PLK1 Activity at G2/M Transition (R-HSA-2565942) which is shared with the ALS seed gene TUBA4A.
+- **Genes involved:** OPTN, PLK1, TUBA4A
+- **Pathways involved:** Regulation of PLK1 Activity at G2/M Transition (R-HSA-2565942)
+- **Why this might matter in ALS:** Participating in the same biochemical pathway indicates that mutations or dysregulation in these distinct genes could lead to converged downstream pathological outcomes in ALS motor neurons.
+- **Supporting evidence:** Citations in the database link these entities (genes: OPTN, PLK1, TUBA4A) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Knockdown or mutation of OPTN, PLK1, TUBA4A in human motor neurons will result in shared, quantifiable disruption of the pathway phenotypic assays.
+- **Computational validation:** Pathway membership and enrichment validated via Reactome database annotations.
+- **High-level wet-lab concept:** Assay downstream pathway activity or target markers in human motor neuron models.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 20301623
+  - PMID: 38102515
+  - PMID: 38177100
+  - PMID: 38239833
+  - PMID: 38463699
+  - PMID: 38884572
+## HYP-528: Variant and pathway convergence of KIF5A in MHC class II antigen presentation
+- **Mechanism:** Gene KIF5A contains pathogenic variants and belongs to pathway MHC class II antigen presentation (R-HSA-2132295) which is shared with the ALS seed gene DCTN1.
+- **Genes involved:** DCTN1, KIF5A
+- **Pathways involved:** MHC class II antigen presentation (R-HSA-2132295)
+- **Why this might matter in ALS:** Participating in the same biochemical pathway indicates that mutations or dysregulation in these distinct genes could lead to converged downstream pathological outcomes in ALS motor neurons.
+- **Supporting evidence:** Citations in the database link these entities (genes: DCTN1, KIF5A) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Knockdown or mutation of DCTN1, KIF5A in human motor neurons will result in shared, quantifiable disruption of the pathway phenotypic assays.
+- **Computational validation:** Pathway membership and enrichment validated via Reactome database annotations.
+- **High-level wet-lab concept:** Assay downstream pathway activity or target markers in human motor neuron models.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 38239833
+  - PMID: 38267040
+  - PMID: 38311779
+  - PMID: 38702287
+  - PMID: 39440303
+  - PMID: 40424855
+## HYP-529: Variant and pathway convergence of TBK1 in Regulation of TNFR1 signaling
+- **Mechanism:** Gene TBK1 contains pathogenic variants and belongs to pathway Regulation of TNFR1 signaling (R-HSA-5357905) which is shared with the ALS seed gene CYLD.
+- **Genes involved:** CYLD, TBK1
+- **Pathways involved:** Regulation of TNFR1 signaling (R-HSA-5357905)
+- **Why this might matter in ALS:** Participating in the same biochemical pathway indicates that mutations or dysregulation in these distinct genes could lead to converged downstream pathological outcomes in ALS motor neurons.
+- **Supporting evidence:** Citations in the database link these entities (genes: CYLD, TBK1) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Knockdown or mutation of CYLD, TBK1 in human motor neurons will result in shared, quantifiable disruption of the pathway phenotypic assays.
+- **Computational validation:** Pathway membership and enrichment validated via Reactome database annotations.
+- **High-level wet-lab concept:** Assay downstream pathway activity or target markers in human motor neuron models.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 21408173
+  - PMID: 29951055
+  - PMID: 32185393
+  - PMID: 33134918
+  - PMID: 33333804
+  - PMID: 34290285
+## HYP-530: Variant and pathway convergence of CYLD in Negative regulators of DDX58/IFIH1 signaling
+- **Mechanism:** Gene CYLD contains pathogenic variants and belongs to pathway Negative regulators of DDX58/IFIH1 signaling (R-HSA-936440) which is shared with the ALS seed gene TBK1.
+- **Genes involved:** CYLD, TBK1
+- **Pathways involved:** Negative regulators of DDX58/IFIH1 signaling (R-HSA-936440)
+- **Why this might matter in ALS:** Participating in the same biochemical pathway indicates that mutations or dysregulation in these distinct genes could lead to converged downstream pathological outcomes in ALS motor neurons.
+- **Supporting evidence:** Citations in the database link these entities (genes: CYLD, TBK1) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Knockdown or mutation of CYLD, TBK1 in human motor neurons will result in shared, quantifiable disruption of the pathway phenotypic assays.
+- **Computational validation:** Pathway membership and enrichment validated via Reactome database annotations.
+- **High-level wet-lab concept:** Assay downstream pathway activity or target markers in human motor neuron models.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 21408173
+  - PMID: 29951055
+  - PMID: 32185393
+  - PMID: 33134918
+  - PMID: 33333804
+  - PMID: 34290285
+## HYP-531: Variant and pathway convergence of DCTN1 in Recruitment of NuMA to mitotic centrosomes
+- **Mechanism:** Gene DCTN1 contains pathogenic variants and belongs to pathway Recruitment of NuMA to mitotic centrosomes (R-HSA-380320) which is shared with the ALS seed gene TUBA4A.
+- **Genes involved:** DCTN1, TUBA4A
+- **Pathways involved:** Recruitment of NuMA to mitotic centrosomes (R-HSA-380320)
+- **Why this might matter in ALS:** Participating in the same biochemical pathway indicates that mutations or dysregulation in these distinct genes could lead to converged downstream pathological outcomes in ALS motor neurons.
+- **Supporting evidence:** Citations in the database link these entities (genes: DCTN1, TUBA4A) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Knockdown or mutation of DCTN1, TUBA4A in human motor neurons will result in shared, quantifiable disruption of the pathway phenotypic assays.
+- **Computational validation:** Pathway membership and enrichment validated via Reactome database annotations.
+- **High-level wet-lab concept:** Assay downstream pathway activity or target markers in human motor neuron models.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 20301623
+  - PMID: 38102515
+  - PMID: 38177100
+  - PMID: 38239833
+  - PMID: 38267040
+  - PMID: 38311779
+## HYP-532: Variant and pathway convergence of DCTN1 in AURKA Activation by TPX2
+- **Mechanism:** Gene DCTN1 contains pathogenic variants and belongs to pathway AURKA Activation by TPX2 (R-HSA-8854518) which is shared with the ALS seed gene TUBA4A.
+- **Genes involved:** DCTN1, TUBA4A
+- **Pathways involved:** AURKA Activation by TPX2 (R-HSA-8854518)
+- **Why this might matter in ALS:** Participating in the same biochemical pathway indicates that mutations or dysregulation in these distinct genes could lead to converged downstream pathological outcomes in ALS motor neurons.
+- **Supporting evidence:** Citations in the database link these entities (genes: DCTN1, TUBA4A) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Knockdown or mutation of DCTN1, TUBA4A in human motor neurons will result in shared, quantifiable disruption of the pathway phenotypic assays.
+- **Computational validation:** Pathway membership and enrichment validated via Reactome database annotations.
+- **High-level wet-lab concept:** Assay downstream pathway activity or target markers in human motor neuron models.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 20301623
+  - PMID: 38102515
+  - PMID: 38177100
+  - PMID: 38239833
+  - PMID: 38267040
+  - PMID: 38311779
+## HYP-533: Variant and pathway convergence of HNRNPA1 in Processing of Capped Intron-Containing Pre-mRNA
+- **Mechanism:** Gene HNRNPA1 contains pathogenic variants and belongs to pathway Processing of Capped Intron-Containing Pre-mRNA (R-HSA-72203) which is shared with the ALS seed gene FUS.
+- **Genes involved:** FUS, HNRNPA1
+- **Pathways involved:** Processing of Capped Intron-Containing Pre-mRNA (R-HSA-72203)
+- **Why this might matter in ALS:** Participating in the same biochemical pathway indicates that mutations or dysregulation in these distinct genes could lead to converged downstream pathological outcomes in ALS motor neurons.
+- **Supporting evidence:** Citations in the database link these entities (genes: FUS, HNRNPA1) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** The supporting studies are animal-only models (lacking human/patient validation).
+- **Falsifiable prediction:** Knockdown or mutation of FUS, HNRNPA1 in human motor neurons will result in shared, quantifiable disruption of the pathway phenotypic assays.
+- **Computational validation:** Pathway membership and enrichment validated via Reactome database annotations.
+- **High-level wet-lab concept:** Assay downstream pathway activity or target markers in human motor neuron models.
+- **Confidence:** Low
+- **Uncertainty:** Potential lack of human/patient clinical validation, conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 40441157
+  - PMID: 40687373
+  - PMID: 40707625
+  - PMID: 40737092
+  - PMID: 40766389
+  - PMID: 40778857
+## HYP-534: Variant and pathway convergence of PFN1 in Platelet degranulation 
+- **Mechanism:** Gene PFN1 contains pathogenic variants and belongs to pathway Platelet degranulation  (R-HSA-114608) which is shared with the ALS seed gene TUBA4A.
+- **Genes involved:** PFN1, TUBA4A
+- **Pathways involved:** Platelet degranulation  (R-HSA-114608)
+- **Why this might matter in ALS:** Participating in the same biochemical pathway indicates that mutations or dysregulation in these distinct genes could lead to converged downstream pathological outcomes in ALS motor neurons.
+- **Supporting evidence:** Citations in the database link these entities (genes: PFN1, TUBA4A) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Knockdown or mutation of PFN1, TUBA4A in human motor neurons will result in shared, quantifiable disruption of the pathway phenotypic assays.
+- **Computational validation:** Pathway membership and enrichment validated via Reactome database annotations.
+- **High-level wet-lab concept:** Assay downstream pathway activity or target markers in human motor neuron models.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 20301623
+  - PMID: 38102515
+  - PMID: 38177100
+  - PMID: 38239833
+  - PMID: 38463699
+  - PMID: 38884572
+## HYP-535: Variant and pathway convergence of SQSTM1 in KEAP1-NFE2L2 pathway
+- **Mechanism:** Gene SQSTM1 contains pathogenic variants and belongs to pathway KEAP1-NFE2L2 pathway (R-HSA-9755511) which is shared with the ALS seed gene VCP.
+- **Genes involved:** SQSTM1, VCP
+- **Pathways involved:** KEAP1-NFE2L2 pathway (R-HSA-9755511)
+- **Why this might matter in ALS:** Participating in the same biochemical pathway indicates that mutations or dysregulation in these distinct genes could lead to converged downstream pathological outcomes in ALS motor neurons.
+- **Supporting evidence:** Citations in the database link these entities (genes: SQSTM1, VCP) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Knockdown or mutation of SQSTM1, VCP in human motor neurons will result in shared, quantifiable disruption of the pathway phenotypic assays.
+- **Computational validation:** Pathway membership and enrichment validated via Reactome database annotations.
+- **High-level wet-lab concept:** Assay downstream pathway activity or target markers in human motor neuron models.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 41171761
+  - PMID: 41196070
+  - PMID: 41387380
+  - PMID: 41404692
+  - PMID: 41485128
+  - PMID: 41621017
+## HYP-536: Variant and pathway convergence of TUBA4A in Loss of Nlp from mitotic centrosomes
+- **Mechanism:** Gene TUBA4A contains pathogenic variants and belongs to pathway Loss of Nlp from mitotic centrosomes (R-HSA-380259) which is shared with the ALS seed gene DCTN1.
+- **Genes involved:** DCTN1, TUBA4A
+- **Pathways involved:** Loss of Nlp from mitotic centrosomes (R-HSA-380259)
+- **Why this might matter in ALS:** Participating in the same biochemical pathway indicates that mutations or dysregulation in these distinct genes could lead to converged downstream pathological outcomes in ALS motor neurons.
+- **Supporting evidence:** Citations in the database link these entities (genes: DCTN1, TUBA4A) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Knockdown or mutation of DCTN1, TUBA4A in human motor neurons will result in shared, quantifiable disruption of the pathway phenotypic assays.
+- **Computational validation:** Pathway membership and enrichment validated via Reactome database annotations.
+- **High-level wet-lab concept:** Assay downstream pathway activity or target markers in human motor neuron models.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 20301623
+  - PMID: 38102515
+  - PMID: 38177100
+  - PMID: 38239833
+  - PMID: 38267040
+  - PMID: 38311779
+## HYP-537: Variant and pathway convergence of TUBA4A in COPI-independent Golgi-to-ER retrograde traffic
+- **Mechanism:** Gene TUBA4A contains pathogenic variants and belongs to pathway COPI-independent Golgi-to-ER retrograde traffic (R-HSA-6811436) which is shared with the ALS seed gene DCTN1.
+- **Genes involved:** DCTN1, TUBA4A
+- **Pathways involved:** COPI-independent Golgi-to-ER retrograde traffic (R-HSA-6811436)
+- **Why this might matter in ALS:** Participating in the same biochemical pathway indicates that mutations or dysregulation in these distinct genes could lead to converged downstream pathological outcomes in ALS motor neurons.
+- **Supporting evidence:** Citations in the database link these entities (genes: DCTN1, TUBA4A) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Knockdown or mutation of DCTN1, TUBA4A in human motor neurons will result in shared, quantifiable disruption of the pathway phenotypic assays.
+- **Computational validation:** Pathway membership and enrichment validated via Reactome database annotations.
+- **High-level wet-lab concept:** Assay downstream pathway activity or target markers in human motor neuron models.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 20301623
+  - PMID: 38102515
+  - PMID: 38177100
+  - PMID: 38239833
+  - PMID: 38267040
+  - PMID: 38311779
+## HYP-538: Variant and pathway convergence of TBK1 in TICAM1-dependent activation of IRF3/IRF7
+- **Mechanism:** Gene TBK1 contains pathogenic variants and belongs to pathway TICAM1-dependent activation of IRF3/IRF7 (R-HSA-9013973) which is shared with the ALS seed gene OPTN.
+- **Genes involved:** IRF3, OPTN, TBK1
+- **Pathways involved:** TICAM1-dependent activation of IRF3/IRF7 (R-HSA-9013973)
+- **Why this might matter in ALS:** Participating in the same biochemical pathway indicates that mutations or dysregulation in these distinct genes could lead to converged downstream pathological outcomes in ALS motor neurons.
+- **Supporting evidence:** Citations in the database link these entities (genes: IRF3, OPTN, TBK1) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Knockdown or mutation of IRF3, OPTN, TBK1 in human motor neurons will result in shared, quantifiable disruption of the pathway phenotypic assays.
+- **Computational validation:** Pathway membership and enrichment validated via Reactome database annotations.
+- **High-level wet-lab concept:** Assay downstream pathway activity or target markers in human motor neuron models.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 41259153
+  - PMID: 41269363
+  - PMID: 41283823
+  - PMID: 41294799
+  - PMID: 41302089
+  - PMID: 41337593
+## HYP-539: Variant and pathway convergence of TUBA4A in RHO GTPases Activate Formins
+- **Mechanism:** Gene TUBA4A contains pathogenic variants and belongs to pathway RHO GTPases Activate Formins (R-HSA-5663220) which is shared with the ALS seed gene PFN1.
+- **Genes involved:** PFN1, TUBA4A
+- **Pathways involved:** RHO GTPases Activate Formins (R-HSA-5663220)
+- **Why this might matter in ALS:** Participating in the same biochemical pathway indicates that mutations or dysregulation in these distinct genes could lead to converged downstream pathological outcomes in ALS motor neurons.
+- **Supporting evidence:** Citations in the database link these entities (genes: PFN1, TUBA4A) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Knockdown or mutation of PFN1, TUBA4A in human motor neurons will result in shared, quantifiable disruption of the pathway phenotypic assays.
+- **Computational validation:** Pathway membership and enrichment validated via Reactome database annotations.
+- **High-level wet-lab concept:** Assay downstream pathway activity or target markers in human motor neuron models.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 20301623
+  - PMID: 38102515
+  - PMID: 38177100
+  - PMID: 38239833
+  - PMID: 38463699
+  - PMID: 38884572
+## HYP-540: Variant and pathway convergence of TBK1 in PINK1-PRKN Mediated Mitophagy
+- **Mechanism:** Gene TBK1 contains pathogenic variants and belongs to pathway PINK1-PRKN Mediated Mitophagy (R-HSA-5205685) which is shared with the ALS seed gene OPTN.
+- **Genes involved:** OPTN, TBK1
+- **Pathways involved:** PINK1-PRKN Mediated Mitophagy (R-HSA-5205685)
+- **Why this might matter in ALS:** Participating in the same biochemical pathway indicates that mutations or dysregulation in these distinct genes could lead to converged downstream pathological outcomes in ALS motor neurons.
+- **Supporting evidence:** Citations in the database link these entities (genes: OPTN, TBK1) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Knockdown or mutation of OPTN, TBK1 in human motor neurons will result in shared, quantifiable disruption of the pathway phenotypic assays.
+- **Computational validation:** Pathway membership and enrichment validated via Reactome database annotations.
+- **High-level wet-lab concept:** Assay downstream pathway activity or target markers in human motor neuron models.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 41259153
+  - PMID: 41269363
+  - PMID: 41283823
+  - PMID: 41294799
+  - PMID: 41302089
+  - PMID: 41337593
+## HYP-541: Variant and pathway convergence of CCNF in Neddylation
+- **Mechanism:** Gene CCNF contains pathogenic variants and belongs to pathway Neddylation (R-HSA-8951664) which is shared with the ALS seed gene VCP.
+- **Genes involved:** CCNF, VCP
+- **Pathways involved:** Neddylation (R-HSA-8951664)
+- **Why this might matter in ALS:** Participating in the same biochemical pathway indicates that mutations or dysregulation in these distinct genes could lead to converged downstream pathological outcomes in ALS motor neurons.
+- **Supporting evidence:** Citations in the database link these entities (genes: CCNF, VCP) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Knockdown or mutation of CCNF, VCP in human motor neurons will result in shared, quantifiable disruption of the pathway phenotypic assays.
+- **Computational validation:** Pathway membership and enrichment validated via Reactome database annotations.
+- **High-level wet-lab concept:** Assay downstream pathway activity or target markers in human motor neuron models.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 37243816
+  - PMID: 37250416
+  - PMID: 37872794
+  - PMID: 37993492
+  - PMID: 38474336
+  - PMID: 38879591
+## HYP-542: Variant and pathway convergence of OPTN in TNFR1-induced proapoptotic signaling
+- **Mechanism:** Gene OPTN contains pathogenic variants and belongs to pathway TNFR1-induced proapoptotic signaling (R-HSA-5357786) which is shared with the ALS seed gene TBK1.
+- **Genes involved:** OPTN, TBK1
+- **Pathways involved:** TNFR1-induced proapoptotic signaling (R-HSA-5357786)
+- **Why this might matter in ALS:** Participating in the same biochemical pathway indicates that mutations or dysregulation in these distinct genes could lead to converged downstream pathological outcomes in ALS motor neurons.
+- **Supporting evidence:** Citations in the database link these entities (genes: OPTN, TBK1) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Knockdown or mutation of OPTN, TBK1 in human motor neurons will result in shared, quantifiable disruption of the pathway phenotypic assays.
+- **Computational validation:** Pathway membership and enrichment validated via Reactome database annotations.
+- **High-level wet-lab concept:** Assay downstream pathway activity or target markers in human motor neuron models.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 41259153
+  - PMID: 41269363
+  - PMID: 41283823
+  - PMID: 41294799
+  - PMID: 41302089
+  - PMID: 41337593
+## HYP-543: Variant and pathway convergence of PFN1 in RHO GTPases Activate Formins
+- **Mechanism:** Gene PFN1 contains pathogenic variants and belongs to pathway RHO GTPases Activate Formins (R-HSA-5663220) which is shared with the ALS seed gene TUBA4A.
+- **Genes involved:** PFN1, TUBA4A
+- **Pathways involved:** RHO GTPases Activate Formins (R-HSA-5663220)
+- **Why this might matter in ALS:** Participating in the same biochemical pathway indicates that mutations or dysregulation in these distinct genes could lead to converged downstream pathological outcomes in ALS motor neurons.
+- **Supporting evidence:** Citations in the database link these entities (genes: PFN1, TUBA4A) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Knockdown or mutation of PFN1, TUBA4A in human motor neurons will result in shared, quantifiable disruption of the pathway phenotypic assays.
+- **Computational validation:** Pathway membership and enrichment validated via Reactome database annotations.
+- **High-level wet-lab concept:** Assay downstream pathway activity or target markers in human motor neuron models.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 20301623
+  - PMID: 38102515
+  - PMID: 38177100
+  - PMID: 38239833
+  - PMID: 38463699
+  - PMID: 38884572
+## HYP-544: Variant and pathway convergence of DCTN1 in MHC class II antigen presentation
+- **Mechanism:** Gene DCTN1 contains pathogenic variants and belongs to pathway MHC class II antigen presentation (R-HSA-2132295) which is shared with the ALS seed gene KIF5A.
+- **Genes involved:** DCTN1, KIF5A
+- **Pathways involved:** MHC class II antigen presentation (R-HSA-2132295)
+- **Why this might matter in ALS:** Participating in the same biochemical pathway indicates that mutations or dysregulation in these distinct genes could lead to converged downstream pathological outcomes in ALS motor neurons.
+- **Supporting evidence:** Citations in the database link these entities (genes: DCTN1, KIF5A) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Knockdown or mutation of DCTN1, KIF5A in human motor neurons will result in shared, quantifiable disruption of the pathway phenotypic assays.
+- **Computational validation:** Pathway membership and enrichment validated via Reactome database annotations.
+- **High-level wet-lab concept:** Assay downstream pathway activity or target markers in human motor neuron models.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 38239833
+  - PMID: 38267040
+  - PMID: 38311779
+  - PMID: 38702287
+  - PMID: 39440303
+  - PMID: 40424855
+## HYP-545: Variant and pathway convergence of TUBA4A in Anchoring of the basal body to the plasma membrane
+- **Mechanism:** Gene TUBA4A contains pathogenic variants and belongs to pathway Anchoring of the basal body to the plasma membrane (R-HSA-5620912) which is shared with the ALS seed gene DCTN1.
+- **Genes involved:** DCTN1, TUBA4A
+- **Pathways involved:** Anchoring of the basal body to the plasma membrane (R-HSA-5620912)
+- **Why this might matter in ALS:** Participating in the same biochemical pathway indicates that mutations or dysregulation in these distinct genes could lead to converged downstream pathological outcomes in ALS motor neurons.
+- **Supporting evidence:** Citations in the database link these entities (genes: DCTN1, TUBA4A) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Knockdown or mutation of DCTN1, TUBA4A in human motor neurons will result in shared, quantifiable disruption of the pathway phenotypic assays.
+- **Computational validation:** Pathway membership and enrichment validated via Reactome database annotations.
+- **High-level wet-lab concept:** Assay downstream pathway activity or target markers in human motor neuron models.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 20301623
+  - PMID: 38102515
+  - PMID: 38177100
+  - PMID: 38239833
+  - PMID: 38267040
+  - PMID: 38311779
+## HYP-546: Variant and pathway convergence of TBK1 in Regulation of TBK1, IKKε-mediated activation of IRF3, IRF7 upon TLR3 ligation
+- **Mechanism:** Gene TBK1 contains pathogenic variants and belongs to pathway Regulation of TBK1, IKKε-mediated activation of IRF3, IRF7 upon TLR3 ligation (R-HSA-9828211) which is shared with the ALS seed gene OPTN.
+- **Genes involved:** IRF3, OPTN, TBK1
+- **Pathways involved:** Regulation of TBK1, IKKε-mediated activation of IRF3, IRF7 upon TLR3 ligation (R-HSA-9828211)
+- **Why this might matter in ALS:** Participating in the same biochemical pathway indicates that mutations or dysregulation in these distinct genes could lead to converged downstream pathological outcomes in ALS motor neurons.
+- **Supporting evidence:** Citations in the database link these entities (genes: IRF3, OPTN, TBK1) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Knockdown or mutation of IRF3, OPTN, TBK1 in human motor neurons will result in shared, quantifiable disruption of the pathway phenotypic assays.
+- **Computational validation:** Pathway membership and enrichment validated via Reactome database annotations.
+- **High-level wet-lab concept:** Assay downstream pathway activity or target markers in human motor neuron models.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 41259153
+  - PMID: 41269363
+  - PMID: 41283823
+  - PMID: 41294799
+  - PMID: 41302089
+  - PMID: 41337593
+## HYP-547: Variant and pathway convergence of SQSTM1 in Neddylation
+- **Mechanism:** Gene SQSTM1 contains pathogenic variants and belongs to pathway Neddylation (R-HSA-8951664) which is shared with the ALS seed gene CCNF.
+- **Genes involved:** CCNF, SQSTM1
+- **Pathways involved:** Neddylation (R-HSA-8951664)
+- **Why this might matter in ALS:** Participating in the same biochemical pathway indicates that mutations or dysregulation in these distinct genes could lead to converged downstream pathological outcomes in ALS motor neurons.
+- **Supporting evidence:** Citations in the database link these entities (genes: CCNF, SQSTM1) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Knockdown or mutation of CCNF, SQSTM1 in human motor neurons will result in shared, quantifiable disruption of the pathway phenotypic assays.
+- **Computational validation:** Pathway membership and enrichment validated via Reactome database annotations.
+- **High-level wet-lab concept:** Assay downstream pathway activity or target markers in human motor neuron models.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 37243816
+  - PMID: 37250416
+  - PMID: 37872794
+  - PMID: 37993492
+  - PMID: 38474336
+  - PMID: 38879591
+## HYP-548: Variant and pathway convergence of VCP in Neddylation
+- **Mechanism:** Gene VCP contains pathogenic variants and belongs to pathway Neddylation (R-HSA-8951664) which is shared with the ALS seed gene CCNF.
+- **Genes involved:** CCNF, VCP
+- **Pathways involved:** Neddylation (R-HSA-8951664)
+- **Why this might matter in ALS:** Participating in the same biochemical pathway indicates that mutations or dysregulation in these distinct genes could lead to converged downstream pathological outcomes in ALS motor neurons.
+- **Supporting evidence:** Citations in the database link these entities (genes: CCNF, VCP) to relevant biological functions and clinical traits.
+- **Contradicting or weak evidence:** Literature contains conflicting findings or potential contradiction keywords.
+- **Falsifiable prediction:** Knockdown or mutation of CCNF, VCP in human motor neurons will result in shared, quantifiable disruption of the pathway phenotypic assays.
+- **Computational validation:** Pathway membership and enrichment validated via Reactome database annotations.
+- **High-level wet-lab concept:** Assay downstream pathway activity or target markers in human motor neuron models.
+- **Confidence:** Low
+- **Uncertainty:** Potential conflicting variant pathogenicity classifications in ClinVar
+- **Sources**:
+  - PMID: 37243816
+  - PMID: 37250416
+  - PMID: 37872794
+  - PMID: 37993492
+  - PMID: 38474336
+  - PMID: 38879591

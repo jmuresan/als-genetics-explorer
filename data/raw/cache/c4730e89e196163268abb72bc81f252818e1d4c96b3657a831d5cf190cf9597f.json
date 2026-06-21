@@ -1,0 +1,60 @@
+{
+  "header": {
+    "type": "esearch",
+    "version": "0.3"
+  },
+  "esearchresult": {
+    "count": "15",
+    "retmax": "15",
+    "retstart": "0",
+    "idlist": [
+      "4820028",
+      "4820023",
+      "4277964",
+      "3385108",
+      "3362751",
+      "2627498",
+      "2585153",
+      "2441693",
+      "1805877",
+      "1343314",
+      "1343313",
+      "992594",
+      "992593",
+      "992592",
+      "992591"
+    ],
+    "translationset": [],
+    "translationstack": [
+      {
+        "term": "CCNF[gene]",
+        "field": "gene",
+        "count": "273",
+        "explode": "N"
+      },
+      {
+        "term": "amyotrophic[All Fields]",
+        "field": "All Fields",
+        "count": "10881",
+        "explode": "N"
+      },
+      {
+        "term": "lateral[All Fields]",
+        "field": "All Fields",
+        "count": "23718",
+        "explode": "N"
+      },
+      "AND",
+      {
+        "term": "sclerosis[All Fields]",
+        "field": "All Fields",
+        "count": "32827",
+        "explode": "N"
+      },
+      "AND",
+      "GROUP",
+      "AND"
+    ],
+    "querytranslation": "CCNF[gene] AND (amyotrophic[All Fields] AND lateral[All Fields] AND sclerosis[All Fields])"
+  }
+}

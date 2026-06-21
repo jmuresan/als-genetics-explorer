@@ -1,0 +1,1414 @@
+{
+  "data": {
+    "target": {
+      "id": "ENSG00000015479",
+      "approvedSymbol": "MATR3",
+      "approvedName": "matrin 3",
+      "associatedDiseases": {
+        "count": 432,
+        "rows": [
+          {
+            "disease": {
+              "id": "MONDO_0004976",
+              "name": "amyotrophic lateral sclerosis"
+            },
+            "score": 0.7470084204341542
+          },
+          {
+            "disease": {
+              "id": "MONDO_0018951",
+              "name": "distal myopathy with vocal cord weakness"
+            },
+            "score": 0.5675105001295412
+          },
+          {
+            "disease": {
+              "id": "EFO_0005772",
+              "name": "neurodegenerative disease"
+            },
+            "score": 0.528487145639959
+          },
+          {
+            "disease": {
+              "id": "MONDO_0018949",
+              "name": "distal myopathy"
+            },
+            "score": 0.4124552363452491
+          },
+          {
+            "disease": {
+              "id": "EFO_0000508",
+              "name": "genetic disorder"
+            },
+            "score": 0.1929210081611691
+          },
+          {
+            "disease": {
+              "id": "HP_0002180",
+              "name": "Neurodegeneration"
+            },
+            "score": 0.11826555349910459
+          },
+          {
+            "disease": {
+              "id": "MONDO_0007254",
+              "name": "breast cancer"
+            },
+            "score": 0.08030181384191894
+          },
+          {
+            "disease": {
+              "id": "EFO_0009081",
+              "name": "Heterotaxia"
+            },
+            "score": 0.0742175090871562
+          },
+          {
+            "disease": {
+              "id": "EFO_0000195",
+              "name": "metabolic syndrome"
+            },
+            "score": 0.07391597093694036
+          },
+          {
+            "disease": {
+              "id": "EFO_1001267",
+              "name": "Aortic Coarctation"
+            },
+            "score": 0.07347617090986557
+          },
+          {
+            "disease": {
+              "id": "MONDO_0007763",
+              "name": "nonpapillary renal cell carcinoma"
+            },
+            "score": 0.07317681122757096
+          },
+          {
+            "disease": {
+              "id": "EFO_0005207",
+              "name": "congenital heart disease"
+            },
+            "score": 0.071907304426729
+          },
+          {
+            "disease": {
+              "id": "Orphanet_860",
+              "name": "Congenitally uncorrected transposition of the great arteries"
+            },
+            "score": 0.06841498012210007
+          },
+          {
+            "disease": {
+              "id": "MONDO_0007443",
+              "name": "congenital unilateral hypoplasia of depressor anguli oris"
+            },
+            "score": 0.06605315952852334
+          },
+          {
+            "disease": {
+              "id": "Orphanet_3304",
+              "name": "Fallot complex - intellectual disability - growth delay"
+            },
+            "score": 0.06572238555858052
+          },
+          {
+            "disease": {
+              "id": "MONDO_0010999",
+              "name": "fallot complex-intellectual disability-growth delay syndrome"
+            },
+            "score": 0.06572238555858052
+          },
+          {
+            "disease": {
+              "id": "MONDO_0014344",
+              "name": "congenital heart defects, multiple types, 4"
+            },
+            "score": 0.06332381230167682
+          },
+          {
+            "disease": {
+              "id": "EFO_0005938",
+              "name": "congenital left-sided heart lesions"
+            },
+            "score": 0.06325544002856014
+          },
+          {
+            "disease": {
+              "id": "Orphanet_228190",
+              "name": "Patent ductus arteriosus - bicuspid aortic valve - hand anomalies"
+            },
+            "score": 0.06261791477922903
+          },
+          {
+            "disease": {
+              "id": "MONDO_0011454",
+              "name": "patent ductus arteriosus-bicuspid aortic valve-hand anomalies syndrome"
+            },
+            "score": 0.06261791477922903
+          },
+          {
+            "disease": {
+              "id": "Orphanet_233655",
+              "name": "Rare genetic vascular disease"
+            },
+            "score": 0.06158468243270843
+          },
+          {
+            "disease": {
+              "id": "MONDO_0007172",
+              "name": "atrial septal defect 1"
+            },
+            "score": 0.061021329806991105
+          },
+          {
+            "disease": {
+              "id": "MONDO_0019625",
+              "name": "familial thoracic aortic aneurysm and aortic dissection"
+            },
+            "score": 0.060184695464170025
+          },
+          {
+            "disease": {
+              "id": "MONDO_0018923",
+              "name": "22q11.2 deletion syndrome"
+            },
+            "score": 0.058157085933184686
+          },
+          {
+            "disease": {
+              "id": "EFO_0005269",
+              "name": "congenital heart malformation"
+            },
+            "score": 0.05795751281165493
+          },
+          {
+            "disease": {
+              "id": "MONDO_0013746",
+              "name": "ventricular septal defect 1"
+            },
+            "score": 0.055806558057389974
+          },
+          {
+            "disease": {
+              "id": "EFO_1000825",
+              "name": "atrial heart septal defect"
+            },
+            "score": 0.05573264208645303
+          },
+          {
+            "disease": {
+              "id": "MONDO_0011116",
+              "name": "lung agenesis-heart defect-thumb anomalies syndrome"
+            },
+            "score": 0.05476064706863226
+          },
+          {
+            "disease": {
+              "id": "Orphanet_1120",
+              "name": "Lung agenesis - heart defect - thumb anomalies"
+            },
+            "score": 0.05476064706863226
+          },
+          {
+            "disease": {
+              "id": "MONDO_0013463",
+              "name": "congenital heart defects, multiple types, 6"
+            },
+            "score": 0.05368516969149978
+          },
+          {
+            "disease": {
+              "id": "MONDO_0009433",
+              "name": "hypoplastic left heart syndrome 1"
+            },
+            "score": 0.053500379764157426
+          },
+          {
+            "disease": {
+              "id": "MONDO_0032913",
+              "name": "congenital heart defects, multiple types, 7"
+            },
+            "score": 0.05324167386587815
+          },
+          {
+            "disease": {
+              "id": "MONDO_0011514",
+              "name": "tricuspid atresia"
+            },
+            "score": 0.05303470914725471
+          },
+          {
+            "disease": {
+              "id": "MONDO_0060663",
+              "name": "congenital heart defects, multiple types, 5"
+            },
+            "score": 0.05252468894778982
+          },
+          {
+            "disease": {
+              "id": "MONDO_0859222",
+              "name": "heterotaxy, visceral, 12, autosomal"
+            },
+            "score": 0.05197031916576277
+          },
+          {
+            "disease": {
+              "id": "MONDO_0004933",
+              "name": "hypoplastic left heart syndrome"
+            },
+            "score": 0.05164508889364024
+          },
+          {
+            "disease": {
+              "id": "MONDO_0011781",
+              "name": "spinocerebellar ataxia type 17"
+            },
+            "score": 0.05110180650725373
+          },
+          {
+            "disease": {
+              "id": "EFO_0000266",
+              "name": "aortic stenosis"
+            },
+            "score": 0.051038977931957316
+          },
+          {
+            "disease": {
+              "id": "MONDO_0011439",
+              "name": "spinocerebellar ataxia type 12"
+            },
+            "score": 0.050410692178993334
+          },
+          {
+            "disease": {
+              "id": "EFO_0010655",
+              "name": "megabladder, congenital"
+            },
+            "score": 0.04992284677080953
+          },
+          {
+            "disease": {
+              "id": "EFO_1001167",
+              "name": "scimitar syndrome"
+            },
+            "score": 0.04941467447061806
+          },
+          {
+            "disease": {
+              "id": "MONDO_0018901",
+              "name": "left ventricular noncompaction"
+            },
+            "score": 0.04922249294618201
+          },
+          {
+            "disease": {
+              "id": "MONDO_0014975",
+              "name": "autosomal recessive spastic paraplegia type 78"
+            },
+            "score": 0.04920770975199461
+          },
+          {
+            "disease": {
+              "id": "EFO_1001382",
+              "name": "Obesity Hypoventilation Syndrome"
+            },
+            "score": 0.04881492849532138
+          },
+          {
+            "disease": {
+              "id": "MONDO_0008061",
+              "name": "nail-patella syndrome"
+            },
+            "score": 0.048784540818380635
+          },
+          {
+            "disease": {
+              "id": "MONDO_0013749",
+              "name": "ventricular septal defect 3"
+            },
+            "score": 0.04862931727941306
+          },
+          {
+            "disease": {
+              "id": "MONDO_0060713",
+              "name": "deafness, congenital heart defects, and posterior embryotoxon"
+            },
+            "score": 0.04860714248813199
+          },
+          {
+            "disease": {
+              "id": "MONDO_0859532",
+              "name": "congenital heart defects, multiple types, 9"
+            },
+            "score": 0.04823017103635358
+          },
+          {
+            "disease": {
+              "id": "MONDO_0007568",
+              "name": "aortic aneurysm, familial thoracic 4"
+            },
+            "score": 0.04794929034679322
+          },
+          {
+            "disease": {
+              "id": "MONDO_0012651",
+              "name": "spastic ataxia 2"
+            },
+            "score": 0.04775341302381033
+          },
+          {
+            "disease": {
+              "id": "MONDO_0009008",
+              "name": "heart defect - tongue hamartoma - polysyndactyly syndrome"
+            },
+            "score": 0.04772384663543555
+          },
+          {
+            "disease": {
+              "id": "Orphanet_1338",
+              "name": "Heart defect-tongue hamartoma-polysyndactyly syndrome"
+            },
+            "score": 0.04772384663543555
+          },
+          {
+            "disease": {
+              "id": "EFO_0009531",
+              "name": "aortic valve disease"
+            },
+            "score": 0.047668409657232826
+          },
+          {
+            "disease": {
+              "id": "MONDO_0007112",
+              "name": "interventricular septum aneurysm"
+            },
+            "score": 0.04760927688048329
+          },
+          {
+            "disease": {
+              "id": "MONDO_0013902",
+              "name": "aortic valve disease 2"
+            },
+            "score": 0.0469735995304256
+          },
+          {
+            "disease": {
+              "id": "EFO_0004145",
+              "name": "myopathy"
+            },
+            "score": 0.046927173039199424
+          },
+          {
+            "disease": {
+              "id": "MONDO_0019489",
+              "name": "diffuse palmoplantar keratoderma - acrocyanosis syndrome"
+            },
+            "score": 0.04683295386350392
+          },
+          {
+            "disease": {
+              "id": "Orphanet_86918",
+              "name": "Diffuse palmoplantar keratoderma-acrocyanosis syndrome"
+            },
+            "score": 0.04683295386350392
+          },
+          {
+            "disease": {
+              "id": "MONDO_0009270",
+              "name": "genito-palato-cardiac syndrome"
+            },
+            "score": 0.04602747510243277
+          },
+          {
+            "disease": {
+              "id": "MONDO_0009473",
+              "name": "isotretinoin-like syndrome"
+            },
+            "score": 0.04593508013876159
+          },
+          {
+            "disease": {
+              "id": "MONDO_0957922",
+              "name": "ciliary dyskinesia, primary, 52"
+            },
+            "score": 0.045768769204153466
+          },
+          {
+            "disease": {
+              "id": "MONDO_0008343",
+              "name": "pulmonary atresia with ventricular septal defect"
+            },
+            "score": 0.045761377607059776
+          },
+          {
+            "disease": {
+              "id": "MONDO_0011938",
+              "name": "atrial septal defect 2"
+            },
+            "score": 0.045170049839564255
+          },
+          {
+            "disease": {
+              "id": "MONDO_0007194",
+              "name": "familial bicuspid aortic valve"
+            },
+            "score": 0.04506656748025254
+          },
+          {
+            "disease": {
+              "id": "MONDO_0013485",
+              "name": "spinocerebellar ataxia type 35"
+            },
+            "score": 0.0450166741998701
+          },
+          {
+            "disease": {
+              "id": "MONDO_0016581",
+              "name": "conotruncal heart malformations"
+            },
+            "score": 0.04487438595581649
+          },
+          {
+            "disease": {
+              "id": "MONDO_0018677",
+              "name": "visceral heterotaxy"
+            },
+            "score": 0.04444567332438224
+          },
+          {
+            "disease": {
+              "id": "MONDO_0013408",
+              "name": "FADD-related immunodeficiency"
+            },
+            "score": 0.04417588003046241
+          },
+          {
+            "disease": {
+              "id": "MONDO_0017276",
+              "name": "frontotemporal dementia"
+            },
+            "score": 0.044152465519953346
+          },
+          {
+            "disease": {
+              "id": "MONDO_0011803",
+              "name": "hereditary spastic paraplegia 7"
+            },
+            "score": 0.043963371614018705
+          },
+          {
+            "disease": {
+              "id": "Orphanet_99013",
+              "name": "Autosomal recessive spastic paraplegia type 7"
+            },
+            "score": 0.043963371614018705
+          },
+          {
+            "disease": {
+              "id": "MONDO_0016837",
+              "name": "16p13.11 microduplication syndrome"
+            },
+            "score": 0.04389869513944888
+          },
+          {
+            "disease": {
+              "id": "Orphanet_140927",
+              "name": "Benign familial neonatal-infantile seizures"
+            },
+            "score": 0.04389520466304352
+          },
+          {
+            "disease": {
+              "id": "MONDO_0011904",
+              "name": "seizures, benign familial infantile, 3"
+            },
+            "score": 0.04389520466304352
+          },
+          {
+            "disease": {
+              "id": "Orphanet_1479",
+              "name": "Atrial septal defect - atrioventricular conduction defects"
+            },
+            "score": 0.043817387571418245
+          },
+          {
+            "disease": {
+              "id": "MONDO_0007173",
+              "name": "atrial septal defect 7"
+            },
+            "score": 0.043817387571418245
+          },
+          {
+            "disease": {
+              "id": "MONDO_0007536",
+              "name": "congenital lobar emphysema"
+            },
+            "score": 0.043613502684917184
+          },
+          {
+            "disease": {
+              "id": "MONDO_0014881",
+              "name": "transketolase deficiency"
+            },
+            "score": 0.04354574637822499
+          },
+          {
+            "disease": {
+              "id": "MONDO_0020427",
+              "name": "Laubry-Pezzi syndrome"
+            },
+            "score": 0.043410849731265064
+          },
+          {
+            "disease": {
+              "id": "EFO_0000616",
+              "name": "neoplasm"
+            },
+            "score": 0.043320387588827426
+          },
+          {
+            "disease": {
+              "id": "MONDO_0010802",
+              "name": "pancreatic hypoplasia-diabetes-congenital heart disease syndrome"
+            },
+            "score": 0.04312812114243128
+          },
+          {
+            "disease": {
+              "id": "Orphanet_2255",
+              "name": "Pancreatic hypoplasia - diabetes - congenital heart disease"
+            },
+            "score": 0.04312812114243128
+          },
+          {
+            "disease": {
+              "id": "HP_0001660",
+              "name": "Truncus arteriosus"
+            },
+            "score": 0.04303387827948667
+          },
+          {
+            "disease": {
+              "id": "MONDO_0018072",
+              "name": "persistent truncus arteriosus"
+            },
+            "score": 0.04303387827948667
+          },
+          {
+            "disease": {
+              "id": "Orphanet_64753",
+              "name": "Spinocerebellar ataxia with axonal neuropathy type 2"
+            },
+            "score": 0.04272712700009837
+          },
+          {
+            "disease": {
+              "id": "MONDO_0020437",
+              "name": "atrial septal defect, ostium primum type"
+            },
+            "score": 0.042457333706178546
+          },
+          {
+            "disease": {
+              "id": "EFO_0000182",
+              "name": "hepatocellular carcinoma"
+            },
+            "score": 0.04234297893421684
+          },
+          {
+            "disease": {
+              "id": "MONDO_0958009",
+              "name": "spastic ataxia 10, autosomal recessive"
+            },
+            "score": 0.042302110167210964
+          },
+          {
+            "disease": {
+              "id": "MONDO_0030077",
+              "name": "vertebral, cardiac, renal, and limb defects syndrome 3"
+            },
+            "score": 0.04197687989508843
+          },
+          {
+            "disease": {
+              "id": "Orphanet_171629",
+              "name": "Autosomal recessive spastic paraplegia type 35"
+            },
+            "score": 0.04192329081615915
+          },
+          {
+            "disease": {
+              "id": "Orphanet_124",
+              "name": "Blackfan-Diamond anemia"
+            },
+            "score": 0.04172556559390283
+          },
+          {
+            "disease": {
+              "id": "Orphanet_1170",
+              "name": "Autosomal recessive cerebelloparenchymal disorder type 3"
+            },
+            "score": 0.04161838743604428
+          },
+          {
+            "disease": {
+              "id": "Orphanet_261183",
+              "name": "15q11.2 microdeletion syndrome"
+            },
+            "score": 0.041562950457841565
+          },
+          {
+            "disease": {
+              "id": "Orphanet_3405",
+              "name": "Umbilical cord ulceration - intestinal atresia"
+            },
+            "score": 0.04128946136537488
+          },
+          {
+            "disease": {
+              "id": "MONDO_0018085",
+              "name": "umbilical cord ulceration-intestinal atresia syndrome"
+            },
+            "score": 0.04128946136537488
+          },
+          {
+            "disease": {
+              "id": "EFO_0000199",
+              "name": "oral squamous cell carcinoma"
+            },
+            "score": 0.041280016546866284
+          },
+          {
+            "disease": {
+              "id": "MONDO_0007403",
+              "name": "inherited Creutzfeldt-Jakob disease"
+            },
+            "score": 0.04123217648789876
+          },
+          {
+            "disease": {
+              "id": "MONDO_0044701",
+              "name": "childhood-onset motor and cognitive regression syndrome with extrapyramidal movement disorder"
+            },
+            "score": 0.041001189078720815
+          },
+          {
+            "disease": {
+              "id": "MONDO_0011243",
+              "name": "grange syndrome"
+            },
+            "score": 0.040956839496158644
+          },
+          {
+            "disease": {
+              "id": "Orphanet_97548",
+              "name": "Ivemark syndrome"
+            },
+            "score": 0.04086814033103432
+          },
+          {
+            "disease": {
+              "id": "MONDO_0008832",
+              "name": "right atrial isomerism"
+            },
+            "score": 0.04086814033103432
+          },
+          {
+            "disease": {
+              "id": "Orphanet_139480",
+              "name": "Autosomal recessive spastic paraplegia type 39"
+            },
+            "score": 0.040862596633214045
+          },
+          {
+            "disease": {
+              "id": "MONDO_0004975",
+              "name": "Alzheimer disease"
+            },
+            "score": 0.04080714261431296
+          },
+          {
+            "disease": {
+              "id": "MONDO_0008913",
+              "name": "cardiac valvular defect, developmental"
+            },
+            "score": 0.040779441165909994
+          },
+          {
+            "disease": {
+              "id": "MONDO_0011694",
+              "name": "spinocerebellar ataxia type 15/16"
+            },
+            "score": 0.04061128233202846
+          },
+          {
+            "disease": {
+              "id": "Orphanet_2516",
+              "name": "Microcephaly - cardiac defect - lung malsegmentation"
+            },
+            "score": 0.04052997476399782
+          },
+          {
+            "disease": {
+              "id": "MONDO_0011050",
+              "name": "microcephaly-cardiac defect-lung malsegmentation syndrome"
+            },
+            "score": 0.04052997476399782
+          },
+          {
+            "disease": {
+              "id": "EFO_0005537",
+              "name": "triple-negative breast cancer"
+            },
+            "score": 0.04051005851627314
+          },
+          {
+            "disease": {
+              "id": "MONDO_0030374",
+              "name": "WHIM syndrome 2"
+            },
+            "score": 0.04035812013156945
+          },
+          {
+            "disease": {
+              "id": "MONDO_0032637",
+              "name": "ciliary dyskinesia, primary, 39"
+            },
+            "score": 0.040010715068165816
+          },
+          {
+            "disease": {
+              "id": "MONDO_0008504",
+              "name": "supravalvular aortic stenosis"
+            },
+            "score": 0.0398998411117604
+          },
+          {
+            "disease": {
+              "id": "HP_0001258",
+              "name": "Spastic paraplegia"
+            },
+            "score": 0.039522869659982
+          },
+          {
+            "disease": {
+              "id": "MONDO_0013640",
+              "name": "familial retinal arterial macroaneurysm"
+            },
+            "score": 0.03943417049485768
+          },
+          {
+            "disease": {
+              "id": "MONDO_0011671",
+              "name": "Huntington disease-like 2"
+            },
+            "score": 0.039227205776234245
+          },
+          {
+            "disease": {
+              "id": "MONDO_0013752",
+              "name": "hypoplastic left heart syndrome 2"
+            },
+            "score": 0.039020241057610816
+          },
+          {
+            "disease": {
+              "id": "MONDO_0013769",
+              "name": "atrioventricular septal defect 5"
+            },
+            "score": 0.03895371668376757
+          },
+          {
+            "disease": {
+              "id": "MONDO_0032664",
+              "name": "ciliary dyskinesia, primary, 40"
+            },
+            "score": 0.038946325086673866
+          },
+          {
+            "disease": {
+              "id": "EFO_0009019",
+              "name": "Autosomal recessive spastic paraplegia type 76"
+            },
+            "score": 0.038938933489580184
+          },
+          {
+            "disease": {
+              "id": "MONDO_0013393",
+              "name": "distal 7q11.23 microdeletion syndrome"
+            },
+            "score": 0.038872409115736944
+          },
+          {
+            "disease": {
+              "id": "MONDO_0008842",
+              "name": "ataxia, early-onset, with oculomotor apraxia and hypoalbuminemia"
+            },
+            "score": 0.03882805953317477
+          },
+          {
+            "disease": {
+              "id": "Orphanet_1168",
+              "name": "Ataxia - oculomotor apraxia type 1"
+            },
+            "score": 0.03882805953317477
+          },
+          {
+            "disease": {
+              "id": "MONDO_0007656",
+              "name": "Gerstmann-Straussler-Scheinker syndrome"
+            },
+            "score": 0.03863587800873873
+          },
+          {
+            "disease": {
+              "id": "HP_0001636",
+              "name": "Tetralogy of Fallot"
+            },
+            "score": 0.03861370321745764
+          },
+          {
+            "disease": {
+              "id": "MONDO_0011834",
+              "name": "spinocerebellar ataxia type 18"
+            },
+            "score": 0.038510220858145934
+          },
+          {
+            "disease": {
+              "id": "MONDO_0010080",
+              "name": "familial infantile bilateral striatal necrosis"
+            },
+            "score": 0.038510220858145934
+          },
+          {
+            "disease": {
+              "id": "Orphanet_101075",
+              "name": "X-linked Charcot-Marie-Tooth disease type 1"
+            },
+            "score": 0.03845108808139638
+          },
+          {
+            "disease": {
+              "id": "MONDO_0010549",
+              "name": "Charcot-Marie-Tooth disease X-linked dominant 1"
+            },
+            "score": 0.03845108808139638
+          },
+          {
+            "disease": {
+              "id": "MONDO_0010848",
+              "name": "spinocerebellar ataxia type 5"
+            },
+            "score": 0.0384289132901153
+          },
+          {
+            "disease": {
+              "id": "MONDO_0011540",
+              "name": "spinocerebellar ataxia type 14"
+            },
+            "score": 0.038236731765679245
+          },
+          {
+            "disease": {
+              "id": "Orphanet_2008",
+              "name": "Acro-cardio-facial syndrome"
+            },
+            "score": 0.03794106788193149
+          },
+          {
+            "disease": {
+              "id": "MONDO_0010890",
+              "name": "acrocardiofacial syndrome"
+            },
+            "score": 0.03794106788193149
+          },
+          {
+            "disease": {
+              "id": "MONDO_0013674",
+              "name": "neurodegeneration with brain iron accumulation 4"
+            },
+            "score": 0.03790410989646302
+          },
+          {
+            "disease": {
+              "id": "MONDO_0012164",
+              "name": "Meacham syndrome"
+            },
+            "score": 0.03788193510518193
+          },
+          {
+            "disease": {
+              "id": "MONDO_0044321",
+              "name": "structural heart defects and renal anomalies syndrome"
+            },
+            "score": 0.03785976031390085
+          },
+          {
+            "disease": {
+              "id": "Orphanet_99811",
+              "name": "Neuronal intestinal pseudoobstruction"
+            },
+            "score": 0.03782280232843238
+          },
+          {
+            "disease": {
+              "id": "HP_0011611",
+              "name": "Interrupted aortic arch"
+            },
+            "score": 0.0377932359400576
+          },
+          {
+            "disease": {
+              "id": "MONDO_0009010",
+              "name": "aortic arch interruption"
+            },
+            "score": 0.0377932359400576
+          },
+          {
+            "disease": {
+              "id": "MONDO_0013988",
+              "name": "congenital heart defects, multiple types, 3"
+            },
+            "score": 0.037697145177839585
+          },
+          {
+            "disease": {
+              "id": "Orphanet_251076",
+              "name": "8p23.1 microduplication syndrome"
+            },
+            "score": 0.037512355250497224
+          },
+          {
+            "disease": {
+              "id": "MONDO_0016659",
+              "name": "8p23.1 duplication syndrome"
+            },
+            "score": 0.037512355250497224
+          },
+          {
+            "disease": {
+              "id": "MONDO_0007739",
+              "name": "Huntington disease"
+            },
+            "score": 0.03742365608537291
+          },
+          {
+            "disease": {
+              "id": "MONDO_0032915",
+              "name": "long QT syndrome 16"
+            },
+            "score": 0.0373053905318738
+          },
+          {
+            "disease": {
+              "id": "MONDO_0033645",
+              "name": "mitochondrial complex IV deficiency, nuclear type 11"
+            },
+            "score": 0.037216691366749474
+          },
+          {
+            "disease": {
+              "id": "MONDO_0011569",
+              "name": "Charcot-Marie-Tooth disease type 2B1"
+            },
+            "score": 0.03713538379871884
+          },
+          {
+            "disease": {
+              "id": "MONDO_0859572",
+              "name": "cardiac valvular dysplasia 2"
+            },
+            "score": 0.03710581741034406
+          },
+          {
+            "disease": {
+              "id": "MONDO_0011676",
+              "name": "PHACE syndrome"
+            },
+            "score": 0.03706885942487559
+          },
+          {
+            "disease": {
+              "id": "MONDO_0017301",
+              "name": "pericardial and diaphragmatic defect"
+            },
+            "score": 0.03703929303650081
+          },
+          {
+            "disease": {
+              "id": "HP_0001397",
+              "name": "Hepatic steatosis"
+            },
+            "score": 0.03695798546847018
+          },
+          {
+            "disease": {
+              "id": "MONDO_0009568",
+              "name": "mast syndrome"
+            },
+            "score": 0.03695059387137649
+          },
+          {
+            "disease": {
+              "id": "MONDO_0014339",
+              "name": "autosomal recessive spinocerebellar ataxia 16"
+            },
+            "score": 0.03692102748300171
+          },
+          {
+            "disease": {
+              "id": "Orphanet_284289",
+              "name": "Adult-onset autosomal recessive cerebellar ataxia"
+            },
+            "score": 0.03692102748300171
+          },
+          {
+            "disease": {
+              "id": "MONDO_0017593",
+              "name": "juvenile amyotrophic lateral sclerosis"
+            },
+            "score": 0.036847111512064774
+          },
+          {
+            "disease": {
+              "id": "MONDO_0016621",
+              "name": "juvenile Huntington disease"
+            },
+            "score": 0.0368027619295026
+          },
+          {
+            "disease": {
+              "id": "MONDO_0012247",
+              "name": "spinocerebellar ataxia type 27"
+            },
+            "score": 0.03671406276437828
+          },
+          {
+            "disease": {
+              "id": "MONDO_0957813",
+              "name": "spastic paraplegia 91, autosomal dominant, with or without cerebellar ataxia"
+            },
+            "score": 0.036654929987628725
+          },
+          {
+            "disease": {
+              "id": "MONDO_0030263",
+              "name": "leukodystrophy, hypomyelinating, 21"
+            },
+            "score": 0.03663275519634764
+          },
+          {
+            "disease": {
+              "id": "Orphanet_83420",
+              "name": "Proximal spinal muscular atrophy type 4"
+            },
+            "score": 0.03659579721087917
+          },
+          {
+            "disease": {
+              "id": "MONDO_0010056",
+              "name": "spinal muscular atrophy, type IV"
+            },
+            "score": 0.03659579721087917
+          },
+          {
+            "disease": {
+              "id": "Orphanet_210122",
+              "name": "Congenital alveolar capillary dysplasia"
+            },
+            "score": 0.03649970644866116
+          },
+          {
+            "disease": {
+              "id": "MONDO_0012622",
+              "name": "leukoencephalopathy with brain stem and spinal cord involvement-high lactate syndrome"
+            },
+            "score": 0.036462748463192675
+          },
+          {
+            "disease": {
+              "id": "Orphanet_137898",
+              "name": "Leukoencephalopathy with brain stem and spinal cord involvement - high lactate"
+            },
+            "score": 0.036462748463192675
+          },
+          {
+            "disease": {
+              "id": "MONDO_0030805",
+              "name": "spinocerebellar ataxia 49"
+            },
+            "score": 0.036411007283536814
+          },
+          {
+            "disease": {
+              "id": "MONDO_0008947",
+              "name": "bilateral striopallidodentate calcinosis"
+            },
+            "score": 0.03638144089516204
+          },
+          {
+            "disease": {
+              "id": "MONDO_0017735",
+              "name": "congenital aortic valve stenosis"
+            },
+            "score": 0.03632969971550619
+          },
+          {
+            "disease": {
+              "id": "EFO_0001356",
+              "name": "familial amyotrophic lateral sclerosis"
+            },
+            "score": 0.0362157372930094
+          },
+          {
+            "disease": {
+              "id": "EFO_0010251",
+              "name": "spinocerebellar ataxia 48"
+            },
+            "score": 0.0360709938172269
+          },
+          {
+            "disease": {
+              "id": "MONDO_0013753",
+              "name": "Charcot-Marie-Tooth disease axonal type 2P"
+            },
+            "score": 0.0360709938172269
+          },
+          {
+            "disease": {
+              "id": "Orphanet_101010",
+              "name": "Autosomal recessive spastic paraplegia type 30"
+            },
+            "score": 0.03598968624919626
+          },
+          {
+            "disease": {
+              "id": "MONDO_0700307",
+              "name": "spastic paraplegia 30A, autosomal dominant"
+            },
+            "score": 0.03598968624919626
+          },
+          {
+            "disease": {
+              "id": "MONDO_0008917",
+              "name": "heart defects-limb shortening syndrome"
+            },
+            "score": 0.03590837868116563
+          },
+          {
+            "disease": {
+              "id": "Orphanet_1354",
+              "name": "Heart defects - limb shortening"
+            },
+            "score": 0.03590837868116563
+          },
+          {
+            "disease": {
+              "id": "EFO_0010249",
+              "name": "spinocerebellar ataxia, autosomal recessive, with axonal neuropathy 3"
+            },
+            "score": 0.03585663750150976
+          },
+          {
+            "disease": {
+              "id": "Orphanet_86915",
+              "name": "Lymphedema - atrial septal defects - facial changes"
+            },
+            "score": 0.03579750472476021
+          },
+          {
+            "disease": {
+              "id": "MONDO_0011166",
+              "name": "lymphedema-atrial septal defects-facial changes syndrome"
+            },
+            "score": 0.03579750472476021
+          },
+          {
+            "disease": {
+              "id": "MONDO_0014940",
+              "name": "neurodegeneration with ataxia, dystonia, and gaze palsy, childhood-onset"
+            },
+            "score": 0.035723588753823275
+          },
+          {
+            "disease": {
+              "id": "Orphanet_101097",
+              "name": "Autosomal recessive Charcot-Marie-Tooth disease with hoarseness"
+            },
+            "score": 0.035657064379980036
+          },
+          {
+            "disease": {
+              "id": "MONDO_0700112",
+              "name": "heterotaxy, visceral, 5, autosomal"
+            },
+            "score": 0.03562010639451156
+          },
+          {
+            "disease": {
+              "id": "Orphanet_1460",
+              "name": "Isolated CoQ-cytochrome C reductase deficiency"
+            },
+            "score": 0.03556836521485569
+          },
+          {
+            "disease": {
+              "id": "MONDO_0012900",
+              "name": "cardiomyopathy, familial restrictive, 3"
+            },
+            "score": 0.03550923243810614
+          },
+          {
+            "disease": {
+              "id": "EFO_0010256",
+              "name": "neurodegeneration, childhood-onset, with cerebellar atrophy"
+            },
+            "score": 0.03548705764682506
+          },
+          {
+            "disease": {
+              "id": "MONDO_0014691",
+              "name": "Noonan syndrome 9"
+            },
+            "score": 0.03547966604973137
+          },
+          {
+            "disease": {
+              "id": "MONDO_0957991",
+              "name": "ciliary dyskinesia, primary, 53"
+            },
+            "score": 0.03540575007879443
+          },
+          {
+            "disease": {
+              "id": "EFO_0010248",
+              "name": "spinocerebellar ataxia, autosomal recessive, 27"
+            },
+            "score": 0.0353244425107638
+          },
+          {
+            "disease": {
+              "id": "MONDO_0011950",
+              "name": "infantile-onset autosomal recessive nonprogressive cerebellar ataxia"
+            },
+            "score": 0.03530965931657641
+          },
+          {
+            "disease": {
+              "id": "MONDO_0011638",
+              "name": "neuroferritinopathy"
+            },
+            "score": 0.03526530973401425
+          },
+          {
+            "disease": {
+              "id": "Orphanet_313772",
+              "name": "Early-onset spastic ataxia-neuropathy syndrome"
+            },
+            "score": 0.03525791813692056
+          },
+          {
+            "disease": {
+              "id": "MONDO_0013776",
+              "name": "spastic ataxia 5"
+            },
+            "score": 0.03525791813692056
+          },
+          {
+            "disease": {
+              "id": "EFO_0009057",
+              "name": "Spinocerebellar ataxia type 40"
+            },
+            "score": 0.03525052653982686
+          },
+          {
+            "disease": {
+              "id": "Orphanet_98261",
+              "name": "Progressive myoclonic epilepsy"
+            },
+            "score": 0.03525052653982686
+          },
+          {
+            "disease": {
+              "id": "MONDO_0030731",
+              "name": "aortic aneurysm, familial thoracic 12"
+            },
+            "score": 0.03522835174854577
+          },
+          {
+            "disease": {
+              "id": "MONDO_0010188",
+              "name": "familial isolated deficiency of vitamin E"
+            },
+            "score": 0.0352061769572647
+          },
+          {
+            "disease": {
+              "id": "Orphanet_96",
+              "name": "Ataxia with vitamin E deficiency"
+            },
+            "score": 0.0352061769572647
+          },
+          {
+            "disease": {
+              "id": "MONDO_0013452",
+              "name": "multisystemic smooth muscle dysfunction syndrome"
+            },
+            "score": 0.03516921897179622
+          },
+          {
+            "disease": {
+              "id": "Orphanet_352709",
+              "name": "CLN13 disease"
+            },
+            "score": 0.03512486938923406
+          },
+          {
+            "disease": {
+              "id": "MONDO_0014147",
+              "name": "neuronal ceroid lipofuscinosis 13"
+            },
+            "score": 0.03512486938923406
+          },
+          {
+            "disease": {
+              "id": "MONDO_0958012",
+              "name": "neurodegeneration with brain iron accumulation 9"
+            },
+            "score": 0.03511747779214036
+          },
+          {
+            "disease": {
+              "id": "MONDO_0011025",
+              "name": "Cayman type cerebellar ataxia"
+            },
+            "score": 0.03511008619504667
+          },
+          {
+            "disease": {
+              "id": "Orphanet_94122",
+              "name": "Cerebellar ataxia, Cayman type"
+            },
+            "score": 0.03511008619504667
+          },
+          {
+            "disease": {
+              "id": "MONDO_0014836",
+              "name": "Charcot-Marie-Tooth disease axonal type 2CC"
+            },
+            "score": 0.03505095341829712
+          },
+          {
+            "disease": {
+              "id": "MONDO_0011008",
+              "name": "cleft lip/palate-intestinal malrotation-cardiopathy syndrome"
+            },
+            "score": 0.034880946685142154
+          }
+        ]
+      }
+    }
+  }
+}

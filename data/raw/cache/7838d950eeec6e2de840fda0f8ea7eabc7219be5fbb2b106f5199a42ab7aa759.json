@@ -1,0 +1,1414 @@
+{
+  "data": {
+    "target": {
+      "id": "ENSG00000161011",
+      "approvedSymbol": "SQSTM1",
+      "approvedName": "sequestosome 1",
+      "associatedDiseases": {
+        "count": 1147,
+        "rows": [
+          {
+            "disease": {
+              "id": "MONDO_0004976",
+              "name": "amyotrophic lateral sclerosis"
+            },
+            "score": 0.809360678421687
+          },
+          {
+            "disease": {
+              "id": "MONDO_0017160",
+              "name": "behavioral variant of frontotemporal dementia"
+            },
+            "score": 0.8065025338775811
+          },
+          {
+            "disease": {
+              "id": "MONDO_0017161",
+              "name": "frontotemporal dementia with motor neuron disease"
+            },
+            "score": 0.8062724892741548
+          },
+          {
+            "disease": {
+              "id": "EFO_0004261",
+              "name": "osteitis deformans"
+            },
+            "score": 0.805129567191446
+          },
+          {
+            "disease": {
+              "id": "MONDO_0014940",
+              "name": "neurodegeneration with ataxia, dystonia, and gaze palsy, childhood-onset"
+            },
+            "score": 0.7168889627942266
+          },
+          {
+            "disease": {
+              "id": "Orphanet_602",
+              "name": "Distal myopathy, Nonaka type"
+            },
+            "score": 0.5964444825303722
+          },
+          {
+            "disease": {
+              "id": "MONDO_0007105",
+              "name": "frontotemporal dementia and/or amyotrophic lateral sclerosis 1"
+            },
+            "score": 0.5529078784838818
+          },
+          {
+            "disease": {
+              "id": "EFO_0000637",
+              "name": "osteosarcoma"
+            },
+            "score": 0.5024820640385286
+          },
+          {
+            "disease": {
+              "id": "MONDO_0004992",
+              "name": "cancer"
+            },
+            "score": 0.4906223473397898
+          },
+          {
+            "disease": {
+              "id": "EFO_0005772",
+              "name": "neurodegenerative disease"
+            },
+            "score": 0.44674045662350526
+          },
+          {
+            "disease": {
+              "id": "MONDO_0011466",
+              "name": "distal myopathy, Welander type"
+            },
+            "score": 0.3695798546847018
+          },
+          {
+            "disease": {
+              "id": "MONDO_0018005",
+              "name": "spastic paraplegia-Paget disease of bone syndrome"
+            },
+            "score": 0.3400134663099256
+          },
+          {
+            "disease": {
+              "id": "EFO_1000786",
+              "name": "osteoarthritis, hip"
+            },
+            "score": 0.32381503807353884
+          },
+          {
+            "disease": {
+              "id": "EFO_0000508",
+              "name": "genetic disorder"
+            },
+            "score": 0.1930302311892892
+          },
+          {
+            "disease": {
+              "id": "EFO_0000616",
+              "name": "neoplasm"
+            },
+            "score": 0.11912940705235042
+          },
+          {
+            "disease": {
+              "id": "EFO_0000182",
+              "name": "hepatocellular carcinoma"
+            },
+            "score": 0.11707125474446692
+          },
+          {
+            "disease": {
+              "id": "MONDO_0007254",
+              "name": "breast cancer"
+            },
+            "score": 0.11437500687155193
+          },
+          {
+            "disease": {
+              "id": "EFO_1001951",
+              "name": "colorectal carcinoma"
+            },
+            "score": 0.11173728986033013
+          },
+          {
+            "disease": {
+              "id": "MONDO_0004975",
+              "name": "Alzheimer disease"
+            },
+            "score": 0.10809433102149467
+          },
+          {
+            "disease": {
+              "id": "EFO_0000519",
+              "name": "glioblastoma multiforme"
+            },
+            "score": 0.10639492627205638
+          },
+          {
+            "disease": {
+              "id": "MONDO_0018899",
+              "name": "posterior cortical atrophy"
+            },
+            "score": 0.10573934731499848
+          },
+          {
+            "disease": {
+              "id": "EFO_0000544",
+              "name": "infection"
+            },
+            "score": 0.1053918335677384
+          },
+          {
+            "disease": {
+              "id": "EFO_0000199",
+              "name": "oral squamous cell carcinoma"
+            },
+            "score": 0.10509227619714234
+          },
+          {
+            "disease": {
+              "id": "EFO_0000181",
+              "name": "head and neck squamous cell carcinoma"
+            },
+            "score": 0.10493684303008297
+          },
+          {
+            "disease": {
+              "id": "MONDO_0021165",
+              "name": "Paget disease"
+            },
+            "score": 0.1016700450198416
+          },
+          {
+            "disease": {
+              "id": "EFO_0007323",
+              "name": "inclusion body myositis"
+            },
+            "score": 0.10124539282445973
+          },
+          {
+            "disease": {
+              "id": "EFO_0000641",
+              "name": "papillary thyroid carcinoma"
+            },
+            "score": 0.10013319750542912
+          },
+          {
+            "disease": {
+              "id": "MONDO_0008170",
+              "name": "ovarian cancer"
+            },
+            "score": 0.09976563472955677
+          },
+          {
+            "disease": {
+              "id": "MONDO_0015459",
+              "name": "nasopharyngeal carcinoma"
+            },
+            "score": 0.09836708524035782
+          },
+          {
+            "disease": {
+              "id": "EFO_0005543",
+              "name": "glioma"
+            },
+            "score": 0.09435644641165694
+          },
+          {
+            "disease": {
+              "id": "MONDO_0001056",
+              "name": "gastric cancer"
+            },
+            "score": 0.09331642969569033
+          },
+          {
+            "disease": {
+              "id": "EFO_0000571",
+              "name": "lung adenocarcinoma"
+            },
+            "score": 0.09325091585347718
+          },
+          {
+            "disease": {
+              "id": "MONDO_0009685",
+              "name": "Miyoshi myopathy"
+            },
+            "score": 0.09262378647136311
+          },
+          {
+            "disease": {
+              "id": "EFO_0000756",
+              "name": "melanoma"
+            },
+            "score": 0.09126239813316378
+          },
+          {
+            "disease": {
+              "id": "MONDO_0002691",
+              "name": "liver cancer"
+            },
+            "score": 0.0912293482178478
+          },
+          {
+            "disease": {
+              "id": "EFO_0000707",
+              "name": "squamous cell carcinoma"
+            },
+            "score": 0.09072864121532434
+          },
+          {
+            "disease": {
+              "id": "MONDO_0005180",
+              "name": "Parkinson disease"
+            },
+            "score": 0.09023734635742561
+          },
+          {
+            "disease": {
+              "id": "EFO_1001249",
+              "name": "non-alcoholic steatohepatitis"
+            },
+            "score": 0.089235222953348
+          },
+          {
+            "disease": {
+              "id": "EFO_0001073",
+              "name": "obesity"
+            },
+            "score": 0.08878383374087295
+          },
+          {
+            "disease": {
+              "id": "MONDO_0007142",
+              "name": "Townes-Brocks syndrome"
+            },
+            "score": 0.08855810881312376
+          },
+          {
+            "disease": {
+              "id": "EFO_1001961",
+              "name": "intrahepatic cholangiocarcinoma"
+            },
+            "score": 0.0858108091650928
+          },
+          {
+            "disease": {
+              "id": "MONDO_0005575",
+              "name": "colorectal cancer"
+            },
+            "score": 0.08578849964012936
+          },
+          {
+            "disease": {
+              "id": "EFO_0000313",
+              "name": "carcinoma"
+            },
+            "score": 0.08571784028221464
+          },
+          {
+            "disease": {
+              "id": "MONDO_0002406",
+              "name": "dermatitis"
+            },
+            "score": 0.08381348024415737
+          },
+          {
+            "disease": {
+              "id": "MONDO_0007739",
+              "name": "Huntington disease"
+            },
+            "score": 0.08376399231259872
+          },
+          {
+            "disease": {
+              "id": "EFO_0000478",
+              "name": "esophageal adenocarcinoma"
+            },
+            "score": 0.08269867273789358
+          },
+          {
+            "disease": {
+              "id": "MONDO_0017276",
+              "name": "frontotemporal dementia"
+            },
+            "score": 0.08083575320956538
+          },
+          {
+            "disease": {
+              "id": "MONDO_0100096",
+              "name": "COVID-19"
+            },
+            "score": 0.08031306875001526
+          },
+          {
+            "disease": {
+              "id": "MONDO_0008056",
+              "name": "myotonic dystrophy type 1"
+            },
+            "score": 0.07765283391208568
+          },
+          {
+            "disease": {
+              "id": "Orphanet_552",
+              "name": "MODY"
+            },
+            "score": 0.0773850615094912
+          },
+          {
+            "disease": {
+              "id": "EFO_0001378",
+              "name": "multiple myeloma"
+            },
+            "score": 0.07719810304903385
+          },
+          {
+            "disease": {
+              "id": "EFO_0002618",
+              "name": "pancreatic carcinoma"
+            },
+            "score": 0.07617205062764895
+          },
+          {
+            "disease": {
+              "id": "MONDO_0007414",
+              "name": "Gorham-Stout disease"
+            },
+            "score": 0.07601148871300263
+          },
+          {
+            "disease": {
+              "id": "MONDO_0023644",
+              "name": "lip and oral cavity carcinoma"
+            },
+            "score": 0.07516843600003852
+          },
+          {
+            "disease": {
+              "id": "EFO_0000401",
+              "name": "diabetic nephropathy"
+            },
+            "score": 0.0733490528778219
+          },
+          {
+            "disease": {
+              "id": "EFO_1001486",
+              "name": "primary biliary cirrhosis"
+            },
+            "score": 0.0732016971823334
+          },
+          {
+            "disease": {
+              "id": "EFO_0003096",
+              "name": "Pick disease"
+            },
+            "score": 0.07049214951417751
+          },
+          {
+            "disease": {
+              "id": "MONDO_0007309",
+              "name": "Charcot-Marie-Tooth disease type 1A"
+            },
+            "score": 0.06689395369793104
+          },
+          {
+            "disease": {
+              "id": "HP_0000855",
+              "name": "Insulin resistance"
+            },
+            "score": 0.06671221922248417
+          },
+          {
+            "disease": {
+              "id": "HP_0100806",
+              "name": "Sepsis"
+            },
+            "score": 0.06631879653538526
+          },
+          {
+            "disease": {
+              "id": "EFO_0004208",
+              "name": "Vitiligo"
+            },
+            "score": 0.06596824625227322
+          },
+          {
+            "disease": {
+              "id": "EFO_0005922",
+              "name": "esophageal squamous cell carcinoma"
+            },
+            "score": 0.06462008061387894
+          },
+          {
+            "disease": {
+              "id": "EFO_0000565",
+              "name": "leukemia"
+            },
+            "score": 0.06385624659254047
+          },
+          {
+            "disease": {
+              "id": "MONDO_0019115",
+              "name": "obesity due to melanocortin 4 receptor deficiency"
+            },
+            "score": 0.06366439040387584
+          },
+          {
+            "disease": {
+              "id": "EFO_0000275",
+              "name": "atrial fibrillation"
+            },
+            "score": 0.062238068544324725
+          },
+          {
+            "disease": {
+              "id": "EFO_0008517",
+              "name": "oral lichen planus"
+            },
+            "score": 0.0598719364589217
+          },
+          {
+            "disease": {
+              "id": "EFO_0005537",
+              "name": "triple-negative breast cancer"
+            },
+            "score": 0.05863052539088379
+          },
+          {
+            "disease": {
+              "id": "EFO_0001361",
+              "name": "pulmonary arterial hypertension"
+            },
+            "score": 0.057957811974761124
+          },
+          {
+            "disease": {
+              "id": "MONDO_0009294",
+              "name": "glycogen storage disease VI"
+            },
+            "score": 0.05761767015614015
+          },
+          {
+            "disease": {
+              "id": "MONDO_0016642",
+              "name": "meningioma"
+            },
+            "score": 0.05751073183176943
+          },
+          {
+            "disease": {
+              "id": "MONDO_0007970",
+              "name": "melorheostosis"
+            },
+            "score": 0.05746638224920727
+          },
+          {
+            "disease": {
+              "id": "EFO_0000702",
+              "name": "small cell lung carcinoma"
+            },
+            "score": 0.05685404569631944
+          },
+          {
+            "disease": {
+              "id": "EFO_0003060",
+              "name": "non-small cell lung carcinoma"
+            },
+            "score": 0.05616445916962619
+          },
+          {
+            "disease": {
+              "id": "EFO_0005815",
+              "name": "tauopathy"
+            },
+            "score": 0.05540481988316732
+          },
+          {
+            "disease": {
+              "id": "EFO_0001365",
+              "name": "age-related macular degeneration"
+            },
+            "score": 0.05449862348830055
+          },
+          {
+            "disease": {
+              "id": "MONDO_0010894",
+              "name": "maturity-onset diabetes of the young type 3"
+            },
+            "score": 0.053722127676968254
+          },
+          {
+            "disease": {
+              "id": "EFO_1001517",
+              "name": "renal fibrosis"
+            },
+            "score": 0.05341720949792508
+          },
+          {
+            "disease": {
+              "id": "MONDO_0030089",
+              "name": "diabetes mellitus, permanent neonatal 4"
+            },
+            "score": 0.05299220746396597
+          },
+          {
+            "disease": {
+              "id": "MONDO_0009395",
+              "name": "hyperostosis corticalis generalisata"
+            },
+            "score": 0.05280577495949167
+          },
+          {
+            "disease": {
+              "id": "MONDO_0015995",
+              "name": "melorheostosis with osteopoikilosis"
+            },
+            "score": 0.052768611651881715
+          },
+          {
+            "disease": {
+              "id": "EFO_0000621",
+              "name": "neuroblastoma"
+            },
+            "score": 0.05245811612458043
+          },
+          {
+            "disease": {
+              "id": "MONDO_0009942",
+              "name": "pyknoachondrogenesis"
+            },
+            "score": 0.051554541829242476
+          },
+          {
+            "disease": {
+              "id": "MONDO_0004647",
+              "name": "in situ carcinoma"
+            },
+            "score": 0.05152422142905784
+          },
+          {
+            "disease": {
+              "id": "MONDO_0100165",
+              "name": "permanent neonatal diabetes mellitus 1"
+            },
+            "score": 0.05150444322671855
+          },
+          {
+            "disease": {
+              "id": "MONDO_0008155",
+              "name": "osteomesopyknosis"
+            },
+            "score": 0.051484321656852385
+          },
+          {
+            "disease": {
+              "id": "Orphanet_2089",
+              "name": "Glycogen storage disease due to hepatic glycogen synthase deficiency"
+            },
+            "score": 0.05131801072224427
+          },
+          {
+            "disease": {
+              "id": "MONDO_0009416",
+              "name": "hypoinsulinemic hypoglycemia and body hemihypertrophy"
+            },
+            "score": 0.0508968950100452
+          },
+          {
+            "disease": {
+              "id": "MONDO_0018933",
+              "name": "Mazabraud syndrome"
+            },
+            "score": 0.05087636279589605
+          },
+          {
+            "disease": {
+              "id": "MONDO_0014420",
+              "name": "short stature due to primary acid-labile subunit deficiency"
+            },
+            "score": 0.05072853085402218
+          },
+          {
+            "disease": {
+              "id": "EFO_0000341",
+              "name": "chronic obstructive pulmonary disease"
+            },
+            "score": 0.04971667885564852
+          },
+          {
+            "disease": {
+              "id": "MONDO_0014589",
+              "name": "maturity-onset diabetes of the young type 13"
+            },
+            "score": 0.049536635822664
+          },
+          {
+            "disease": {
+              "id": "MONDO_0007764",
+              "name": "autosomal dominant osteosclerosis, Worth type"
+            },
+            "score": 0.04920904434591431
+          },
+          {
+            "disease": {
+              "id": "EFO_0000222",
+              "name": "acute myeloid leukemia"
+            },
+            "score": 0.04919841562294252
+          },
+          {
+            "disease": {
+              "id": "EFO_0001062",
+              "name": "cytomegalovirus infection"
+            },
+            "score": 0.049193131879948726
+          },
+          {
+            "disease": {
+              "id": "MONDO_0007438",
+              "name": "dentin dysplasia-sclerotic bones syndrome"
+            },
+            "score": 0.0483022391080171
+          },
+          {
+            "disease": {
+              "id": "Orphanet_99792",
+              "name": "Dentin dysplasia - sclerotic bones"
+            },
+            "score": 0.0483022391080171
+          },
+          {
+            "disease": {
+              "id": "MONDO_0017324",
+              "name": "autosomal recessive hypophosphatemic rickets"
+            },
+            "score": 0.047677649153599955
+          },
+          {
+            "disease": {
+              "id": "MONDO_0008061",
+              "name": "nail-patella syndrome"
+            },
+            "score": 0.04733692904903672
+          },
+          {
+            "disease": {
+              "id": "EFO_0009650",
+              "name": "hyperproinsulinemia"
+            },
+            "score": 0.04704751550136253
+          },
+          {
+            "disease": {
+              "id": "MONDO_0013992",
+              "name": "obesity due to leptin receptor gene deficiency"
+            },
+            "score": 0.046895987760941824
+          },
+          {
+            "disease": {
+              "id": "MONDO_0017994",
+              "name": "severe early-onset obesity-insulin resistance syndrome due to SH2B1 deficiency"
+            },
+            "score": 0.04672228522924
+          },
+          {
+            "disease": {
+              "id": "HP_0002896",
+              "name": "Neoplasm of the liver"
+            },
+            "score": 0.04653958343645455
+          },
+          {
+            "disease": {
+              "id": "MONDO_0024477",
+              "name": "liver and intrahepatic bile duct neoplasm"
+            },
+            "score": 0.04653958343645455
+          },
+          {
+            "disease": {
+              "id": "MONDO_0013240",
+              "name": "maturity-onset diabetes of the young type 10"
+            },
+            "score": 0.04653749530189765
+          },
+          {
+            "disease": {
+              "id": "EFO_0004610",
+              "name": "acute lung injury"
+            },
+            "score": 0.04638553600270804
+          },
+          {
+            "disease": {
+              "id": "EFO_0001065",
+              "name": "endometriosis"
+            },
+            "score": 0.04603526931250117
+          },
+          {
+            "disease": {
+              "id": "EFO_0004994",
+              "name": "lumbar disc degeneration"
+            },
+            "score": 0.04584004846167137
+          },
+          {
+            "disease": {
+              "id": "MONDO_0005148",
+              "name": "type 2 diabetes mellitus"
+            },
+            "score": 0.04550861119594541
+          },
+          {
+            "disease": {
+              "id": "EFO_0003914",
+              "name": "atherosclerosis"
+            },
+            "score": 0.044911968372336686
+          },
+          {
+            "disease": {
+              "id": "MONDO_0011601",
+              "name": "neonatal intrahepatic cholestasis due to citrin deficiency"
+            },
+            "score": 0.04466742123719306
+          },
+          {
+            "disease": {
+              "id": "MONDO_0011153",
+              "name": "hyperinsulinemic hypoglycemia, familial, 2"
+            },
+            "score": 0.044645246445911974
+          },
+          {
+            "disease": {
+              "id": "MONDO_0009274",
+              "name": "ghosal hematodiaphyseal dysplasia"
+            },
+            "score": 0.044636006949544865
+          },
+          {
+            "disease": {
+              "id": "EFO_0005221",
+              "name": "cholangiocarcinoma"
+            },
+            "score": 0.04438935962679486
+          },
+          {
+            "disease": {
+              "id": "EFO_0005235",
+              "name": "primitive neuroectodermal tumor"
+            },
+            "score": 0.04434958256216422
+          },
+          {
+            "disease": {
+              "id": "EFO_0005676",
+              "name": "Autoimmune Hepatitis"
+            },
+            "score": 0.04372232341990769
+          },
+          {
+            "disease": {
+              "id": "MONDO_0009868",
+              "name": "glycogen storage disease IXb"
+            },
+            "score": 0.04341824132835877
+          },
+          {
+            "disease": {
+              "id": "MONDO_0859351",
+              "name": "obesity and hypopigmentation"
+            },
+            "score": 0.04330736737195336
+          },
+          {
+            "disease": {
+              "id": "MONDO_0002492",
+              "name": "acute kidney injury"
+            },
+            "score": 0.043126979386950676
+          },
+          {
+            "disease": {
+              "id": "Orphanet_2783",
+              "name": "Autosomal dominant osteopetrosis type 1"
+            },
+            "score": 0.04306159676858802
+          },
+          {
+            "disease": {
+              "id": "MONDO_0011877",
+              "name": "autosomal dominant osteopetrosis 1"
+            },
+            "score": 0.04306159676858802
+          },
+          {
+            "disease": {
+              "id": "Orphanet_411",
+              "name": "Hyperlipoproteinemia type 1"
+            },
+            "score": 0.042777020280480804
+          },
+          {
+            "disease": {
+              "id": "MONDO_0009414",
+              "name": "glycogen storage disorder due to hepatic glycogen synthase deficiency"
+            },
+            "score": 0.0427529975899263
+          },
+          {
+            "disease": {
+              "id": "MONDO_0010598",
+              "name": "glycogen storage disease IXa1"
+            },
+            "score": 0.04264212363352089
+          },
+          {
+            "disease": {
+              "id": "MONDO_0024474",
+              "name": "intraepithelial neoplasia"
+            },
+            "score": 0.0425016832887407
+          },
+          {
+            "disease": {
+              "id": "MONDO_0020525",
+              "name": "transient neonatal diabetes mellitus"
+            },
+            "score": 0.0423908093323353
+          },
+          {
+            "disease": {
+              "id": "MONDO_0012335",
+              "name": "obesity due to pro-opiomelanocortin deficiency"
+            },
+            "score": 0.042265152181742496
+          },
+          {
+            "disease": {
+              "id": "HP_0000739",
+              "name": "Anxiety"
+            },
+            "score": 0.0419314620321325
+          },
+          {
+            "disease": {
+              "id": "EFO_0000660",
+              "name": "polycystic ovary syndrome"
+            },
+            "score": 0.04176312062392647
+          },
+          {
+            "disease": {
+              "id": "MONDO_0013991",
+              "name": "obesity due to congenital leptin deficiency"
+            },
+            "score": 0.04153338406946679
+          },
+          {
+            "disease": {
+              "id": "MONDO_0008315",
+              "name": "prostate cancer"
+            },
+            "score": 0.041301340172862265
+          },
+          {
+            "disease": {
+              "id": "MONDO_0010382",
+              "name": "fragile X-associated tremor/ataxia syndrome"
+            },
+            "score": 0.04108417708617742
+          },
+          {
+            "disease": {
+              "id": "EFO_0001066",
+              "name": "experimental autoimmune encephalomyelitis"
+            },
+            "score": 0.04100066346069915
+          },
+          {
+            "disease": {
+              "id": "MONDO_0008151",
+              "name": "gnathodiaphyseal dysplasia"
+            },
+            "score": 0.04080161595719108
+          },
+          {
+            "disease": {
+              "id": "MONDO_0013091",
+              "name": "glycogen storage disease IXc"
+            },
+            "score": 0.04070552519497306
+          },
+          {
+            "disease": {
+              "id": "MONDO_0019784",
+              "name": "12q14 microdeletion syndrome"
+            },
+            "score": 0.040661175612410894
+          },
+          {
+            "disease": {
+              "id": "MONDO_0958022",
+              "name": "lipodystrophy, familial partial, type 8"
+            },
+            "score": 0.040513343670537015
+          },
+          {
+            "disease": {
+              "id": "HP_0045046",
+              "name": "Reduced insulin like growth factor binding protein acid labile subunit concentration"
+            },
+            "score": 0.040151155412946005
+          },
+          {
+            "disease": {
+              "id": "MONDO_0012251",
+              "name": "MEDNIK syndrome"
+            },
+            "score": 0.040121589024571226
+          },
+          {
+            "disease": {
+              "id": "EFO_0000403",
+              "name": "diffuse large B-cell lymphoma"
+            },
+            "score": 0.04009272352458102
+          },
+          {
+            "disease": {
+              "id": "Orphanet_231249",
+              "name": "Hemoglobin E - beta-thalassemia"
+            },
+            "score": 0.04004767305363428
+          },
+          {
+            "disease": {
+              "id": "MONDO_0016491",
+              "name": "hemoglobin E-beta-thalassemia syndrome"
+            },
+            "score": 0.04004767305363428
+          },
+          {
+            "disease": {
+              "id": "EFO_0005546",
+              "name": "congenital disorder of glycosylation type II"
+            },
+            "score": 0.039868426824112214
+          },
+          {
+            "disease": {
+              "id": "MONDO_0017910",
+              "name": "dehydrated hereditary stomatocytosis"
+            },
+            "score": 0.03976124866625364
+          },
+          {
+            "disease": {
+              "id": "EFO_0000763",
+              "name": "viral disease"
+            },
+            "score": 0.03972888284355773
+          },
+          {
+            "disease": {
+              "id": "HP_0003074",
+              "name": "Hyperglycemia"
+            },
+            "score": 0.03970586322494655
+          },
+          {
+            "disease": {
+              "id": "MONDO_0007244",
+              "name": "Caffey disease"
+            },
+            "score": 0.03956721924254417
+          },
+          {
+            "disease": {
+              "id": "Orphanet_46532",
+              "name": "Hereditary persistence of fetal hemoglobin - beta-thalassemia"
+            },
+            "score": 0.03945634528613877
+          },
+          {
+            "disease": {
+              "id": "MONDO_0018749",
+              "name": "hereditary persistence of fetal hemoglobin-beta-thalassemia syndrome"
+            },
+            "score": 0.03945634528613877
+          },
+          {
+            "disease": {
+              "id": "MONDO_0019537",
+              "name": "hemoglobin D disease"
+            },
+            "score": 0.03919763938785947
+          },
+          {
+            "disease": {
+              "id": "MONDO_0017935",
+              "name": "hyperinsulinism due to HNF1A deficiency"
+            },
+            "score": 0.03909970072636802
+          },
+          {
+            "disease": {
+              "id": "MONDO_0016471",
+              "name": "pachyonychia congenita"
+            },
+            "score": 0.03903778352996499
+          },
+          {
+            "disease": {
+              "id": "MONDO_0008800",
+              "name": "microphthalmia with limb anomalies"
+            },
+            "score": 0.0389524257194693
+          },
+          {
+            "disease": {
+              "id": "EFO_1000961",
+              "name": "Helicobacter pylori infectious disease"
+            },
+            "score": 0.038856188666559106
+          },
+          {
+            "disease": {
+              "id": "MONDO_0015762",
+              "name": "progressive familial intrahepatic cholestasis"
+            },
+            "score": 0.0387837099506126
+          },
+          {
+            "disease": {
+              "id": "MONDO_0012923",
+              "name": "congenital generalized lipodystrophy type 3"
+            },
+            "score": 0.03874675196514414
+          },
+          {
+            "disease": {
+              "id": "Orphanet_228429",
+              "name": "Generalized congenital lipodystrophy with myopathy"
+            },
+            "score": 0.03874675196514414
+          },
+          {
+            "disease": {
+              "id": "MONDO_0030007",
+              "name": "combined oxidative phosphorylation deficiency 41"
+            },
+            "score": 0.03862663851237161
+          },
+          {
+            "disease": {
+              "id": "MONDO_0009734",
+              "name": "hyperinsulinemic hypoglycemia, familial, 1"
+            },
+            "score": 0.0385471788436144
+          },
+          {
+            "disease": {
+              "id": "EFO_0005531",
+              "name": "urticaria"
+            },
+            "score": 0.03825151495986664
+          },
+          {
+            "disease": {
+              "id": "EFO_0000685",
+              "name": "rheumatoid arthritis"
+            },
+            "score": 0.03823879926621811
+          },
+          {
+            "disease": {
+              "id": "EFO_0000400",
+              "name": "diabetes mellitus"
+            },
+            "score": 0.03811512202871962
+          },
+          {
+            "disease": {
+              "id": "EFO_0003063",
+              "name": "polymyositis"
+            },
+            "score": 0.038009774593768794
+          },
+          {
+            "disease": {
+              "id": "MONDO_0012387",
+              "name": "osteosclerosis-ichthyosis-premature ovarian failure syndrome"
+            },
+            "score": 0.03795585107611888
+          },
+          {
+            "disease": {
+              "id": "Orphanet_75325",
+              "name": "Osteosclerosis - ichthyosis - premature ovarian failure"
+            },
+            "score": 0.03795585107611888
+          },
+          {
+            "disease": {
+              "id": "MONDO_0014080",
+              "name": "osteosclerotic metaphyseal dysplasia"
+            },
+            "score": 0.03761583760980895
+          },
+          {
+            "disease": {
+              "id": "MONDO_0005147",
+              "name": "type 1 diabetes mellitus"
+            },
+            "score": 0.03733507504127508
+          },
+          {
+            "disease": {
+              "id": "MONDO_0008903",
+              "name": "lung cancer"
+            },
+            "score": 0.0373060015564359
+          },
+          {
+            "disease": {
+              "id": "MONDO_0859362",
+              "name": "hyperinsulinemic hypoglycemia, familial, 8"
+            },
+            "score": 0.03712060060453145
+          },
+          {
+            "disease": {
+              "id": "EFO_0007135",
+              "name": "adult-onset Still's disease"
+            },
+            "score": 0.03695798546847018
+          },
+          {
+            "disease": {
+              "id": "EFO_0005547",
+              "name": "dengue disease"
+            },
+            "score": 0.03677780271856804
+          },
+          {
+            "disease": {
+              "id": "HP_0002745",
+              "name": "Oral leukoplakia"
+            },
+            "score": 0.03677319554112783
+          },
+          {
+            "disease": {
+              "id": "EFO_1001950",
+              "name": "colon carcinoma"
+            },
+            "score": 0.03665569276278966
+          },
+          {
+            "disease": {
+              "id": "MONDO_0008494",
+              "name": "cryohydrocytosis"
+            },
+            "score": 0.03665000225623293
+          },
+          {
+            "disease": {
+              "id": "MONDO_0017400",
+              "name": "hypoplastic pancreas-intestinal atresia-hypoplastic gallbalder syndrome"
+            },
+            "score": 0.03652927283703593
+          },
+          {
+            "disease": {
+              "id": "Orphanet_293864",
+              "name": "Hypoplastic pancreas-intestinal atresia-hypoplastic gallbladder syndrome"
+            },
+            "score": 0.03652927283703593
+          },
+          {
+            "disease": {
+              "id": "EFO_0005895",
+              "name": "ossification of the posterior longitudinal ligament of the spine"
+            },
+            "score": 0.0364331820748179
+          },
+          {
+            "disease": {
+              "id": "MONDO_0018244",
+              "name": "obesity due to SIM1 deficiency"
+            },
+            "score": 0.03626317534166294
+          },
+          {
+            "disease": {
+              "id": "MONDO_0008175",
+              "name": "pacman dysplasia"
+            },
+            "score": 0.03613012659397645
+          },
+          {
+            "disease": {
+              "id": "MONDO_0030505",
+              "name": "cholestasis, progressive familial intrahepatic, 8"
+            },
+            "score": 0.035864029098603464
+          },
+          {
+            "disease": {
+              "id": "MONDO_0012396",
+              "name": "exercise-induced hyperinsulinism"
+            },
+            "score": 0.03581228791894761
+          },
+          {
+            "disease": {
+              "id": "MONDO_0011614",
+              "name": "3-hydroxy-3-methylglutaryl-CoA synthase deficiency"
+            },
+            "score": 0.035782721530572825
+          },
+          {
+            "disease": {
+              "id": "MONDO_0015613",
+              "name": "dentin dysplasia"
+            },
+            "score": 0.035716197156729586
+          },
+          {
+            "disease": {
+              "id": "EFO_0000681",
+              "name": "renal cell carcinoma"
+            },
+            "score": 0.03563910349942023
+          },
+          {
+            "disease": {
+              "id": "MONDO_0004979",
+              "name": "asthma"
+            },
+            "score": 0.03547899634499626
+          },
+          {
+            "disease": {
+              "id": "MONDO_0019149",
+              "name": "cholesteryl ester storage disease"
+            },
+            "score": 0.03537618369041966
+          },
+          {
+            "disease": {
+              "id": "EFO_0003095",
+              "name": "non-alcoholic fatty liver disease"
+            },
+            "score": 0.035338099219221764
+          },
+          {
+            "disease": {
+              "id": "EFO_0000305",
+              "name": "breast carcinoma"
+            },
+            "score": 0.0351804473171269
+          },
+          {
+            "disease": {
+              "id": "MONDO_0008158",
+              "name": "dacryocystitis-osteopoikilosis syndrome"
+            },
+            "score": 0.03512486938923406
+          },
+          {
+            "disease": {
+              "id": "Orphanet_1562",
+              "name": "Dacryocystitis - osteopoikilosis"
+            },
+            "score": 0.03512486938923406
+          },
+          {
+            "disease": {
+              "id": "MONDO_0012522",
+              "name": "diabetes mellitus, transient neonatal, 3"
+            },
+            "score": 0.03510269459795298
+          },
+          {
+            "disease": {
+              "id": "MONDO_0008810",
+              "name": "familial apolipoprotein C-II deficiency"
+            },
+            "score": 0.03503617022410973
+          },
+          {
+            "disease": {
+              "id": "Orphanet_210110",
+              "name": "Intermediate osteopetrosis"
+            },
+            "score": 0.03496964585026648
+          },
+          {
+            "disease": {
+              "id": "MONDO_0012679",
+              "name": "autosomal recessive osteopetrosis 6"
+            },
+            "score": 0.03496964585026648
+          },
+          {
+            "disease": {
+              "id": "MONDO_0008157",
+              "name": "Buschke-Ollendorff syndrome"
+            },
+            "score": 0.034873555088048465
+          },
+          {
+            "disease": {
+              "id": "EFO_0000649",
+              "name": "periodontitis"
+            },
+            "score": 0.03477274191657613
+          },
+          {
+            "disease": {
+              "id": "MONDO_0014227",
+              "name": "hypopigmentation-punctate palmoplantar keratoderma syndrome"
+            },
+            "score": 0.034703548354893504
+          },
+          {
+            "disease": {
+              "id": "MONDO_0004986",
+              "name": "urinary bladder carcinoma"
+            },
+            "score": 0.03448320672620863
+          },
+          {
+            "disease": {
+              "id": "MONDO_0010961",
+              "name": "obesity due to prohormone convertase I deficiency"
+            },
+            "score": 0.03445962565080159
+          },
+          {
+            "disease": {
+              "id": "MONDO_0008116",
+              "name": "oculopharyngeal muscular dystrophy"
+            },
+            "score": 0.034262811807438634
+          },
+          {
+            "disease": {
+              "id": "MONDO_0010131",
+              "name": "thyroid hormone resistance, generalized, autosomal recessive"
+            },
+            "score": 0.03414917857286645
+          }
+        ]
+      }
+    }
+  }
+}

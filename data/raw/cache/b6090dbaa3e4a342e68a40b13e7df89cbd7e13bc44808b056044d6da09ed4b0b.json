@@ -1,0 +1,195 @@
+[
+  {
+    "dbId": 205043,
+    "displayName": "NRIF signals cell death from the nucleus",
+    "stId": "R-HSA-205043",
+    "stIdVersion": "R-HSA-205043.3",
+    "isInDisease": false,
+    "isInferred": false,
+    "maxDepth": 2,
+    "name": [
+      "NRIF signals cell death from the nucleus"
+    ],
+    "releaseDate": "2008-06-30",
+    "speciesName": "Homo sapiens",
+    "hasDiagram": false,
+    "hasEHLD": false,
+    "lastUpdatedDate": "2013-03-31",
+    "schemaClass": "Pathway",
+    "className": "Pathway"
+  },
+  {
+    "dbId": 209543,
+    "displayName": "p75NTR recruits signalling complexes",
+    "stId": "R-HSA-209543",
+    "stIdVersion": "R-HSA-209543.3",
+    "isInDisease": false,
+    "isInferred": false,
+    "maxDepth": 2,
+    "name": [
+      "p75NTR recruits signalling complexes"
+    ],
+    "releaseDate": "2008-06-30",
+    "speciesName": "Homo sapiens",
+    "hasDiagram": false,
+    "hasEHLD": false,
+    "lastUpdatedDate": "2017-06-22",
+    "schemaClass": "Pathway",
+    "className": "Pathway"
+  },
+  {
+    "dbId": 209560,
+    "displayName": "NF-kB is activated and signals survival",
+    "stId": "R-HSA-209560",
+    "stIdVersion": "R-HSA-209560.3",
+    "isInDisease": false,
+    "isInferred": false,
+    "maxDepth": 2,
+    "name": [
+      "NF-kB is activated and signals survival"
+    ],
+    "releaseDate": "2008-06-30",
+    "speciesName": "Homo sapiens",
+    "hasDiagram": false,
+    "hasEHLD": false,
+    "lastUpdatedDate": "2017-06-22",
+    "schemaClass": "Pathway",
+    "className": "Pathway"
+  },
+  {
+    "dbId": 5205685,
+    "displayName": "PINK1-PRKN Mediated Mitophagy",
+    "stId": "R-HSA-5205685",
+    "stIdVersion": "R-HSA-5205685.9",
+    "isInDisease": false,
+    "isInferred": false,
+    "maxDepth": 2,
+    "name": [
+      "PINK1-PRKN Mediated Mitophagy"
+    ],
+    "releaseDate": "2015-09-22",
+    "speciesName": "Homo sapiens",
+    "hasDiagram": false,
+    "hasEHLD": false,
+    "lastUpdatedDate": "2023-09-13",
+    "schemaClass": "Pathway",
+    "className": "Pathway"
+  },
+  {
+    "dbId": 8951664,
+    "displayName": "Neddylation",
+    "stId": "R-HSA-8951664",
+    "stIdVersion": "R-HSA-8951664.7",
+    "isInDisease": false,
+    "isInferred": false,
+    "maxDepth": 2,
+    "name": [
+      "Neddylation"
+    ],
+    "releaseDate": "2017-03-27",
+    "speciesName": "Homo sapiens",
+    "doi": "10.3180/R-HSA-8951664.4",
+    "hasDiagram": true,
+    "hasEHLD": false,
+    "lastUpdatedDate": "2022-12-07",
+    "schemaClass": "Pathway",
+    "className": "Pathway"
+  },
+  {
+    "dbId": 9020702,
+    "displayName": "Interleukin-1 signaling",
+    "stId": "R-HSA-9020702",
+    "stIdVersion": "R-HSA-9020702.4",
+    "isInDisease": false,
+    "isInferred": false,
+    "maxDepth": 4,
+    "name": [
+      "Interleukin-1 signaling"
+    ],
+    "releaseDate": "2017-12-13",
+    "speciesName": "Homo sapiens",
+    "hasDiagram": false,
+    "hasEHLD": false,
+    "lastUpdatedDate": "2022-06-09",
+    "schemaClass": "Pathway",
+    "className": "Pathway"
+  },
+  {
+    "dbId": 9664873,
+    "displayName": "Pexophagy",
+    "stId": "R-HSA-9664873",
+    "stIdVersion": "R-HSA-9664873.4",
+    "isInDisease": false,
+    "isInferred": false,
+    "maxDepth": 2,
+    "name": [
+      "Pexophagy"
+    ],
+    "releaseDate": "2020-03-17",
+    "speciesName": "Homo sapiens",
+    "doi": "10.3180/R-HSA-9664873.1",
+    "hasDiagram": true,
+    "hasEHLD": false,
+    "lastUpdatedDate": "2022-04-07",
+    "schemaClass": "Pathway",
+    "className": "Pathway"
+  },
+  {
+    "dbId": 9725370,
+    "displayName": "Signaling by ALK fusions and activated point mutants",
+    "stId": "R-HSA-9725370",
+    "stIdVersion": "R-HSA-9725370.3",
+    "isInDisease": true,
+    "isInferred": false,
+    "maxDepth": 3,
+    "name": [
+      "Signaling by ALK fusions and activated point mutants"
+    ],
+    "releaseDate": "2021-06-09",
+    "speciesName": "Homo sapiens",
+    "hasDiagram": true,
+    "hasEHLD": false,
+    "lastUpdatedDate": "2021-12-08",
+    "schemaClass": "Pathway",
+    "className": "Pathway"
+  },
+  {
+    "dbId": 9755511,
+    "displayName": "KEAP1-NFE2L2 pathway",
+    "stId": "R-HSA-9755511",
+    "stIdVersion": "R-HSA-9755511.5",
+    "isInDisease": false,
+    "isInferred": false,
+    "maxDepth": 4,
+    "name": [
+      "KEAP1-NFE2L2 pathway"
+    ],
+    "releaseDate": "2022-03-23",
+    "speciesName": "Homo sapiens",
+    "doi": "10.3180/R-HSA-9755511.1",
+    "hasDiagram": true,
+    "hasEHLD": false,
+    "lastUpdatedDate": "2023-09-13",
+    "schemaClass": "Pathway",
+    "className": "Pathway"
+  },
+  {
+    "dbId": 9759194,
+    "displayName": "Nuclear events mediated by NFE2L2",
+    "stId": "R-HSA-9759194",
+    "stIdVersion": "R-HSA-9759194.4",
+    "isInDisease": false,
+    "isInferred": false,
+    "maxDepth": 3,
+    "name": [
+      "Nuclear events mediated by NFE2L2"
+    ],
+    "releaseDate": "2022-03-23",
+    "speciesName": "Homo sapiens",
+    "hasDiagram": false,
+    "hasEHLD": false,
+    "lastUpdatedDate": "2023-09-13",
+    "schemaClass": "Pathway",
+    "className": "Pathway"
+  }
+]

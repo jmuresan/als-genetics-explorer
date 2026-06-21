@@ -1,0 +1,1671 @@
+{
+  "header": {
+    "type": "esummary",
+    "version": "0.3"
+  },
+  "result": {
+    "uids": [
+      "1592491",
+      "2203078",
+      "261567",
+      "3067925",
+      "3897042",
+      "4780664",
+      "575375",
+      "651295",
+      "992595",
+      "992596"
+    ],
+    "1592491": {
+      "uid": "1592491",
+      "obj_type": "Duplication",
+      "accession": "VCV001592491",
+      "accession_version": "VCV001592491.9",
+      "title": "NM_022173.4(TIA1):c.474+15_474+17dup",
+      "variation_set": [
+        {
+          "measure_id": "1556537",
+          "variation_xrefs": [
+            {
+              "db_source": "ClinGen",
+              "db_id": "CA1697581"
+            },
+            {
+              "db_source": "dbSNP",
+              "db_id": "769573516"
+            }
+          ],
+          "variation_name": "NM_022173.4(TIA1):c.474+15_474+17dup",
+          "cdna_change": "NM_022173.4(TIA1):c.474+15_474+17dup",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "2",
+              "band": "2p13.3",
+              "start": "70224536",
+              "stop": "70224537",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "70224536",
+              "display_stop": "70224537",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "2",
+              "band": "2p13.3",
+              "start": "70451668",
+              "stop": "70451669",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "70451668",
+              "display_stop": "70451669",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "Duplication",
+          "canonical_spdi": "NC_000002.12:70224536:CTTCT:CTTCTTCT",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV005918235",
+          "SCV002400016"
+        ],
+        "rcv": [
+          "RCV002096629",
+          "RCV005361960"
+        ]
+      },
+      "germline_classification": {
+        "description": "Conflicting classifications of pathogenicity",
+        "last_evaluated": "2025/06/06 00:00",
+        "review_status": "criteria provided, conflicting classifications",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "603"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C0221054"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0011466"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "604454"
+              }
+            ],
+            "trait_name": "Welander distal myopathy"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "MedGen",
+                "db_id": "C5436882"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0030885"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "619133"
+              }
+            ],
+            "trait_name": "Amyotrophic lateral sclerosis 26 with or without frontotemporal dementia"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "TIA1",
+      "chr_sort": "02",
+      "location_sort": "00000000000070224536",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "TIA1",
+          "geneid": "7072",
+          "strand": "-",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "inframe_insertion",
+        "3 prime UTR variant",
+        "intron variant"
+      ],
+      "protein_change": "",
+      "fda_recognized_database": ""
+    },
+    "2203078": {
+      "uid": "2203078",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV002203078",
+      "accession_version": "VCV002203078.7",
+      "title": "NM_022173.4(TIA1):c.1002G>A (p.Met334Ile)",
+      "variation_set": [
+        {
+          "measure_id": "1925306",
+          "variation_xrefs": [
+            {
+              "db_source": "ClinGen",
+              "db_id": "CA1697430"
+            },
+            {
+              "db_source": "dbSNP",
+              "db_id": "747006488"
+            }
+          ],
+          "variation_name": "NM_022173.4(TIA1):c.1002G>A (p.Met334Ile)",
+          "cdna_change": "c.1002G>A",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "2",
+              "band": "2p13.3",
+              "start": "70214381",
+              "stop": "70214381",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "70214381",
+              "display_stop": "70214381",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "2",
+              "band": "2p13.3",
+              "start": "70441513",
+              "stop": "70441513",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "70441513",
+              "display_stop": "70441513",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [
+            {
+              "source": "Exome Aggregation Consortium (ExAC)",
+              "value": "0.00001",
+              "minor_allele": ""
+            },
+            {
+              "source": "Trans-Omics for Precision Medicine (TOPMed)",
+              "value": "0.00001",
+              "minor_allele": ""
+            },
+            {
+              "source": "The Genome Aggregation Database (gnomAD)",
+              "value": "0.00003",
+              "minor_allele": ""
+            },
+            {
+              "source": "The Genome Aggregation Database (gnomAD), exomes",
+              "value": "0.00003",
+              "minor_allele": ""
+            }
+          ],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000002.12:70214380:C:T",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV003819534",
+          "SCV003524772"
+        ],
+        "rcv": [
+          "RCV002651470",
+          "RCV003140145"
+        ]
+      },
+      "germline_classification": {
+        "description": "Uncertain significance",
+        "last_evaluated": "2022/03/16 00:00",
+        "review_status": "criteria provided, multiple submitters, no conflicts",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "MedGen",
+                "db_id": "C3661900"
+              }
+            ],
+            "trait_name": "not provided"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "603"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C0221054"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0011466"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "604454"
+              }
+            ],
+            "trait_name": "Welander distal myopathy"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "TIA1",
+      "chr_sort": "02",
+      "location_sort": "00000000000070214381",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "TIA1",
+          "geneid": "7072",
+          "strand": "-",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "missense variant",
+        "non-coding transcript variant"
+      ],
+      "protein_change": "M193I, M286I, M297I, M322I, M333I, M194I, M233I, M258I, M288I, M323I, M325I, M334I",
+      "fda_recognized_database": ""
+    },
+    "261567": {
+      "uid": "261567",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV000261567",
+      "accession_version": "VCV000261567.61",
+      "title": "NM_022173.4(TIA1):c.1070A>G (p.Asn357Ser)",
+      "variation_set": [
+        {
+          "measure_id": "250766",
+          "variation_xrefs": [
+            {
+              "db_source": "ClinGen",
+              "db_id": "CA1697407"
+            },
+            {
+              "db_source": "dbSNP",
+              "db_id": "116621885"
+            }
+          ],
+          "variation_name": "NM_022173.4(TIA1):c.1070A>G (p.Asn357Ser)",
+          "cdna_change": "c.1070A>G",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "2",
+              "band": "2p13.3",
+              "start": "70212810",
+              "stop": "70212810",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "70212810",
+              "display_stop": "70212810",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "2",
+              "band": "2p13.3",
+              "start": "70439942",
+              "stop": "70439942",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "70439942",
+              "display_stop": "70439942",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [
+            {
+              "source": "The Genome Aggregation Database (gnomAD), exomes",
+              "value": "0.00665",
+              "minor_allele": ""
+            },
+            {
+              "source": "Trans-Omics for Precision Medicine (TOPMed)",
+              "value": "0.00485",
+              "minor_allele": ""
+            },
+            {
+              "source": "The Genome Aggregation Database (gnomAD)",
+              "value": "0.00569",
+              "minor_allele": ""
+            },
+            {
+              "source": "NHLBI Exome Sequencing Project (ESP) Exome Variant Server",
+              "value": "0.00684",
+              "minor_allele": ""
+            },
+            {
+              "source": "Exome Aggregation Consortium (ExAC)",
+              "value": "0.00709",
+              "minor_allele": ""
+            },
+            {
+              "source": "The Genome Aggregation Database (gnomAD), exomes",
+              "value": "0.00737",
+              "minor_allele": ""
+            },
+            {
+              "source": "The Genome Aggregation Database (gnomAD)",
+              "value": "0.00589",
+              "minor_allele": ""
+            },
+            {
+              "source": "1000 Genomes Project",
+              "value": "0.00160",
+              "minor_allele": "C"
+            }
+          ],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000002.12:70212809:T:C",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV001983266",
+          "SCV000615811",
+          "SCV001713995",
+          "SCV001152327",
+          "SCV004806948",
+          "SCV000314022",
+          "SCV000630375"
+        ],
+        "rcv": [
+          "RCV000250393",
+          "RCV000516506",
+          "RCV000859341",
+          "RCV003891965",
+          "RCV003989508"
+        ]
+      },
+      "germline_classification": {
+        "description": "Conflicting classifications of pathogenicity",
+        "last_evaluated": "2026/03/01 00:00",
+        "review_status": "criteria provided, conflicting classifications",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "MedGen",
+                "db_id": "C5436882"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0030885"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "619133"
+              }
+            ],
+            "trait_name": "Amyotrophic lateral sclerosis 26 with or without frontotemporal dementia"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "MedGen",
+                "db_id": "CN169374"
+              }
+            ],
+            "trait_name": "not specified"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "MedGen",
+                "db_id": "C3661900"
+              }
+            ],
+            "trait_name": "not provided"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "603"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C0221054"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0011466"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "604454"
+              }
+            ],
+            "trait_name": "Welander distal myopathy"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "TIA1",
+      "chr_sort": "02",
+      "location_sort": "00000000000070212810",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "TIA1",
+          "geneid": "7072",
+          "strand": "-",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "missense variant",
+        "non-coding transcript variant"
+      ],
+      "protein_change": "N357S, N217S, N256S, N320S, N346S, N348S, N281S, N216S, N309S, N345S, N311S, N356S",
+      "fda_recognized_database": ""
+    },
+    "3067925": {
+      "uid": "3067925",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV003067925",
+      "accession_version": "VCV003067925.1",
+      "title": "NM_022173.4(TIA1):c.889-1G>A",
+      "variation_set": [
+        {
+          "measure_id": "3227261",
+          "variation_xrefs": [
+            {
+              "db_source": "ClinGen",
+              "db_id": "CA49624633"
+            },
+            {
+              "db_source": "dbSNP",
+              "db_id": "965321568"
+            }
+          ],
+          "variation_name": "NM_022173.4(TIA1):c.889-1G>A",
+          "cdna_change": "NM_022173.4(TIA1):c.889-1G>A",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "2",
+              "band": "2p13.3",
+              "start": "70214495",
+              "stop": "70214495",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "70214495",
+              "display_stop": "70214495",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "2",
+              "band": "2p13.3",
+              "start": "70441627",
+              "stop": "70441627",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "70441627",
+              "display_stop": "70441627",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000002.12:70214494:C:T",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV004809666"
+        ],
+        "rcv": [
+          "RCV003993613"
+        ]
+      },
+      "germline_classification": {
+        "description": "Uncertain significance",
+        "last_evaluated": "2024/04/04 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "MedGen",
+                "db_id": "C5436882"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0030885"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "619133"
+              }
+            ],
+            "trait_name": "Amyotrophic lateral sclerosis 26 with or without frontotemporal dementia"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "TIA1",
+      "chr_sort": "02",
+      "location_sort": "00000000000070214495",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "TIA1",
+          "geneid": "7072",
+          "strand": "-",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "splice acceptor variant",
+        "intron variant"
+      ],
+      "protein_change": "",
+      "fda_recognized_database": ""
+    },
+    "3897042": {
+      "uid": "3897042",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV003897042",
+      "accession_version": "VCV003897042.1",
+      "title": "NM_022173.4(TIA1):c.799G>A (p.Val267Ile)",
+      "variation_set": [
+        {
+          "measure_id": "4012900",
+          "variation_xrefs": [],
+          "variation_name": "NM_022173.4(TIA1):c.799G>A (p.Val267Ile)",
+          "cdna_change": "c.799G>A",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "2",
+              "band": "2p13.3",
+              "start": "70215460",
+              "stop": "70215460",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "70215460",
+              "display_stop": "70215460",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "2",
+              "band": "2p13.3",
+              "start": "70442592",
+              "stop": "70442592",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "70442592",
+              "display_stop": "70442592",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000002.12:70215459:C:T",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV006075321"
+        ],
+        "rcv": [
+          "RCV005410364"
+        ]
+      },
+      "germline_classification": {
+        "description": "Uncertain significance",
+        "last_evaluated": "2023/09/18 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "MedGen",
+                "db_id": "C5436882"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0030885"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "619133"
+              }
+            ],
+            "trait_name": "Amyotrophic lateral sclerosis 26 with or without frontotemporal dementia"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "TIA1",
+      "chr_sort": "02",
+      "location_sort": "00000000000070215460",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "TIA1",
+          "geneid": "7072",
+          "strand": "-",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "missense variant",
+        "non-coding transcript variant"
+      ],
+      "protein_change": "V127I, V166I, V191I, V219I, V221I, V230I, V256I, V258I, V267I",
+      "fda_recognized_database": ""
+    },
+    "4780664": {
+      "uid": "4780664",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV004780664",
+      "accession_version": "VCV004780664.1",
+      "title": "NM_022173.4(TIA1):c.1063G>A (p.Gly355Arg)",
+      "variation_set": [
+        {
+          "measure_id": "4890632",
+          "variation_xrefs": [],
+          "variation_name": "NM_022173.4(TIA1):c.1063G>A (p.Gly355Arg)",
+          "cdna_change": "c.1063G>A",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "2",
+              "band": "2p13.3",
+              "start": "70212817",
+              "stop": "70212817",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "70212817",
+              "display_stop": "70212817",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "2",
+              "band": "2p13.3",
+              "start": "70439949",
+              "stop": "70439949",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "70439949",
+              "display_stop": "70439949",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000002.12:70212816:C:T",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV007474564"
+        ],
+        "rcv": [
+          "RCV006575064"
+        ]
+      },
+      "germline_classification": {
+        "description": "Uncertain significance",
+        "last_evaluated": "2026/01/05 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "603"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C0221054"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0011466"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "604454"
+              }
+            ],
+            "trait_name": "Welander distal myopathy"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "TIA1",
+      "chr_sort": "02",
+      "location_sort": "00000000000070212817",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "TIA1",
+          "geneid": "7072",
+          "strand": "-",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "missense variant",
+        "non-coding transcript variant"
+      ],
+      "protein_change": "G279R, G344R, G355R, G307R, G343R, G346R, G214R, G254R, G354R, G215R, G309R, G318R",
+      "fda_recognized_database": ""
+    },
+    "575375": {
+      "uid": "575375",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV000575375",
+      "accession_version": "VCV000575375.9",
+      "title": "NM_022173.4(TIA1):c.880G>A (p.Val294Met)",
+      "variation_set": [
+        {
+          "measure_id": "560898",
+          "variation_xrefs": [
+            {
+              "db_source": "ClinGen",
+              "db_id": "CA1697456"
+            },
+            {
+              "db_source": "dbSNP",
+              "db_id": "144296151"
+            }
+          ],
+          "variation_name": "NM_022173.4(TIA1):c.880G>A (p.Val294Met)",
+          "cdna_change": "c.880G>A",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "2",
+              "band": "2p13.3",
+              "start": "70215379",
+              "stop": "70215379",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "70215379",
+              "display_stop": "70215379",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "2",
+              "band": "2p13.3",
+              "start": "70442511",
+              "stop": "70442511",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "70442511",
+              "display_stop": "70442511",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [
+            {
+              "source": "Trans-Omics for Precision Medicine (TOPMed)",
+              "value": "0.00011",
+              "minor_allele": ""
+            },
+            {
+              "source": "The Genome Aggregation Database (gnomAD)",
+              "value": "0.00013",
+              "minor_allele": ""
+            },
+            {
+              "source": "The Genome Aggregation Database (gnomAD)",
+              "value": "0.00014",
+              "minor_allele": ""
+            },
+            {
+              "source": "NHLBI Exome Sequencing Project (ESP) Exome Variant Server",
+              "value": "0.00015",
+              "minor_allele": ""
+            },
+            {
+              "source": "1000 Genomes Project",
+              "value": "0.00020",
+              "minor_allele": "T"
+            }
+          ],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000002.12:70215378:C:T",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV005327922",
+          "SCV007120117",
+          "SCV000826186"
+        ],
+        "rcv": [
+          "RCV000697567",
+          "RCV004721559",
+          "RCV006265228"
+        ]
+      },
+      "germline_classification": {
+        "description": "Uncertain significance",
+        "last_evaluated": "2026/02/01 00:00",
+        "review_status": "criteria provided, multiple submitters, no conflicts",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "603"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C0221054"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0011466"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "604454"
+              }
+            ],
+            "trait_name": "Welander distal myopathy"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "MedGen",
+                "db_id": "CN169374"
+              }
+            ],
+            "trait_name": "not specified"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "MedGen",
+                "db_id": "C3661900"
+              }
+            ],
+            "trait_name": "not provided"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "TIA1",
+      "chr_sort": "02",
+      "location_sort": "00000000000070215379",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "TIA1",
+          "geneid": "7072",
+          "strand": "-",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "missense variant",
+        "non-coding transcript variant"
+      ],
+      "protein_change": "V294M, V154M, V193M, V218M, V257M, V248M, V283M, V285M, V246M",
+      "fda_recognized_database": ""
+    },
+    "651295": {
+      "uid": "651295",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV000651295",
+      "accession_version": "VCV000651295.26",
+      "title": "NM_022173.4(TIA1):c.1078G>A (p.Val360Met)",
+      "variation_set": [
+        {
+          "measure_id": "630413",
+          "variation_xrefs": [
+            {
+              "db_source": "ClinGen",
+              "db_id": "CA1697404"
+            },
+            {
+              "db_source": "dbSNP",
+              "db_id": "201905164"
+            }
+          ],
+          "variation_name": "NM_022173.4(TIA1):c.1078G>A (p.Val360Met)",
+          "cdna_change": "c.1078G>A",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "2",
+              "band": "2p13.3",
+              "start": "70212802",
+              "stop": "70212802",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "70212802",
+              "display_stop": "70212802",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "2",
+              "band": "2p13.3",
+              "start": "70439934",
+              "stop": "70439934",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "70439934",
+              "display_stop": "70439934",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [
+            {
+              "source": "Exome Aggregation Consortium (ExAC)",
+              "value": "0.00004",
+              "minor_allele": ""
+            },
+            {
+              "source": "Trans-Omics for Precision Medicine (TOPMed)",
+              "value": "0.00011",
+              "minor_allele": ""
+            },
+            {
+              "source": "The Genome Aggregation Database (gnomAD)",
+              "value": "0.00012",
+              "minor_allele": ""
+            },
+            {
+              "source": "NHLBI Exome Sequencing Project (ESP) Exome Variant Server",
+              "value": "0.00015",
+              "minor_allele": ""
+            },
+            {
+              "source": "The Genome Aggregation Database (gnomAD)",
+              "value": "0.00013",
+              "minor_allele": ""
+            },
+            {
+              "source": "The Genome Aggregation Database (gnomAD), exomes",
+              "value": "0.00006",
+              "minor_allele": ""
+            }
+          ],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000002.12:70212801:C:T",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV005187723",
+          "SCV003819537",
+          "SCV000946627",
+          "SCV005093399"
+        ],
+        "rcv": [
+          "RCV000806619",
+          "RCV003141808"
+        ]
+      },
+      "germline_classification": {
+        "description": "Uncertain significance",
+        "last_evaluated": "2026/03/01 00:00",
+        "review_status": "criteria provided, multiple submitters, no conflicts",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "MedGen",
+                "db_id": "C3661900"
+              }
+            ],
+            "trait_name": "not provided"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "603"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C0221054"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0011466"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "604454"
+              }
+            ],
+            "trait_name": "Welander distal myopathy"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "TIA1",
+      "chr_sort": "02",
+      "location_sort": "00000000000070212802",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "TIA1",
+          "geneid": "7072",
+          "strand": "-",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "missense variant",
+        "non-coding transcript variant"
+      ],
+      "protein_change": "V312M, V351M, V360M, V259M, V284M, V323M, V348M, V349M, V220M, V359M, V219M, V314M",
+      "fda_recognized_database": ""
+    },
+    "992595": {
+      "uid": "992595",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV000992595",
+      "accession_version": "VCV000992595.10",
+      "title": "NM_022173.4(TIA1):c.1085C>T (p.Pro362Leu)",
+      "variation_set": [
+        {
+          "measure_id": "980520",
+          "variation_xrefs": [
+            {
+              "db_source": "ClinGen",
+              "db_id": "CA1697401"
+            },
+            {
+              "db_source": "OMIM",
+              "db_id": "603518.0002"
+            },
+            {
+              "db_source": "dbSNP",
+              "db_id": "757332023"
+            }
+          ],
+          "variation_name": "NM_022173.4(TIA1):c.1085C>T (p.Pro362Leu)",
+          "cdna_change": "c.1085C>T",
+          "aliases": [],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "2",
+              "band": "2p13.3",
+              "start": "70212795",
+              "stop": "70212795",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "70212795",
+              "display_stop": "70212795",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "2",
+              "band": "2p13.3",
+              "start": "70439927",
+              "stop": "70439927",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "70439927",
+              "display_stop": "70439927",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [
+            {
+              "source": "Trans-Omics for Precision Medicine (TOPMed)",
+              "value": "0.00000",
+              "minor_allele": ""
+            },
+            {
+              "source": "Exome Aggregation Consortium (ExAC)",
+              "value": "0.00002",
+              "minor_allele": ""
+            },
+            {
+              "source": "The Genome Aggregation Database (gnomAD), exomes",
+              "value": "0.00002",
+              "minor_allele": ""
+            }
+          ],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000002.12:70212794:G:A",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV001468513",
+          "SCV003811664",
+          "SCV001562123"
+        ],
+        "rcv": [
+          "RCV001281089",
+          "RCV001365839",
+          "RCV003132375"
+        ]
+      },
+      "germline_classification": {
+        "description": "Conflicting classifications of pathogenicity",
+        "last_evaluated": "2025/01/01 00:00",
+        "review_status": "criteria provided, conflicting classifications",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "MedGen",
+                "db_id": "C3661900"
+              }
+            ],
+            "trait_name": "not provided"
+          },
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "603"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C0221054"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0011466"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "604454"
+              }
+            ],
+            "trait_name": "Welander distal myopathy"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "TIA1",
+      "chr_sort": "02",
+      "location_sort": "00000000000070212795",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "TIA1",
+          "geneid": "7072",
+          "strand": "-",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "missense variant",
+        "non-coding transcript variant"
+      ],
+      "protein_change": "P362L, P221L, P222L, P261L, P286L, P314L, P316L, P325L, P350L, P351L, P353L, P361L",
+      "fda_recognized_database": ""
+    },
+    "992596": {
+      "uid": "992596",
+      "obj_type": "single nucleotide variant",
+      "accession": "VCV000992596",
+      "accession_version": "VCV000992596.4",
+      "title": "NM_022173.4(TIA1):c.1141G>A (p.Ala381Thr)",
+      "variation_set": [
+        {
+          "measure_id": "980521",
+          "variation_xrefs": [
+            {
+              "db_source": "ClinGen",
+              "db_id": "CA1697387"
+            },
+            {
+              "db_source": "OMIM",
+              "db_id": "603518.0003"
+            },
+            {
+              "db_source": "dbSNP",
+              "db_id": "768554955"
+            }
+          ],
+          "variation_name": "NM_022173.4(TIA1):c.1141G>A (p.Ala381Thr)",
+          "cdna_change": "c.1141G>A",
+          "aliases": [
+            "A381T"
+          ],
+          "variation_loc": [
+            {
+              "status": "current",
+              "assembly_name": "GRCh38",
+              "chr": "2",
+              "band": "2p13.3",
+              "start": "70212739",
+              "stop": "70212739",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "70212739",
+              "display_stop": "70212739",
+              "assembly_acc_ver": "GCF_000001405.38",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            },
+            {
+              "status": "previous",
+              "assembly_name": "GRCh37",
+              "chr": "2",
+              "band": "2p13.3",
+              "start": "70439871",
+              "stop": "70439871",
+              "inner_start": "",
+              "inner_stop": "",
+              "outer_start": "",
+              "outer_stop": "",
+              "display_start": "70439871",
+              "display_stop": "70439871",
+              "assembly_acc_ver": "GCF_000001405.25",
+              "annotation_release": "",
+              "alt": "",
+              "ref": ""
+            }
+          ],
+          "allele_freq_set": [
+            {
+              "source": "The Genome Aggregation Database (gnomAD), exomes",
+              "value": "0.00000",
+              "minor_allele": ""
+            },
+            {
+              "source": "The Genome Aggregation Database (gnomAD)",
+              "value": "0.00003",
+              "minor_allele": ""
+            },
+            {
+              "source": "Trans-Omics for Precision Medicine (TOPMed)",
+              "value": "0.00003",
+              "minor_allele": ""
+            },
+            {
+              "source": "Exome Aggregation Consortium (ExAC)",
+              "value": "0.00001",
+              "minor_allele": ""
+            },
+            {
+              "source": "The Genome Aggregation Database (gnomAD), exomes",
+              "value": "0.00004",
+              "minor_allele": ""
+            }
+          ],
+          "variant_type": "single nucleotide variant",
+          "canonical_spdi": "NC_000002.12:70212738:C:T",
+          "common_name": ""
+        }
+      ],
+      "supporting_submissions": {
+        "scv": [
+          "SCV001468514",
+          "SCV004330749"
+        ],
+        "rcv": [
+          "RCV001281090",
+          "RCV003526067"
+        ]
+      },
+      "germline_classification": {
+        "description": "Uncertain significance",
+        "last_evaluated": "2025/09/28 00:00",
+        "review_status": "criteria provided, single submitter",
+        "fda_recognized_database": "",
+        "trait_set": [
+          {
+            "trait_xrefs": [
+              {
+                "db_source": "Orphanet",
+                "db_id": "603"
+              },
+              {
+                "db_source": "MedGen",
+                "db_id": "C0221054"
+              },
+              {
+                "db_source": "MONDO",
+                "db_id": "MONDO:0011466"
+              },
+              {
+                "db_source": "OMIM",
+                "db_id": "604454"
+              }
+            ],
+            "trait_name": "Welander distal myopathy"
+          }
+        ]
+      },
+      "clinical_impact_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "oncogenicity_classification": {
+        "description": "",
+        "last_evaluated": "1/01/01 00:00",
+        "review_status": "",
+        "fda_recognized_database": "",
+        "trait_set": []
+      },
+      "record_status": "",
+      "gene_sort": "TIA1",
+      "chr_sort": "02",
+      "location_sort": "00000000000070212739",
+      "variation_set_name": "",
+      "variation_set_id": "",
+      "genes": [
+        {
+          "symbol": "TIA1",
+          "geneid": "7072",
+          "strand": "-",
+          "source": "submitted"
+        }
+      ],
+      "molecular_consequence_list": [
+        "missense variant",
+        "non-coding transcript variant"
+      ],
+      "protein_change": "A240T, A241T, A280T, A305T, A333T, A335T, A344T, A369T, A370T, A372T, A380T",
+      "fda_recognized_database": ""
+    }
+  }
+}

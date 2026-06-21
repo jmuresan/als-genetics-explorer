@@ -1,0 +1,25 @@
+{
+  "header": {
+    "type": "esearch",
+    "version": "0.3"
+  },
+  "esearchresult": {
+    "count": "5670",
+    "retmax": "10",
+    "retstart": "0",
+    "idlist": [
+      "42304808",
+      "42299014",
+      "42296226",
+      "42286839",
+      "42282797",
+      "42268660",
+      "42265995",
+      "42250707",
+      "42240799",
+      "42239283"
+    ],
+    "translationset": [],
+    "querytranslation": "(\"SOD1\"[Title/Abstract] OR \"SOD1\"[All Fields]) AND (\"amyotrophic lateral sclerosis\"[Title/Abstract] OR \"ALS\"[Title/Abstract])"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "header": {
+    "type": "esearch",
+    "version": "0.3"
+  },
+  "esearchresult": {
+    "count": "66",
+    "retmax": "10",
+    "retstart": "0",
+    "idlist": [
+      "41621017",
+      "41463293",
+      "41271780",
+      "40665686",
+      "40424855",
+      "39440303",
+      "38702287",
+      "38311779",
+      "38267040",
+      "38239833"
+    ],
+    "translationset": [],
+    "querytranslation": "(\"DCTN1\"[Title/Abstract] OR \"DCTN1\"[All Fields]) AND (\"amyotrophic lateral sclerosis\"[Title/Abstract] OR \"ALS\"[Title/Abstract])"
+  }
+}

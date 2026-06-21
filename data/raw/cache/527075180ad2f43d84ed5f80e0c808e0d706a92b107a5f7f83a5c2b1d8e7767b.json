@@ -1,0 +1,25 @@
+{
+  "header": {
+    "type": "esearch",
+    "version": "0.3"
+  },
+  "esearchresult": {
+    "count": "80",
+    "retmax": "10",
+    "retstart": "0",
+    "idlist": [
+      "42041567",
+      "41885937",
+      "41836882",
+      "41836058",
+      "41760955",
+      "41750144",
+      "41629112",
+      "41621017",
+      "41466038",
+      "41279899"
+    ],
+    "translationset": [],
+    "querytranslation": "(\"KIF5A\"[Title/Abstract] OR \"KIF5A\"[All Fields]) AND (\"amyotrophic lateral sclerosis\"[Title/Abstract] OR \"ALS\"[Title/Abstract])"
+  }
+}

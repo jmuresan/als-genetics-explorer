@@ -1,0 +1,55 @@
+{
+  "header": {
+    "type": "esearch",
+    "version": "0.3"
+  },
+  "esearchresult": {
+    "count": "10",
+    "retmax": "10",
+    "retstart": "0",
+    "idlist": [
+      "3068676",
+      "2432503",
+      "2432495",
+      "1677313",
+      "1333611",
+      "1209889",
+      "637023",
+      "65453",
+      "65452",
+      "65451"
+    ],
+    "translationset": [],
+    "translationstack": [
+      {
+        "term": "HNRNPA1[gene]",
+        "field": "gene",
+        "count": "127",
+        "explode": "N"
+      },
+      {
+        "term": "amyotrophic[All Fields]",
+        "field": "All Fields",
+        "count": "10881",
+        "explode": "N"
+      },
+      {
+        "term": "lateral[All Fields]",
+        "field": "All Fields",
+        "count": "23718",
+        "explode": "N"
+      },
+      "AND",
+      {
+        "term": "sclerosis[All Fields]",
+        "field": "All Fields",
+        "count": "32827",
+        "explode": "N"
+      },
+      "AND",
+      "GROUP",
+      "AND"
+    ],
+    "querytranslation": "HNRNPA1[gene] AND (amyotrophic[All Fields] AND lateral[All Fields] AND sclerosis[All Fields])"
+  }
+}

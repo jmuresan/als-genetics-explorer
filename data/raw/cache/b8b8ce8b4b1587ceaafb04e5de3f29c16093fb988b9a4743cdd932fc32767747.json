@@ -1,0 +1,100 @@
+{
+  "data": {
+    "search": {
+      "hits": [
+        {
+          "id": "ENSG00000165280",
+          "entity": "target"
+        },
+        {
+          "id": "ENSG00000175073",
+          "entity": "target"
+        },
+        {
+          "id": "ENSG00000100483",
+          "entity": "target"
+        },
+        {
+          "id": "ENSG00000143748",
+          "entity": "target"
+        },
+        {
+          "id": "ENSG00000198168",
+          "entity": "target"
+        },
+        {
+          "id": "ENSG00000133193",
+          "entity": "target"
+        },
+        {
+          "id": "ENSG00000182518",
+          "entity": "target"
+        },
+        {
+          "id": "ENSG00000010072",
+          "entity": "target"
+        },
+        {
+          "id": "ENSG00000015479",
+          "entity": "target"
+        },
+        {
+          "id": "ENSG00000131871",
+          "entity": "target"
+        },
+        {
+          "id": "ENSG00000106066",
+          "entity": "target"
+        },
+        {
+          "id": "ENSG00000206422",
+          "entity": "target"
+        },
+        {
+          "id": "ENSG00000206150",
+          "entity": "target"
+        },
+        {
+          "id": "ENSG00000258436",
+          "entity": "target"
+        },
+        {
+          "id": "ENSG00000173464",
+          "entity": "target"
+        },
+        {
+          "id": "ENSG00000135604",
+          "entity": "target"
+        },
+        {
+          "id": "ENSG00000138678",
+          "entity": "target"
+        },
+        {
+          "id": "ENSG00000154645",
+          "entity": "target"
+        },
+        {
+          "id": "ENSG00000154642",
+          "entity": "target"
+        },
+        {
+          "id": "ENSG00000198538",
+          "entity": "target"
+        },
+        {
+          "id": "ENSG00000197360",
+          "entity": "target"
+        },
+        {
+          "id": "ENSG00000179636",
+          "entity": "target"
+        },
+        {
+          "id": "ENSG00000261667",
+          "entity": "target"
+        }
+      ]
+    }
+  }
+}

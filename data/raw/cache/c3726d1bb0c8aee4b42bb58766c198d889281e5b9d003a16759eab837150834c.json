@@ -1,0 +1,23 @@
+{
+  "header": {
+    "type": "esearch",
+    "version": "0.3"
+  },
+  "esearchresult": {
+    "count": "8",
+    "retmax": "8",
+    "retstart": "0",
+    "idlist": [
+      "36000313",
+      "34868212",
+      "34290285",
+      "33333804",
+      "33134918",
+      "32185393",
+      "29951055",
+      "21408173"
+    ],
+    "translationset": [],
+    "querytranslation": "(\"CYLD\"[Title/Abstract] OR \"CYLD\"[All Fields]) AND (\"amyotrophic lateral sclerosis\"[Title/Abstract] OR \"ALS\"[Title/Abstract])"
+  }
+}

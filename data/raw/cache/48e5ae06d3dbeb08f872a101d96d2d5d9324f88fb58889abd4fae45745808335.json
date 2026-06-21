@@ -1,0 +1,25 @@
+{
+  "header": {
+    "type": "esearch",
+    "version": "0.3"
+  },
+  "esearchresult": {
+    "count": "22",
+    "retmax": "10",
+    "retstart": "0",
+    "idlist": [
+      "40849231",
+      "40027730",
+      "39666121",
+      "38316966",
+      "38041684",
+      "38041679",
+      "38041669",
+      "37497262",
+      "37348646",
+      "37308477"
+    ],
+    "translationset": [],
+    "querytranslation": "(\"SPTLC1\"[Title/Abstract] OR \"SPTLC1\"[All Fields]) AND (\"amyotrophic lateral sclerosis\"[Title/Abstract] OR \"ALS\"[Title/Abstract])"
+  }
+}

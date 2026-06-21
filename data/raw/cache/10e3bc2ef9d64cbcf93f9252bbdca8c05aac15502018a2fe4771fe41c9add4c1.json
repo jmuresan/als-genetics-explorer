@@ -1,0 +1,22 @@
+[
+  {
+    "dbId": 9679191,
+    "displayName": "Potential therapeutics for SARS",
+    "stId": "R-HSA-9679191",
+    "stIdVersion": "R-HSA-9679191.5",
+    "isInDisease": true,
+    "isInferred": false,
+    "maxDepth": 2,
+    "name": [
+      "Potential therapeutics for SARS"
+    ],
+    "releaseDate": "2020-06-10",
+    "speciesName": "Homo sapiens",
+    "doi": "10.3180/R-HSA-9679191.1",
+    "hasDiagram": true,
+    "hasEHLD": false,
+    "lastUpdatedDate": "2023-03-29",
+    "schemaClass": "Pathway",
+    "className": "Pathway"
+  }
+]

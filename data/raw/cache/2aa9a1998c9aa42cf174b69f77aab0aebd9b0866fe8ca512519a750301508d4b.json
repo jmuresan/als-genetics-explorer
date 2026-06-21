@@ -1,0 +1,21 @@
+[
+  {
+    "dbId": 8856825,
+    "displayName": "Cargo recognition for clathrin-mediated endocytosis",
+    "stId": "R-HSA-8856825",
+    "stIdVersion": "R-HSA-8856825.5",
+    "isInDisease": false,
+    "isInferred": false,
+    "maxDepth": 2,
+    "name": [
+      "Cargo recognition for clathrin-mediated endocytosis"
+    ],
+    "releaseDate": "2016-06-15",
+    "speciesName": "Homo sapiens",
+    "hasDiagram": true,
+    "hasEHLD": false,
+    "lastUpdatedDate": "2020-09-24",
+    "schemaClass": "Pathway",
+    "className": "Pathway"
+  }
+]

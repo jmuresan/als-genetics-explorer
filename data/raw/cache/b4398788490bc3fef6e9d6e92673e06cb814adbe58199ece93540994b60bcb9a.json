@@ -1,0 +1,58 @@
+{
+  "header": {
+    "type": "esearch",
+    "version": "0.3"
+  },
+  "esearchresult": {
+    "count": "13",
+    "retmax": "13",
+    "retstart": "0",
+    "idlist": [
+      "2721147",
+      "1806047",
+      "1803758",
+      "1676224",
+      "1494795",
+      "1343323",
+      "873277",
+      "646360",
+      "259607",
+      "37037",
+      "37036",
+      "37035",
+      "37034"
+    ],
+    "translationset": [],
+    "translationstack": [
+      {
+        "term": "PFN1[gene]",
+        "field": "gene",
+        "count": "154",
+        "explode": "N"
+      },
+      {
+        "term": "amyotrophic[All Fields]",
+        "field": "All Fields",
+        "count": "10881",
+        "explode": "N"
+      },
+      {
+        "term": "lateral[All Fields]",
+        "field": "All Fields",
+        "count": "23718",
+        "explode": "N"
+      },
+      "AND",
+      {
+        "term": "sclerosis[All Fields]",
+        "field": "All Fields",
+        "count": "32827",
+        "explode": "N"
+      },
+      "AND",
+      "GROUP",
+      "AND"
+    ],
+    "querytranslation": "PFN1[gene] AND (amyotrophic[All Fields] AND lateral[All Fields] AND sclerosis[All Fields])"
+  }
+}

@@ -1,0 +1,42 @@
+[
+  {
+    "dbId": 389661,
+    "displayName": "Glyoxylate metabolism and glycine degradation",
+    "stId": "R-HSA-389661",
+    "stIdVersion": "R-HSA-389661.10",
+    "isInDisease": false,
+    "isInferred": false,
+    "maxDepth": 3,
+    "name": [
+      "Glyoxylate metabolism and glycine degradation"
+    ],
+    "releaseDate": "2009-04-01",
+    "speciesName": "Homo sapiens",
+    "doi": "10.3180/REACT_17048.1",
+    "hasDiagram": true,
+    "hasEHLD": false,
+    "lastUpdatedDate": "2017-09-27",
+    "schemaClass": "Pathway",
+    "className": "Pathway"
+  },
+  {
+    "dbId": 9033241,
+    "displayName": "Peroxisomal protein import",
+    "stId": "R-HSA-9033241",
+    "stIdVersion": "R-HSA-9033241.5",
+    "isInDisease": false,
+    "isInferred": false,
+    "maxDepth": 3,
+    "name": [
+      "Peroxisomal protein import"
+    ],
+    "releaseDate": "2018-03-18",
+    "speciesName": "Homo sapiens",
+    "doi": "10.3180/R-HSA-9033241.1",
+    "hasDiagram": true,
+    "hasEHLD": false,
+    "lastUpdatedDate": "2018-06-13",
+    "schemaClass": "Pathway",
+    "className": "Pathway"
+  }
+]

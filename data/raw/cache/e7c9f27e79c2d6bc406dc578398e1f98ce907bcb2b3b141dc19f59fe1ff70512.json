@@ -1,0 +1,113 @@
+[
+  {
+    "dbId": 1660661,
+    "displayName": "Sphingolipid de novo biosynthesis",
+    "stId": "R-HSA-1660661",
+    "stIdVersion": "R-HSA-1660661.12",
+    "isInDisease": false,
+    "isInferred": false,
+    "maxDepth": 2,
+    "name": [
+      "Sphingolipid de novo biosynthesis"
+    ],
+    "releaseDate": "2011-12-06",
+    "speciesName": "Homo sapiens",
+    "hasDiagram": false,
+    "hasEHLD": false,
+    "lastUpdatedDate": "2023-09-13",
+    "schemaClass": "Pathway",
+    "className": "Pathway"
+  },
+  {
+    "dbId": 8980692,
+    "displayName": "RHOA GTPase cycle",
+    "stId": "R-HSA-8980692",
+    "stIdVersion": "R-HSA-8980692.2",
+    "isInDisease": false,
+    "isInferred": false,
+    "maxDepth": 2,
+    "name": [
+      "RHOA GTPase cycle"
+    ],
+    "releaseDate": "2021-03-23",
+    "speciesName": "Homo sapiens",
+    "hasDiagram": false,
+    "hasEHLD": false,
+    "schemaClass": "Pathway",
+    "className": "Pathway"
+  },
+  {
+    "dbId": 9013106,
+    "displayName": "RHOC GTPase cycle",
+    "stId": "R-HSA-9013106",
+    "stIdVersion": "R-HSA-9013106.2",
+    "isInDisease": false,
+    "isInferred": false,
+    "maxDepth": 2,
+    "name": [
+      "RHOC GTPase cycle"
+    ],
+    "releaseDate": "2021-03-23",
+    "speciesName": "Homo sapiens",
+    "hasDiagram": false,
+    "hasEHLD": false,
+    "schemaClass": "Pathway",
+    "className": "Pathway"
+  },
+  {
+    "dbId": 9013404,
+    "displayName": "RAC2 GTPase cycle",
+    "stId": "R-HSA-9013404",
+    "stIdVersion": "R-HSA-9013404.2",
+    "isInDisease": false,
+    "isInferred": false,
+    "maxDepth": 2,
+    "name": [
+      "RAC2 GTPase cycle"
+    ],
+    "releaseDate": "2021-03-23",
+    "speciesName": "Homo sapiens",
+    "hasDiagram": false,
+    "hasEHLD": false,
+    "schemaClass": "Pathway",
+    "className": "Pathway"
+  },
+  {
+    "dbId": 9013405,
+    "displayName": "RHOD GTPase cycle",
+    "stId": "R-HSA-9013405",
+    "stIdVersion": "R-HSA-9013405.5",
+    "isInDisease": false,
+    "isInferred": false,
+    "maxDepth": 2,
+    "name": [
+      "RHOD GTPase cycle"
+    ],
+    "releaseDate": "2021-03-23",
+    "speciesName": "Homo sapiens",
+    "doi": "10.3180/R-HSA-9013405.2",
+    "hasDiagram": false,
+    "hasEHLD": false,
+    "lastUpdatedDate": "2021-06-14",
+    "schemaClass": "Pathway",
+    "className": "Pathway"
+  },
+  {
+    "dbId": 9013408,
+    "displayName": "RHOG GTPase cycle",
+    "stId": "R-HSA-9013408",
+    "stIdVersion": "R-HSA-9013408.2",
+    "isInDisease": false,
+    "isInferred": false,
+    "maxDepth": 2,
+    "name": [
+      "RHOG GTPase cycle"
+    ],
+    "releaseDate": "2021-03-23",
+    "speciesName": "Homo sapiens",
+    "hasDiagram": false,
+    "hasEHLD": false,
+    "schemaClass": "Pathway",
+    "className": "Pathway"
+  }
+]

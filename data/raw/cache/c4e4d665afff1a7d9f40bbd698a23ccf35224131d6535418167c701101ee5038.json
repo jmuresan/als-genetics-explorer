@@ -1,0 +1,25 @@
+{
+  "header": {
+    "type": "esearch",
+    "version": "0.3"
+  },
+  "esearchresult": {
+    "count": "78",
+    "retmax": "10",
+    "retstart": "0",
+    "idlist": [
+      "42317073",
+      "42299014",
+      "42268660",
+      "42253371",
+      "41804597",
+      "41583004",
+      "41359433",
+      "41196070",
+      "41144030",
+      "41137727"
+    ],
+    "translationset": [],
+    "querytranslation": "(\"NEK1\"[Title/Abstract] OR \"NEK1\"[All Fields]) AND (\"amyotrophic lateral sclerosis\"[Title/Abstract] OR \"ALS\"[Title/Abstract])"
+  }
+}
