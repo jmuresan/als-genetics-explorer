@@ -57,8 +57,12 @@ def test_deduplication_pmid_mismatch_reference_integrity(temp_db, tmp_path):
     generate_hypotheses(temp_db, output_md)
     
     conn = duckdb.connect(temp_db)
-    claims_count_22222 = conn.execute("SELECT COUNT(*) FROM claims WHERE paper_id = '22222'").fetchone()[0]
-    claims_count_11111 = conn.execute("SELECT COUNT(*) FROM claims WHERE paper_id = '11111'").fetchone()[0]
+    claims_row_22222 = conn.execute("SELECT COUNT(*) FROM claims WHERE paper_id = '22222'").fetchone()
+    assert claims_row_22222 is not None
+    claims_count_22222 = claims_row_22222[0]
+    claims_row_11111 = conn.execute("SELECT COUNT(*) FROM claims WHERE paper_id = '11111'").fetchone()
+    assert claims_row_11111 is not None
+    claims_count_11111 = claims_row_11111[0]
     conn.close()
     
     assert claims_count_22222 == 0

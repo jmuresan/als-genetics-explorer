@@ -11,7 +11,7 @@ logger = logging.getLogger("als_explorer.client")
 
 # --- Normalization Helpers ---
 
-def normalize_title(title: str) -> str:
+def normalize_title(title: Optional[str]) -> str:
     """Normalizes titles by downcasing, stripping whitespace, and removing punctuation and HTML tags."""
     if not title:
         return ""
@@ -26,7 +26,7 @@ def normalize_title(title: str) -> str:
     # Normalize whitespace
     return " ".join(clean.split())
 
-def normalize_doi(doi: str) -> str:
+def normalize_doi(doi: Optional[str]) -> str:
     """Normalizes DOIs to lowercase and removes typical resolver prefixes."""
     if not doi:
         return ""
@@ -321,6 +321,7 @@ class BaseClient:
         max_attempts = 4
         backoff_delay = 0.05  # start small to keep tests fast
         
+        response = None
         for attempt in range(max_attempts):
             try:
                 if self.rate_limit_delay > 0 and attempt == 0:
@@ -350,6 +351,7 @@ class BaseClient:
                 else:
                     raise e
         
+        assert response is not None
         if is_xml:
             data = response.text
         else:

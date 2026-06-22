@@ -31,7 +31,7 @@ from src.hypotheses.generator import generate_hypotheses
 
 logger = logging.getLogger("als_explorer.pipeline")
 
-def run_pipeline(config_path: str = None, db_path: str = None, output_dir: str = None) -> Dict[str, Any]:
+def run_pipeline(config_path: str | None = None, db_path: str | None = None, output_dir: str | None = None) -> Dict[str, Any]:
     # 1. Load config
     config = Config(config_path)
     if not db_path:

@@ -5,7 +5,7 @@ from typing import List, Dict, Any
 
 class Config:
     """Configuration parser and interface for ALS Genetic Mechanism Explorer."""
-    def __init__(self, config_path: str = None):
+    def __init__(self, config_path: str | None = None):
         logger = logging.getLogger("als_explorer.config")
         if config_path is None:
             # Resolve to project root config.yaml

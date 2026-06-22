@@ -102,7 +102,7 @@ def format_hypothesis_to_markdown(hyp: Dict[str, Any]) -> str:
 """
     return section
 
-def generate_hypotheses(db_path: str, output_path: str, config_path: str = None):
+def generate_hypotheses(db_path: str, output_path: str, config_path: str | None = None):
     config = Config(config_path)
     conn = duckdb.connect(db_path)
     
@@ -121,8 +121,14 @@ def generate_hypotheses(db_path: str, output_path: str, config_path: str = None)
     conn.execute("DELETE FROM hypotheses")
 
     # Boundary Case: No pathways or interactions -> zero hypotheses
-    num_gene_pathways = conn.execute("SELECT COUNT(*) FROM gene_pathways").fetchone()[0]
-    num_interactions = conn.execute("SELECT COUNT(*) FROM interactions").fetchone()[0]
+    gp_row = conn.execute("SELECT COUNT(*) FROM gene_pathways").fetchone()
+    assert gp_row is not None
+    num_gene_pathways = gp_row[0]
+    
+    int_row = conn.execute("SELECT COUNT(*) FROM interactions").fetchone()
+    assert int_row is not None
+    num_interactions = int_row[0]
+    
     if num_gene_pathways == 0 and num_interactions == 0:
         os.makedirs(os.path.dirname(output_path), exist_ok=True)
         with open(output_path, "w", encoding="utf-8") as f:
@@ -130,7 +136,7 @@ def generate_hypotheses(db_path: str, output_path: str, config_path: str = None)
         conn.close()
         return
 
-    hypotheses = []
+    hypotheses: List[Dict[str, Any]] = []
     h_idx = 1
     seed_genes = config.seed_genes
     high_conf_genes = {r[0] for r in conn.execute("SELECT gene_symbol FROM disease_associations WHERE score >= 0.5").fetchall() if r[0]}
@@ -296,7 +302,7 @@ def generate_hypotheses(db_path: str, output_path: str, config_path: str = None)
         h_idx += 1
 
     # --- PROCESS AND VALIDATE HYPOTHESES ---
-    processed_hypotheses = []
+    processed_hypotheses: List[Dict[str, Any]] = []
     protective_keywords = ['delayed onset', 'slower progression', 'reduced penetrance', 'resilience', 'protection', 'suppression', 'modifier']
     contradiction_keywords = ['contradict', 'conflict', 'inconsistent', 'disputed', 'controversial']
 
@@ -305,7 +311,9 @@ def generate_hypotheses(db_path: str, output_path: str, config_path: str = None)
         
         # Verify citation PMIDs exist in papers table
         for pmid in citation_pmids:
-            paper_exists = conn.execute("SELECT COUNT(*) FROM papers WHERE pmid = ?", [pmid]).fetchone()[0]
+            pe_row = conn.execute("SELECT COUNT(*) FROM papers WHERE pmid = ?", [pmid]).fetchone()
+            assert pe_row is not None
+            paper_exists = pe_row[0]
             if paper_exists == 0:
                 raise ValueError(f"Hypothesis claim lacks a corresponding citation row for PMID: {pmid}")
                 
@@ -344,11 +352,14 @@ def generate_hypotheses(db_path: str, output_path: str, config_path: str = None)
         hyp["has_lit_contradiction"] = has_lit_contradiction
         
         has_genomic_contradiction = False
-        for g in hyp["genes"]:
-            cv_count = conn.execute("""
+        genes_list = hyp.get("genes")
+        assert isinstance(genes_list, list)
+        for g in genes_list:
+            cv_row = conn.execute("""
                 SELECT COUNT(DISTINCT clinical_significance) FROM variants 
                 WHERE gene_symbol = ? AND clinical_significance IN ('Pathogenic', 'Benign', 'Likely benign')
-            """, [g]).fetchone()[0] or 0
+            """, [g]).fetchone()
+            cv_count = cv_row[0] if cv_row else 0
             if cv_count >= 2:
                 has_genomic_contradiction = True
                 break
@@ -371,7 +382,9 @@ def generate_hypotheses(db_path: str, output_path: str, config_path: str = None)
         
         for pmid in sorted(list(set(hyp["citations"]))):
             # Pad genes list to at least 2 elements to prevent binder parameter mismatches
-            genes_padded = (hyp["genes"] + ["", ""])[:2]
+            genes_list = hyp.get("genes")
+            assert isinstance(genes_list, list)
+            genes_padded = (genes_list + ["", ""])[:2]
             
             # Find matching claim_id if possible
             claim_id_row = conn.execute("""

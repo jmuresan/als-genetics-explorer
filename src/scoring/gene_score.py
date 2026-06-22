@@ -33,7 +33,8 @@ def calculate_scores(db_path: str, G: nx.MultiDiGraph, config: Config) -> pd.Dat
     hypotheses_list = conn.execute("SELECT hypothesis_id, title, description, confidence FROM hypotheses").fetchall()
     
     # Calculate max pathways for normalization
-    max_pathways = conn.execute("SELECT MAX(c) FROM (SELECT COUNT(DISTINCT pathway_id) as c FROM gene_pathways GROUP BY gene_symbol)").fetchone()[0] or 1
+    mp_row = conn.execute("SELECT MAX(c) FROM (SELECT COUNT(DISTINCT pathway_id) as c FROM gene_pathways GROUP BY gene_symbol)").fetchone()
+    max_pathways = mp_row[0] if (mp_row and mp_row[0] is not None) else 1
     if max_pathways == 0:
         max_pathways = 1
 
@@ -49,7 +50,8 @@ def calculate_scores(db_path: str, G: nx.MultiDiGraph, config: Config) -> pd.Dat
         cv_score = float(min(pathogenic_count * 0.5, 1.0))
         
         # C. Pathway Centrality (normalized count)
-        pathway_count = conn.execute("SELECT COUNT(DISTINCT pathway_id) FROM gene_pathways WHERE gene_symbol = ?", [gene]).fetchone()[0] or 0
+        pc_row = conn.execute("SELECT COUNT(DISTINCT pathway_id) FROM gene_pathways WHERE gene_symbol = ?", [gene]).fetchone()
+        pathway_count = pc_row[0] if (pc_row and pc_row[0] is not None) else 0
         pathway_centrality = float(pathway_count) / max_pathways
         
         # D. STRING network centrality (degree centrality on PPI subgraph)

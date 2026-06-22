@@ -91,7 +91,7 @@ def format_hypothesis_to_markdown(hyp: Dict[str, Any]) -> str:
 """
     return section
 
-def score_hypotheses(db_path: str, config_path: str = None, output_md: str = None):
+def score_hypotheses(db_path: str, config_path: str | None = None, output_md: str | None = None):
     config = Config(config_path)
     conn = duckdb.connect(db_path)
     
@@ -132,7 +132,9 @@ def score_hypotheses(db_path: str, config_path: str = None, output_md: str = Non
         
         # 3. Reference Integrity / Citation Check
         for pmid in evidence_pmids:
-            paper_exists = conn.execute("SELECT COUNT(*) FROM papers WHERE pmid = ?", [pmid]).fetchone()[0]
+            pe_row = conn.execute("SELECT COUNT(*) FROM papers WHERE pmid = ?", [pmid]).fetchone()
+            assert pe_row is not None
+            paper_exists = pe_row[0]
             if paper_exists == 0:
                 raise ValueError(f"Hypothesis claim lacks a corresponding citation row for PMID: {pmid}")
         
@@ -226,10 +228,11 @@ def score_hypotheses(db_path: str, config_path: str = None, output_md: str = Non
         
         has_genomic_contradiction = False
         for g in genes:
-            cv_count = conn.execute("""
+            cv_row = conn.execute("""
                 SELECT COUNT(DISTINCT clinical_significance) FROM variants 
                 WHERE gene_symbol = ? AND clinical_significance IN ('Pathogenic', 'Benign', 'Likely benign')
-            """, [g]).fetchone()[0] or 0
+            """, [g]).fetchone()
+            cv_count = cv_row[0] if cv_row else 0
             if cv_count >= 2:
                 has_genomic_contradiction = True
                 break

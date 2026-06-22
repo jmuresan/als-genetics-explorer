@@ -26,7 +26,7 @@ def chunk_list(lst: List[Any], size: int) -> List[List[Any]]:
     """Helper to partition list into chunks of a given size."""
     return [lst[i : i + size] for i in range(0, len(lst), size)]
 
-def run_ingestion(config_path: str = None) -> Dict[str, Any]:
+def run_ingestion(config_path: str | None = None) -> Dict[str, Any]:
     """Runs the data ingestion and caching pipeline."""
     # 1. Load config
     config = Config(config_path)
@@ -149,16 +149,17 @@ def run_ingestion(config_path: str = None) -> Dict[str, Any]:
         # Merge abstracts into papers and feed into Deduplicator
         for paper in parsed_papers:
             pmid = paper.get("pmid")
-            if pmid in pmid_to_abstract:
-                paper["abstract"] = pmid_to_abstract[pmid]
-            
-            # Map origins/reasons
-            origins = pmid_origins.get(pmid, set())
-            if not origins:
-                deduplicator.add_paper(paper, "unknown", "unknown")
-            else:
-                for reason, gene in origins:
-                    deduplicator.add_paper(paper, reason, gene)
+            if isinstance(pmid, str):
+                if pmid in pmid_to_abstract:
+                    paper["abstract"] = pmid_to_abstract[pmid]
+                
+                # Map origins/reasons
+                origins = pmid_origins.get(pmid, set())
+                if not origins:
+                    deduplicator.add_paper(paper, "unknown", "unknown")
+                else:
+                    for reason, gene in origins:
+                        deduplicator.add_paper(paper, reason, gene)
 
     unique_papers = deduplicator.get_unique_papers()
     logger.info(f"Ingestion complete. Unique papers after deduplication: {len(unique_papers)}")
@@ -181,7 +182,7 @@ def run_ingestion(config_path: str = None) -> Dict[str, Any]:
         "output_path": dest_path
     }
 
-def run_ingest(config_path: str = None) -> Dict[str, Any]:
+def run_ingest(config_path: str | None = None) -> Dict[str, Any]:
     """Wrapper function to match expected API for tests."""
     return run_ingestion(config_path)
 

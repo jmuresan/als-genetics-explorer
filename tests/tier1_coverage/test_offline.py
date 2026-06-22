@@ -1,5 +1,6 @@
 import os
 import pytest
+from typing import Any
 import logging
 import socket
 import yaml
@@ -56,7 +57,7 @@ def test_no_socket_connection_offline(tmp_path, monkeypatch):
 
 def test_perform_ingestion_run_offline(tmp_path, caplog):
     # 4. Perform ingestion run offline with pre-cached seed gene files (completes without warning).
-    config_data_online = {
+    config_data_online: dict[str, Any] = {
         "seed_genes": ["SOD1"],
         "api_settings": {
             "offline_mode": False,
@@ -75,7 +76,7 @@ def test_perform_ingestion_run_offline(tmp_path, caplog):
     run_ingest(str(config_file))
     
     # Now switch config to offline mode
-    config_data_offline = dict(config_data_online)
+    config_data_offline: dict[str, Any] = dict(config_data_online)
     config_data_offline["api_settings"]["offline_mode"] = True
     with open(config_file, "w") as f:
         yaml.dump(config_data_offline, f)
@@ -88,7 +89,7 @@ def test_perform_ingestion_run_offline(tmp_path, caplog):
 
 def test_offline_execution_log(tmp_path, caplog):
     # 5. Check that log files explicitly record the offline execution flag.
-    config_data_online = {
+    config_data_online: dict[str, Any] = {
         "seed_genes": ["SOD1"],
         "api_settings": {
             "offline_mode": False,
@@ -105,7 +106,7 @@ def test_offline_execution_log(tmp_path, caplog):
         
     run_ingest(str(config_file))
     
-    config_data_offline = dict(config_data_online)
+    config_data_offline: dict[str, Any] = dict(config_data_online)
     config_data_offline["api_settings"]["offline_mode"] = True
     with open(config_file, "w") as f:
         yaml.dump(config_data_offline, f)

@@ -6,6 +6,7 @@ import socket
 import pytest
 import duckdb
 import networkx as nx
+from typing import Any, cast
 
 
 # Import Config and Clients
@@ -491,8 +492,12 @@ def test_combination_db_normalization_and_hypotheses(temp_db, tmp_path, monkeypa
     
     # Check that hypotheses tables were populated
     conn = duckdb.connect(temp_db)
-    hyp_count = conn.execute("SELECT COUNT(*) FROM hypotheses").fetchone()[0]
-    ev_count = conn.execute("SELECT COUNT(*) FROM hypothesis_evidence").fetchone()[0]
+    hyp_row = conn.execute("SELECT COUNT(*) FROM hypotheses").fetchone()
+    assert hyp_row is not None
+    hyp_count = hyp_row[0]
+    ev_row = conn.execute("SELECT COUNT(*) FROM hypothesis_evidence").fetchone()
+    assert ev_row is not None
+    ev_count = ev_row[0]
     assert hyp_count >= 3  # Generates at least 3 hypotheses
     assert ev_count >= 3
     conn.close()
@@ -520,7 +525,7 @@ def test_combination_graph_export_and_scoring_centrality(temp_db):
     G = build_graph(temp_db)
     
     # Compute NetworkX centrality directly
-    deg_centrality = nx.degree_centrality(G)
+    deg_centrality = cast(dict[str, float], nx.degree_centrality(G))
     assert deg_centrality["CCS"] > deg_centrality["SOD1"]
     assert deg_centrality["CCS"] > deg_centrality["FUS"]
     

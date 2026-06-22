@@ -12,7 +12,9 @@ for t in tables:
 
 print("\n--- TABLE ROW COUNTS ---")
 for t in tables:
-    count = conn.execute(f"SELECT COUNT(*) FROM {t[0]}").fetchone()[0]
+    row = conn.execute(f"SELECT COUNT(*) FROM {t[0]}").fetchone()
+    assert row is not None
+    count = row[0]
     print(f"  - {t[0]}: {count}")
 
 print("\n--- SAMPLE INGESTION LOG ---")

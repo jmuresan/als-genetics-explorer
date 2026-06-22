@@ -2,6 +2,7 @@ import networkx as nx
 import duckdb
 import os
 import math
+from typing import Any
 
 def build_graph(db_path: str) -> nx.MultiDiGraph:
     try:
@@ -128,7 +129,7 @@ def build_graph(db_path: str) -> nx.MultiDiGraph:
 
         # Sanitizer function for node/edge attributes
         def sanitize_attributes(attrs):
-            clean = {}
+            clean: dict[str, Any] = {}
             for k, v in attrs.items():
                 if v is None:
                     continue

@@ -59,9 +59,17 @@ def test_programmatic_and_cli_pipeline_workflow(tmp_path):
         assert t in tables
         
     # Check that data is inserted
-    assert conn.execute("SELECT COUNT(*) FROM genes").fetchone()[0] > 0
-    assert conn.execute("SELECT COUNT(*) FROM papers").fetchone()[0] > 0
-    assert conn.execute("SELECT COUNT(*) FROM hypotheses").fetchone()[0] >= 3
+    genes_row = conn.execute("SELECT COUNT(*) FROM genes").fetchone()
+    assert genes_row is not None
+    assert genes_row[0] > 0
+    
+    papers_row = conn.execute("SELECT COUNT(*) FROM papers").fetchone()
+    assert papers_row is not None
+    assert papers_row[0] > 0
+    
+    hypotheses_row = conn.execute("SELECT COUNT(*) FROM hypotheses").fetchone()
+    assert hypotheses_row is not None
+    assert hypotheses_row[0] >= 3
     conn.close()
     
     # Verify GraphML XML structure

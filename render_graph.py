@@ -24,7 +24,8 @@ panel_nodes = [n for n in G.nodes if n in panel]
 partner_nodes = [n for n in G.nodes if n not in panel]
 
 # Node importance = betweenness centrality (a node's role as a bridge in the network).
-bc = nx.betweenness_centrality(G)
+from typing import Any, cast
+bc = cast(dict[Any, float], nx.betweenness_centrality(G))
 maxbc = max(bc.values()) or 1.0
 # ForceAtlas2 layout (the Gephi force model): hubs spread out, clusters separate.
 # node_size feeds anti-overlap, scaled by betweenness so the big bridges get room.

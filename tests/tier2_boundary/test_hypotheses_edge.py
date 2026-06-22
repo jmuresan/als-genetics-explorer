@@ -54,13 +54,13 @@ def test_hypotheses_refuse_missing_citation(base_db, tmp_path):
             return proxy_conn
         return orig_connect(path, *args, **kwargs)
         
-    generator_mod.duckdb.connect = mock_connect
+    setattr(generator_mod.duckdb, "connect", mock_connect)
     
     try:
         with pytest.raises(ValueError, match="Hypothesis claim lacks a corresponding citation row"):
             generate_hypotheses(base_db, output_file)
     finally:
-        generator_mod.duckdb.connect = orig_connect
+        setattr(generator_mod.duckdb, "connect", orig_connect)
         real_conn.close()
 
 def test_hypotheses_reject_protective_label(base_db, tmp_path):
@@ -106,7 +106,9 @@ def test_hypotheses_zero_hypotheses_explanation(base_db, tmp_path):
     generate_hypotheses(base_db, output_file)
     
     conn = duckdb.connect(base_db)
-    res = conn.execute("SELECT COUNT(*) FROM hypotheses").fetchone()[0]
+    res_row = conn.execute("SELECT COUNT(*) FROM hypotheses").fetchone()
+    assert res_row is not None
+    res = res_row[0]
     assert res == 0
     conn.close()
     

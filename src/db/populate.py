@@ -20,7 +20,7 @@ def stage_to_phase(stage: Optional[str]) -> Optional[float]:
         return None
     return STAGE_TO_PHASE.get(str(stage).strip().upper())
 
-def log_ingestion(conn: duckdb.DuckDBPyConnection, source_name: str, query_params: Optional[Dict[str, Any]], status: str, record_count: int, cache_path: Optional[str], error_message: Optional[str]):
+def log_ingestion(conn: Any, source_name: str, query_params: Optional[Dict[str, Any]], status: str, record_count: int, cache_path: Optional[str], error_message: Optional[str]):
     serialized_params = json.dumps(query_params) if query_params else "{}"
     
     # Truncate error message if it's too long

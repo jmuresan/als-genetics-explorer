@@ -171,6 +171,7 @@ def test_adversarial_protective_keyword_mismatch_crash(clean_db, tmp_path):
     conn = duckdb.connect(clean_db)
     hyp = conn.execute("SELECT hypothesis_type, confidence FROM hypotheses WHERE hypothesis_id = 'HYP-001'").fetchone()
     conn.close()
+    assert hyp is not None
     assert hyp[0] == "candidate mechanism"
     assert hyp[1] == "Low"
 
@@ -185,7 +186,9 @@ def test_adversarial_empty_papers_generator_delete(clean_db, tmp_path):
     # Insert a hypothesis manually
     conn.execute("INSERT INTO hypotheses (hypothesis_id, title, description, confidence, hypothesis_type) VALUES ('HYP-001', 'Pre-existing', 'Desc', 'Low', 'candidate mechanism')")
     # Verify it exists
-    assert conn.execute("SELECT COUNT(*) FROM hypotheses").fetchone()[0] == 1
+    row = conn.execute("SELECT COUNT(*) FROM hypotheses").fetchone()
+    assert row is not None
+    assert row[0] == 1
     conn.close()
     
     output_md = os.path.join(str(tmp_path), "hypotheses.md")
@@ -195,5 +198,7 @@ def test_adversarial_empty_papers_generator_delete(clean_db, tmp_path):
     
     conn = duckdb.connect(clean_db)
     # The pre-existing hypothesis should not be deleted (generator returns early before deleting tables)
-    assert conn.execute("SELECT COUNT(*) FROM hypotheses").fetchone()[0] == 1
+    row = conn.execute("SELECT COUNT(*) FROM hypotheses").fetchone()
+    assert row is not None
+    assert row[0] == 1
     conn.close()

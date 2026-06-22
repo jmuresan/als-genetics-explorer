@@ -115,6 +115,7 @@ def test_normalize_uniprot_and_reactome():
     populate_reactome(conn, "SOD1", reactome_data)
     
     gene = conn.execute("SELECT protein_description FROM genes WHERE gene_symbol = 'SOD1'").fetchone()
+    assert gene is not None
     assert gene[0] == "Superoxide dismutase [Cu-Zn]"
     
     pathway = conn.execute("""
@@ -123,6 +124,7 @@ def test_normalize_uniprot_and_reactome():
         JOIN gene_pathways gp ON p.pathway_id = gp.pathway_id 
         WHERE gp.gene_symbol = 'SOD1'
     """).fetchone()
+    assert pathway is not None
     assert pathway[0] == "Amyotrophic lateral sclerosis (ALS)"
     conn.close()
 

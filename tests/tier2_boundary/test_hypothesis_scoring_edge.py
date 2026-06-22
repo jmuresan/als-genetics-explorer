@@ -48,6 +48,7 @@ def test_scoring_reject_protective_label(base_db, tmp_path):
     conn = duckdb.connect(base_db)
     hyp = conn.execute("SELECT hypothesis_type, confidence FROM hypotheses WHERE hypothesis_id = 'HYP-001'").fetchone()
     conn.close()
+    assert hyp is not None
     assert hyp[0] == "candidate mechanism"
     assert hyp[1] == "Low"
 
@@ -64,6 +65,8 @@ def test_scoring_low_confidence_conditions(base_db, tmp_path):
     score_hypotheses(base_db, output_md=output_md)
     
     conn = duckdb.connect(base_db)
-    conf = conn.execute("SELECT confidence FROM hypotheses WHERE hypothesis_id = 'HYP-001'").fetchone()[0]
+    conf_row = conn.execute("SELECT confidence FROM hypotheses WHERE hypothesis_id = 'HYP-001'").fetchone()
+    assert conf_row is not None
+    conf = conf_row[0]
     assert conf == "Low"
     conn.close()

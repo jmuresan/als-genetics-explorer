@@ -22,6 +22,7 @@ acc = u.get("primaryAccession")
 print("UniProt acc:", acc, "| gene:", (u.get("genes") or [{}])[0].get("geneName", {}).get("value"))
 P.populate_uniprot(conn, {"results": [u]})
 
+assert isinstance(acc, str)
 rxd = rx.get_pathways_for_uniprot(acc)
 print("Reactome pathways:", len(rxd), "| sample:", [(p.get("stId"), p.get("displayName")) for p in rxd[:2]])
 P.populate_reactome(conn, GENE, rxd)
@@ -48,7 +49,9 @@ print("PubMed ids:", len(pmids), pmids[:5])
 
 print("--- in-memory DB counts ---")
 for t in ["genes", "pathways", "gene_pathways", "disease_associations", "drugs", "gene_drugs", "variants", "interactions"]:
-    print(f"  {t}:", conn.execute(f"select count(*) from {t}").fetchone()[0])
+    row = conn.execute(f"select count(*) from {t}").fetchone()
+    assert row is not None
+    print(f"  {t}:", row[0])
 print("  drugs sample:", conn.execute("select drug_id,name,max_clinical_phase from drugs limit 5").fetchall())
 print("  variant sample:", conn.execute("select variant_id,clinical_significance from variants limit 3").fetchall())
 print("  disease_assoc:", conn.execute("select gene_symbol,disease_id,round(score,3) from disease_associations").fetchall())
