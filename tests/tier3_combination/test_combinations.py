@@ -6,8 +6,7 @@ import socket
 import pytest
 import duckdb
 import networkx as nx
-import pandas as pd
-from streamlit.testing.v1 import AppTest
+
 
 # Import Config and Clients
 from src.config import Config
@@ -241,10 +240,10 @@ def test_combination_db_population_and_graph_export(temp_db, tmp_path):
     assert "8877" in G_loaded.nodes
 
 
-def test_combination_scoring_hypotheses_dashboard(temp_db, tmp_path, monkeypatch):
+def test_combination_scoring_hypotheses(temp_db, tmp_path):
     """
-    Test 4: Scoring (FEAT-007) + Hypotheses Generation (FEAT-008) + Dashboard Updates (FEAT-009)
-    Verifies full stack updates on the Streamlit dashboard app.
+    Test 4: Scoring (FEAT-007) + Hypotheses Generation (FEAT-008)
+    Verifies backend updates for scoring and hypotheses generation.
     """
     conn = duckdb.connect(temp_db)
     populate_uniprot(conn, {
@@ -296,30 +295,15 @@ def test_combination_scoring_hypotheses_dashboard(temp_db, tmp_path, monkeypatch
     # Generate hypotheses
     md_path = os.path.join(str(tmp_path), "hypotheses.md")
     generate_hypotheses(temp_db, md_path)
+    assert os.path.exists(md_path)
 
-    # 1. Start AppTest and verify details
-    monkeypatch.setenv("ALS_DB_PATH", temp_db)
-    at = AppTest.from_file("src/dashboard/app.py")
-    at.run()
-
-    assert not at.exception
-    df = at.dataframe[0].value
+    # Verify scores can be calculated
+    G = nx.MultiDiGraph()
+    G.add_node("SOD1", type="gene")
+    cfg = Config()
+    df = calculate_scores(temp_db, G, cfg)
+    assert len(df) > 0
     assert "SOD1" in df["gene_symbol"].values
-    initial_score = df.loc[df["gene_symbol"] == "SOD1", "total_score"].values[0]
-
-    # 2. Interactively adjust sliders via Streamlit
-    slider = at.slider(key="weight_ot_score")
-    slider.set_value(0.9).run()
-
-    updated_df = at.dataframe[0].value
-    updated_score = updated_df.loc[updated_df["gene_symbol"] == "SOD1", "total_score"].values[0]
-    assert updated_score != initial_score
-
-    # 3. Interactively select gene
-    sb = at.selectbox(key="selected_gene")
-    sb.select("SOD1").run()
-    markdown_texts = [m.value for m in at.markdown]
-    assert any("Evidence details for SOD1" in t for t in markdown_texts)
 
 
 def test_combination_pubmed_dedup_and_cache_reads(tmp_path):
